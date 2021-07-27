@@ -1,0 +1,482 @@
+We wish to caution the reader that the following important risk factors, and those risk factors described
+elsewhere in this report or in our other filings with the Securities and Exchange Commission, could cause our actual results to differ materially from those stated in forward-looking statements
+contained in this document and elsewhere. These risks are not presented in order of importance or probability of occurrence. Further, the risks described below are not the only risks that we face.
+Additional risks and uncertainties not currently known to us or that we currently deem immaterial may also impair our business operations. Any of these risks may have a material adverse effect on our
+business, reputation, financial condition, results of operations, profitability, cash flows or liquidity. Risks related to our business We depend on a relatively small number of franchises for a significant portion of our revenues and profits. A significant portion of our revenues has historically been derived from products based on a relatively small number of popular
+franchises and these products are responsible for a disproportionately high percentage of our profits. For example, our three largest franchises in
+2013Call of Duty, Skylanders and World of Warcraftaccounted for approximately 80% of our net revenues, and a significantly higher percentage of our operating income, for the
+year. We expect that a limited number of popular franchises will continue to produce a disproportionately high percentage of our revenues and profits. Due to this dependence on a limited number of
+franchises, the failure to achieve anticipated results by one or more products based on these franchises could have a material adverse effect on our business, financial condition, results of
+operations, profitability, cash flows or liquidity. Transitions in console platforms could adversely affect the market for interactive entertainment software. Nintendo introduced its next-generation console, the Wii U, in 2012, and Sony and Microsoft each launched its next-generation
+consolethe PS4 and Xbox One, respectivelyin November 2013. We are developing and publishing games for these next-generation console systems. When new console platforms are
+announced or introduced into the market, consumers typically reduce their purchases of game console entertainment software products for current console platforms in anticipation of new platforms
+becoming available. During these periods, sales of the game console entertainment software products we publish may slow or even decline until new platforms are introduced and achieve wide consumer
+acceptance. Platform transitions may have a comparable impact on sales of downloadable content, amplifying the impact on our revenues. This decline may not be offset by increased sales of products for
+the new console platforms. Conversely, actions we take to curtail the reduction of purchases of products for current console platforms during the transition may harm sales of products we publish for
+next-generation platforms. In addition, as console hardware moves through its life cycle, hardware manufacturers typically enact price reductions and decreasing prices may put downward pressure on
+software prices. During platform transitions, we may simultaneously incur costs both in continuing to develop and market new titles for current-generation video game platforms, which may not sell at
+premium prices, and also in developing products for next-generation platforms, which may not generate immediate or near-term revenue. As a result, our business and operating results may be more
+volatile and difficult to predict during platform transitions than during other times, and such volatility may have a material adverse effect on our business, financial condition, results of
+operations, profitability, cash flows or liquidity. If we do not consistently deliver high-quality titles, or if consumers prefer competing products, our sales could suffer. While many new products are regularly introduced in our industry, increasingly only a relatively small number of titles account for a
+significant portion of net revenue, and
+an even greater portion of net profit. It is difficult to produce high-quality products and to predict, prior to production and distribution, what products will be well-received, even if they are
+well-reviewed, high-quality titles. Competitors often develop titles that imitate or compete with our best-selling titles, and take sales away from them or reduce our ability to charge the same prices
+we have historically charged for those titles. Products published by our competitors may take a larger share of consumer spending than anticipated, which could cause our product sales to fall below
+expectations. Consumers may lose interest in a genre of games we produce. If we do not continue to develop consistently high-quality and well-received products, or if our competitors develop more
+successful products or offer competitive products at lower prices, our revenues, margins and profitability could decline. The increased importance of downloadable content to our business amplifies
+these risks, as downloadable content for poorly-received titles typically generates lower-than-expected sales. In addition, our own best-selling products could compete with our other titles, reducing
+sales for those other titles. Further, a failure by us to develop a high-quality product, or our development of a product that is otherwise not well-received, could harm our reputation and increase
+the likelihood that our future products will not be well-received. If general economic conditions decline, demand for our products could decline. Our products involve discretionary spending on the part of consumers. Consumers are generally more willing to make discretionary
+purchases, including purchases of products like ours, during periods in which favorable economic conditions prevail. As a result, our products are sensitive to general economic conditions and economic
+cycles. A reduction or shift in domestic or international consumer spending could result in an increase in our selling and promotional expenses, in an effort to offset that reduction, and could have a
+material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. The uncertainty of worldwide economic conditions makes budgeting and forecasting very difficult. We are unable to predict worldwide economic conditions, and all of the effects those conditions may have on our business. In
+particular, the uncertainty of future worldwide economic conditions subjects our forecasts to heightened risks and uncertainties. We have taken on significant debt, which could adversely affect our business, cash flows, financial condition or results of operations. In connection with the Purchase Transaction, we entered into a credit agreement (the "Credit Agreement") for a $2.5 billion
+secured term loan facility (the "Term Loan") and a $250 million secured revolving credit facility (the "Revolver" and, together with the Term Loan, the
+"Credit Facilities," as described in further detail under "Management's Discussion and Analysis of Financial Condition and Results of OperationsLiquidity and Capital
+Resources") and issued, at par, $1.5 billion of 5.625% unsecured senior notes due September 2021 (the "2021 Notes") and $750 million of 6.125% unsecured senior notes due September 2023
+(the "2023 Notes" and, together with the 2021 Notes, the "Notes" as described in further detail under "Management's Discussion and Analysis of Financial Condition and Results of
+OperationsLiquidity and Capital Resources"). Historically, the Company has maintained extremely low levels of debt. The increased debt burden could have important consequences, including:
+increasing our vulnerability to general adverse economic and industry conditions; limiting our flexibility in planning for, or reacting to, changes in our business and our industry; requiring the
+dedication of a substantial portion of any cash flow from operations to the payment of principal of, and interest on, our indebtedness, thereby reducing the availability of such cash flow to fund our
+operations, growth strategy,
+working capital, capital expenditures, future business opportunities and other general corporate purposes; exposing us to the risk of increased interest rates with respect to any borrowings
+that are at variable rates of interest; restricting us from making strategic acquisitions or causing us to make non-strategic divestitures; limiting our ability to obtain additional financing for
+working capital, capital expenditures, research and development, debt service requirements, acquisitions and general corporate or other purposes; limiting our ability to adjust to changing market
+conditions; and placing us at a competitive disadvantage relative to our competitors who are less highly leveraged. The realization of any of the foregoing risks may materially adversely affect our
+business, cash flows, financial condition or results of operations. The agreements governing our debt contain various covenants that impose restrictions on us that may affect our ability to operate our business. Agreements governing our indebtedness, including the indenture governing the Notes and the Credit Agreement, impose operating and
+financial restrictions on our activities. These restrictions require us to comply with or maintain certain financial tests and ratios. In addition, the indenture and credit agreement limit or prohibit
+our ability to, among other things: In
+addition, if, in the future, we borrow under the Revolver, we may be required, during certain periods where outstanding revolving loans exceed a certain threshold, to maintain a
+maximum senior secured net leverage ratio calculated pursuant to a financial maintenance covenant under the Credit Agreement. These
+restrictions on our ability to operate our business could seriously harm our business by, among other things, limiting our ability to take advantage of financing, merger and
+acquisition and other corporate opportunities. Further,
+various risks, uncertainties and events beyond our control could affect our ability to comply with these covenants. Failure to comply with any of the covenants in our financing
+agreements could result in a default under those agreements and under other agreements containing cross-default provisions. Such a default would permit lenders to accelerate the maturity of the debt
+under these agreements and to foreclose upon any collateral securing the debt. Under these circumstances, we might not have sufficient funds or other resources to satisfy all of our obligations,
+including our
+obligations under the indenture governing the Notes or the Credit Agreement. In addition, the limitations imposed by financing agreements on our ability to incur additional debt and to take other
+actions might significantly impair our ability to obtain other financing. We cannot assure you that we will be granted waivers or amendments to these agreements if for any reason we are unable to
+comply with these agreements or that we will be able to refinance our debt on terms acceptable to us, or at all. We may not be able to borrow funds under our five-year revolving credit facility if we are not able to meet the conditions to borrowing under that facility. We view our Revolver as a source of available liquidity. This facility contains various conditions, covenants and representations with
+which we must be in compliance in order to borrow funds. We have not borrowed under the Revolver to date, but if we wish to do so, there can be no assurance that we will be in compliance with these
+conditions, covenants and representations at such time. A substantial portion of our revenues and profitability depends on the success of our Call of Duty franchise in the first-person action game category. Activision Blizzard is a leading global developer, publisher and distributor in terms of revenues in the first-person action game
+category, primarily due to the popularity of Activision's Call of Duty franchise. Revenues from the Call of Duty franchise comprise a significant portion of our consolidated revenues. To remain a
+leader in the first-person action game category, it is important that we continue to develop new games in the Call of Duty franchise that are favorably received by both our existing consumer base and
+new consumers. A number of software publishers have developed and commercialized, or are currently developing, first-person action games which pose a threat to the popularity of Call of Duty, and we
+expect new competitors to continue to emerge in the first-person action category. If consumer demand for Call of Duty games declines and we have not introduced new first-person action games or added
+other sources of revenue, or if consumer preferences trend away from first-person action games, our business, financial condition, results of operations, profitability, cash flows or liquidity could
+be materially adversely effected. A substantial portion of our revenues and profitability depends on the success of our Skylanders franchise in the "toys to life" game category. Activision Blizzard is the leading global developer, publisher and distributor in terms of revenues in the "toys to life" game
+category, due to the popularity of Activision's Skylanders franchise. To remain a leader in the "toys to life" game category, it is important that we continue to develop new games in the Skylanders
+franchise that are favorably received by both our existing consumer base and new consumers. Other software publishers have developed, or are currently developing, "toys to life" games which pose a
+threat to the popularity of the franchise, and we expect new competitors to continue to emerge in the "toys to life" category. If consumer demand for Skylanders games declines and we have not
+introduced new "toys to life" games or added other sources of revenue, or if consumer preferences trend away from "toys to life" games, our business, financial condition, results of operations,
+profitability, cash flows or liquidity could be materially adversely effected. Sales of titles in our Skylanders franchise may be affected by the availability of toys, increasing our exposure to imbalances between projected and actual demand. Titles in our Skylanders franchise involve "smart toys," consisting of action figures and an electronic "portal," which, when used
+together, allow a player to store and access information about his or her toy character's performance in the game. We sell the toys both bundled with the software for the title and on a stand-alone
+basis. Consumers may not want to buy the related software if they cannot also buy the "smart toys." If we underestimate demand or otherwise are unable to produce sufficient quantities of toys of an
+acceptable quality or allocate too few toys to geographic markets where demand exceeds supply, we will forego revenue. This may also create greater opportunities for competitors to develop competitive
+product offerings. In addition, if we overestimate demand and make too many toys, or allocate too many toys to geographic markets where there is insufficient demand, we may incur unrecoverable
+manufacturing costs for unsold units as well as for unsold game software. In either case, unsound toy manufacturing or allocation decisions may have a material adverse effect on our business,
+financial condition, results of operations, profitability, cash flows or liquidity. The importance to our business of the "smart toys" related to titles in our Skylanders franchise exposes us to hardware manufacturing and shipping risks, including
+availability of sufficient third-party manufacturing capacity and increases in manufacturing and shipping costs. The manufacturers of "smart toys" involved in our Skylanders franchise are located in China. Anything that impacts our ability to
+import these products or the ability of those manufacturers to produce or otherwise supply us with toys meeting our quality and safety standards or increases the manufacturers' costs of production,
+including the utilization of any such manufacturer's capacity by another company, changes in safety, environmental or other regulations applicable to the toys and the manufacturing thereof, natural or
+manmade disasters that disrupt manufacturing, transportation or communications, labor shortages, civil unrest or issues generally negatively impacting international companies operating in China,
+increases in the price of petroleum or other raw materials, increases in fuel prices and other shipping costs, and increases in local labor costs in China, may adversely impact our ability to supply
+those toys to the market and the prices we must pay for those toys, and therefore our business, financial condition, results of operations, profitability, cash flows or liquidity. Moreover, the
+failure of those manufacturers to consistently deliver action figures and portals meeting the quality and safety standards we require could have a material adverse effect on our business, financial
+condition, results of operations, profitability, cash flows or liquidity. A substantial portion of our revenues and profitability depends on the subscription-based massively multiplayer online role-playing game category. If we do not maintain our
+leadership position in this category, our business, financial condition, results of operations, profitability, cash flows or liquidity could be materially adversely affected. Blizzard is the leading global developer, publisher and distributor in terms of subscriber base and revenues in the subscription-based
+MMORPG category, due to the popularity of Blizzard's World of Warcraft franchise. To remain the leader in the subscription-based MMORPG category, it is important that Blizzard continues to refresh World of
+Warcraft or develops new MMORPG products that are favorably received by both our existing consumer base and new consumers. A number of software
+publishers have developed and commercialized, or are currently developing, online games for use by consumers over the Internet which pose a threat to the popularity of World of
+Warcraft , and we expect new competitors to continue to emerge in the MMORPG and other similar competing categories. A
+substantial portion of our revenues is generated by subscription fees paid by consumers who play World of Warcraft . Typically, World of Warcraft subscribers purchase one to six month memberships that are cancelable, without penalty, at the end of the membership period. Recently,
+we have seen a decline in World of Warcraft subscribership; at December 31, 2013, the number of worldwide subscribers for World of Warcraft was
+7.8 million, compared to 9.6 million at December 31, 2012. A further decrease in the number of overall
+subscribers for World of Warcraft could substantially harm our operating results. If consumer demand for World of Warcraft games continues to decline
+and we do not introduce new MMORPG products or add other sources of revenue, or if new technologies, play patterns or genres are developed that replace MMORPGs, consumer preferences trend away from
+MMORPGs or new business models emerge that offer MMORPG gameplay for free or at a substantial discount to current
+MMORPG subscription fees, our business, financial condition, results of operations, profitability, cash flows or liquidity could be materially adversely effected. Additionally, if general economic
+conditions decline, consumers may decrease their discretionary spending on entertainment items such as MMORPGs and users may choose not to renew their World of
+Warcraft subscriptions. Our business is highly dependent on the success, timely release and availability of new video game platforms and on the continued availability of, and support for, existing
+video game platforms, as well as our ability to develop commercially successful products for these platforms. We derive a substantial portion of our revenues from the sale of products for play on video game platforms manufactured by third
+parties, such as Microsoft's Xbox One and Xbox 360, Nintendo's Wii U and Wii, and Sony's PS4 and PS3. For example, sales of products for consoles accounted for 52% of our consolidated net
+revenues in 2013. The success of our business is driven in large part by our ability to accurately predict which platforms will be successful in the marketplace, our ability to develop commercially
+successful products for these platforms, the availability of an adequate supply of these video game platforms and the continued support for these platforms by their manufacturers. We must make product
+development decisions and commit significant resources well in advance of the anticipated introduction of a new platform. A new platform for which we are developing products may be delayed, may not
+have functionality upgrades that are sufficient to be well-received by consumers, may not be well-received by retailers, may not be adequately supported by its manufacturer or otherwise not succeed or
+may have a shorter life cycle than anticipated. Alternatively, a platform for which we have not devoted significant resources could be more successful than initially anticipated, causing us to miss a
+meaningful revenue opportunity. Additionally, if the platforms for which we are developing products are not released when anticipated, do not attain wide acceptance, are not available in adequate
+quantities to meet consumer demand, do not function as anticipated or are not adequately supported by their manufacturers, we may be unable to fully recover our investment in developing those
+products, and our business, financial condition, results of operations, profitability, cash flows or liquidity could be materially adversely effected. We must make significant expenditures to develop products for new platforms that may not be successful. We must make substantial product development and other investments in a particular platform well in advance of introduction of the
+platform and may be required to realign our product portfolio and development efforts in response to market changes. Furthermore, development costs for new console platforms are greater than those
+costs for current console platforms. If increased costs are not offset by higher revenues and other cost efficiencies, our business, financial
+condition, results of operations, profitability, cash flows or liquidity could be materially affected. If the platforms for which we develop new software products or modify existing products do not
+attain significant market penetration, we may not be able to recover our development costs, which could be significant, and our business, financial condition, results of operations, profitability,
+cash flows or liquidity could be materially adversely effected. Platform licensors are our competitors and frequently control the manufacturing of, and have broad approval rights over, our console and handheld interactive entertainment
+products. Generally, when we develop interactive entertainment software products for hardware platforms offered by Microsoft, Nintendo, or Sony,
+the products are manufactured exclusively by that hardware manufacturer or their approved replicator. The
+agreements with these manufacturers include certain provisions, such as approval rights over all software products and related promotional materials and the ability to change the fee
+they charge for the manufacturing of products, which allow them substantial influence over the cost and the release schedule of such interactive entertainment software products. In addition, because
+each of the manufacturers is also a publisher of games for its own hardware platforms and manufactures products for all of its other licensees, a manufacturer may give priority to its own products or
+those of our competitors in the event of insufficient manufacturing capacity. Accordingly, Microsoft, Nintendo or Sony could cause unanticipated delays in the release of our products as well as
+increases to projected development, manufacturing, marketing or distribution costs, any of which could have a material adverse
+effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. In
+addition, platform licensors control our ability to provide online game capabilities for console platform products and, in large part, establish the financial terms and/or pricing on
+which these products and services are offered to consumers. Currently, Microsoft provides online capabilities for the Xbox One and Xbox 360, Nintendo provides online capabilities for the Wii U
+and Wii, and Sony provides online capabilities for the PS4 and PS3. In each case, compatibility code and/or the consent of the licensor are required for us to include online capabilities in its
+console products. The failure or refusal of licensors to approve our products could have a material adverse effect on our business, financial condition, results of operations, profitability, cash
+flows or liquidity. Our platform licensors set the royalty rates and other fees that must be paid to publish games for their platforms or distribute games on their networks, and therefore have
+significant influence on our costs. We pay a licensing fee to the hardware manufacturer for each copy of a product manufactured for that manufacturer's game platform. In
+order to publish products for new hardware platforms, we must take a license from the platform licensor which gives the platform licensor the opportunity to set the fee and/or price that we must pay
+in order to publish games for that platform. Similarly, the platform licensors control the pricing for games and additional content purchased over their networks. The control that platform licensors
+have over the fee structures and/or pricing for their platforms and online networks makes it difficult for us to predict our costs and profitability in the medium-to-long term. It is also possible
+that platform licensors will not renew our existing licenses. Any increase in fee structures and/or pricing, or nonrenewal of licenses, could have a material adverse effect on our business, financial
+condition, results of operations, profitability, cash flows or liquidity, particularly for Activision, as the publishing of products for console systems is the largest portion of Activision's
+business. If we do not continue to attract and retain skilled personnel, we will be unable to effectively conduct our business. Our success depends to a significant extent on our ability to identify, hire, retain and utilize the abilities of qualified personnel,
+particularly personnel with the specialized skills needed to create the high-quality, well-received titles upon which our business is substantially dependent. The software industry is characterized by
+a high level of employee mobility and aggressive recruiting among competitors for employees with technical, marketing, sales, engineering, product development, creative and/or management skills. We
+may have difficulties in attracting and retaining skilled personnel or may incur significant costs in order to do so. If we are unable to attract additional qualified employees or retain and utilize
+the services of key personnel, it could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. If our games and services do not function as consumers expect, it may have a material adverse effect on our business, reputation, financial condition, results of operations,
+profitability, cash flows or liquidity. If our games and services do not function as consumers expect, whether because they fail to work as advertised or otherwise, our sales
+may suffer. The risk that this may occur is particularly pronounced with respect to our games with online features, like World of Warcraft and Call of Duty ,
+ because they involve ongoing consumer expectations, which we may not be able to successfully satisfy. If our games and services do not
+function as consumers expect, it may have a
+material adverse effect on our business, reputation, financial condition, results of operations, profitability, cash flows or liquidity. The future success of our business depends on our ability to release popular products in a timely manner. The life of any given console or handheld game product is relatively short and generally involves a relatively high level of sales
+during the first few months after the product's introduction, followed by a rapid decline in sales. Because revenues associated with an initial product launch generally constitute a high percentage of
+the total revenues associated with the life of a product, delays in product releases or disruptions following the commercial release of one or more new products could have a material adverse effect on
+our revenues and reputation and could cause our results of operations to be materially different from expectations. It is therefore important for us to continue to develop many high-quality new
+products that are popularly received and to release those products in a timely manner. If we are unable to continue to do so, it may have a material adverse effect on our business, reputation,
+financial condition, results of operations, profitability, cash flows or liquidity. If we are unable to sustain premium pricing on current-generation or next-generation titles, our business, financial condition, results of operations, profitability, cash
+flows or liquidity could suffer materially. If we are unable to continue to charge the same prices we have historically charged for current-generation titles for Microsoft's
+Xbox 360, Nintendo's Wii, and Sony's PS3, as well as for next-generation titles for Microsoft's Xbox One, Nintendo's Wii U, and Sony's PS4, whether due to competitive pressure, because
+retailers elect to price these products at a lower price or otherwise, it could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or
+liquidity. Further, we make provisions for price migration and channel protection based upon certain assumed lowest prices and if competitive pressures force us to lower our prices below those levels,
+it could similarly have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. If we fail to successfully manage our new product development, or if we fail to anticipate the issues associated with that development, it may have a material adverse effect
+on our business, financial condition, results of operations, profitability, cash flows or liquidity. Our business model is evolving and we believe that our growth will depend upon our ability to successfully develop and sell new types
+of products, including free-to-play games which are monetized through in-game microtransactions rather than an up-front fee, and to otherwise expand the methods by which we reach our consumers,
+including via digital distribution. Developing new products and distribution channels requires substantial up-front expenditures. If such products or distribution channels do not achieve expected
+acceptance or generate sufficient revenues upon introduction, whether because of competition or otherwise, we may not be able to recover the substantial development and marketing costs associated with
+those products and distribution channels. In addition, expanding our business model will add complexity to our business and require us to effectively adapt our business and management processes to
+address the unique challenges and different requirements of any new areas in which we operate, which we may not be able to do, for lack of institutional expertise or otherwise. If any of these occur,
+it may have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. Our industry is subject to rapid technological change, and if we do not adapt to, and appropriately allocate our new resources among, emerging technologies, our business,
+financial condition, results of operations, profitability, cash flows or liquidity could be materially affected. Technology changes rapidly in the interactive entertainment industry. We must continually anticipate and adapt our products to emerging
+technologies in order to keep those products competitive. When we choose to incorporate a new technology into a product or to develop a product for a new platform, operating system or media format, we
+often are required to make a
+substantial investment prior to the introduction of the product. If we invest in the development of interactive entertainment
+products incorporating a new technology or for a new platform that does not achieve significant commercial success, our revenues from those products likely will be lower than we
+anticipated and may not cover our development costs. Further, our competitors may adapt to an emerging technology more quickly or effectively than we do, creating products that are technologically
+superior to ours, more appealing to consumers, or both. If, on the other hand, we elect not to pursue the development of products incorporating a new technology or for new platforms that achieve
+significant commercial success, it may have adverse consequences. It may take significant time and resources to shift product development resources to that technology or platform and may be more
+difficult to compete against existing products incorporating that technology or for that platform. For example, digital content delivery is increasingly important in our industry, requiring us to
+develop or acquire the expertise in such delivery method needed to remain competitive. Any failure to successfully adapt to, and appropriately allocate resources among, emerging technologies could
+have a material adverse effect on our business, results of operations, profitability, cash flows or liquidity. The increasing importance of digital sales to our business exposes us to the risks of that business model, including greater competition. The proportion of our revenues derived from digital content delivery, as compared to traditional retail sales, continues to increase.
+The increased importance of digital content delivery in our industry increases our potential competition, as the minimum capital needed to produce and publish a digitally delivered game may be
+significantly less than that needed to produce and publish one that is purchased through retail distribution and is played on a game console. This will also require us to dedicate capital to
+developing and implementing alternative marketing strategies, which we may not do successfully. It may also reduce overall demand for our distribution services. If either occurs, it could have a
+material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. In addition, a continuing shift to digital delivery could result in a
+deprioritization of our products by traditional retailers, giving rise to the same material adverse effects. If we are unable to successfully develop or market owned intellectual property, we may publish fewer successful titles and our revenues may decline. Some of our products are based on intellectual property that we have developed internally or acquired from third parties. Consumers
+have historically preferred titles which are part of established franchises to titles based on new intellectual property, and if new intellectual property does not gain consumer acceptance, whether
+because we are unable to successfully create consumer appeal and brand recognition or otherwise, our business, financial condition, results of operations, profitability, cash flows or liquidity could
+be materially adversely affected. Further, if the popularity of our owned intellectual property declines, we may have to write off the unrecovered portion of the underlying intellectual property
+assets and revenues and operating income from these intellectual properties may decline quickly, either of which could have a material adverse effect on our business, financial condition, results of
+operations, profitability, cash flows or liquidity. Competition within, and to, the interactive entertainment industry is intense, and competitors may succeed in reducing our sales. We compete with other publishers of PC and video game console interactive entertainment software. Those competitors vary in size from
+small companies with limited resources to very large corporations with significantly greater financial, marketing and product development resources than we have. Those competitors are located both
+within the United States and, increasingly, in international jurisdictions. For example, integrated video game console hardware and software companies such as Microsoft, Nintendo, and Sony, compete
+directly with us in the development of software titles for their respective platforms. Our competitors may spend more money and time on developing and testing products,
+undertake more extensive marketing campaigns, adopt more aggressive pricing policies, pay higher fees to licensors for motion picture, television, sports, music and character properties, pay
+more to software developers, or develop more commercially successful products for the PC or video game platforms than we do. In addition, competitors with large product lines and popular titles
+typically have greater leverage with retailers, distributors and other customers, who may be willing to promote titles with less consumer appeal in return for access to those competitors' more popular
+titles. We
+also compete with other forms of interactive entertainment, such as games developed for use by consumers on handheld and mobile devices or social networking sites, most of which are
+currently free to play. Increased consumer acceptance and availability of such games or other online games, consumer
+acceptance and availability of technology which allows users to play games on televisions without consoles, or technological advances in online game software or the Internet could result in a decline
+in sales of our platform-based software. Additionally,
+we compete with other forms of entertainment and leisure activities. For example, the overall growth in the use of the Internet and online services such as social
+networking sites by consumers may pose a competitive threat if consumers and potential consumers spend less of their available time using interactive entertainment software and more using the
+Internet, including those online services. The types of competition described herein could have a material adverse effect on our business, financial condition, results of operations, profitability,
+cash flows or liquidity. If we are unable to maintain or acquire licenses to intellectual property, we may publish fewer successful titles and revenues may decline. Some of our products are based on intellectual property and other character or story rights licensed from third parties. These license
+and distribution agreements are limited in scope and time, and we may not be able to renew licenses when they expire or include new products in existing licenses. The failure of intellectual property
+we license to be, or remain, popularly received could impact consumer acceptance of those products in which we include the intellectual property. Such lack of acceptance could result in the write-off
+of the unrecovered portion of acquired intellectual property assets, and could otherwise have a material adverse effect on our business, financial condition, results of operations, profitability, cash
+flows or liquidity. The development of high-quality products requires substantial up-front expenditures, and we may not be able to recover those costs for our future products. Consumer preferences for games are usually cyclical and difficult to predict, and even the most successful titles remain popular for
+only limited periods of time, unless refreshed with new content or otherwise enhanced. In order to remain competitive, we must continuously develop new products or enhancements to existing products.
+The amount of lead time and cost involved in the development of high-quality products is increasing, and the longer the lead time involved in developing a product and the greater the allocation of
+financial resources to such product, the more critical it is that we accurately predict consumer demand for such product. If our future products do not achieve expected consumer acceptance or generate
+sufficient revenues upon introduction, we may not be able to recover the substantial development and marketing costs associated with those products, which could have a material adverse effect on our
+business, financial condition, results of operations, profitability, cash flows or liquidity. We may overestimate demand for a product, incurring unrecoverable manufacturing costs. We pay a licensing fee to the hardware manufacturer for each copy of a product manufactured for that manufacturer's game platform,
+regardless of whether that product is sold. If we overestimate demand and make too many physical "boxed" copies of any title, we will incur unrecoverable manufacturing
+costs for unsold units, which could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. We are exposed to seasonality in the sale of our products. The interactive entertainment industry is highly seasonal, with the highest levels of consumer demand occurring during the year-end
+holiday buying season in the fourth quarter of the year. As a result, our sales have historically been highest during the second half of the year, particularly for our Activision segment. Receivables
+and credit risk are likewise higher during the second half of the year, as customers stock up on our products for the holiday season. Delays in development, licensor approvals or manufacturing can
+affect the timing of the release of products, causing us to miss key selling periods such as the year-end holiday buying season, and could otherwise have a material adverse effect on our business,
+financial condition, results of operations, profitability, cash flows or liquidity. If our proprietary online game service, Battle.net, does not function properly, our business may be negatively impacted. If Blizzard's proprietary online game service, Battle.net, does not function as anticipated, Blizzard's games may be completely
+unavailable or Blizzard may be prevented from delivering content digitally, which could result in a loss of sales for Blizzard's games. Further, any disruption in Battle.net's services could have an
+adverse impact on our business, reputation, financial condition, results of operations, profitability, cash flows or liquidity. We depend on servers to operate our games with online features, such as World of Warcraft and Call of Duty, and our digital service with online features. If we were to lose
+server functionality, for any reason, our business could suffer. Our business relies on the continuous operation of data servers. Although we strive to maintain more than sufficient server capacity,
+and provide for active redundancy in the event of limited hardware failure, any broad-based catastrophic server malfunction, a significant intrusion by hackers that circumvents security measures, or a
+failure of disaster recovery service would likely interrupt the operation of World of Warcraft or degrade or interrupt the functionality of other games
+of ours with online features, such as Call of Duty , and could result in the loss of sales for such games (including subscription-based sales for World of Warcraft ). An extended interruption of service could have a material adverse effect on our business, reputation, financial condition, results
+of operations, profitability, cash flows or liquidity. We
+must project our future server needs and make advance purchases of servers or server capacity to accommodate expected business demands. If we underestimate the amount of server
+capacity our business requires or if our business were to grow more quickly than expected, our consumers may experience service problems, such as slow or interrupted gaming access. Insufficient server
+capacity may result in decreased sales, a loss of our consumer base and adverse consequences to our reputation. Conversely, if we overestimate the amount of server capacity required by our business,
+we may incur additional operating costs. Any of these risks could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. We may not accurately predict the amount of Internet bandwidth or computational resources necessary to sustain our online gaming businesses. Our online gaming businesses are dependent on the availability of sufficient Internet bandwidth and computational resources. If the
+price of either such resource increases, we may not be able to increase our prices or subscriber levels to compensate for such costs, which may have a material adverse effect on our business,
+financial condition, results of operations, profitability, cash flows or liquidity.
+Because of the importance of our online business to our revenues and results of operations, our ability to access adequate bandwidth and online computational resources to support our
+business is critical. To
+secure access to such resources, we have entered into arrangements with several providers to secure future capacity, some of which involve long-term contracts. If the price of such
+resource were to decrease, our contractual commitments to pay higher prices could affect our ability to compete with other publishers of interactive software products paying lower prices. Further,
+because we purchase additional capacity based on anticipated growth, our capacity is sometimes larger than necessary to sustain our existing needs. If our projected online business growth is delayed
+or does not occur, we will incur larger expenses for such resources than necessary. Conversely, if we underestimate the amount of bandwidth that our online business requires, and our purchased
+capacity is insufficient to meet demand, our business, financial condition, results of operations, profitability, cash flows or liquidity could be adversely affected. We may be involved in legal proceedings that may result in material adverse outcomes. From time to time, we may be involved in claims, suits, government investigations, audits and proceedings arising from the ordinary
+course of our business, including actions with respect to intellectual property, competition and antitrust matters, privacy matters, tax matters, labor and employment matters, unclaimed property
+matters, compliance and commercial claims. Such claims, suits, government investigations, audits and proceedings are inherently uncertain and their results cannot be predicted with certainty.
+Regardless of the outcome, such legal proceedings can have an adverse impact on us because of legal costs, diversion of management resources and other factors. In addition, it is possible that a
+resolution of one or more such proceedings could result in substantial fines and penalties, criminal sanctions, consent decrees or orders preventing us from offering certain features, functionalities,
+products or services, requiring us to change our development process or other business practices. Any of these risks could have a material adverse effect on our business, financial condition, results
+of operations, profitability, cash flows or liquidity. Legal proceedings relating to the Purchase Transaction and Private Sale may result in adverse outcomes. We are currently subject to various claims in connection with the Purchase Transaction and Private Sale (each of which is as described
+in further detail under "Management's Discussion and Analysis of Financial Condition and Results of OperationsBusiness Overview"), and in the future may be subject to
+additional claims related thereto. Such proceedings are inherently uncertain and their results cannot be predicted with certainty. Regardless of the outcome, monitoring and defending against legal
+actions is time consuming for our management and detracts from our ability to fully focus our internal resources on our business activities. In addition, we may incur substantial legal fees and costs
+in connection with litigation and, although coverage may be available under relevant insurance policies, coverage could be denied or prove to be insufficient. Under our Amended and Restated
+Certificate of Incorporation and the indemnification agreements that we have entered into with our officers and directors, the Company may be required in certain circumstances to indemnify and advance
+expenses to them in connection
+with their participation in proceedings arising out of their service to us. There can be no assurance that any of these payments will not be material. A decision adverse to the Company on these
+actions could result in the reformation of the Stockholders Agreement (as described in further detail under "Legal Proceedings") and could have a material adverse effect on our business, reputation,
+financial condition, results of operations, profitability, cash flows or liquidity. We may be subject to intellectual property claims. As the number of interactive entertainment software products increases and the features and content of these products continue to
+overlap, software developers have increasingly become subject to infringement
+claims. Further, many of our products are highly realistic and feature materials that are based on real world examples, which may also be the subject of intellectual property infringement
+claims of others. In addition, our products often utilize complex, cutting-edge technology that may become subject to emerging intellectual property rights of others. Although we take steps to avoid
+knowingly violating the intellectual property rights of others, it is possible that third parties still may claim infringement, particularly since there are an increasing number of companies which
+focus their efforts exclusively on enforcing their patent rights. From
+time to time, we receive communications from third parties regarding such claims. Existing or future infringement claims against us, whether valid or not, may be time consuming,
+distracting to management and expensive to defend. Further, intellectual property litigation or claims could force us to do one or more of the
+following: Any
+of these actions could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. Issues with Skylanders toys and accessories may lead to product liability, personal injury or property damage claims, recalls, withdrawals, replacements of products, or
+regulatory actions by governmental authorities. We may experience issues with Skylanders toys and accessories that may lead to product liability, personal injury or property damage
+claims, recalls, withdrawals, replacements of products, or regulatory actions by governmental authorities. Any of these activities could result in increased governmental scrutiny, harm to our
+reputation, reduced demand by consumers for our products, decreased willingness by our customers to purchase or provide marketing support for those products, denial or increased cost for insurance
+coverage, or additional safety and testing requirements. Such results could divert development and management resources and increase legal fees and other costs, and otherwise could have a material
+adverse effect on our business, reputation, financial condition, results of operations, profitability, cash flows or liquidity. Our products may be subject to legal claims. In prior years, lawsuits have been filed against numerous video game companies, including against Activision Blizzard, by the families
+of victims of violence, alleging that the video games influence the behavior of the perpetrators of such violence. These lawsuits have been dismissed, but similar additional lawsuits may be filed in
+the future. Although our general liability insurance carrier has agreed to defend lawsuits of this nature with respect to the prior lawsuits, it is uncertain whether insurance carriers would do so in
+the future, or if such insurance carriers would cover all or any amounts for which we might be liable if such future lawsuits are not decided in our favor. Further, any such lawsuit could result in
+increased governmental scrutiny, harm to our reputation, reduced demand by consumers for our products, or decreased willingness by our customers to purchase or provide marketing support for those
+products. Such results could divert development
+and management resources, increase legal fees and other costs and have other material adverse consequences on our business, financial condition, results of operations, profitability, cash flows or
+liquidity. Our products are subject to the threat of piracy and unauthorized copying, and inadequate intellectual property laws and other protections could prevent us from enforcing or
+defending our proprietary technologies. We may also face legal risks arising out of user-generated content. We regard our software as proprietary and rely on a variety of methods, including a combination of copyright, patent, trademark and
+trade secret laws and employee and third-party nondisclosure agreements, to protect our proprietary rights. We own or license various copyrights, patents, trademarks and trade secrets. We are aware
+that some unauthorized copying occurs, and if a significantly greater amount of unauthorized copying of our software products were to occur, it could have a material adverse effect on our business,
+financial condition, results of operations, profitability, cash flows or liquidity. Policing
+unauthorized sale, distribution and use of our products is difficult, and software piracy (including online piracy) is a persistent problem for us. Further, the laws of some
+countries in which our products are or may be distributed either do not protect our products and intellectual property rights to the same extent as the laws of the United States, or are poorly
+enforced. Legal protection of our rights may be ineffective in such countries. In addition, though we take steps to make the unauthorized sale, distribution and use of our products more difficult and
+to otherwise enforce and police our rights, as do the manufacturers of consoles on which our games are played, our efforts and the efforts of the console manufacturers may not be successful in
+controlling the piracy of our products in all instances. The proliferation of technology designed to circumvent the protection measures used in our products, the availability of broadband access to
+the Internet, the refusal of Internet service providers to remove infringing content in certain instances, the ability to download pirated copies of games from various Internet sites and peer-to-peer
+networks, and the widespread proliferation of Internet cafes using pirated copies of our products all have contributed to an expansion in piracy. Any of these risks could have a material adverse
+effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. Moreover,
+the existence of user-generated content for our products further diminishes our ability to protect our intellectual property rights and to avoid infringing intellectual
+property rights of others. We cannot be certain that existing intellectual property laws will provide adequate protection for our products in connection with emerging technologies. As a result, these
+risks could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. We rely on independent third parties to develop some of our software products. We rely on independent third-party software developers to develop some of our software products. Because we depend on these developers,
+we are subject to the following risks: Increased
+competition for skilled third-party software developers also has compelled us to agree to make significant advance payments on royalties to game developers. If the products
+subject to these arrangements do not generate sufficient revenues to recover these royalty advances, we would have to write-off unrecovered portions of these payments, which could have a material
+adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. Typically, we pay developers a royalty based on a percentage of net revenues from
+product sales, less agreed upon deductions, but from time to time, we have agreed to pay developers fixed per unit product royalties after royalty advances are fully recouped. To the extent that sales
+prices of products on which we have agreed to pay a fixed per unit royalty are marked down, our business, financial condition, results of operations, profitability, cash flows or liquidity could be
+materially adversely affected. Our sales may decline substantially without warning and in a brief period of time because a substantial portion of our sales are made to a relatively small number of key
+customers and because we do not have long-term contracts for the sale of our products. In the Unites States and Canada, we have primarily sold our boxed products on a direct basis to mass-market retailers, consumer
+electronics stores, discount warehouses and game specialty stores. Our boxed products are sold internationally on a direct-to-retail basis, through third-party distribution and licensing arrangements
+and through our wholly-owned European distribution subsidiaries. Our sales are made primarily on a purchase order basis without long-term agreements or other forms of commitments. The loss of, or
+significant reduction in sales to, any of Activision's principal retail customers or distributors could have adverse consequences. The concentration of sales in a small number of large customers also
+makes us more vulnerable to collection risk if one or more of these large customers becomes unable to pay for our products or seeks protection under the bankruptcy laws. In addition, having such a
+large portion of our total net revenue concentrated in a few customers reduces our negotiating leverage with these customers. Any of these risks could have a material adverse effect on our business,
+financial condition, results of operations, profitability, cash flows or liquidity. Our business may be harmed if our distributors, retailers or other parties with which we do business cannot honor their existing credit arrangements, default on their
+obligations to us or seek protection under the bankruptcy laws. We rely on various business partners for several important aspects of our business, including distribution of our products, product
+development and intellectual property licensing. Some of these business partners are highly-leveraged or small businesses that may be particularly vulnerable to difficult economic conditions. As a
+result of current economic conditions, we are subject to heightened counterparty risks, including the risks that our business partners may default on their obligations to us or seek protection under
+the bankruptcy laws. For
+example, retailers and distributors in the interactive entertainment industry have from time to time experienced significant fluctuations in their businesses and a number of them
+have failed. We typically make sales to most retailers and some distributors on unsecured credit, with terms that vary depending upon the customer's credit history, solvency, credit limits and sales
+history, as well as whether sufficient credit insurance can be obtained. Challenging economic conditions may impair the ability of our customers to pay for products they have purchased, and as a
+result, our reserves for doubtful accounts and write-off of accounts receivable could increase and, even if increased, may turn out to be insufficient. Moreover, even in cases where we have insolvency
+risk insurance to protect against a customer's bankruptcy, insolvency or liquidation, this insurance typically contains a significant deductible and co-payment obligation, and does not cover all
+instances of non-payment. Further, the insolvency or business failure of other types of business partners could result in disruptions to the manufacturing or distribution of our products or the
+cancellation of contractual arrangements that we consider to be favorable. A payment default by, or the insolvency or business failure of, a significant business
+partner may have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. We may not be able to maintain our distribution relationships with key vendors and customers. Our NBG and Centresoft subsidiaries distribute interactive entertainment software and hardware products and provide related services in
+Germany and the United Kingdom, respectively, and via export in other European countries for a variety of entertainment software publishers, many of which are our competitors, and hardware
+manufacturers. From time to time, these subsidiaries also maintain exclusive relationships to serve certain retail customers. These services are generally performed subject to limited-term
+arrangements. Although we expect to use reasonable efforts to retain these vendors and retail customer relationships, we may not be successful in this regard. The cancellation or non-renewal of one or
+more of these arrangements could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. Our business is subject to the risks and uncertainties of international trade. We conduct business throughout the world, and we derive a substantial amount of revenues and profits from international trade,
+particularly from Europe, Asia and Australia. We expect that international sales will continue to account for a significant portion of our total revenues and profits in the future and, moreover, that
+our growth will depend on increased sales in emerging markets in Asia and elsewhere. As
+such, we are, and may be increasingly, subject to risks inherent in foreign trade generally, as well as risks inherent in doing business in emerging markets, including increased
+tariffs and duties, compliance with economic sanctions, fluctuations in currency exchange rates, shipping delays, increases in transportation costs, international political, regulatory and economic
+developments and differing local business practices, all of which may impact operating margins or make it more difficult, if not impossible, for us to conduct business in foreign markets. A
+deterioration in relations between either us or the United States and any country in which we have significant operations or sales, or the implementation of government regulations in
+such a country, including China in particular, could result in the adoption or expansion of trade restrictions, including economic sanctions, that could have a material adverse effect on our business,
+financial condition, results of operations, profitability, cash flows or liquidity. For instance, to operate in China, World of Warcraft, StarCraft II, Call of
+Duty Online and all other games must have regulatory approval. A decision by the Chinese government to revoke
+its approval for World of Warcraft StarCraft II Call of Duty
+Online or to decline to approve any products we desire to sell in China in the future could have a material adverse effect on our business, financial condition, results of
+operations, profitability, cash flows or liquidity. Additionally, in the past, legislation has been implemented in China that has required modifications to World of
+Warcraft and other software. The future implementation of similar laws or regulations in China or any other country in which we have operations or sales may require engineering
+modifications to our products that are not cost-effective, if even feasible at all, or could degrade the consumer experience to the point where consumers cease to purchase such products. We
+are also subject to risks that our operations outside the United States could be conducted by our employees, contractors, representatives or agents in ways that violate the Foreign
+Corrupt Practices Act, the U.K. Anti-Bribery Act or other similar anti-bribery laws. While we have policies and procedures intended to secure compliance with these laws, our employees, contractors,
+representatives or agents may take actions that violate our policies. Moreover, it may be more difficult to oversee the conduct of any such persons who are not our employees, potentially exposing us
+to greater risk from their actions, which could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. In
+addition, cultural differences may affect consumer preferences and limit the international popularity of titles that are popular in the U.S or require us to modify the content of the
+games or the method by which we charge our customers for the games in order to be successful. If we do not correctly assess consumer preferences in the countries in which we sell our products, or if
+the other risks discussed herein come to fruition, it may have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. Changes in tax rates or exposure to additional tax liabilities could have a material adverse effect on our business, financial condition, results of operations,
+profitability, cash flows or liquidity. We are subject to income taxes in the United States and in various other jurisdictions. Significant judgment is required in determining
+our worldwide provision for income taxes, and in the ordinary course of business there are many transactions and calculations where the ultimate
+tax determination is uncertain. We are required to estimate future taxes. Although we currently believe our tax estimates are reasonable, the estimation process is inherently uncertain, and such
+estimates are not binding on tax authorities. Further, our effective tax rate could be adversely affected by a variety of factors, including changes in our business, including the mix of earnings in
+countries with differing statutory tax rates, changes in tax elections, and changes in applicable tax laws. Additionally, tax determinations are regularly subject to audit by tax authorities and
+developments in those audits could adversely affect our income tax provision. Should the ultimate tax liability exceed estimates, our income tax provision and net income could be materially adversely
+affected. We
+earn a significant amount of our operating income, and hold a significant portion of our cash and investments, outside the United States. Any repatriation of funds currently held in
+foreign jurisdictions would likely result in higher effective tax rates for the Company. In addition, there have been proposals to change U.S. tax laws that would significantly impact how U.S.
+multinational corporations are taxed on foreign earnings. Although we cannot predict whether, or in what form, this proposed legislation will pass, if enacted it could have a material adverse impact
+on our tax expense and cash flow. We
+are also required to pay taxes other than income taxes, such as payroll, sales, use, value-added, net worth, property, and goods and services taxes, in both the United States and
+various other jurisdictions. Tax authorities regularly examine these non-income taxes. The outcomes from these examinations, changes in the business, changes in applicable tax rules or other tax
+matters may have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. Fluctuations in currency exchange rates may have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or
+liquidity. We transact business in various currencies other than the U.S. dollar and have significant international sales and expenses denominated
+in currencies other than the U.S. dollar, subjecting us to currency exchange rate risks. A substantial portion of our international sales and expenses are denominated in local currencies, including
+certain major currencies, such as the Euro and British pound, and emerging market currencies, such as the South Korean won and Chinese renminbi, which could fluctuate against the U.S. dollar. We have,
+in the past, utilized currency derivative contracts to hedge certain foreign exchange exposures, with hedge maturities of generally less than 12 months, as well as managing these exposures with
+natural offsets. We may also hedge non-U.S. dollar earnings from time to time. However, there can be no assurance that we will continue these programs, or that we will be successful in managing
+exposure to currency exchange rate risks whether or not we do so. Our reported financial results could be adversely affected by changes in financial accounting standards or by the application of existing or future accounting standards to
+our business as it evolves. Our reported financial results are impacted by the accounting policies promulgated by the SEC and national accounting standards bodies
+and the methods, estimates and judgments that we use in applying our accounting policies. Policies affecting software revenue recognition have and could further significantly affect the way we report
+revenues related to our products and services. We recognize all of the revenues from bundled sales ( i.e. , packaged goods video games that include an
+online service component) on a deferred basis over an estimated service period for such games. In addition, we defer the costs of sales of those titles. We expect that an increasing number of our
+games will be online-enabled in the future and that we could be required to recognize the related revenues over an extended period of time rather than at the time of sale. Further, as we increase our
+downloadable content and add new features to our online services, our estimate of the service period may change and we could be required to recognize revenues, and defer related costs, over a longer
+period of time. As we enhance, expand and diversify our business and product offerings, the application of existing or future financial accounting standards, particularly those relating to the way we
+account for revenues and taxes, could have an adverse effect on our reported net revenues, net income and earnings per share under accounting principles generally accepted in the United States in any
+given period. We may permit our customers to return products and to receive pricing concessions which could have a material adverse effect on our business, financial condition, results of
+operations, profitability, cash flows or liquidity. We are exposed to the risk of product returns and price protection with respect to our distributors and retailers. In some cases,
+return policies allow distributors and retailers to return defective, shelf-worn, damaged and certain other products in accordance with terms granted. Price protection, when granted and applicable,
+allows these distributors and retailers a credit against amounts owed with respect to merchandise unsold by them. We may permit product returns from, or grant price protection to, our customers under
+certain conditions. These conditions may include compliance with applicable payment terms, delivery of weekly inventory and sales information and consistent participation in the launches of premium
+title releases. We may also consider other factors, including the facilitation of slow-moving inventory and other industry factors. When we offer price protection, it may be offered with respect to a
+particular product to all of our retail customers who meet the applicable conditions. Activision also offers a 90-day limited warranty to its consumer end users that Activision products will be free
+from manufacturing defects. Although we maintain a reserve for returns and price protection, and although we may place limits on product returns and price protection, we could be forced to accept
+substantial product returns and provide substantial price protection to maintain our relationships with retailers and our access to distribution channels. Product returns and price protection that
+exceed our reserves could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. We face similar issues and risks,
+including exposure to risk of chargebacks, with respect to consumer end users to whom we sell products directly, whether through Battle.net or otherwise. We may face difficulty obtaining access to the retail shelf space necessary to market and sell our products effectively. Retailers typically have a limited amount of shelf space and promotional resources, and there is intense competition among consumer
+interactive entertainment software products for high-quality retail shelf space and promotional support from retailers. To the extent that the number of products and platforms increase, competition
+for shelf space may intensify and may require us to increase our marketing expenditures. Those issues are exacerbated to the extent any of our products involve physical goods in addition to software
+and, as such, require additional shelf space, like the titles in our Skylanders
+franchise, which include both action figures and an electronic "portal". Retailers with limited shelf space typically devote the most and highest quality shelf space to those products
+expected
+to be best sellers. We cannot be certain that our new products will consistently achieve such "best seller" status. Due to increased competition for limited shelf space, retailers and distributors are
+in an increasingly better position to negotiate favorable terms of sale, including price discounts, price protection, marketing and display fees and product return policies. Our products constitute a
+relatively small percentage of most retailers' sales volume. We cannot be certain that retailers will continue to purchase our products or provide those products with adequate levels of shelf space
+and promotional support on acceptable terms. A failure in this regard may have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or
+liquidity. If our marketing and advertising efforts fail to resonate with our consumers, our business, financial condition, results of operations, profitability, cash flows or
+liquidity could be materially adversely affected. Our products are marketed worldwide through a diverse spectrum of advertising and promotional programs. Our ability to sell our
+products and services is dependent in part upon the success of these programs. If the marketing for our products and services fails to resonate with our consumers, during the critical holiday season
+or during other key selling periods or otherwise, or advertising rates or other media placement costs increase, these factors could have a material adverse effect on our business, financial condition,
+results of operations, profitability, cash flows or liquidity. Increased sales of used video games could lower our sales. Certain of our larger customers sell used video games, which are generally priced lower than new video games and do not result in any
+revenues to the publisher of the games. Sales of used video games could negatively affect our sales of new video games and have a material adverse effect on our business, financial condition, results
+of operations, profitability, cash flows or liquidity. Our products are subject to ratings by the Entertainment Software Rating Board in the U.S. and similar agencies in international jurisdictions. Our failure to obtain our
+target ratings for our products could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. The Entertainment Software Rating Board (the "ESRB") is a self-regulatory body based in the United States that provides consumers of
+interactive entertainment software with ratings information, including information on the content in such software, such as violence, nudity or sexual content contained in software titles. Certain
+countries other than the United States have also established content rating systems as prerequisites for product sales in those countries.
+In some countries, a company may be required to modify its products to comply with the requirements of the rating systems, which could delay or disrupt the release of any given product, or may prevent
+its sale altogether in certain territories. The ESRB rating categories are "Early Childhood" ( i.e. , content is intended for young children), "Everyone"
+( i.e. , content is generally suitable for all ages), "Everyone 10+" ( i.e. , content is generally
+suitable for ages 10 and up), "Teen" ( i.e. , content is generally suitable for ages 13 and up), "Mature"
+( i.e. , content is generally suitable for ages 17 and up) and "Adults Only" ( i.e. , content is
+generally only suitable for adults ages 18 and up). Certain of our most significant titles have received a "Mature" rating. If we are unable to obtain the ratings we have targeted for our products as
+a result of changes in a content rating organization's ratings standards or for other reasons, including the adoption of legislation in this area, our business, financial condition, results of
+operations, profitability, cash flows or liquidity could be materially adversely affected. Our business, products, and distribution are subject to increasing regulation of content in key territories. If we do not successfully respond to these regulations, our
+business, financial condition, results of operations, profitability, cash flows or liquidity could be materially adversely affected. Legislation is continually being introduced, and litigation and regulatory enforcement actions are taking place, that may affect the
+way in which we, and other industry participants, may offer content and features, and distribute and advertise our products. For example, privacy laws and regulatory guidance in many countries impose
+various restrictions on online and mobile advertising, as well as the collection, storage and use of personally identifiable information. We may be required to modify certain of our product
+development processes or alter our marketing strategies to comply with such regulations, which could be costly or delay the release of our products. In addition, many foreign countries, such as China
+and Germany, have laws that permit governmental entities to restrict the content and/or advertising of interactive entertainment software or prohibit certain types of content. Further, legislation
+which attempts to restrict marketing or distribution of such products because of the content therein has been introduced at one time or another at the federal and state levels in the United States.
+There is on-going risk of enhanced regulation of video game marketing, content or sales. These laws and regulations vary by territory and may be inconsistent with one another, imposing conflicting or
+uncertain restrictions. The adoption and enforcement of legislation which restricts the marketing, content or sales of our products in countries in which we do business may harm the sales of our
+products, as the products we are able to offer to our customers and the size of the potential market for our products may be limited. Failure to comply with any applicable legislation may also result
+in government-imposed fines or other penalties. Moreover, the increased public dialog concerning video games may have an adverse impact on our reputation and consumers' willingness to purchase our
+products. Any of these risks may have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. If our products contain defects, our business and reputation could be harmed significantly. Software products as complex as the ones we publish may contain undetected errors and defects. This risk is often higher when such
+products are first introduced or when new versions are first released. Failure to avoid, or to timely detect and correct, such errors or defects could result in loss of, or delay in, consumer
+acceptance, and could have a material adverse effect on our business, reputation, financial condition, results of operations, profitability, cash flows or liquidity. A substantial portion of World of Warcraft's subscribers pay their subscription fees using credit cards. Credit card or other fraud could have a material adverse effect on
+our business, reputation, financial condition, results of operations, profitability, cash flows or liquidity. A substantial portion of the subscription revenues generated by World of Warcraft is
+paid by subscribers using credit cards. At times, there may be attempts to use fraudulently obtained credit card numbers to pay for World of Warcraft upgrades or subscriptions. Additionally, the credit card numbers and other sensitive or personally identifiable information of World of Warcraft 's
+subscribers and Battle.net account holders are maintained in a proprietary database that may be subject to malicious intrusion by hackers or otherwise compromised internally or externally. As
+fraudulent schemes become more sophisticated, it may become more difficult and more costly for us to detect credit card or other fraud and we may be required to incur costs to implement additional
+security measures to protect subscriber information. An increase in credit card or other fraud could have adverse consequences. In addition, we may be subject to legal claims or legal proceedings,
+including regulatory investigations and actions, if there is loss, disclosure or misappropriation of or access to our customers' credit card or other sensitive or personally identifiable information.
+Any of these risks may have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. Data breaches involving the source code for our products or customer, consumer or employee data stored by us could have a material adverse effect on our business,
+reputation, financial condition, results of operations, profitability, cash flows or liquidity. In the course of our day-to-day business, we create, store and/or use commercially sensitive information, such as the source code and
+game assets for our interactive entertainment software products and confidential information with respect to our customers, consumers and employees. A malicious intrusion by hackers or other breach of
+the systems on which such source code and assets, account information (including personally identifiable information) and other sensitive data is stored could lead to piracy of our software,
+fraudulent activity, disclosure or misappropriation of, or access to, our customers', consumers' or employees' personally identifiable information or our own sensitive business data. A data intrusion
+into a server for a game with online features, such as World of Warcraft Call of Duty , or for
+Battle.net could also disrupt the operation of such game or platform. If we are subject to data security breaches, we may have a loss in sales or subscriptions or be forced to pay damages or incur
+other costs, including from the implementation of additional security measures, or suffer reputational damage. In addition, we may be subject to legal claims or proceedings in connection with data
+security breaches, including regulatory investigations and actions. The occurrence of any of these events could have a material adverse effect on our business, financial condition, results of
+operations, profitability, cash flows or liquidity. We rely on complex information technology systems and networks to operate our business. Any significant system or network disruption could have a negative impact on our
+operations, sales and operating results. We rely on the efficient and uninterrupted operation of complex information technology systems and networks, some of which are within
+Activision Blizzard and some of which are outsourced. All information technology systems are potentially vulnerable to damage or interruption from a variety of sources, including but not limited to
+computer viruses, security breach, energy blackouts, natural disasters, terrorism, war and telecommunication failures. We may also face sophisticated attacks aimed at compromising our intellectual
+property and our customer information, referred to as advanced persistent threats. We plan to implement a number of additional significant business systems upgrades in 2014 and beyond which, if
+defective or improperly installed or implemented, may result in a business disruption. In addition, we currently rely on a number of older legacy information systems that are harder to maintain. A
+system failure or security breach could negatively impact our operations and financial results. We may incur additional costs to remedy the damages caused by these disruptions or security breaches. Our results of operations or reputation may be harmed as a result of offensive consumer-posted content. We are subject to risks associated with the collaborative online features in our games which allow consumers to post narrative comment,
+in real time, that is visible to other players. From time to time, objectionable and offensive consumer content may be posted to a gaming or other site with online chat features or game forums which
+allow consumers to post comments. We may be subject to lawsuits, governmental regulation or restrictions, and consumer backlash (including decreased sales and harmed reputation), as a result of
+consumers posting offensive content. We may also be subject to consumer backlash from comments made in response to postings we make on social media sites such as Facebook, YouTube and Twitter. The
+occurrence of any of these events could have a material adverse effect on our business, reputation, financial condition, results of operations, profitability, cash flows or liquidity. If one or more of our titles were found to contain objectionable undisclosed content, our business could suffer. Throughout the history of the interactive entertainment industry, many interactive software products have been designed to include
+certain hidden content and gameplay features that are accessible
+through the use of in-game cheat codes or other technological means that are intended to enhance the gameplay experience. In some cases, such undisclosed content or features have been
+considered to be objectionable. In a few cases, the ESRB has reacted to discoveries of such undisclosed content and features by requiring the recall of the game, changing the rating or associated
+content descriptors originally assigned to the product, requiring the publisher to change the game or game packaging and/or imposing fines on the publisher. Retailers have on occasion reacted to the
+discovery of such undisclosed content by removing these games from their shelves, refusing to sell them and demanding that their publishers accept them as product returns. Likewise, some interactive
+entertainment software consumers have reacted to the revelation of undisclosed content by refusing to purchase such games, demanding refunds for games they have already purchased, refraining from
+buying other games published by the company whose game contained the objectionable material, and, on at least one occasion, filing a lawsuit against the publisher of the product containing such
+content. We
+have implemented preventive measures designed to reduce the possibility of objectionable undisclosed content from appearing in the interactive software products we publish.
+Nonetheless, these
+preventive measures are subject to human error, circumvention, overriding and reasonable resource constraints. If an interactive software product we publish is found to contain undisclosed content, we
+could be subject to any of these consequences, which could have a material adverse effect on our business, reputation, financial condition, results of operations, profitability, cash flows or
+liquidity. We may not be able to adequately adjust our cost structure in a timely fashion in response to a sudden decrease in demand. In the event of a significant decline in demand for one or more of our products, we may not be able to reduce personnel or make other
+changes to our cost structure without disrupting our operations or incurring costs. Further, we may not be able to implement such actions in a timely manner, if at all, to offset an immediate
+shortfall in revenue and profit. Moreover, cost-reduction actions may decrease our employee morale and result in the failure to execute upon our business plan due to the loss of employees or impact
+our ability to retain or recruit key employees. In addition, any such action may involve the risk that our senior management's attention will be excessively diverted from our other operations. The
+occurrence of any of these events could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. We engage in strategic transactions and may encounter difficulties in integrating acquired businesses or otherwise realizing the anticipated benefits of the transactions. As part of our business strategy, from time to time, we acquire, make investments in, or enter into strategic alliances and joint
+ventures with complementary businesses. These transactions may involve significant risks and uncertainties, including: (A) in the case of an acquisition, (i) the difficulty in
+integrating the acquired business and operations in an efficient and effective manner, (ii) any liabilities assumed as part of the acquisition, and (iii) the potential loss of key
+employees of the acquired businesses, and, (B) in the case of an investment, alliance or joint venture, our ability to cooperate with our partner. If any such transaction involves an entity
+outside of the United States, it may also subject us to the risks and uncertainties of international trade, including the risk that our operations outside the United States could be conducted by our
+employees, contractors, representatives or agents in ways that violate anti-bribery laws. Further, any such transaction may involve the risk that our senior management's attention will be excessively
+diverted from our other operations, the risk that our industry does not evolve as anticipated and that any intellectual property or personnel skills acquired do not prove to be those needed for our
+future success, and the risk that our strategic objectives, cost savings or other anticipated benefits are otherwise not achieved. Any of the foregoing could have a material adverse effect on our
+business, financial condition, results of operations, profitability, cash flows or liquidity. Our involvement in joint ventures and other similar arrangements decreases our ability to manage risk. We conduct some of our operations through joint ventures in which we share control with our joint venture partners. Although we enter
+into joint venture and other similar arrangements in order to share risks with our partners, these arrangements may also decrease our ability to manage risk. As with any joint venture or similar
+arrangement, differences in views among the participants may result in delayed decisions or in failures to agree on major issues. There is the risk that our partners may at any time have economic,
+business or legal interests or goals that are inconsistent with ours. There is also risk that our partners may be unable to meet their economic or other obligations and we may be required to fulfill
+those obligations alone. Failure by us, or an entity in which we have a joint venture or similar interest, to adequately manage the risks associated with any joint ventures or similar arrangements
+could have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. We
+may seek to enter into additional joint ventures or similar arrangements with other entities. We cannot assure that we will undertake such ventures or, if undertaken, that such
+ventures will be successful or produce the anticipated benefits. Historically, our stock price has been highly volatile. The trading price of our common stock has been, and could continue to be, subject to wide fluctuations in response to many factors,
+including for example, but without limitation: Subject to certain limitations, ASAC and Vivendi may sell common stock, which could cause our stock price to decrease. We have two large shareholdersASAC and Vivendieither of which may, during certain periods of time and subject
+to certain limitations, sell some or all of the shares of our stock that it owns, including pursuant to a registered underwritten public offering under the Securities Act of 1933, as amended (the
+"Securities Act"), or in accordance with Rule 144 under the Securities Act. Further, both ASAC and Vivendi have the right to require us to register all or a portion of its shares, under certain
+conditions. The sale of a substantial number of shares of common stock by one of our shareholders within a short period of time could cause our stock price to decrease, and make it more difficult for
+us to raise funds through future offerings of shares of our common stock. Catastrophic events may disrupt our business. Our corporate headquarters and our primary corporate disaster center are located in the Los Angeles, California area and our disaster
+recovery data center is in Las Vegas, Nevada, each of which is near a major earthquake fault. A major earthquake or other catastrophic
+event that results in the destruction or disruption of any of our critical business or information technology systems, or otherwise prevents us from conducting our normal business operations, could
+require significant expenditures to resume operations and have a material adverse effect on our business, financial condition, results of operations, profitability, cash flows or liquidity. While we
+maintain insurance coverage for some of these events, the potential liabilities associated with such events could exceed the insurance coverage we maintain. Further, our system redundancy may be
+ineffective or inadequate and our disaster recovery planning may not be sufficient for all eventualities. Any such event could also limit the ability of retailers, distributors or our other customers
+to sell or distribute our products. Item 1B.    UNRESOLVED STAFF COMMENTS
