@@ -1,0 +1,71 @@
+Ticker,Name,SIC
+ATEN,A10 NETWORKS INC ,3576
+ADBE,Adobe,7372
+AMD,Advanced Micro Devices,3674
+AKAM,Akamai Technologies Inc.,7389
+AMZN,Amazon,5961
+AMCX,AMC NETWORKS INC,4841
+APPF,APPFOLIO INC,7372
+AAPL,Apple,3571
+AMAT,Applied Materials,3674
+ADSK,Autodesk Inc.,7372
+BBY,Best Buy,5731
+BKI,Black Knight Inc,7372
+BKNG,Booking Holdings Inc.,4700
+BSX,Boston Scientific Corporation,3841
+CHTR,Charter Communications Inc. Class A,4841
+DLR,Digital Realty Trust Inc.,6798
+DISH,Dish Network,4841
+EA,Electronic Arts Inc.,7372
+EFX,Equifax Inc.,7320
+EQIX,Equinix Inc.,6798
+EXPE,Expedia,4700
+FB,Facebook,7370
+FIVN,Five9 Inc,7374
+FLT,Fleetcor,7389
+GME,Gamestop,5734
+HPE,Hewlett Packard Enterprise Co.,5045
+HPQ,HP Inc.,3570
+IBM,IBM,3570
+INTU,Intuit,7372
+LRCX,Lam Research Corporation,3559
+LYV,Live Nation Entertainment Inc.,7900
+MU,Micron Technology Inc.,3674
+MSI,Motorola Solutions,3663
+NTAP,NetApp Inc.,3572
+NFLX,Netflix,7841
+NVDA,NVIDIA,3674
+OMC,Omnicom Group,7311
+PAYC,Paycom Software Inc.,7372
+PYPL,Paypal,7389
+QRVO,Qorvo Inc.,3674
+QCOM,Qualcomm,3663
+QUOT,Quotient Technology,7310
+SABR,Sabre Corp,7370
+CRM,Salesforce,7372
+NOW,ServiceNow Inc.,7372
+SQ,Square,7372
+SSNC,SS&C,7372
+SNPS,Synopsys,7372
+TTWO,Take-Two,7372
+TXN,Texas Instruments,3674
+TMUS,Tmobile,4812
+TWLO,Twilio,7372
+TWTR,Twitter,7370
+UPLD,Upland Software,7372
+VRSN,Verisign,7371
+V,Verizon,7389
+WDAY,Workday,7374
+ZEN,Zendesk,7374
+KN,Knowles,3651
+ZNGA,Zynga,7374
+EMR,Emerson Radio,3600
+CHGG,Chegg,8200
+IAC,Interactive Corp,7370
+SIRI,Sirius Radio,4832
+SBGI,Sinclair Broadcasting Group,4833
+IHRT,iHeartMedia Inc.,4832
+IRBT,iRobot,3630
+EBAY,eBay,7389
+MTCH,Match.com Group,7200
+IPG,Interpublic Group,7311
