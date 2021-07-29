@@ -1,0 +1,251 @@
+RISK 
+ FACTORS 
+ Risks Related to Our Business 
+ If our wireless service provider customers combine their operations to a significant degree, our future operating results and our ability to service our indebtedness could be adversely affected. 
+ Significant consolidation among our wireless service provider customers may result in our customers failing to renew existing leases for tower space or reducing future capital expenditures in the aggregate because their existing networks and expansion plans may overlap or be very similar. In connection with the combinations of Verizon Wireless and ALLTEL (to form Verizon Wireless), Cingular and AT&T Wireless (to form AT&T Mobility) and Sprint PCS and Nextel (to form Sprint), the combined companies have rationalized and may continue to rationalize duplicative parts of their networks, which has led and may continue to lead to the non-renewal of certain leases on our towers. During 2013, Sprint acquired Clearwire Communications and T-Mobile acquired MetroPCS, and AT&T has a pending agreement to acquire Leap Wireless, which may also lead to non-renewal of certain of our tower leases. If our wireless service provider customers continue to consolidate as a result of, among other factors, limited wireless spectrum for commercial use in the U.S., this consolidation could significantly impact the number of tower leases that are not renewed or the number of new leases that our wireless service provider customers require to expand their networks, which could materially and adversely affect our future operating results. 
+ We have a substantial level of indebtedness which may have an adverse effect on our business or limit our ability to take advantage of business, strategic or financing opportunities. 
+ As indicated below, we have and will continue to have a significant amount of indebtedness relative to our equity. The following table sets forth our total principal amount of debt and shareholders’ equity as of 
+ December 31, 2013 
+ and 
+ 2012 
+ As of December 31, 
+ 2013 
+ 2012 
+ (in thousands) 
+ Total principal amount of indebtedness 
+ 5,910,041 
+ 5,440,073 
+ Shareholders' equity 
+ 356,966 
+ 652,991 
+ Our substantial level of indebtedness increases the possibility that we may be unable to generate cash sufficient to pay the principal, interest or other amounts due on our indebtedness. Subject to certain restrictions under our existing indebtedness, we and our subsidiaries may also incur significant additional indebtedness in the future, some of which may be secured debt. This may have the effect of increasing our total leverage. 
+ For example, on February 7, 2014, SBA Senior Finance II secured a new delayed draw $1.5 bi 
+ llion senior secured Term Loan 
+ As a consequence of our indebtedness, (1) demands on our cash resources may increase, (2) we are subject to restrictive covenants that further limit our financial and operating flexibility and (3) we may choose to institute self-imposed limits on our indebtedness based on certain considerations including market interest rates, our relative leverage and our strategic plans. For example, as a result of our substantial level of indebtedness and the uncertainties arising in the credit markets and the U.S. economy: 
+ we may be more vulnerable to general adverse economic and industry conditions; 
+ we may have to pay higher interest rates upon refinancing or on our variable rate indebtedness if interest rates rise, thereby reducing our cash flows; 
+ we may find it more difficult to obtain additional financing to fund future working capital, capital expenditures and other general corporate requirements that would be in our best long-term interests; 
+ we may be required to dedicate a substantial portion of our cash flow from operations to the payment of principal and interest on our debt, reducing the available cash flow to fund other investments, including tower acquisition and new build capital expenditures; 
+ we may have limited flexibility in planning for, or reacting to, changes in our business or in the industry; 
+ we may have a competitive disadvantage relative to other companies in our industry that are less leveraged; and 
+ we may be required to sell debt or equity securities or sell some of our core assets, possibly on unfavorable terms, in order to meet payment obligations. 
+ These restrictions could have a material adverse effect on our business by limiting our ability to take advantage of financing, new tower development, mergers and acquisitions or other opportunities. 
+ In addition, fluctuations in market interest rates may increase interest expense relating to our floating rate indebtedness, which we expect to incur under our Revolving Credit Facility and Term Loans, and may make it difficult to refinance our existing indebtedness at a commercially reasonable rate or at all. There is no guarantee that the future refinancing of our indebtedness will have fixed interest rates or that interest rates on such indebtedness will be equal to or lower than the rates on our current indebtedness. 
+ We depend on a relatively small number of customers for most of our revenue, and the loss, consolidation or financial instability of any of our significant customers may materially decrease our revenues. 
+ We derive a significant portion of our revenue from a small number of customers. Consequently, a reduction in demand for site leasing, reduced future capital expenditures on the networks, or the loss, as a result of bankruptcy, merger with other customers of ours or otherwise, of any of our largest customers could materially decrease our revenue and have an adverse effect on our growth. Our substantial acquisitions in 
+ 2013 
+ further increased our client concentration and exacerbated the risks associated with such concentration. 
+ The following is a list of significant customers (representing at least 10% of revenue in any of the last three years) and the percentage of our total revenues for the specified time periods derived from these customers: 
+ Percentage of Total Revenues 
+ for the year ended December 31, 
+ 2013 
+ 2012 
+ 2011 
+ Sprint 
+ (1) 
+ 24.9% 
+ 23.9% 
+ 21.9% 
+ AT&T Wireless 
+ 19.0% 
+ 20.3% 
+ 23.8% 
+ T-Mobile 
+ (2) 
+ 17.3% 
+ 17.2% 
+ 13.5% 
+ Verizon Wireless 
+ 11.1% 
+ 12.7% 
+ 14.8% 
+ We also have client concentrations with respect to revenues in each of our financial reporting segments: 
+ Percentage of Site Leasing Revenues 
+ for the year ended December 31, 
+ 2013 
+ 2012 
+ 2011 
+ Sprint 
+ (1) 
+ 28.5% 
+ 26.8% 
+ 24.6% 
+ AT&T Wireless 
+ 21.9% 
+ 22.9% 
+ 26.8% 
+ T-Mobile 
+ (2) 
+ 18.7% 
+ 18.6% 
+ 14.2% 
+ Verizon Wireless 
+ 12.1% 
+ 13.2% 
+ 15.5% 
+ Percentage of Site Development Revenues 
+ for the year ended December 31, 
+ 2013 
+ 2012 
+ 2011 
+ Ericsson, Inc. 
+ 34.5% 
+ 24.5% 
+ 9.0% 
+ Nsoro Mastec, LLC 
+ 3.0% 
+ 16.2% 
+ 35.6% 
+ (1) 
+ Prior year amounts have been adjusted to reflect the merger of Sprint and Clearwire. 
+ (2) 
+ Prior year amounts have been adjusted to reflect the merger of T-Mobile and Metro PCS. 
+ Revenue from these clients is derived from numerous different site leasing contracts and site development contracts. Each site leasing contract relates to the lease of space at an individual tower and is generally for an initial term of five to ten years in the U.S. and Canada, and renewable for five 5-year periods at the option of the tenant. Our Central and South America markets typically have an initial term of 10 years with 5-year renewal periods. However, if any of our significant site leasing clients were to experience 
+ financial difficulty, substantially reduce their capital expenditures or reduce their dependence on leased tower space and fail to renew their leases with us, our revenues, future revenue growth and results of operations would be adversely affected. 
+ Our site development customers engage us on a project-by-project basis, and a customer can generally terminate an assignment at any time without penalty. In addition, a customer’s need for site development services can decrease, and we may not be successful in establishing relationships with new customers. Furthermore, our existing customers may not continue to engage us for additional projects. 
+ A slowdown in demand for wireless communications services or for tower space could materially and adversely affect our future growth and revenues, and we cannot control that demand. 
+ Additional revenue growth on our towers other than through contractual escalators comes directly from additional investment by our wireless service provider customers in their networks. If wireless service subscribers significantly reduce their minutes of use or data usage, or fail to widely adopt and use wireless data applications, our wireless service provider customers would experience a decrease in demand for their services. Regardless of consumer demand, each wireless service customer must have substantial capital resources and capabilities to build out their wireless networks, including licenses for spectrum. In addition, our wireless service customers have engaged in increased use of network sharing, roaming or resale arrangements. As a result of all of the above, wireless carriers may scale back their business plans or otherwise reduce their spending, which could materially and adversely affect demand for our tower space and our wireless communications services business, which could have a material adverse effect on our business, results of operations and financial condition. 
+ Our international operations are subject to economic, political and other risks, including risks associated with foreign currency exchange rates, that could materially and adversely affect our revenues or financial position. 
+ Our current business operations in Canada, Central America and South America, and our expansion into any other international markets in the future, could result in adverse financial consequences and operational problems not typically experienced in the United States. Although the consolidated revenues generated by our international operations were 
+ 6.5% 
+ during the year ended 
+ December 31, 2013 
+ , we anticipate that our revenues from our international operations will grow in the future. Accordingly, our business is and will in the future be subject to risks associated with doing business internationally, including: 
+ changes in a specific country’s or region’s political or economic conditions; 
+ laws and regulations that tax or otherwise restrict repatriation of earnings or other funds or otherwise limit distributions of capital; 
+ laws and regulations that dictate how we operate our towers and conduct business, including zoning, maintenance and environmental matters, and laws related to ownership of real property; 
+ laws and regulations governing our employee relations, including occupational health and safety matters; 
+ changes to existing or new domestic or international tax laws or fees directed specifically at the ownership and operation of towers, which may be applied and enforced retroactively; 
+ expropriation and governmental regulation restricting foreign ownership; 
+ restricting or revoking spectrum licenses; 
+ our ability to comply with, and the costs of compliance with, anti-bribery laws such as the Foreign Corrupt Practices Act and similar local anti-bribery laws; 
+ our ability to compete with owners and operators of wireless towers that have been in the international market for a longer period of time than we have; 
+ uncertainties regarding legal or judicial systems, including inconsistencies between and within laws, regulations and decrees, and judicial application thereof, and delays in the judicial process; 
+ health or similar issues, such as a pandemic or epidemic; 
+ difficulty in recruiting and retaining trained personnel; and 
+ language and cultural differences. 
+ Our international operations in Central America are denominated in United States dollars, while our operations in Canada and Brazil are denominated in local currencies. The Brazil Reais has been subject to significant volatility in the past, which can expose us to additional exchange rate risk. Volatility in foreign currency exchange rates can also affect our ability to plan, forecast and budget for our international operations and expansion efforts. 
+ If we are unable to protect our rights to the land under our towers, it could adversely affect our business and operating results. 
+ Our real property interests relating to our tower structures consist primarily of leasehold and sub-leasehold interests, fee interests, easements, licenses, rights-of-way, and other similar interests. From time to time, we experience disputes with landowners regarding the terms of the agreements for the land under our tower structures, which can affect our ability to access and operate such towers. Further, landowners may not want to renew their agreements with us, they may lose their rights to the land, or they may transfer their land interests to third parties, including ground lease aggregators and our competitors, which could affect our ability to renew agreements on commercially viable terms or at all. In addition, the land underlying the 2,113 towers we acquired from Oi in 2013 is subject to a concession from the 
+ Federal Republic of Brazil tha 
+ t expires in 2025.  At the end of the term the Brazilian government would have the right to (i) renew the concession upon ne 
+ wly negotiated terms or (ii) terminate the concession and take possession of the land, and the tower on such land 
+ .  Although Oi has entered into a non-terminable lease with us for 35 years, if the concession was not renewed our site leasing revenue from co-located tenants would terminate. 
+ As of 
+ December 31, 2013 
+ , the average remaining life under our ground leases, including renewal options under our control, was approximately 
+ years, and approximately 
+ 4.3% 
+ of our tower structures having ground leases maturing in the next 10 years.  Failure to protect our rights to the land under our towers may have a material adverse effect on our business, results of operations or financial condition. 
+ Increasing competition may negatively impact our ability to grow our 
+ communication site 
+ portfolio long term. 
+ Over the long term, we intend to grow our 
+ tower 
+ por 
+ tfolio by at least 
+ 5-10% 
+ annually 
+ , domestically and internationally, through acquisitions and new builds. Our ability to meet these growth targets significantly depends on our ability to acquire existing towers that meet our investment requirements. Traditionally, our acquisition strategy has focused on acquiring towers from smaller tower companies, independent tower developers and wireless service providers. However, as a result of consolidation in the tower industry there are fewer of these mid-sized tower transactions available and there is more competition to acquire existing towers. Increased competition for acquisitions may result in fewer acquisition opportunities for us, higher acquisition prices, and increased difficulty in negotiating and consummating agreements to acquire such towers. Furthermore, to the extent that the tower acquisition opportunities are for significant tower portfolios, many of our competitors are significantly larger and have greater financial resources than us. As a result of these risks, the cost of acquiring these towers may be higher than we expect or we may not be able to meet our long-term tower portfolio growth target. If we are not able to successfully address these challenges, we may not be able to materially increase our tower portfolio in the long-term. 
+ Our convertible note hedge transactions may not cover all of the potential dilution or additional cash outlay, if we settled the notes in cash, to which we may be subject upon conversion of the notes. 
+ Concurrently with the pricing of our 4.0% Convertible Senior Notes due 2014 (the “4.0% Notes”), we entered into convertible note hedge transactions and warrant transactions with affiliates of certain of the initial purchasers of the convertible note offerings. The initial strike price of the convertible note hedge transactions relating to our 4.0% Notes is $30.38 per share of our Class A common stock (the same as the initial conversion price of the 4.0% Notes) and the upper strike price of the warrant transactions is $44.64 per share. Pursuant to the terms of the warrant transaction, we are responsible for the dilution or costs, to the extent that we settle in cash or stock, arising from the conversion of the notes to the extent that the market price of our Class A common stock exceeds the strike price of the warrants.  If the market price of our Class A common stock significantly exceeded the strike price on the conversion date we would be subject to material dilution or, to the extent we elected to settle in cash, material additional costs. 
+ Initially we entered into convertible note hedge and warrant transactions to cover the full amount of the shares that were issuable upon conversion of the 4.0% Notes.  If any of the counterparties to our convertible hedge transactions were to default in their 
+ obligations, then our 
+ potential dilution or costs upon conversion of the respective notes would be materially increased.  As of December 31, 2013, there were 16,457,321 shares 
+ underlying the warrants outstanding. 
+ At the end of the first quarter of 201 
+ , the 4.0% Notes 
+ were 
+ convertible by the note holders because our Class A common stock closing price per share exceeded $39.49 for at least 20 trading days during the 30 consecutive trading day period ending on March 31, 201 
+ . The requisite conditions were again met throughout 201 
+ and 
+ into 2 
+ The 4.0% 
+ Notes remained convertible by the note holders 
+ , wi 
+ ll continue to be convertible through March 31, 2014 
+ and will still be convertible thereafter, if one or more of the conversion conditions are satisfied. 
+ In addition, the 4.0% Notes will be automatically convertible at any time on or after July 22, 2014 and mature on October 1, 2014. 
+ New technologies and their use by carriers may have a material adverse effect on our growth rate and results of operations. 
+ The emergence of new technologies could reduce the demand for space on our towers. For example, the increased use by wireless service providers of signal combining and related technologies and products that allow two or more wireless service providers to provide services on different transmission frequencies using the same communications antenna and other facilities normally used by only one wireless service provider (i.e. network sharing) could reduce the demand for our tower space. Additionally, the use of technologies that enhance spectral capacity, such as beam forming or “smart antenna,” that can increase the range and capacity of an antenna could reduce the number of additional sites a wireless service provider needs to adequately serve a certain subscriber base and therefore reduce demand for our tower space. The development and growth of communications and other new technologies that do not require ground-based sites, such as the growth in delivery of video, voice and data services by satellites or other technologies, could also adversely affect the demand for our tower space. If any of these or other new technologies are widely adopted in the future it could have a material adverse effect on our growth and results of operations. 
+ We may not be able to fully recognize the anticipated benefits of towers that we acquire. 
+ A key element of our growth strategy is to increase our tower portfolio through acquisitions.  We rely on our due diligence of the towers and the representations and financial records of the sellers and other third parties to establish the anticipated revenues and expenses and whether the acquired towers will meet our internal guidelines for current and future potential returns. In addition, we may not always have the ability to analyze and verify all information regarding title, access and other issues regarding the land underlying acquired towers.  This is particularly true in our international acquisitions of towers from wireless service providers. To the extent that these towers were acquired in individually material transactions, we may be required to place enhanced reliance on the financial and operational representations and warranties of the sellers. If (i) these records are not complete or accurate, (ii) if we do not have complete access to, or use of, the land underlying the acquired towers or (iii) if the towers do not achieve the financial results anticipated, it could adversely affect the our revenues and results of operations. 
+ In addition, acquisitions which would be material in the aggregate may exacerbate the risks inherent with our growth strategy, such as (i) an adverse impact on our overall profitability if the acquired towers do not achieve the financial results projected in our valuation models, (ii) unanticipated costs associated with the acquisitions that may impact our results of operations for a period, (iii) increased demands on our cash resources that may, among other things, impact our ability to explore other opportunities, (iv) undisclosed and assumed liabilities that we may be unable to recover, (v) increased vulnerability to general economic conditions, (vi) an adverse impact on our existing customer relationships, (vii) additional expenses and exposure to new regulatory, political and economic risks if such acquisitions were in new jurisdictions and (viii) diversion of managerial attention. 
+ We may not successfully integrate acquired towers into our operations. 
+ As part of our growth strategy, we have made and expect to continue to make acquisitions. The process of integrating any acquired towers into our operations may result in unforeseen operating difficulties and large expenditures and may absorb significant management attention that would otherwise be available for the ongoing development of our business. It may also result in the loss of key customers and/or personnel and expose us to unanticipated liabilities. These risks may be exacerbated in those circumstances in which we acquire a material number of towers. Further, we may not be able to retain the key employees that may be necessary to operate the business we acquire, and, we may not be able to timely attract new skilled employees and management to replace them. There can be no assurance that we will be successful in integrating acquisitions into our existing business. This is particularly true in our international acquisitions of towers from wireless service providers. 
+ Delays or changes in the deployment or adoption of new technologies or slowing consumer adoption rates may have a material adverse effect on our growth rate. 
+ There can be no assurances that 3G, 4G, including long-term evolution (“LTE”), or other new wireless technologies will be deployed or adopted as rapidly as projected or that these new technologies will be implemented in the manner anticipated. The deployment of 3G experienced delays from the original projected timelines of the wireless and broadcast industries, and deployment of 4G could experience delays. Additionally, the demand by consumers and the adoption rate of consumers for these new technologies once deployed may be lower or slower than anticipated, particularly in certain of our international markets. These factors could have a material adverse effect on our growth rate since growth opportunities and demand for our tower space as a result of such new technologies may not be realized at the times or to the extent anticipated. 
+ We may not secure as many site leasing tenants as planned or our lease rates for new tenant leases may decline. 
+ If wireless service provider demand for tower space or our lease rates on new leases decrease, we may not be able to successfully grow our site leasing business as expected. This may have a material adverse effect on our strategy, revenue growth and our ability to satisfy our financial and other contractual obligations. Our plan for the growth of our site leasing business largely depends on our management’s expectations and assumptions concerning future tenant demand and potential lease rates for our towers. 
+ Increasing competition in the tower industry may create pricing pressures that may materially and adversely affect us. 
+ Our industry is highly competitive, and our customers sometimes have alternatives for leasing antenna space. Some of our competitors, such as (1) U.S. and international wireless carriers that allow collocation on their towers and (2) large independent tower companies, have been, and based on recent consolidations continue to be, substantially larger and have greater financial resources than us. This could provide them with advantages with respect to establishing favorable leasing terms with wireless service providers or in their ability to acquire available towers. 
+ In the site leasing business, we compete with: 
+ wireless service providers that own and operate their own towers and lease, or may in the future decide to lease, antenna space to other providers; 
+ national and regional tower companies; and 
+ alternative facilities such as rooftops, outdoor and indoor DAS networks, billboards and electric transmission towers. 
+ We believe that tower location and capacity, quality of service, density within a geographic market and, to a lesser extent, price historically have been and will continue to be the most significant competitive factors affecting the site leasing business. However, competitive pricing pressures for tenants on towers from these competitors could materially and adversely affect our lease rates. In addition, we may not be able to renew existing customer leases or enter into new customer leases, resulting in a material adverse impact on our results of operations and growth rate. Increasing competition could also make the acquisition of high quality tower assets more costly, or limit the acquisition opportunities altogether. Any of these factors could materially and adversely affect our business, results of operations or financial condition. 
+ The site development segment of our industry is also extremely competitive. There are numerous large and small companies that offer one or more of the services offered by our site development business. As a result of this competition, margins in this segment may come under pressure. Many of our competitors have lower overhead expenses and therefore may be able to provide services at prices that we consider unprofitable. If margins in this segment were to decrease, our consolidated revenues and our site development segment operating profit could be adversely affected. 
+ The documents governing our indebtedness contain restrictive covenants that could adversely affect our business by limiting our flexibility. 
+ The indentures governing the 8.25% Notes, the 5.75% Notes and the 5.625% Notes, the Senior Credit Agreement and the Secured Tower Revenue Securities contain restrictive covenants imposing significant operational and financial restrictions on us, including restrictions that may limit our ability to engage in acts that may be in our long-term best interests. Among other things, the covenants under each indenture limit our ability to: 
+ merge, consolidate or sell assets; 
+ make restricted payments, including pay dividends or make other distributions; 
+ enter into transactions with affiliates; 
+ enter into sale and leaseback transactions; and 
+ issue guarantees of indebtedness. 
+ We are required to maintain certain financial ratios under the Senior Credit Agreement. As amended in February 2014, the Senior Credit Agreement requires SBA Senior Finance II  to maintain specific financial ratios, including, at the SBA Senior Finance II level, (1) a ratio of Consolidated Total Debt to Annualized Borrower EBITDA not to exceed 6.5 times for any fiscal quarter, (2) a ratio of Consolidated Total Debt and Net Hedge Exposure (calculated in accordance with the Senior Credit Agreement) to Annualized Borrower EBITDA for the most recently ended fiscal quarter not to exceed 6.5 times for 30 consecutive days and (3) a ratio of Annualized Borrower EBITDA to Annualized Cash Interest Expense (calculated in accordance with the Senior Credit Agreement) of not less than 2.0 times for any fiscal quarter. 
+ Additionally, the mortgage loan relating to our Tower Securities contains financial covenants that require that the mortgage loan borrowers maintain, on a consolidated basis, a minimum debt service coverage ratio. To the extent that the debt service coverage ratio, as of the end of any calendar quarter, falls to 1.30 times or lower, then all cash flow in excess of amounts required to make debt service payments, to fund required reserves, to pay management fees and budgeted operating expenses and to make other payments required under the loan documents, referred to as “excess cash flow,” will be deposited into a reserve account instead of being released to the Borrowers. The funds in the reserve account will not be released to the Borrowers unless the debt service coverage ratio exceeds 1.30 times for two consecutive calendar quarters. If the debt service coverage ratio falls below 1.15 times as of the end of any calendar quarter, then an “amortization period” will commence and all funds on deposit in the reserve account will be applied to prepay the mortgage loan until such time that the debt service coverage ratio exceeds 1.15 times for a calendar quarter. 
+ These covenants could place us at a disadvantage compared to some of our competitors which may have fewer restrictive covenants and may not be required to operate under these restrictions. Further, these covenants could have an adverse effect on our business by limiting our ability to take advantage of financing, new tower development, merger and acquisitions or other opportunities. If we fail to comply with these covenants, it could result in an event of default under our debt instruments. If any default occurs, all amounts outstanding under our outstanding notes and the Senior Credit Agreement may become immediately due and payable. 
+ Our variable rate indebtedness and refinancing obligations subject us to interest rate risk, which could cause our debt service obligations to increase significantly. 
+ Fluctuations in market interest rates may increase interest expense relating to our floating rate indebtedness, which we expect to incur under the Revolving Credit Facility and Term Loans or upon refinancing our fixed rate debt. As a result, we are exposed to interest rate risk. If interest rates were to increase, our debt service obligations on the variable rate indebtedness would increase even though the amount borrowed remained the same, and our net income and cash flows, including cash available for servicing our indebtedness, will correspondingly decrease. There is no guarantee that any future refinancing of our indebtedness will have fixed interest rates or that interest rates on such indebtedness will be equal to or lower than the rates on our current indebtedness. In the future, we may enter into interest rate swaps that involve the exchange of floating for fixed rate interest payments in order to reduce interest rate volatility. However, we may not maintain interest rate swaps with respect to all of our variable rate indebtedness, and any swaps we enter into may not fully mitigate our interest rate risk. We currently have no interest rate swaps. 
+ Our dependence on our subsidiaries for cash flow may negatively affect our business. 
+ We are a holding company with no business operations of our own. Our only significant assets are, and are expected to be, the outstanding capital stock and membership interests of our subsidiaries. We conduct, and expect to continue conducting, all of our business operations through our subsidiaries. Accordingly, our ability to pay our obligations is dependent upon dividends and other distributions from our subsidiaries to us. Most of our indebtedness is owed directly by our subsidiaries, including the mortgage loan underlying the Tower Securities, the 8.25% Notes, the 5.75% Notes, the Term Loans and any amounts that we may borrow under the Revolving Credit Facility. Consequently, the first use of any cash flow from operations generated by such subsidiaries will be payments of interest and principal, if any, under their respective indebtedness. Other than the cash required to repay amounts due under our outstanding convertible notes and 5.625% Notes, we currently expect that substantially all the earnings and cash flow of our subsidiaries will be retained and used by them in their operations, including servicing their respective debt obligations. The ability of our operating subsidiaries to pay dividends or transfer assets to us is restricted by applicable state law and contractual restrictions, including the terms of their outstanding debt instruments. 
+ Our quarterly operating results for our site development services fluctuate and therefore we may not be able to adjust our cost structure on a timely basis with regard to such fluctuations. 
+ The demand for our site development services fluctuates from quarter to quarter and should not be considered indicative of long-term results. Numerous factors cause these fluctuations, including: 
+ the timing and amount of our customers’ capital expenditures; 
+ the size and scope of our projects; 
+ the business practices of customers, such as deferring commitments on new projects until after the end of the calendar year or the customers’ fiscal year; 
+ delays relating to a project or tenant installation of equipment; 
+ seasonal factors, such as weather, vacation days and total business days in a quarter; 
+ the use of third party providers by our customers; 
+ the rate and volume of wireless service providers’ network development; and 
+ general economic conditions. 
+ Although the demand for our site development services fluctuates, we incur significant fixed costs, such as maintaining a staff and office space, in anticipation of future contracts. In addition, the timing of revenues is difficult to forecast because our sales cycle may be relatively long. Therefore, we may not be able to adjust our cost structure on a timely basis to respond to the fluctuations in demand for our site development services. 
+ We are not profitable and expect to continue to incur losses. 
+ We are not profitable. The following chart shows the net losses we incurred for the periods indicated: 
+ For the year ended December 31, 
+ 2013 
+ 2012 
+ 2011 
+ (in thousands) 
+ Net loss 
+ (55,909) 
+ (181,390) 
+ (126,892) 
+ Our losses are principally due to depreciation, amortization and accretion expenses, interest expense (including non-cash interest expense and amortization of deferred financing fees), and losses from the extinguishment of debt in the periods presented above. We expect to continue to incur significant losses, which may affect our ability to service our indebtedness. 
+ The loss of the services of certain of our key personnel or a significant number of our employees may negatively affect our business. 
+ Our success depends to a significant extent upon performance and active participation of our key personnel. We cannot guarantee that we will be successful in retaining the services of these key personnel. We have employment agreements with Jeffrey A. Stoops, our President and Chief Executive Officer, Kurt L. Bagwell, our Executive Vice President and President—International, Thomas P. Hunt, our Executive Vice President, Chief Administrative Officer and General Counsel, and Brendan T. Cavanagh, our Executive Vice President and Chief Financial Officer. We do not have employment agreements with any of our other key personnel. If we were to lose any key personnel, we may not be able to find an appropriate replacement on a timely basis and our results of operations could be negatively affected. Further, the loss of a significant number of employees or our inability to hire a sufficient number of qualified employees could have a material adverse effect on our business. 
+ Our business is subject to government regulations and changes in current or future regulations could harm our business. 
+ We are subject to federal, state and local regulation of our business, both in the U.S. and internationally. In the U.S., both the Federal Aviation Administration (“FAA”) and the FCC regulate the construction, modification, and maintenance of towers and structures that support antennas used for wireless communications and radio and television broadcasts. In addition, the FCC separately licenses and regulates wireless communications equipment and television and radio stations operating from such towers. FAA and FCC regulations govern construction, lighting, painting, and marking of towers and may, depending on the characteristics of the tower, require registration of the tower. Certain proposals to construct new towers or to modify existing towers are reviewed by the FAA to ensure that the tower will not present a hazard to air navigation. 
+ Tower owners may have an obligation to mark or paint such towers or install lighting to conform to FAA and FCC regulations and to maintain such marking, painting and lighting. Tower owners may also bear the responsibility of notifying the FAA of any lighting outages. Certain proposals to operate wireless communications and radio or television stations from towers are also reviewed by the FCC to ensure compliance with environmental impact requirements established in federal statutes, including NEPA, NHPA and ESA. Failure to comply with existing or future applicable requirements may lead to civil penalties or other liabilities and may subject us to significant indemnification liability to our customers against any such failure to comply. In addition, new regulations may impose additional costly burdens on us, which may affect our revenues and cause delays in our growth. 
+ Local regulations, including municipal or local ordinances, zoning restrictions and restrictive covenants imposed by community developers, vary greatly, but typically require tower owners to obtain approval from local officials or community standards organizations prior to tower construction or modification. Local regulations can delay, prevent, or increase the cost of new construction, co-locations, or site upgrades, thereby limiting our ability to respond to customer demand. In addition, new regulations may be adopted that increase delays or result in additional costs to us. Furthermore, with respect to our international new builds, our tower construction may be delayed or halted as a result of local zoning restrictions, inconsistencies between laws or other barriers to construction in international markets. These factors could have a material adverse effect on our future growth and operations. 
+ Our towers are subject to damage from natural disasters. 
+ Our towers are subject to risks associated with natural disasters such as tornadoes, hurricanes and earthquakes. We maintain insurance to cover the estimated cost of replacing damaged towers, but these insurance policies are subject to loss limits and deductibles. We also maintain third party liability insurance, subject to loss limits and deductibles, to protect us in the event of an accident involving a tower. A tower accident for which we are uninsured or underinsured, or damage to a significant number of our towers, could require us to incur significant expenditures and may have a material adverse effect on our operations or financial condition. 
+ To the extent that we are not able to meet our contractual obligations to our customers, due to a natural disaster or other catastrophic circumstances, our customers may not be obligated or willing to pay their lease expenses; however, we would be required to continue paying our fixed expenses related to the affected tower, including ground lease expenses. If we are unable to meet our contractual obligations to our customers for a material portion of our towers, our operations could be materially and adversely affected. 
+ We could have liability under environmental laws that could have a material adverse effect on our business, financial condition and results of operations. 
+ Our operations, like those of other companies engaged in similar businesses, are subject to the requirements of various federal, state, local and foreign environmental and occupational safety and health laws and regulations, including those relating to the management, use, storage, disposal, emission and remediation of, and exposure to, hazardous and non-hazardous substances, materials, and wastes. As owner, lessee or operator of numerous tower structures, we may be liable for substantial costs of remediating soil and groundwater contaminated by hazardous materials, without regard to whether we, as the owner, lessee or operator, knew of or were responsible for the contamination. We may be subject to potentially significant fines or penalties if we fail to comply with any of these requirements. The current cost of complying with these laws is not material to our financial condition or results of operations. However, the requirements of these laws and regulations are complex, change frequently, and could become more stringent in the future. It is possible that these requirements will change or that liabilities will arise in the future in a manner that could have a material adverse effect on our business, financial condition and results of operations. 
+ We could suffer adverse tax and other financial consequences if taxing authorities do not agree with our tax positions, or we are unable to utilize our net operating losses. 
+ We are periodically subject to a number of tax examinations by taxing authorities in the states and countries where we do business. We also have significant deferred tax assets related to our net operating losses (“NOLs”) in U.S. federal and state taxing jurisdictions. Generally, for U.S. federal and state tax purposes, NOLs can be carried forward and used for up to twenty years, and all of our tax years will remain subject to examination until three years after our NOLs are used or expire. We expect that we will continue to be subject to tax examinations in the future. In addition, U.S. federal, state and local, as well as international, tax laws and regulations are extremely complex and subject to varying interpretations. We recognize tax benefits of uncertain tax positions when we believe the positions are more likely than not of being sustained upon a challenge by the relevant tax authority. We believe our judgments in this area are reasonable and correct, but there is no guarantee that we will be successful if challenged by a tax authority. If there are tax benefits, including from our use of NOLs or other tax attributes, that are challenged successfully by a taxing authority, we may be required to pay additional taxes or we may seek to enter into settlements with the taxing authorities, which could require significant payments or otherwise have a material adverse effect on our business, results of operations and financial condition. 
+ In addition, we may be limited in our ability to utilize our NOLs to offset future taxable income and thereby reduce our otherwise payable income taxes. We have substantial federal and state NOLs, including significant portions obtained through acquisitions and dispositions, as well as those generated through our historic business operations. In addition, we have disposed of some entities and restructured other entities in conjunction with financing transactions and other business activities. 
+ To the extent we believe that a position with respect to an NOL is not more likely than not to be sustained, we do not record the related deferred tax asset. In addition, for NOLs that meet the recognition threshold, we assess the recoverability of the NOL and establish a valuation allowance against the deferred tax asset related to the NOL if recoverability is questionable. Given the uncertainty surrounding the recoverability of certain of our NOLs, we have established a valuation allowance to offset the related deferred tax asset so as to reflect what we believe to be the recoverable portion of our NOLs. 
+ Our ability to utilize our NOLs is also dependent, in part, upon us having sufficient future earnings to utilize our NOLs before they expire. If market conditions change materially and we determine that we will be unable to generate sufficient taxable income in the future to utilize our NOLs, we could be required to record an additional valuation allowance. We review our uncertain tax position and the valuation allowance for our NOLs periodically and make adjustments from time to time, which can result in an increase or decrease to the net deferred tax asset related to our NOLs. Our NOLs are also subject to review and potential disallowance upon audit by the taxing authorities of the jurisdictions where the NOLs were incurred, and future changes in tax laws or interpretations of such tax laws could limit materially our ability to utilize our NOLs. If we are unable to use our NOLs or use of our NOLs is limited, we may have to make significant payments or otherwise record charges or reduce our deferred tax assets, which could have a material adverse effect on our business, results of operations and financial condition. 
+ Our issuance of equity securities and other associated transactions may trigger a future ownership change which may negatively impact our ability to utilize net operating loss deferred tax assets in the future. 
+ The issuance of equity securities and other associated transactions may increase the chance that we will have a future ownership change under Section 382 of the Internal Revenue Code of 1986. We may also have a future ownership change, outside of our control, caused by future equity transactions by our current shareholders. Depending on our market value at the time of such future ownership change, an ownership change under Section 382 could negatively impact our ability to utilize our net operating loss deferred tax assets in the event we generate future taxable income. Currently, we have recorded a full valuation allowance against our net operating loss 
+ deferred tax asset because we have concluded that our loss history indicates that it is not “more likely than not” that such deferred tax assets will be realized. 
+ Future sales of our Class A common stock in the public market or the issuance of other equity may cause dilution or adversely affect the market price of our Class A common stock and our ability to raise funds in new equity or equity-related offerings. 
+ Sales of a substantial number of shares of our Class A common stock or other equity-related securities in the public market, including sales by any selling shareholder or conversion of our convertible notes, could depress the market price of our Class A common stock and impair our ability to raise capital through the sale of additional equity securities. 
+ Our costs could increase and our revenues could decrease due to perceived health risks from RF energy. 
+ The U.S. government imposes requirements and other guidelines relating to exposure to RF energy. Exposure to high levels of RF energy can cause negative health effects. The potential connection between exposure to low levels of RF energy and certain negative health effects, including some forms of cancer, has been the subject of substantial study by the scientific community in recent years. According to the FCC, the results of these studies to date have been inconclusive. However, public perception of possible health risks associated with cellular and other wireless communications media could slow the growth of wireless companies, which could in turn slow our growth. In particular, negative public perception of, and regulations regarding, health risks could cause a decrease in the demand for wireless communications services. Moreover, if a connection between exposure to low levels of RF energy and possible negative health effects, including cancer, were demonstrated, we could be subject to numerous claims. Our current policies provide no coverage for claims based on RF energy exposure. If we were subject to claims relating to exposure to RF energy, even if such claims were not ultimately found to have merit, our financial condition could be materially and adversely affected. 
+ Our articles of incorporation, our bylaws and Florida law provide for anti-takeover provisions that could make it more difficult for a third party to acquire us. 
+ Provisions of our articles of incorporation, our bylaws and Florida law could make it more difficult for a third party to acquire us, even if doing so would be beneficial to our shareholders. These provisions, alone or in combination with each other, may discourage transactions involving actual or potential changes of control, including transactions that otherwise could involve payment of a premium over prevailing market prices to holders of our Class A common stock, or could limit the ability of our shareholders to approve transactions that they may deem to be in their best interests. 
+ ITEM 2. 
+ PROPERTIES
