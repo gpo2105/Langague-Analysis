@@ -1,9 +1,11 @@
 Ticker,Name,SIC
 ATEN,A10 NETWORKS INC ,3576
+ATVI,Activision Blizzard,7372
 ADBE,Adobe,7372
 AMD,Advanced Micro Devices,3674
 AKAM,Akamai Technologies Inc.,7389
 AMZN,Amazon,5961
+AMC,AMC ENTERTAINMENT,7830
 AMCX,AMC NETWORKS INC,4841
 APPF,APPFOLIO INC,7372
 AAPL,Apple,3571
@@ -31,11 +33,13 @@ INTU,Intuit,7372
 LRCX,Lam Research Corporation,3559
 LYV,Live Nation Entertainment Inc.,7900
 MU,Micron Technology Inc.,3674
+MSFT,Microsoft,7372
 MSI,Motorola Solutions,3663
 NTAP,NetApp Inc.,3572
 NFLX,Netflix,7841
 NVDA,NVIDIA,3674
 OMC,Omnicom Group,7311
+ORCL,Oracle,7372
 PAYC,Paycom Software Inc.,7372
 PYPL,Paypal,7389
 QRVO,Qorvo Inc.,3674
@@ -43,9 +47,11 @@ QCOM,Qualcomm,3663
 QUOT,Quotient Technology,7310
 SABR,Sabre Corp,7370
 CRM,Salesforce,7372
+SBAC,SBA Communications Corp. Class A,6798
 NOW,ServiceNow Inc.,7372
 SQ,Square,7372
 SSNC,SS&C,7372
+STMP,Stamps.Com,7389
 SNPS,Synopsys,7372
 TTWO,Take-Two,7372
 TXN,Texas Instruments,3674
@@ -55,6 +61,7 @@ TWTR,Twitter,7370
 UPLD,Upland Software,7372
 VRSN,Verisign,7371
 V,Verizon,7389
+VIAC,ViacomCBS Inc. Class B,4833
 WDAY,Workday,7374
 ZEN,Zendesk,7374
 KN,Knowles,3651
@@ -62,6 +69,7 @@ ZNGA,Zynga,7374
 EMR,Emerson Radio,3600
 CHGG,Chegg,8200
 IAC,Interactive Corp,7370
+AUD,Audacy,4832
 SIRI,Sirius Radio,4832
 SBGI,Sinclair Broadcasting Group,4833
 IHRT,iHeartMedia Inc.,4832
@@ -69,3 +77,8 @@ IRBT,iRobot,3630
 EBAY,eBay,7389
 MTCH,Match.com Group,7200
 IPG,Interpublic Group,7311
+WU,Western Union,7389
+CMCSA,Comcast,4841
+RNG,Ringcentral,7374
+ETSY,Etsy,7389
+PRTS,Carparts,5531
