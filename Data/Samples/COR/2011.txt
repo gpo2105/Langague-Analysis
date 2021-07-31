@@ -1,0 +1,512 @@
+RISK FACTORS 
+ Any of the following risks could materially and adversely affect our business, results of operations or financial condition. The risks and uncertainties described below are those that we currently believe
+may materially affect our company. Additional risks and uncertainties of which we are unaware or that we currently deem immaterial also may become important factors that affect our company. 
+ Risks Related to Our Business and Operations 
+ Global economic conditions could adversely affect our liquidity and financial condition. 
+ In the United States and globally, market and economic conditions have been unprecedented over the past few years and challenging with tighter credit conditions and slower economic growth in all markets
+in which we own properties and conduct our operations. The U.S. and global economies have experienced a recession and face continued concerns about the systemic impact of adverse economic conditions, such as high energy costs, geopolitical issues,
+the availability and cost of credit, unstable global financial and mortgage markets, high corporate, consumer and governmental debt levels, high unemployment and declining residential and commercial real estate markets. 
+ As a result of these conditions, general economic conditions and the cost and availability of capital have been and may again be
+adversely affected in some or all of the markets in which we own properties and conduct our operations. Renewed or increased turbulence in the U.S., European and other international financial markets and economies may adversely affect our ability,
+and the ability of our tenants, to replace or renew maturing liabilities on a timely basis, access the capital markets to meet liquidity and capital expenditure requirements and may result in adverse effects on our, and our tenants, financial
+condition and results of operations. 
+ In addition, our access to funds under our revolving credit facility and other lines of
+credit depend on the ability of the lenders that are parties to such facilities to meet their funding commitments to us. We cannot assure you that long-term disruptions in the global economy and the return of tighter credit conditions among, and
+potential failures or nationalizations of, third party financial institutions as a result of such disruptions will not have an adverse effect on our lenders. If our lenders are not able to meet their funding commitments to us, our business, results
+of operation, cash flows and financial condition could be adversely affected. 
+ If we do not have sufficient cash flow to
+continue operating our business and are unable to borrow additional funds, access our existing lines of credit or raise equity or debt capital, we may need to find alternative ways to increase our liquidity. Such alternatives may include, without
+limitation, curtailing development or redevelopment activity, disposing of one or more of our properties possibly on disadvantageous terms or entering into or renewing leases on less favorable terms than we otherwise would. 
+ Our portfolio of properties consists primarily of data centers geographically concentrated in certain markets and any adverse developments in local
+economic conditions or the demand for data center space in these markets may negatively impact our operating results. 
+ Our
+portfolio of properties consists primarily of data centers geographically concentrated in Los Angeles, the San Francisco Bay and Northern Virginia areas, Chicago, Boston, New York City and Miami. These markets comprised 31.7%, 29.6%, 16.3%, 7.4%,
+8.5%, 4.8% and 1.7%, respectively, of our annualized rent as of December 31, 2011. As such, we are susceptible to local economic conditions and the supply of and demand for data center space in these markets. If there is a downturn in the
+economy or an oversupply of or decrease in demand for data centers in these markets, our business could be materially adversely affected to a greater extent than if we owned a real estate portfolio that was more diversified in terms of both
+geography and industry focus. 
+ We have experienced significant losses and we cannot assure you that we will achieve profitability. 
+ For fiscal years 2011, 2010 and 2009, on a consolidated basis, we had net losses of $10.8 million, $12.3 million and
+$7.0 million, respectively. Our ability to achieve profitability is dependent upon a number of risks and uncertainties, many of which are beyond our control. We cannot assure you that we will be successful in executing our business strategy and
+become profitable. Our failure to do so could have a material adverse effect on the price of our common stock and our ability to satisfy our obligations, including making payments on our indebtedness. Even if we achieve profitability, given the
+competitive nature of the industry in which we operate, we may not be able to sustain or increase profitability on a quarterly or annual basis. 
+ We face significant competition and may be unable to lease vacant space, renew existing leases or release space as leases expire, which may have a
+material adverse effect on our business and results of operations. 
+ We compete with numerous developers, owners and
+operators of technology-related real estate and data centers, many of which own properties similar to ours in the same markets, including Digital Realty Trust, Inc., Dupont Fabros Technology, Inc., Equinix, Inc., Terremark Worldwide, Inc., Savvis,
+Inc., Internap Network Services Corporation and Telx Group, Inc. In addition, we may face competition from new entrants into the data center market. Some of our competitors have significant advantages over us, including 
+ greater name recognition, longer operating histories, lower operating costs, pre-existing relationships with current or potential customers, greater financial, marketing and other resources,
+access to better networks and access to less expensive power. These advantages could allow our competitors to respond more quickly or effectively to strategic opportunities or changes in our industries or markets. If our competitors offer data
+center space that our existing or potential customers perceive to be superior to ours based on numerous factors, including power, security considerations, location or network connectivity, or if they offer rental rates below our or current market
+rates, we may lose existing or potential customers, incur costs to improve our properties or be forced to reduce our rental rates. This risk is compounded by the fact that a significant percentage of our customer leases expire every year. For
+example, as of December 31, 2011, leases representing 32.6%, 17.4% and 14.8% of our annualized rent will expire during 2012, 2013 and 2014, respectively. If the rental rates for our properties decrease, our existing customers do not renew their
+leases or we are unable to lease vacant data center space or re-lease data center space for which leases are scheduled to expire, our business and results of operations could be materially adversely affected. 
+ We are continuing to invest in our expansion efforts, but we may not have sufficient customer demand in the future to realize expected returns on
+these investments. 
+ As part of our growth strategy, we intend to commit substantial operational and financial resources to
+develop new data centers and expand existing ones. However, we typically do not require pre-leasing commitments from customers before we develop or expand a data center, and we may not have sufficient customer demand to support the new data center
+space when completed. A lack of customer demand for data center space or excess capacity in the data center market could impair our ability to achieve our expected rate of return on our investment, which could have a material adverse effect on our
+financial condition, operating results and the market price of our common stock. 
+ Declining real estate valuations and impairment charges
+could adversely affect our earnings and financial condition. 
+ We periodically review each of our properties for indicators
+that its carrying amount may not be recoverable. Examples of such indicators may include a significant decrease in the market price, a significant adverse change in the extent or manner in which the property is being used or expected to be used
+based on the underwriting at the time of acquisition, or a change in its physical condition, an accumulation of costs significantly in excess of the amount originally expected for the acquisition or development, or a history of operating or cash
+flow losses. When such impairment indictors exist, we review an estimate of the future cash flows (excluding interest charges) expected to result from the real estate investments use and eventual disposition and compare to the carrying value
+of the property. We consider factors such as future operating income, trends and prospects, as well as the effects of leasing demand, competition and other factors. If our undiscounted net cash flow evaluation indicates that we are unable to recover
+the carrying value of a real estate investment, an impairment loss is recorded to the extent that the carrying value exceeds the estimated fair value of the property. These losses have a direct impact on our net income because recording an
+impairment loss results in an immediate negative adjustment to net income. The evaluation of anticipated cash flows is highly subjective and is based in part on assumptions regarding future occupancy, rental rates and capital requirements that could
+differ materially from actual results in future periods. A worsening real estate market may cause us to reevaluate the assumptions used in our impairment analysis. Impairment charges could adversely affect our financial condition, results of
+operations. 
+ Any failure of our physical infrastructure or services could lead to significant costs and disruptions that could reduce our
+revenues, harm our business reputation and have a material adverse effect on our financial results. 
+ Our business depends
+on providing customers with highly reliable service. We may fail to provide such service as a result of numerous factors, including: 
+ human error; 
+ power loss; 
+ improper building maintenance by our landlords in the buildings that we lease; 
+ physical or electronic security breaches; 
+ fire, earthquake, hurricane, flood and other natural disasters; 
+ water damage; 
+ war, terrorism and any related conflicts or similar events worldwide; and 
+ sabotage and vandalism. 
+ Problems at one or more of our data centers, whether or not within our control, could result
+in service interruptions or equipment damage. We provide service level commitments to substantially all of our customers. As a result, service interruptions or equipment damage in our data centers could result in credits to these customers. In
+addition, although we have given such credits to our customers in the past, there can be no assurance that our customers will accept these credits as compensation in the future. Service interruptions and equipment failures may also expose us to
+additional legal liability and damage our brand image and reputation. Significant or frequent service interruptions could cause our customers to terminate or not renew their leases. In addition, we may be unable to attract new customers if we have a
+reputation for significant or frequent service disruptions in our data centers. 
+ Even if we have additional space available for lease at
+any one of our data centers, our ability to lease this space to existing or new customers could be constrained by our access to sufficient electrical power. 
+ Our properties have access to a finite amount of power, which limits the extent to which we can lease additional space for use at our data centers. As current and future customers increase their power
+footprint in our facilities over time, the remaining available power for future customers could limit our ability to increase occupancy rates or network density within our existing facilities. 
+ Furthermore, at certain of our data centers, our aggregate maximum contractual obligation to provide power and cooling to our customers
+may exceed the physical capacity at such data centers if customers were to quickly increase their demand for power and cooling. If we are not able to increase the available power and/or cooling or move the customer to another location within our
+data centers with sufficient power and cooling to meet such demand, we could lose the customer as well as be exposed to liability under our leases. Any such material loss of customers or material liability could adversely affect our results of
+operations. 
+ To fund our growth strategy and refinance our indebtedness, we depend on external sources of capital, which may not be
+available to us on commercially reasonable terms or at all. 
+ In order to maintain our qualification as a REIT, we are
+required under the Internal Revenue Code (the Code) to distribute at least 90% of our net taxable income annually, determined without regard to the dividends paid deduction and excluding any net capital gains. We will also be subject to
+income tax at regular corporate rates to the extent that we distribute less than 100% of our net taxable income, including any net capital gains. These distribution requirements may limit our ability to fund future capital needs, including any
+necessary acquisition financing, from operating cash flow. Consequently, we intend to rely on third-party sources for debt or equity financing to fund our growth strategy. In addition, we may need external sources of capital to refinance our
+indebtedness at maturity. We may not be able to obtain such financing or refinancing on favorable terms or at all. Our access to third-party sources of capital depends, in part, on: 
+ general market conditions; 
+ the markets perception of our growth potential; 
+ our then current debt levels; 
+ our historical and expected future earnings, cash flow and cash distributions; and 
+ the market price per share of our common stock. 
+ In addition, our ability to access additional capital may be limited by the terms of our existing indebtedness, which restricts our incurrence of additional debt. If we cannot obtain capital when needed,
+we may not be able to acquire or develop properties when strategic opportunities arise or refinance our debt at maturity, which could have a material adverse effect on our business. 
+ We may be vulnerable to security breaches which could disrupt our operations and have a material adverse effect on our financial performance and operating results. 
+ A party who is able to compromise the security measures on our networks or the security of our infrastructure could misappropriate our
+proprietary information and the personal information of our customers and cause interruptions or malfunctions in our or our customers operations. We may be required to expend significant financial resources to protect against such threats or
+to alleviate problems caused by security breaches. As techniques used to breach security change frequently and are generally not recognized until launched against a target, we may not be able to implement security measures in a timely manner or, if
+and when implemented, these measures could be circumvented. Any breaches that may occur could expose us to increased risk of lawsuits, loss of existing or potential customers, harm to our reputation and increases in our security costs, which could
+have a material adverse effect on our financial performance and operating results. 
+ Our success depends on key personnel whose continued service is not guaranteed and we may not be able to
+retain or attract knowledgeable, experienced and qualified personnel. 
+ We depend on the efforts of key personnel,
+particularly Mr. Thomas M. Ray, our President and Chief Executive Officer, and Jeffrey Finnin, our Chief Financial Officer. Our reputation and relationships with existing and potential customers, industry personnel and key lenders are the
+direct result of a significant investment of time and effort by our key personnel to build credibility in a highly specialized industry. Many of our senior executives have extensive experience and strong reputations in the real estate and technology
+industries, which aid us in capitalizing on strategic opportunities and negotiating with customers. While we believe that we will be able to find suitable replacements for key personnel who may depart from time to time, the loss of their services
+could diminish our business and investment opportunities and our customer, industry and lender relationships, which could have a material adverse effect on our operations. 
+ In addition, our success depends, to a significant degree, on being able to employ and retain personnel who have the expertise required to successfully acquire, develop and operate high-quality data
+centers. Personnel with these skill sets are in limited supply so the demand and competition for such expertise is intense. We cannot assure you that we will be able to hire and retain a sufficient number of qualified employees at reasonable
+compensation levels to support our growth and maintain the high level of quality service our customers expect, and any failure to do so could have a material adverse effect on our business. 
+ Our expenses may not decrease if our revenue decreases. 
+ Most of the
+expenses associated with our business, such as debt service payments, real estate, personal and ad valorem taxes, insurance, utilities, employee wages and benefits and corporate expenses are relatively inflexible and do not necessarily decrease in
+tandem with a reduction in revenue from our business. Our expenses will also be affected by inflationary increases and certain of our costs may exceed the rate of inflation in any given period. As a result, we may not be able to fully offset our
+costs by higher lease rates, which could have a material adverse effect on our results of operations. 
+ We depend on third parties to
+provide network connectivity within and between certain of our data centers, and any delays or disruptions in this connectivity may adversely affect our operating results and cash flow. 
+ We depend upon carriers and other network providers to deliver network connectivity to customers within our data centers as well as the
+fiber network interconnection between our data centers. Our hub-and-spoke approach makes us dependent on these third parties to provide these services between our data centers. We cannot assure you that any network provider will elect to offer its
+services within new data centers that we develop or that once a network provider decides to provide connectivity to or between our data centers, it will continue to do so for any period of time. A significant interruption in or loss of these
+services could impair our ability to attract and retain customers and have a material adverse effect on our business. 
+ Enabling connectivity within and between our data centers requires construction and operation of a sophisticated redundant fiber network.
+The construction required to connect our data centers is complex and may involve factors outside of our control, including the availability of construction resources. If highly reliable connectivity within and between certain of our data centers is
+not established, is materially delayed, is discontinued or fails, our reputation could be harmed, which could have a material adverse effect on our ability to attract new customers or retain existing ones. 
+ Our data center infrastructure may become obsolete and we may not be able to upgrade our power and cooling systems cost-effectively or at all. 
+ The markets for the data centers that we own and operate, as well as the industries in which our customers operate, are
+characterized by rapidly changing technology, evolving industry standards, frequent new product introductions and changing customer demands. Our ability to deliver technologically sophisticated power and cooling are significant factors in our
+customers decisions to rent space in our data centers. Our data center infrastructure may become obsolete due to the development of new systems to deliver power to, or eliminate heat from, the servers and other customer equipment that we
+house. Additionally, our data center infrastructure could become obsolete as a result of the development of new technology that requires levels of power and cooling that our facilities are not designed to provide. Our power and cooling systems are
+also difficult and expensive to upgrade. Accordingly, we may not be able to efficiently upgrade or change these systems to meet new demands without incurring significant costs that we may not be able to pass on to our customers. The obsolescence of
+our power and cooling systems would have a material adverse effect on our business. In addition, evolving customer demand could require services or infrastructure improvements that we do not provide or that would be difficult or expensive for us to
+provide in our current data centers, and we may be unable to adequately adapt our properties or acquire new properties that can compete successfully. We risk losing customers to our competitors if we are unable to adapt to this rapidly evolving
+marketplace. 
+ Furthermore, potential future regulations that apply to industries we serve may require
+customers in those industries to seek specific requirements from their data centers that we are unable to provide. These may include physical security requirements applicable to the defense industry and government contractors and privacy and
+security regulations applicable to the financial services and health care industries. If such regulations were adopted, we could lose some customers or be unable to attract new customers in certain industries, which would have a material adverse
+effect on our results of operations. 
+ Potential losses to our properties may not be covered by insurance or may exceed our policy coverage
+limits. 
+ We do not carry insurance for generally uninsured losses, such as losses from riots, war, terrorist attacks or
+acts of God. The properties in our portfolio located in California are subject to higher risks from earthquakes and our property in Miami is potentially subject to greater risks arising from tropical storms, hurricanes and floods. Together, these
+properties represented approximately 63.0% of total annualized rent as of December 31, 2011. While we do carry earthquake, hurricane and flood insurance on our properties, the amount of our insurance coverage may not be sufficient to fully
+cover such losses. In addition, we may discontinue earthquake, hurricane or flood insurance on some or all of our properties in the future if the cost of premiums for any of these policies exceeds, in our judgment, the value of the coverage relative
+to the risk of loss. 
+ If we experience a loss which is uninsured or which exceeds our policy coverage limits, we could lose
+the capital invested in the damaged properties as well as the anticipated future cash flows from those properties. In addition, if the damaged properties are subject to recourse indebtedness, we would continue to be liable for the indebtedness, even
+if these properties were irreparably damaged. 
+ In addition, even if damage to our properties is covered by insurance, a
+disruption of our business caused by a casualty event may result in the loss of business or customers. We carry a limited amount of business interruption insurance, but such insurance may not fully compensate us for the loss of business or customers
+due to an interruption caused by a casualty event. 
+ The recent disruption in the financial markets makes it more difficult to
+evaluate the stability and net assets or capitalization of insurance companies, and any insurers ability to meet its claim payment obligations. A failure of an insurance company to make payments to us upon an event of loss covered by an
+insurance policy could have a material adverse effect on our business and financial condition. 
+ A small number of customers account for a
+significant portion of our revenues, and the loss of any of these customers could significantly harm our business, financial condition and results of operations. 
+ We currently depend, and expect to continue to depend, upon a relatively small number of customers for a significant percentage of our net revenue. Our top ten customers accounted for an aggregate of
+approximately 35.6% of our total annualized rent as of December 31, 2011. During the second quarter of 2010, we expanded our relationship with our largest customer, Facebook, Inc. which represented 11.5% of our annualized rent as of
+December 31, 2011. Of Facebook Inc.s total 74,091 NRSF under lease, 23,955 NRSF at our 1656 McCarthy property is scheduled to expire in April 2012. Some of our customers may experience a downturn in their businesses or other factors that
+may weaken their financial condition and result in them failing to make timely rental payments, defaulting on their leases, reducing the level of interconnection services they obtain or the amount of space they lease from us or terminating their
+relationship with us. The loss of one or more of our significant customers or a customer exerting significant pricing pressure on us could also have a material adverse effect on our results of operations. 
+ In addition, our largest customers may choose to develop new data centers or expand existing data centers of their own. In the event that
+any of our key customers were to do so, it could result in a loss of business to us or increase pricing pressure on us. If we lose a customer, there is no guarantee that we would be able to replace that customer at a comparative rental rate or at
+all. 
+ Some of our largest customers may also compete with one another in various aspects of their businesses. The competitive
+pressures on our customers may have a negative impact on our operations. For instance, one customer could determine that it is not in that customers interest to house mission-critical servers in a facility operated by the same company that
+relies on a key competitor for a significant part of its annual revenue. Our loss of a large customer for this or any other reason could have a material adverse effect on our results of operations. 
+ We are dependent upon third-party suppliers for power and certain other services, and we are vulnerable to service failures of our third-party
+suppliers and to price increases by such suppliers. 
+ We rely on third parties to provide power to our data centers, and we
+cannot ensure that these third parties will deliver such power in adequate quantities or on a consistent basis. If the amount of power available to us is inadequate to support our customer requirements, we may be unable to satisfy our obligations to
+our customers or grow our business. In addition, our data centers are susceptible to power shortages and planned or unplanned power outages caused by these shortages. While we attempt to limit exposure to power shortages by using backup generators
+and batteries, power outages may last beyond our backup and alternative power arrangements, which would harm our customers and our business. In the past, a limited number of our customers have 
+ experienced temporary losses of power. Pursuant to the terms of some of our customer leases, continuous or chronic power outages may give certain of our tenants the right to terminate their
+leases or cause us to incur financial obligations in connection with a power loss. In addition, any loss of services or equipment damage could reduce the confidence of our customers in our services thereby impairing our ability to attract and retain
+customers, which would adversely affect both our ability to generate revenues and our operating results, and harm our reputation. 
+ In addition, we may be subject to risks and unanticipated costs associated with obtaining power from various utility companies. Municipal utilities in areas experiencing financial distress may increase
+rates to compensate for financial shortfalls unrelated to either the cost of production or the demand for electricity. Other utilities that serve our data centers may be dependent on, and sensitive to price increases for, a particular type of fuel,
+such as coal, oil or natural gas. In addition, the price of these fuels and the electricity generated from them could increase as a result of proposed legislative measures related to climate change or efforts to regulate carbon emissions. In any of
+these cases, increases in the cost of power at any of our data centers would put those locations at a competitive disadvantage relative to data centers served by utilities that can provide less expensive power. 
+ We may be unable to identify and complete acquisitions and successfully operate acquired properties. 
+ We continually evaluate the market for available properties and may acquire data centers or properties suited for data center development
+when opportunities exist. Our ability to acquire properties on favorable terms and successfully develop and operate them involves significant risks including, but not limited to: 
+ we may be unable to acquire a desired property because of competition from other data center companies or real estate investors with more
+capital; 
+ even if we are able to acquire a desired property, competition from other potential acquirers may significantly increase the purchase price of
+such property; 
+ we may be unable to realize the intended benefits from acquisitions or achieve anticipated operating or financial results; 
+ we may be unable to finance the acquisition on favorable terms or at all; 
+ we may underestimate the costs to make necessary improvements to acquired properties; 
+ we may be unable to quickly and efficiently integrate new acquisitions into our existing operations resulting in disruptions to our operations
+or the diversion of our managements attention; 
+ acquired properties may be subject to reassessment, which may result in higher than expected tax payments; 
+ we may not be able to access sufficient power on favorable terms or at all; and 
+ market conditions may result in higher than expected vacancy rates and lower than expected rental rates. 
+ In the past we have acquired properties that did not perform up to our expectations and there can be no assurance that this will not
+happen again. If we are unable to successfully acquire, redevelop, develop and operate data center properties, our ability to grow our business, compete and meet market expectations will be significantly impaired, which would have a material adverse
+effect on the price of our common stock. 
+ We may be subject to unknown or contingent liabilities related to properties or businesses that
+we acquire for which we may have limited or no recourse against the sellers. 
+ Assets and entities that we have acquired or
+may acquire in the future, including the properties contributed by the Funds or their affiliates, may be subject to unknown or contingent liabilities for which we may have limited or no recourse against the sellers. Unknown or contingent liabilities
+might include liabilities for clean-up or remediation of environmental conditions, claims of customers, vendors or other persons dealing with the acquired entities, tax liabilities and other liabilities whether incurred in the ordinary course of
+business or otherwise. In the future we may enter into transactions with limited representations and warranties or with representations and warranties that do not survive the closing of the transactions, in which event we would have no or limited
+recourse against the sellers of such properties. While we usually require the sellers to indemnify us with respect to breaches of representations and warranties that survive, such indemnification (including the indemnification by the Funds or their
+affiliates) is often limited and subject to various materiality thresholds, a significant deductible or an aggregate cap on losses. 
+ As a result, there is no guarantee that we will recover any amounts with respect to losses
+due to breaches by the sellers of their representations and warranties. In addition, the total amount of costs and expenses that we may incur with respect to liabilities associated with acquired properties and entities may exceed our expectations,
+which may adversely affect our operating results and financial condition. Finally, indemnification agreements between us and the sellers typically provide that the sellers will retain certain specified liabilities relating to the assets and entities
+acquired by us. While the sellers are generally contractually obligated to pay all losses and other expenses relating to such retained liabilities, there can be no guarantee that such arrangements will not require us to incur losses or other
+expenses as well. 
+ Under the contribution agreement pursuant to which the Funds or their affiliates contributed the properties
+that comprise our portfolio to the Operating Partnership, each of the Funds or their affiliates made certain representations and warranties as to certain material matters related to the property being contributed by such fund or affiliate such as
+title to any owned property, compliance with laws (including environmental laws) and the enforceability of certain material customer contracts and leases. These representations and warranties made by the Funds or their affiliates have since expired
+without our becoming aware of any breach. Therefore, we have no further recourse against the contributors under the contribution agreement. 
+ Our growth depends on the successful redevelopment and development of our properties and any delays or unexpected costs associated with such projects
+may harm our growth prospects, future operating results and financial condition. 
+ As of December 31, 2011, we had the
+ability to expand our operating data center square footage by approximately 88.4%, or 936,390 NRSF through the development or redevelopment of (1) 126,106 NRSF space under construction, (2) 465,034 NRSF of vacant space, and
+(3) 345,250 NRSF of new data center space on land that we currently own at our Coronado-Stender properties of which 32,284 NRSF of unconditioned core and shell space was under construction as of December 31, 2011. Our growth depends upon
+the successful completion of the redevelopment and development of this space and similar projects in the future. Current and future redevelopment and development projects and expansion into new markets will involve substantial planning, allocation
+of significant company resources and certain risks, including risks related to financing, zoning, regulatory approvals, construction costs and delays. These projects will also require us to carefully select and rely on the experience of one or more
+general contractors and associated subcontractors during the construction process. Should a general contractor or significant subcontractor experience financial or other problems during the construction process, we could experience significant
+delays, increased costs to complete the project and other negative impacts to our expected returns. Site selection in current and expansion markets is also a critical factor in our expansion plans, and there may not be suitable properties available
+in our markets at a location that is attractive to our customers and has the necessary combination of access to multiple network providers, a significant supply of electrical power, high ceilings and the ability to sustain heavy floor loading.
+Furthermore, while we may prefer to locate new data centers adjacent to our existing data centers, we may be limited by the inventory and location of suitable properties. 
+ In addition, we will be subject to risks and, potentially, unanticipated costs associated with obtaining access to a sufficient amount of power from local utilities, including the need, in some cases, to
+develop utility substations on our properties in order to accommodate our power needs, constraints on the amount of electricity that a particular localitys power grid is capable of providing at any given time, and risks associated with the
+negotiation of long-term power contracts with utility providers. We cannot assure you that we will be able to successfully negotiate such contracts on acceptable terms or at all. Any inability to negotiate utility contracts on a timely basis or on
+acceptable financial terms or in volumes sufficient to supply the requisite power for our development properties would have a material negative impact on our growth and future results of operations and financial condition. 
+ These and other risks could result in delays or increased costs or prevent the completion of our redevelopment and development projects,
+any of which could have a material adverse effect on our financial condition, results of operations, cash flow, the trading price of our common stock and our ability to satisfy our debt service obligations or pay dividends. 
+ We do not own all of the buildings in which our data centers are located. Instead, we lease certain of our data center space and the ability to renew
+these leases could be a significant risk to our ongoing operations. 
+ We do not own the buildings for three of our data
+centers and our business could be harmed if we are unable to renew the leases for these data centers at favorable terms or at all. The following table summarizes the remaining primary term and renewal rights associated with each of our leased
+properties: 
+ Property 
+ Current Lease Term Expiration 
+ Renewal Rights 
+ Base Rent Increases at Renewal 
+ 32 Avenue of the Americas 
+ Apr. 2023 
+ 2 x 5 yrs 
+ FMR 
+ (1) 
+ One Wilshire 
+ July 2017 
+ 3 x 5 yrs 
+ 103% of previous monthly base rent 
+ 1275 K Street 
+ May 2016 
+ 3 x 5 yrs 
+ Greater of 103% of previous monthly base 
+ rent or 95% of FMR 
+ (1) 
+ FMR represents fair market rent as determined by mutual agreement between landlord and tenant, or in the case of a disagreement, mutual agreement by third
+party appraisers. 
+ When the primary term of our leases expire, we have the right to extend the terms of our
+leases as indicated above. For two of these leases, the rent will be determined based on the fair market value of rental rates for the property and the then prevailing rental rates may be higher than rental rates under the applicable lease. To
+maintain the operating profitability associated with our present cost structure, we must increase revenues within existing data centers to offset any potential increase in lease payments at the end of the original and renewal terms. Failure to
+increase revenues to sufficiently offset these projected higher costs would adversely impact our operating income. At the end of our renewal options, we would have to renegotiate our lease terms with the landlord. 
+ If we are not able to renew the lease at any of our data centers, the costs of relocating the equipment in such data centers and
+redeveloping a new location into a high-quality data center could be prohibitive. In addition, we could lose customers due to the disruptions in their operations caused by the relocation. We could also lose those customers that choose our data
+centers based on their locations. 
+ Our level of indebtedness and debt service obligations could have adverse effects on our business. 
+ As of December 31, 2011, we had a total indebtedness of approximately $121.9 million, all of which is secured
+indebtedness. We also have the ability to borrow up to an additional $144.5 million under our revolving credit facility, subject to satisfying certain financial tests, all of which, if incurred, will be secured indebtedness. Subsequent to
+December 31, 2011, our borrowing capacity increased to $202.5 million and our current availability increased to $158.6 million due to the repayment of the senior mortgage loan secured by our 427 S. LaSalle property and the addition of this property
+to our credit facility borrowing base. While there are limits in our revolving credit facility and our mortgage loan agreements on the amount of debt that we may incur, and additional limits on our indebtedness may be imposed by future agreements or
+by a policy adopted by our Board of Directors, we have the ability to increase our indebtedness over current levels. A substantial increase in our indebtedness may have adverse consequences for our business, results of operations and financial
+condition because it could, among other things: 
+ require us to dedicate a substantial portion of our cash flow from operations to make principal and interest payments on our indebtedness,
+thereby reducing our cash flow available to fund working capital, capital expenditures and other general corporate purposes, including to pay dividends on our common stock as currently contemplated or necessary to maintain our qualification as a
+REIT; 
+ make it more difficult for us to satisfy our financial obligations, including borrowings under our new revolving credit facility; 
+ increase our vulnerability to general adverse economic and industry conditions; 
+ expose us to increases in interest rates for our variable rate debt; 
+ limit our ability to borrow additional funds on favorable terms or at all to expand our business or ease liquidity constraints; 
+ limit our ability to refinance all or a portion of our indebtedness on or before maturity on the same or more favorable terms or at all; 
+ limit our flexibility in planning for, or reacting to, changes in our business and our industry; 
+ place us at a competitive disadvantage relative to competitors that have less indebtedness; and 
+ require us to dispose of one or more of our properties at disadvantageous prices or raise equity that may dilute the value of our common stock
+in order to service our indebtedness or to raise funds to pay such indebtedness at maturity. 
+ The agreements governing
+our indebtedness place restrictions on us and our subsidiaries, reducing operational flexibility and creating default risks. 
+ The agreements governing our indebtedness contain covenants that place restrictions on us and our subsidiaries. These covenants may restrict, among other things, our and our subsidiaries ability to: 
+ merge, consolidate or transfer all or substantially all of our or our subsidiaries assets; 
+ incur additional debt or issue preferred stock; 
+ make certain investments or acquisitions; 
+ create liens on our or our subsidiaries assets; 
+ sell assets; 
+ make capital expenditures; 
+ pay dividends on or repurchase our capital stock; 
+ enter into transactions with affiliates; 
+ issue or sell stock of our subsidiaries; and 
+ change the nature of our business. 
+ These covenants could impair our ability to grow our business, take advantage of attractive business opportunities or successfully compete. In addition, our revolving credit facility requires us to
+maintain specified financial ratios and satisfy financial condition tests. Our ability to comply with these ratios or tests may be affected by events beyond our control, including prevailing economic, financial and industry conditions. A breach of
+any of these covenants or covenants under any other agreements governing our indebtedness could result in an event of default. Cross-default provisions in our debt agreements could cause an event of default under one debt agreement to trigger an
+event of default under our other debt agreements. Upon the occurrence of an event of default under any of our debt agreements, the lenders could elect to declare all outstanding debt under such agreements to be immediately due and payable. If we
+were unable to repay or refinance the accelerated debt, the lenders could proceed against any assets pledged to secure that debt, including foreclosing on or requiring the sale of our data centers, and our assets may not be sufficient to repay such
+debt in full. 
+ Failure to hedge effectively against interest rate changes may adversely affect results of operations. 
+ We seek to manage our exposure to interest rate volatility by using interest rate hedging arrangements, such as interest cap and interest
+rate swap agreements. These agreements involve risks, such as the risk that counterparties may fail to honor their obligations under these arrangements, that these arrangements may not be effective in reducing our exposure to interest rate changes
+and that a court could rule that such an agreement is not legally enforceable. Our policy is to use derivatives only to hedge interest rate risks related to our borrowings, not for speculative or trading purposes, and to enter into contracts only
+with major financial institutions based on their credit ratings and other factors. However, we may choose to change this policy in the future. Hedging may reduce the overall returns on our investments. Failure to hedge effectively against interest
+rate changes may materially adversely affect our results of operations. 
+ Mortgage debt obligations expose us to the possibility of
+foreclosure, which could result in the loss of our investment in any property subject to mortgage debt. 
+ As of
+December 31, 2011, our 55 S. Market property was subject to a $60.0 million mortgage loan, our 12100 Sunrise Valley property was subject to a $31.9 million secured construction loan and our 427 S. LaSalle property was subject to
+$25.0 million of secured indebtedness (which $25.0 million subsequently was repaid on February 7, 2012). In addition, borrowings under our revolving credit facility are secured by a lien on certain of our properties. As of
+December 31, 2011, $5.0 million was outstanding under our revolving credit facility. Incurring mortgage and other secured debt obligations increases our risk of property losses because defaults on secured indebtedness may result in foreclosure
+actions initiated by lenders and ultimately our loss of the property securing any loans for which we are in default. For tax purposes, a foreclosure of any of our properties would be treated as a sale of the property for a purchase price equal to
+the outstanding balance of the debt secured by the mortgage. If the outstanding balance of the debt secured by the mortgage exceeds our tax basis in the property, we would recognize taxable income on foreclosure, but would not receive any cash
+proceeds, which could hinder our ability to meet the REIT distribution requirements imposed by the Code. As we execute our business plan, we may assume or incur new mortgage indebtedness on our existing properties or properties that we acquire in
+the future. Any default under any one of our mortgage debt obligations may increase the risk of our default on our other indebtedness. 
+ Our failure to develop and maintain a diverse customer base could harm our business and adversely affect
+our results of operations. 
+ Our ability to increase occupancy rates in our data centers and grow our business is, in part,
+dependent upon our ability to market our data center space to a diverse customer base. A more diverse customer base in our data centers creates more networking interconnection opportunities that are valued by our customers, which we believe has
+generated and will continue to generate incremental revenues in the long-term. Attracting and retaining this diverse customer base will depend on many factors, including the density of interconnection, the operating reliability and security of our
+data centers, and our ability to market our services effectively across different customer segments. If we fail to maintain a diverse customer base, our business and results of operations may be adversely affected. 
+ Certain of the properties in our portfolio have been owned or operated for a limited period of time, and we may not be aware of characteristics or
+deficiencies involving any one or all of them. 
+ As of December 31, 2011, our portfolio of properties consisted of 12
+operating data center facilities and one development site. Nine of our properties were acquired or developed by the Funds or their affiliates less than four years prior to the date of our IPO and we recently completed the initial development of one
+of these properties. Because these properties have been in operation for a relatively short period of time, we may be unaware of characteristics of or deficiencies in such properties that could adversely affect their valuation or revenue potential
+and such properties may not ultimately perform up to our expectations. 
+ Our tax protection agreements could limit our ability to sell or
+otherwise dispose of certain properties. 
+ We have agreed with each of the Funds or their affiliates that have directly or
+indirectly contributed their interests in the properties in our portfolio to our operating partnership that if we directly or indirectly sell, convey, transfer or otherwise dispose of all or any portion of these interests in a taxable transaction,
+we will make an interest-free loan to the contributors in an amount equal to the contributors tax liabilities, based on an assumed tax rate. Any such loan would be repayable out of the after tax-proceeds (based on an assumed tax rate) of any
+distribution from the operating partnership to, or any sale of operating partnership units (or common stock issued by us in exchange for such units) by, the recipient of such loan, and would be non-recourse to the borrower other than with respect to
+such proceeds. These tax protection provisions apply for a period expiring on the earliest of (i) the seventh anniversary of the completion of our IPO and (ii) the date on which these contributors (or certain transferees) dispose in
+certain taxable transactions of 90% of the operating partnership units that were issued to them in connection with the contribution of these properties. 
+ Increases in our property and other state and local taxes could adversely affect our ability to make distributions to our stockholders if they cannot be passed on to our customers. 
+ We are subject to a variety of state and local taxes, including real and personal property taxes and sales and use taxes that may
+increase materially due to factors outside our control. In particular, taxes on our properties may increase as tax rates change and as the properties are assessed or reassessed by taxing authorities. We expect to be notified by local taxing
+authorities that the assessed values of certain of our properties have increased. We plan to appeal these increased assessments, but we may not be successful in our efforts. Furthermore, some of our properties may be reassessed retroactively to the
+date we or the Funds acquired the property, which could require us to make cumulative payments for multiple years. Our leases with our customers generally do not allow us to increase their rent as a result of an increase in property or other taxes.
+If property or other taxes increase and we cannot pass these increases on to our customers through increased rent for new leases or upon lease renewals, our result of operations, cash flow and ability to make distributions to our stockholders would
+be adversely affected. 
+ Risks Related to the Real Estate Industry 
+ Illiquidity of real estate investments, particularly our data centers, could significantly impede our ability to respond to adverse changes in the
+performance of our properties, which could harm our financial condition. 
+ Because real estate investments are relatively
+illiquid, our ability to promptly sell one or more properties in our portfolio in response to adverse changes in the real estate market or in the performance of such properties may be limited, thus harming our financial condition. The real estate
+market is affected by many factors that are beyond our control, including: 
+ adverse changes in national and local economic and market conditions; 
+ changes in interest rates and in the availability, cost and terms of debt financing; 
+ changes in governmental laws and regulations, fiscal policies and zoning ordinances and costs of compliance therewith; 
+ the ongoing cost of capital improvements that are not passed onto our customers, particularly in older structures; 
+ changes in operating expenses; and 
+ civil unrest, acts of war, terrorist attacks and natural disasters, including earthquakes and floods, which may result in uninsured and
+underinsured losses. 
+ The risks associated with the illiquidity of real estate investments are even greater
+for our data center properties. Our data centers are highly specialized real estate assets containing extensive electrical and mechanical systems that are uniquely designed to house and maintain our customers equipment and, as such, have
+little, if any, traditional office space. As a result, most of our data centers are not suited for use by customers as anything other than as data centers and major renovations and expenditures would be required in order for us to re-lease data
+center space for more traditional commercial or industrial uses, or for us to sell a property to a buyer for use other than as a data center. 
+ Environmental problems are possible and can be costly. 
+ Environmental liabilities could arise and have a material adverse effect on our financial condition and performance. Federal, state and local laws and regulations relating to the protection of the
+environment may require a current or previous owner or operator of real estate to investigate and remediate hazardous or toxic substances or petroleum product releases at or from the property. In addition, we could incur costs to comply with such
+laws and regulations, the violation of which could lead to substantial fines and penalties. 
+ We may have to pay governmental
+entities or third parties for property damage and for investigation and remediation costs that they incurred in connection with any contamination at our current and former properties without regard to whether we knew of or caused the presence of the
+contaminants. Even if more than one person may have been responsible for the contamination, each person covered by these environmental laws may be held responsible for all of the clean-up costs incurred. 
+ Some of our properties contain or may contain asbestos-containing building materials. Environmental laws may impose fines and penalties
+on building owners or operators who fail to properly manage and maintain these materials, notify and train persons who may come into contact with asbestos and undertake special precautions, and third parties could potentially seek recovery from
+owners or operators for any personal injury associated with exposure to asbestos-containing building materials. 
+ Some of our
+properties may also contain or develop harmful mold or suffer from other air quality issues. As a result, the presence of significant mold or other airborne contaminants at any of our properties could require us to undertake a costly remediation
+program to contain or remove the mold or other airborne contaminants from the affected property or increase indoor ventilation. In addition, the presence of significant mold or other airborne contaminants could expose us to liability from our
+customers, employees of our customers and others if property damage or health concerns arise. 
+ We may incur significant costs complying
+with the Americans with Disabilities Act, or ADA, and similar laws, which could materially adversely affect our financial condition and operating results. 
+ Under the ADA, all places of public accommodation must meet federal requirements related to access and use by disabled persons. A number of additional federal, state and local laws may also require
+modifications to our properties. We have not conducted an audit or investigation of all of our properties to determine our compliance with the ADA. If one of our properties is not in compliance with the ADA, we would be required to incur additional
+costs to bring the property into compliance. Additional federal, state and local laws may require modifications to our properties, or restrict our ability to renovate our properties. We cannot predict the ultimate amount of the cost of compliance
+with the ADA or other legislation. If we incur substantial costs to comply with the ADA and any other similar legislation, our financial condition and results of operations could be materially adversely affected. 
+ We may be adversely affected by regulations related to climate change. 
+ Climate change regulation is a rapidly developing area. Congress is currently considering new laws relating to climate change, including potential cap-and-trade systems, carbon taxes and other
+requirements relating to reduction of carbon footprints and/or greenhouse gas emissions. Other countries have enacted climate change laws and regulations and the United States has been involved in discussions regarding international climate change
+treaties. The U.S. Environmental Protection Agency, or EPA, and some of the states and localities in which we operate, have also enacted certain climate change laws and regulations and/or have begun regulating carbon footprints and greenhouse gas
+emissions. Although these laws and regulations have not had an adverse effect on our business to date, they could limit our ability to develop new facilities or result in substantial compliance costs, retrofit costs and construction costs, including
+capital expenditures for environmental control facilities and other new equipment. We could also face a negative impact on our reputation with the public if we violate climate change laws or regulations. 
+ Risks Related to Our Organizational Structure 
+ Our Board of Directors may change our major corporate, investment and financing policies without stockholder approval and those changes may adversely
+affect our business. 
+ Our Board of Directors will determine our major corporate policies, including our acquisition,
+investment, financing, growth, operations and distribution policies and whether to maintain our status as a REIT. In particular, we anticipate that our Board of Directors will adopt a policy of limiting the amount of indebtedness we incur. However,
+our organizational documents do not limit the amount or percentage of indebtedness, funded or otherwise, that we may incur. Our Board of Directors may alter or eliminate our current corporate policies, including our policy on borrowing at any time
+without stockholder approval. Accordingly, while our stockholders have the power to elect or remove directors, our stockholders will have limited direct control over changes in our policies and those changes could adversely affect our business,
+financial condition, results of operations, the market price of our common stock and our ability to make distributions to our stockholders. 
+ While the Funds and their affiliates do not control our company, they own a majority of our Operating Partnership and have the right initially to
+nominate two directors, and their interests may differ from or conflict with the interests of our stockholders. 
+ As of
+December 31, 2011, the Funds or their affiliates had an aggregate beneficial ownership interest in our Operating Partnership of approximately 55.2% which, if exchanged for our common stock, would represent approximately 54.9% of our outstanding
+common stock. In addition, the operating agreement for our Operating Partnership grants the Funds and their affiliates the right to initially nominate two of the seven directors to our Board of Directors. As a result, the Funds and their affiliates
+have the ability to exercise substantial influence over our company, including with respect to decisions relating to our capital structure, issuing additional shares of our common stock or other equity securities, paying dividends, incurring
+additional debt, making acquisitions, selling properties or other assets, merging with other companies and undertaking other extraordinary transactions. In any of these matters, the interests of the Funds and their affiliates may differ from or
+conflict with the interests of our other stockholders. In addition, the Funds and their affiliates are in the business of making investments in companies and may, from time to time, acquire interests in businesses that directly or indirectly compete
+with our business, as well as businesses that are significant existing or potential customers. The Funds and their affiliates may acquire or seek to acquire assets that we seek to acquire and, as a result, those acquisition opportunities may not be
+available to us or may be more expensive for us to pursue. 
+ Our charter and bylaws contain provisions that may delay, defer or prevent an
+acquisition of our common stock or a change in control, which may not be in the best interests of our stockholders. 
+ Our
+charter and bylaws contain a number of provisions, the exercise or existence of which could delay, defer or prevent a transaction or a change in control that might involve a premium price for our stockholders or otherwise be in their best interests,
+including the following: 
+ . In order to assist us in complying with the limitations on
+the concentration of ownership of REIT stock imposed by the Code on REITs, our charter generally prohibits any person or entity (other than a person who or entity that has been granted an exception as described below) from actually or constructively
+owning more than 9.8% (by value or by number of shares, whichever is more restrictive) of our common stock or more than 9.8% (by value) of our capital stock. The value and number of the outstanding shares of common stock and the value of the
+outstanding shares of capital stock shall be determined by the Board of Directors in good faith, which shall be conclusive for all purposes. We refer to these restrictions as the ownership limits. Our charter permits our Board of Directors to make,
+and our Board of Directors has made, certain exceptions to these ownership limits, where our Board of Directors has determined that such exceptions would not cause us to fail to qualify as a REIT. Our Board of Directors has granted exemptions from
+the ownership limits to the Funds and their affiliates, as well as to one registered broker-dealer who hold shares of our common stock for the benefit of multiple shareholders, none of whom individually holds more than 9.8% of our capital stock. Any
+attempt to own or transfer shares of our capital stock in excess of the ownership limits without the consent of our Board of Directors will result in the automatic transfer of the shares (and all dividends thereon) to a charitable trust. These
+ownership limitations may prevent a third party from acquiring control of us if our Board of Directors does not grant an exemption from the ownership limitations, even if our stockholders believe the change in control is in their best interests. 
+ Our Charter Contains Restrictions on the Ownership and Transfer of Our Stock 
+ . Our charter provides that the total number of shares of stock of all classes that we currently have authority to issue
+is 120,000,000, initially consisting of 100,000,000 shares of common stock and 20,000,000 shares of preferred stock. Our Board of Directors has the authority, without a stockholders vote, 
+ Our Charter Grants Our Board of Directors the Right to Classify or Reclassify Any Unissued Shares of Capital Stock, Increase or Decrease the
+Authorized Number of Shares and Establish the Preference and Rights of Any Preferred Stock without Stockholder Approval 
+ to classify or reclassify any unissued shares of stock, including common stock, into preferred stock or vice versa, to increase or decrease the authorized number of shares of common stock and
+preferred stock and to establish the preferences and rights of any preferred stock or other class or series of shares to be issued. Because our Board of Directors has the power to establish the preferences and rights of additional classes or series
+of stock without a stockholders vote, our Board of Directors may give the holders of any class or series of stock preferences, powers and rights, including voting rights, senior to the rights of holders of existing stock. 
+ Certain provisions of Maryland law may limit the ability of a third party to acquire control of us. 
+ Certain provisions of the Maryland General Corporation Law, or MGCL, may have the effect of inhibiting a third party from making a
+proposal to acquire us or of impeding a change of control under circumstances that otherwise could provide our common stockholders with the opportunity to realize a premium over the then-prevailing market price of such shares, including: 
+ provisions that, subject to limitations, prohibit certain business combinations between us and an
+interested stockholder (defined generally as any person who beneficially owns 10% or more of the voting power of our outstanding shares of voting stock or an affiliate or associate of the corporation who, at any time within the two-year
+period immediately prior to the date in question, was the beneficial owner of 10% or more of the voting power of the then outstanding stock of the corporation) or an affiliate of any interested stockholder for five years after the most recent date
+on which the stockholder becomes an interested stockholder and thereafter imposes two super-majority stockholder voting requirements on these combinations; and 
+ business combination 
+ provisions that provide that control shares of our company (defined as voting shares of stock
+which, when aggregated with all other shares controlled by the stockholder, entitle the stockholder to exercise one of three increasing ranges of voting power in electing directors) acquired in a control share acquisition (defined as the
+direct or indirect acquisition of ownership or control of control shares) have no voting rights except to the extent approved by our stockholders by the affirmative vote of at least two-thirds of all of the votes entitled to be cast on
+the matter, excluding all interested shares. 
+ control share 
+ We have opted out of these provisions of the MGCL, in the case
+of the business combination provisions of the MGCL, by resolution of our Board of Directors and, in the case of the control share provisions of the MGCL, by a provision in our bylaws. However, our Board of Directors may elect to opt into these
+provisions, if approved by our stockholders by the affirmative vote of a majority of votes cast and with the consent of the Funds or their affiliates, provided that the consent of the Funds will not be required unless, in the case of the control
+share provisions, such provisions would apply to the Funds and their affiliates or in either case at such time they own less than 10% of our outstanding common stock (assuming all operating partnership units are exchanged into common stock). 
+ Additionally, Title 3, Subtitle 8 of the MGCL permits our Board of Directors, without stockholder approval and regardless of
+what is currently provided in our charter or bylaws, to implement certain takeover defenses, such as a classified board, some of which we do not yet have. 
+ Risks Related to Our Status as a REIT 
+ Failure to qualify as a REIT would have material
+adverse consequences to us and the value of our stock. 
+ We have elected to be taxed and to operate in a manner that will
+allow us to qualify as a REIT for federal income tax purposes under the Code. However, we cannot assure you that we will remain qualified as a REIT. If, in any taxable year, we lose our REIT status, we will face serious tax consequences that would
+substantially reduce our cash available for distribution to you for each of the years involved because: 
+ we would not be allowed a deduction for distributions to stockholders in computing our taxable income and we would be subject to federal income
+tax, including any alternative minimum tax, at regular corporate rates; 
+ we could be subject to possibly increased state and local taxes; and 
+ unless we are entitled to relief under applicable statutory provisions, we could not elect to be taxed as a REIT for four taxable years
+following the year during which we were disqualified. 
+ Our failure to qualify as a REIT could also impair
+our ability to expand our business and raise capital, and would materially adversely affect the value of our common stock. 
+ We have limited operating history as a REIT and a public company, which could hinder our ability to
+successfully manage our business. 
+ We have limited operating history as a REIT and a public company. Although certain of
+our executive officers and directors have experience in the real estate industry, and Mr. Ray, our President and Chief Executive Officer, Mr. Finnin, our Chief Financial Officer, and Derek McCandless, our General Counsel have considerable
+experience with publicly traded REITs, there is no assurance that our past experience will be sufficient to operate a business in accordance with the Code requirements for REIT qualification or in accordance with the requirements of the SEC and the
+NYSE for public companies. We are required to develop and implement substantial control systems and procedures in order to qualify and maintain our qualification as a REIT, satisfy our periodic and current reporting requirements under applicable SEC
+regulations and comply with NYSE listing standards. As a result, we incur significant legal, accounting and other expenses that we did not incur as a private company and our management and other personnel need to devote a substantial amount of time
+to comply with these rules and regulations and establish the corporate infrastructure and controls demanded of a publicly traded REIT. If our finance and accounting organization is unable for any reason to respond adequately to the demands of being
+a publicly held company, the quality and timeliness of our financial reporting may suffer and we could experience significant deficiencies or material weaknesses in our disclosure controls and procedures or in our internal control over financial
+reporting. An inability to establish and maintain effective disclosure controls and procedures and internal control over financial reporting could cause us to fail to meet our reporting obligations under the Exchange Act on a timely basis or result
+in material misstatements or omissions in our Exchange Act reports. 
+ Failure to qualify as a domestically controlled REIT could subject our
+non-U.S. stockholders to adverse federal income tax consequences. 
+ We will remain a domestically controlled REIT if, at
+all times during a specified testing period, less than 50% in value of our shares is held directly or indirectly by non-U.S. stockholders. However, because our shares are publicly traded, we cannot guarantee that we will maintain the qualifications
+to be a domestically-controlled REIT. If we fail to qualify as a domestically-controlled REIT, our non-U.S. stockholders that otherwise would not be subject to federal income tax on the gain attributable to a sale of our shares of common stock would
+be subject to taxation upon such a sale if either (1) the shares of common stock were not considered to be regularly traded under applicable Treasury Regulations on an established securities market, such as the NYSE, or (2) the selling
+non-U.S. stockholder owned, actually or constructively, more than 5% in value of the outstanding shares of common stock being sold during specified testing periods. If gain on the sale or exchange of our shares of common stock was subject to
+taxation for these reasons, the non-U.S. stockholder would be subject to regular U.S. income tax with respect to any gain on a net basis in a manner similar to the taxation of a taxable U.S. stockholder, subject to any applicable alternative minimum
+tax and special alternative minimum tax in the case of nonresident alien individuals, and corporate non-U.S. stockholders may be subject to an additional branch profits tax. 
+ Our cash available for distribution to stockholders may not be sufficient to pay distributions at expected levels or at all, and we may be required to borrow funds on a short-term basis during
+unfavorable market conditions. 
+ In order to maintain our qualification as a REIT, we are required under the Code to
+distribute at least 90% of our net taxable income annually to our stockholders. In any period our net taxable income may be greater than our cash flow from operations, requiring us to fund such distributions from other sources, including borrowed
+funds, even if the market conditions are not favorable for these borrowings. In addition, we may become party to debt agreements that include cash management or similar provisions, pursuant to which revenues generated by properties subject to such
+indebtedness are immediately, or upon the occurrence of certain events, swept into an account for the benefit of the lenders under such debt agreements, which revenues would typically only become available to us after the funding of reserve accounts
+for, among other things, debt service, taxes, insurance and leasing commissions. In any event, if our properties do not generate sufficient cash flow to satisfy our REIT distribution obligations, we may be required to fund distributions from working
+capital, borrowings under our revolving credit facility, the sale of assets or debt or equity financing, some or all of which may not be available or may not be available on favorable market conditions. We may also elect to pay dividends to
+stockholders in the form of taxable stock dividends in order to meet our distributions requirements or reduce expected distributions. As a result, any failure to generate cash greater than our REIT distribution obligation could have a material
+adverse effect on the price of our common stock. 
+ Applicable REIT laws may restrict certain business activities. 
+ As a REIT we are subject to various restrictions on our income, assets and activities. These include restrictions on our ability to
+pursue certain strategic acquisitions or business combinations and our ability to enter into other lines of business. Due to these restrictions, we anticipate that we will conduct certain business activities, such as interconnection services, in one
+or more taxable REIT subsidiaries. Our taxable REIT subsidiaries are taxable as regular C corporations and are subject to federal, state, local and, if applicable, foreign taxation on their taxable income at applicable corporate income tax rates.
+However, we may still be limited in the business activities we can pursue. 
+ Despite our REIT status, we remain subject to various taxes. 
+ Notwithstanding our status as a REIT, we will be subject to certain federal, state and local taxes on our income and property. For
+example, we will pay tax on certain types of income that we do not distribute and we will incur a 100% excise tax on transactions with our TRS that are not conducted on an arms length basis. Moreover, our TRS is taxable as a regular C
+corporation and will pay federal, state and local income tax on its net income at the applicable corporate rates. 
+ If the structural
+components of our properties were not treated as real property for purposes of the REIT qualification requirements, we would fail to qualify as a REIT. 
+ A significant portion of the value of our properties is attributable to structural components related to the provision of electricity, heating, ventilation and air conditioning, humidification regulation,
+security and fire protection, and telecommunication services. We have received a private letter ruling from the Internal Revenue Service (the IRS), holding, among other things, that our buildings, including the structural components,
+constitute real property for purposes of the REIT qualification requirements. We are entitled to rely upon that private letter ruling only to the extent that we did not misstate or omit a material fact in the ruling request we submitted to the IRS
+and that we operate in the future in accordance with the material facts described in that request. Moreover, the IRS, in its sole discretion, may revoke the private letter ruling. If our structural components are subsequently determined not to
+constitute real property for purposes of the REIT qualification requirements, including as a result of our being unable to rely upon the private letter ruling or the IRS revoking that ruling, we would fail to qualify as a REIT, which could have a
+material adverse effect on the value of our common stock. 
+ ITEM 1B. 
+ UNRESOLVED STAFF COMMENTS

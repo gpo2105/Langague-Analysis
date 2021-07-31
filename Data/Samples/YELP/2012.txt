@@ -1,0 +1,1465 @@
+Our operations and financial results are subject to various risks and
+uncertainties, including those described below, which could adversely affect our
+business, financial condition, results of operations, cash flows and the
+trading price of our Class A common stock. You should carefully consider the
+risks and uncertainties described below before making an investment decision.
+Additional risks not presently known to us or that we currently believe are
+immaterial may also significantly impair our business
+operations. 
+ Risks Related to Our Business and
+Industry 
+ We have a short operating history
+in an evolving industry, which makes it difficult to evaluate our future
+prospects and may increase the risk that we will not be
+successful. 
+ We have a
+short operating history in an evolving industry that may not develop as
+expected, if at all. This short operating history makes it difficult to assess
+our future prospects. You should consider our business and prospects in light of
+the risks and difficulties we may encounter in this rapidly evolving industry.
+These risks and difficulties include our ability to, among other things: 
+ increase the number of users of our website and
+  mobile app and the number of reviews and other content on our platform; 
+ increase the revenue from advertisers on our website and mobile app; 
+ continue to earn and preserve a reputation for
+  providing meaningful and reliable reviews of local
+  businesses; 
+ effectively monetize our mobile products as usage
+  continues to migrate toward mobile devices; 
+ manage, measure and demonstrate the effectiveness
+  of our advertising solutions and attract and retain new advertising clients,
+  many of which may only have limited or no online advertising
+  experience; 
+ successfully compete with existing and future
+  providers of other forms of offline and online advertising; 
+ successfully compete with other companies that are
+  currently in, or may in the future enter, the business of providing
+  information regarding local businesses; 
+ successfully expand our business in new and
+  existing markets, both domestic and international; 
+ successfully develop and deploy new features and
+  products; 
+ effectively integrate businesses we may acquire,
+  including Qype; 
+ avoid interruptions or disruptions in our service
+  or slower than expected load times; 
+ develop a scalable, high-performance technology
+  infrastructure that can efficiently and reliably handle increased usage
+  globally, as well as the deployment of new features and
+  products; 
+ hire, integrate and retain talented sales and
+  other personnel; 
+ effectively manage rapid growth in our sales
+  force, personnel and operations; and 
+ effectively partner with other
+  companies. 
+ If the demand for information regarding local businesses does not develop
+as we expect, or if we fail to address the needs of this demand, our business
+will be harmed. We may not be able to successfully address these risks and
+difficulties or others, including those described elsewhere in these risk
+factors. Failure to address these risks and difficulties adequately could harm
+our business and cause our operating results to suffer. 
+ We have incurred significant
+operating losses in the past, and we may not be able to generate sufficient
+revenue to achieve or maintain profitability, particularly given our significant
+ongoing sales and marketing expenses. Our recent growth rate will likely not be
+sustainable, and a failure to maintain an adequate growth rate will adversely
+affect our results of operations and business. 
+ Since our inception, we have incurred significant operating losses, and,
+as of December 31, 2012, we had an accumulated deficit of approximately $60.4
+million. Although our revenues have grown rapidly, increasing from $12.1 million
+in 2008 to $137.6 million in 2012, we expect that our revenue growth rate will
+decline in the future as a result of a variety of factors, including the
+maturation of our business and the gradual decline in the number of major
+geographic markets, especially within the United States, to which we have not
+already expanded, and you should not rely on the revenue growth of any prior
+quarterly or annual period as an indication of our future performance. We also
+expect our costs to increase in future periods as we continue to expend
+substantial financial resources on: 
+ sales and marketing; 
+ product and feature development; 
+ our technology infrastructure; 
+ domestic and international expansion
+  efforts; 
+ strategic opportunities, including commercial
+  relationships and acquisitions; and 
+ general administration,
+  including legal and accounting expenses related to being a public
+  company. 
+ These
+investments may not result in increased revenue or growth in our business. If we
+are unable to maintain adequate revenue growth and to manage our expenses, we
+may continue to incur significant losses in the future and may not be able to
+achieve or maintain profitability. 
+ We rely on traffic to our website
+from search engines like Google, Bing and Yahoo!, some of which offer products
+and services that compete directly with our solutions. If our website fails to
+rank prominently in unpaid search results, traffic to our website could decline
+and our business would be adversely affected. 
+ Our
+success depends in part on our ability to attract users through  unpaid Internet search results on search engines
+like Google, Bing and Yahoo!.  The number of users we attract from search engines to our website (including our  mobile
+website) is due in large part to how and where our website ranks in  unpaid search results. These rankings can be affected by
+a number of factors,  many of which are not in our direct control, and they may change frequently. For  example, a search
+engine may change its ranking algorithms, methodologies or  design layouts. As a result, links to our website may not be
+prominent enough to  drive traffic to our website, and we may not know how or otherwise be in a  position to influence the
+results. In some instances, search engine companies  may change these rankings in order to promote their own competing
+products or services or the products or services of one or more of our competitors. Although  traffic to our mobile app is
+less reliant on search results than traffic to our  website, growth in mobile device usage may not decrease our overall
+reliance on  search results if mobile users use our mobile website at the expense of our  mobile app. In fact, growth in
+mobile device usage may exacerbate the risks associated with how and where we rank in search results because mobile device
+screens are smaller than desktop computer screens and therefore display fewer search results. Our website has experienced fluctuations in search result rankings in
+the past, and we anticipate fluctuations in the future. Any reduction in the number of users directed to our website could
+adversely impact our business and results of operations. 
+ Google in particular is the most significant source of traffic to our
+website, accounting for more than half of the visits to our website from Internet
+searches during the three months and year ended December 31, 2012. Our success
+depends on our ability to maintain a prominent presence in search results for
+queries regarding local businesses on Google. Google has removed links to our
+website from portions of its web search product and has promoted its own
+competing products, including Googles local products, in its search results.
+Given the large volume of traffic to our website and the importance of the
+placement and display of results of a users search, similar actions in the
+future could have a substantial negative effect on our business and results of
+operations. 
+ If we fail to generate and
+maintain sufficient high quality content from our users, we will be unable to
+provide consumers with the information they are looking for, which could
+negatively impact our traffic and revenue. 
+ Our success depends on our ability to provide consumers with the
+information they seek, which in turn depends on the quantity and quality of the
+content provided by our users. For example, we may be unable to provide
+consumers with the information they seek if our users do not contribute content
+that is helpful and reliable, or if they remove content they previously
+submitted. For example, our ability to provide high quality content may be
+harmed as consumers increasingly contribute content through our mobile website
+and mobile app because desktop contributions tend to be longer than content
+contributed through mobile devices. Similarly, we may be unable to provide
+consumers with the information they seek if our users are unwilling to
+contribute content because of concerns that they may be harassed or sued by the
+businesses they review, instances of which have occurred in the past and may
+occur again in the future. In addition, we may not be able to provide users the
+information they seek if the information on our platform is not up-to-date. We
+do not phase out or remove dated reviews, and consumers may view older reviews
+as less relevant, helpful or reliable. If our platform does not provide current
+information about local businesses or users perceive reviews on our platform as
+less relevant, our brand and our business could be harmed. 
+ If we are
+unable to provide consumers with the information they seek, or if they can find
+equivalent content on other services, they may stop or reduce their use of our
+platform, and traffic to our website and on our mobile app will decline. If our
+user traffic declines, our advertisers may stop or reduce the amount of
+advertising on our platform and our business could be harmed. 
+ Our business may be harmed if
+users view our platform as primarily limited to reviews of restaurants and
+shopping experiences. 
+ Our user traffic could be adversely affected if consumers perceive the
+utility of our platform to be limited to finding businesses in the restaurant
+and shopping categories, which together accounted for approximately 44% of the
+businesses that have been reviewed on our platform and 61% of our cumulative
+reviews through December 31, 2012. We believe that this concentration of reviews
+is primarily due to the frequency with which individuals visit specific
+businesses or engage in certain activities versus others. For example, an
+individual may eat at a restaurant three times in one week or go shopping once a
+week, but the same individual is unlikely to visit a mechanic, get a haircut or
+use a home or local service with the same frequency. However, if the high
+concentration of reviews in the restaurant and shopping categories generates a
+perception that our platform is primarily limited to these categories, traffic
+may decline and advertising customers may be less likely to perceive value from
+using our services, which could harm our business. 
+ If our technology filters helpful
+content or fails to filter unhelpful content, consumers and businesses alike may
+stop or reduce their use of our platform and products, and our business could
+suffer. 
+ While we have designed our technology to filter content that we believe
+may be offensive, biased, unreliable or otherwise unhelpful, we cannot guarantee
+that our efforts will be effective or adequate. In addition, some consumers and
+businesses have expressed concern that our technology inappropriately filters
+legitimate reviews, which may cause them to stop or reduce their use of our
+platform or our advertising solutions. If the performance of our filter proves
+inadequate or ineffective, our reputation and brand may be harmed, users may
+stop using our products and our business and results of operations could be
+adversely affected. 
+ Our business depends on a strong
+brand, and any failure to maintain, protect and enhance our brand would hurt our
+ability to retain or expand our base of users and advertisers, or our ability to
+increase the frequency with which they use our solutions. 
+ We have developed a strong brand that we believe has contributed
+significantly to the success of our business. Maintaining, protecting and
+enhancing the Yelp brand is critical to expanding our base of users and
+advertisers and increasing the frequency with which they use our solutions, and
+will depend largely on our ability to maintain consumer trust in our solutions
+and in the quality and integrity of the user content and other information found
+on our website and mobile app, which we may not do successfully. If we do not
+successfully maintain a strong brand, our business could be harmed. 
+ For example, consumers may believe that the reviews, photos and other
+content contributed by our Community Managers or other employees are influenced
+by our advertising relationships or are otherwise biased. Although we take steps
+to prevent this from occurring by, for example, displaying an ambassador badge
+on the account profile pages for each of our Community Managers identifying them
+as Yelp employees and explaining their role on our platform, the designation
+does not appear on the page for each review contributed by the Community Manager
+and we may not be successful in our efforts to maintain consumer trust. As a
+result, our brand and our business could be harmed. 
+ Our trademarks are an important element of our brand. We have faced in
+the past, and may face in the future, oppositions from third parties to our
+applications to register key trademarks in foreign jurisdictions in which we
+expect to expand our presence. If we are unsuccessful in defending against these
+oppositions, our trademark applications may be denied. Whether or not our
+trademark registration applications are denied, third parties may claim that our
+trademarks infringe their rights. As a result, we could be forced to pay
+significant settlement costs or cease the use of these trademarks and associated
+elements of our brand in those or other jurisdictions. Doing so could harm our
+brand or brand recognition and adversely affect our business, financial
+condition and results of operation. 
+ Negative publicity could
+adversely affect our reputation and brand. 
+ Negative
+publicity about our company, including our technology, sales practices,
+personnel or customer service, could diminish confidence in and the use of our
+products. The media has previously reported allegations that we manipulate our
+reviews, rankings and ratings in favor of our advertisers and against
+non-advertisers. These allegations, though untrue, could adversely affect our
+reputation and brand, require significant management time and attention, and
+subject us to inquiries or investigations. In order to demonstrate that our
+filtering process applies in a nondiscriminatory manner to both advertisers and
+non-advertisers, we have made all filtered reviews accessible on our platform.
+We have also allowed businesses to publicly comment on negative reviews so that
+they can provide their response. Nevertheless, our reputation and brand, the
+traffic to our website and mobile app and our business may suffer if negative
+publicity about our company persists or if users otherwise perceive that content
+on our website and mobile app is manipulated or biased. In addition, our website
+and mobile app serve as a platform for expression by our users, and third
+parties or the public at large may attribute the political or other sentiments
+expressed by users on our platform to us, which could harm our
+reputation. 
+ If we fail to maintain and expand
+our base of advertisers, our revenue and our business will be
+harmed. 
+ For the three months and year ended December 31, 2012, substantially all
+of our revenue was generated by the sale of advertising products. Our ability to
+grow our business depends on our ability to maintain and expand our advertiser
+base. To do so, we must convince prospective advertisers of the benefits of our
+products, including those who may not be familiar with our products (such as
+those in new markets). In addition, we have incurred significant costs to
+attract current and future advertisers and expect to incur significant
+additional costs for the foreseeable future. We may face greater challenges as
+we continue to expand our advertiser base in businesses outside the restaurant
+and shopping categories, which together accounted for approximately 44% of the
+businesses that have been reviewed on our platform and 61% of our cumulative
+reviews through December 31, 2012, especially if these businesses believe that
+consumers perceive the utility of our platform to be limited to finding
+businesses in the restaurant and shopping categories. We must also convince
+existing and prospective advertisers alike that our advertising products work to
+their benefit. Many of these businesses are more accustomed to using more
+traditional methods of advertising, such as newspapers or print yellow pages
+directories. Failure to maintain and expand the advertiser base could harm our
+business. 
+ Our advertisers do not typically have long-term obligations to purchase
+our products. In addition, we rely heavily on advertising spend by small and
+medium-sized local businesses, which have historically experienced high failure
+rates and often have limited advertising budgets. As a result, we may experience
+attrition in our advertisers in the ordinary course of business resulting from
+several factors, including losses to competitors, lower priced competitors,
+perceptions that our advertising solutions are unnecessary or ineffective,
+declining advertising budgets, closures and bankruptcies. We must continually
+add new advertisers both to replace advertisers who choose not to renew their
+advertising or who go out of business, or otherwise fail to fulfill their
+advertising contracts with us, to grow our business. Our advertisers decisions
+to renew depend on a number of factors, including the degree of satisfaction
+with our products and their ability to continue their operations and spending
+levels. The ratings and reviews that businesses receive from our users may also
+affect advertising decisions by current and prospective advertisers. For
+instance, favorable ratings and reviews, on the one hand, could be perceived as
+obviating the need to advertise, and unfavorable ratings and reviews, on the
+other, could discourage businesses from advertising to an audience they perceive
+as hostile or cause them to form a negative opinion of our products and user
+base, which could discourage them from doing business with us. If our
+advertisers increase their rates of non-renewal or if we experience significant
+advertiser attrition or contract breach, or if we are unable to attract new
+advertisers in numbers greater than the number of advertisers that we lose, our
+client base will decrease and our business, financial condition and results of
+operations would be harmed. 
+ If we fail to expand effectively
+into new markets, both domestically and abroad, our revenue and our business
+will be harmed. 
+ We intend to expand our operations into new markets, both domestically
+and abroad. We may incur losses or otherwise fail to enter new markets
+successfully. Our expansion into new markets places us in competitive
+environments with which we are unfamiliar and involves various risks, including
+the need to invest significant resources and the possibility that returns on
+such investments will not be achieved for several years, or at all. In
+attempting to establish a presence in
+new markets, we expect, as we have in the past, to incur significant expenses
+and face various other challenges, such as expanding our sales force and
+community management personnel to reach those new markets. Our current and any
+future expansion plans will require significant resources and management
+attention. Furthermore, we have already entered many of the largest markets in
+the United States and further expansion in smaller markets may not yield similar
+results or sustain our growth. 
+ Our international operations
+involve additional risks, and our exposure to these risks will increase as we
+expand internationally. 
+ We have
+started to expand our operations internationally. We expect to expand our
+international operations significantly by accessing new markets abroad and
+expanding our offerings in new languages. Our platform is now available in
+English and several other languages. However, we may have difficulty modifying
+our technology and content for use in non-English-speaking markets or fostering
+new communities in non-English-speaking markets. We recently acquired Qype to
+accelerate the expansion of our international footprint, primarily in Europe and
+Brazil, but can make no assurance that we will be successful in integrating Qype
+with our businesses or in taking advantage of Qypes presence in these
+international markets. Our ability to manage our business and conduct our
+operations internationally requires considerable management attention and
+resources, and is subject to the particular challenges of supporting a rapidly
+growing business in an environment of multiple languages, cultures, customs,
+legal systems, alternative dispute systems, regulatory systems and commercial
+infrastructures. Furthermore, in most international markets, we would not be the
+first entrant, and our competitors may be better positioned than we are to
+succeed. Expanding internationally may subject us to risks that we have either
+not faced before or increase our exposure to risks that we currently face,
+including risks associated with: 
+ recruiting and retaining qualified, multi-lingual
+  employees, including sales personnel; 
+ integrating businesses we may acquire
+  internationally, including Qype; 
+ increased competition from local websites and
+  guides and potential preferences by local populations for local
+  providers; 
+ compliance with applicable foreign laws and
+  regulations, including different privacy, censorship and liability standards
+  and regulations and different intellectual property laws; 
+ providing solutions in different languages for
+  different cultures, which may require that we modify our solutions and
+  features to ensure that they are culturally relevant in different
+  countries; 
+ our ability to achieve prominent rankings for our
+  content in unpaid search results, which may be more difficult in newer markets
+  where we may have less content and more competitors than in established
+  markets; 
+ the enforceability of our intellectual property
+  rights; 
+ credit risk and higher levels of payment
+  fraud; 
+ compliance with anti-bribery laws, including but
+  not limited to compliance with the Foreign Corrupt Practices Act and the U.K.
+  Bribery Act; 
+ currency exchange rate
+  fluctuations; 
+ foreign exchange controls that might prevent us
+  from repatriating cash earned outside the United States; 
+ political and economic instability in some
+  countries; 
+ double taxation of our international earnings and
+  potentially adverse tax consequences due to changes in the tax laws of the
+  United States or the foreign jurisdictions in which we operate;
+  and 
+ higher costs of doing business
+  internationally. 
+ Many people use smartphones and
+other mobile devices to access information about local businesses. We have
+limited experience with mobile advertising and have prioritized the quality of
+user experience with our mobile products over short-term monetization. As a
+result, growth in use of our mobile app and mobile website, particularly if it substitutes
+for use of our website on personal computers, may adversely affect our results
+of operations and business. 
+ The number of
+people who access information about local businesses through mobile devices,
+including smartphones and handheld tablets or computers, has increased
+dramatically in the past few years and is expected to continue to increase.
+Although we currently deliver advertising on our mobile app and mobile website,
+we have limited experience with mobile advertising and have prioritized the
+quality of user experience with our mobile products over short-term
+monetization. With our ability to effectively monetize our mobile products
+unproven, we may not be able to generate meaningful revenue from our mobile
+products despite the expected growth in mobile usage. In addition, if consumers
+use our mobile app and mobile website as substitutes for, rather than in
+addition to, use of our website on personal computers and our mobile solutions
+prove ineffective, our advertisers may stop or reduce their advertising with us.
+Similarly, we may be unable to attract new advertisers if our mobile advertising
+solutions are not compelling. If our advertising solutions are not effective or
+we fail to continue to innovate and introduce enhanced mobile solutions, if our
+solutions alienate our user base, or if our solutions are not widely adopted or
+are insufficiently profitable, our business may suffer. 
+ Additionally, as new mobile devices and platforms are released, it is
+difficult to predict the problems we may encounter in developing products for
+these alternative devices and platforms, and we may need to devote significant
+resources to the creation, support and maintenance of such products. We are
+dependent on the interoperability of our mobile products with popular mobile
+operating systems that we do not control, such as Android and iOS, and any
+changes in such systems that degrade their functionality could adversely affect
+mobile usage. If we experience difficulties in the future in integrating our
+mobile app into mobile devices or if problems arise with our relationships with
+providers of mobile operating systems or mobile application download stores,
+such as those of Google, with whose local products we compete, or Apple, Inc.,
+our user growth and user engagement could be harmed. In addition, if our
+applications receive unfavorable treatment compared to the promotion and
+placement of competing applications, such as the order of our products in the
+Apple AppStore, or if we face increased costs to distribute our mobile app, our
+future growth and our results of operations could suffer. Further, in the event
+that it becomes more difficult for our users to access and use our mobile app,
+or if users choose to use mobile products that do not offer access to our mobile
+app, we may be unable to decrease our reliance on traffic from Google and other
+search engines. 
+ We expect to face increased
+competition in the market. 
+ The market for information regarding local businesses and advertising is
+intensely competitive and rapidly changing. With the emergence of new
+technologies and market entrants, competition is likely to intensify in the
+future. Our competitors include, among others, offline media companies and
+service providers; newspaper, television and other media companies; Internet
+search engines, such as Google, Bing and Yahoo!; and various other online
+service providers and review websites. Our competitors may enjoy competitive advantages, such as
+greater name recognition, longer operating histories, substantially greater
+market share, large existing user bases and substantially greater financial,
+technical and other resources. These companies may use these advantages to offer
+products similar to ours at a lower price, develop different products to compete
+with our current solutions and respond more quickly and effectively than we do
+to new or changing opportunities, technologies, standards or client
+requirements. In particular, major Internet companies, such as Google, Facebook,
+Yahoo! and Microsoft may be more successful than us in developing and marketing
+online advertising offerings directly to local businesses and many of our
+advertisers and potential advertisers may choose to purchase online advertising
+services from these competitors and may reduce their purchases of our products.
+In addition, many of our current and potential competitors have established
+marketing relationships with and access to larger client bases. As the market
+for local online advertising increases, new competitors, business models and
+solutions are likely to emerge. We also compete with these companies for the
+attention of contributors and consumers, and may experience decreases in both if
+our competitors offer more compelling environments. For all of these reasons, we
+may be unable to maintain or grow the number of people who use our website and
+mobile app and the number of businesses that use our advertising solutions and
+we may face pressure to reduce the price of our advertising solutions, in which
+case our business, results of operations and financial condition will be
+harmed. 
+ The traffic to our website and
+mobile application may decline and our business may suffer if other companies
+copy information from our platform and publish or aggregate it with other
+information for their own benefit. 
+ From time to
+time, other companies copy information from our platform, through website
+scraping, robots or other means, and publish or aggregate it with other
+information for their own benefit. For example, in parts of 2010 and 2011,
+Google incorporated content from our website into its own local product without
+our permission. Googles users, as a result, may not have visited our website
+because they found the information they sought on Google. While we do not
+believe that Google is still incorporating our content within its local
+products, we have no assurance that Google or other companies will not copy,
+publish or aggregate content from our platform in the future. 
+ When third parties copy, publish or aggregate content from our platform,
+it makes them more competitive and decreases the likelihood that consumers will
+visit our website or use our mobile app to find the information they seek, which
+could negatively affect our business, results of operations and financial
+condition. We may not be able to detect such third-party conduct in a timely
+manner and, even if we could, we may not be able to prevent it. In some cases,
+particularly in the case of websites operating outside of the United States, our
+available remedies may be inadequate to protect us against such practices. In
+addition, we may be required to expend significant financial or other resources
+to successfully enforce our rights. 
+ The impact of worldwide economic
+conditions, including the resulting effect on advertising spending by local
+businesses, may adversely affect our business, operating results and financial
+condition. 
+ Our performance is subject to worldwide economic conditions and their
+impact on levels of advertising spend by small and medium-sized businesses,
+which may be disproportionately affected by economic downturns. In the event of
+an economic slowdown or deterioration of worldwide economic conditions, our
+existing and potential advertising clients may no longer consider investment in
+our advertising solutions a necessity, or may elect to reduce advertising
+budgets. Historically, economic downturns have resulted in overall reductions in
+advertising spending. In particular, web-based advertising solutions may be
+viewed by some of our existing and potential advertising clients as a lower
+priority and could cause advertisers to reduce the amounts they spend on
+advertising, terminate their use of our solutions or default on their payment
+obligations to us. In addition, economic conditions may adversely impact levels
+of consumer spending, which could adversely impact the numbers of consumers
+visiting our website and mobile app. Consumer purchases of discretionary items
+generally decline during recessionary periods and other periods in which
+disposable income is adversely affected. If spending at many of the local
+businesses reviewed on our platform declines, businesses may be
+less likely to use our advertising products, which could have a material adverse
+effect on our financial condition and results of operations. 
+ We face potential liability and
+expense for legal claims based on the content on our
+platform. 
+ We face potential liability and expense for legal claims relating to the
+information that we publish on our website and mobile app, including claims for
+defamation, libel, negligence and copyright or trademark infringement, among
+others. For example, businesses in the past have claimed, and may in the future
+claim, that we are responsible for defamatory reviews posted by our users. We
+expect claims like these to continue, and potentially increase in proportion to
+the amount of content on our platform. These claims could divert management time
+and attention away from our business and result in significant costs to
+investigate and defend, regardless of the merits of the claims. In some
+instances, we may elect or be compelled to remove content or may be forced to
+pay substantial damages if we are unsuccessful in our efforts to defend against
+these claims. If we elect or are compelled to remove valuable content from our
+website or mobile app, our platform may become less useful to consumers and our
+traffic may decline, which could have a negative impact on our business and
+financial performance. 
+ We process, store and use
+personal information and other data, which subjects us to governmental
+regulation and other legal obligations related to privacy. Our actual or
+perceived failure to comply with such obligations could harm our
+business. 
+ We receive, store and process personal information and other user data,
+including credit card information for certain users. There are numerous federal,
+state and local laws around the world regarding privacy and the storing,
+sharing, use, processing, disclosure and protection of personal information and
+other user data, the scope of which are changing, subject to differing
+interpretations, and may be inconsistent between countries or conflict with
+other rules. For example, the Federal Trade Commission, or FTC, currently
+expects companies like Yelp to comply with guidelines issued under the Federal
+Trade Commission Act that govern the collection, use and storage of consumer 
+ information, establishing principles relating to
+notice, consent, access and data integrity and security. Our practices are
+designed to comply with these guidelines as described in our published privacy
+policy. For example, we disclose that we collect a range of information about
+our users, such as their names, email addresses, search histories and activity
+on our platform. We also use and store such information primarily to personalize
+the experience on our platform, provide customer support and display relevant
+advertising. While we do not sell or share personally identifiable information
+with third parties for direct marketing purposes, we do have relationships with
+third parties that may allow them access to user information for other purposes.
+For example, when we outsource functions such as technical and customer support,
+tracking and reporting, quality assurance and payment processing to other
+companies, we make user information available to those companies to the extent
+necessary for them to provide the outsourced services. We believe our policies
+and practices comply with the FTC privacy guidelines and other applicable laws
+and regulations. However, if our belief proves incorrect, or if these
+guidelines, laws or regulations or their interpretation change or new
+legislation or regulations are enacted, we may be compelled to provide
+additional disclosures to our users, obtain additional consents from our users
+before collecting or using their information or implement new safeguards to help
+our users manage our use of their information, among other changes. 
+ We also
+generally comply with industry standards and are subject to the terms of our
+privacy policies and privacy-related obligations to third parties (including, in
+certain instances, voluntary third-party certification bodies such as TRUSTe).
+It is possible that these obligations may be interpreted and applied in a manner
+that is inconsistent from one jurisdiction to another and may conflict with
+other rules or our practices. 
+ Any failure or perceived failure by us to comply with our privacy
+policies, our privacy-related obligations to users or other third parties, or
+our privacy-related legal obligations, or any compromise of security that
+results in the unauthorized release or transfer of personally identifiable
+information or other user data, may result in governmental enforcement actions,
+litigation or negative publicity and could cause our users and advertisers to
+lose trust in us, which could have an adverse effect on our business.
+Additionally, if third parties with whom we work, such as advertisers, vendors
+or developers, violate applicable laws or our policies, such violations may also
+put our users information at risk and could have an adverse effect on our
+business. 
+ Our business could suffer if the
+jurisdictions in which we operate change the way in which they regulate the
+Internet, including regulations relating to user-generated content and
+privacy. 
+ Our business, including our ability to operate and expand
+internationally, could be adversely affected if legislation or regulations are
+adopted, interpreted or implemented in a manner that is inconsistent with our
+current business practices and that requires changes to these practices or the
+design of our platform, products or features. For example, if legislation is
+passed that limits the immunities afforded to websites that publish
+user-generated content, we may be compelled to remove content from our platform
+that we would otherwise publish, restrict the types of businesses that our users
+can review or further verify the identity of our users, among other changes.
+Similarly, legislation could be passed that limits our ability to use or store
+information about our users. 
+ Practices regarding the collection, use, storage, display, processing,
+transmission and security of personal information by companies offering online
+services have recently come under increased public scrutiny. As a result, the
+regulatory framework for privacy issues worldwide is currently in flux and is
+likely to remain so for the foreseeable future. The U.S. government, including
+the White House, the FTC and the Department of Commerce,
+are reviewing the need for greater regulation of the collection of information
+concerning consumer behavior with respect to online services, including
+regulation aimed at restricting certain targeted advertising practices. The
+White House recently published a report calling for a consumer privacy Bill of
+Rights that could impact the collection of data. Legislative changes have been
+proposed abroad as well, including recent proposals by the European Commission
+to reform its existing data protection legal framework. Various government and
+consumer agencies have also called for new regulation and changes in industry
+practices. Recently, the State of California and several other states have
+adopted privacy guidelines with respect to mobile applications. Changes like
+these could increase our administrative costs and make it more difficult for
+consumers to use our platform, resulting in less traffic and revenue. Similarly,
+changes like these could make it more difficult for us to provide effective
+advertising tools to businesses on our platform, resulting in fewer advertisers
+and less revenue. In any of the cases above, our business could
+suffer. 
+ Our acquisition of Qype creates
+numerous risks and uncertainties that could adversely affect our operating
+results or prevent us from realizing the expected benefits of the
+acquisition. 
+ In October
+2012, we acquired Qype to accelerate our international expansion. This
+acquisition requires the integration of Qype, its operations, services and
+personnel with our organization. These transition activities are complex, and we
+may encounter unexpected difficulties or incur unexpected costs. 
+ In order to realize the expected benefits and synergies of our
+acquisition of Qype, we must meet a number of significant challenges, including: 
+ integrating the management teams, strategies and operations of the
+  combined business; 
+ retaining and assimilating the key
+  personnel of each company; 
+ retaining existing customers and
+  obtaining new customers; 
+ difficulties in the assimilation of
+  employees and corporate cultures; 
+ migrating Qype users and content to
+  our platform; 
+ implementing and retaining uniform
+  standards, controls, procedures, policies and information systems;
+  and 
+ managing the combined business
+  effectively. 
+ It is possible
+that the integration process could result in the loss of technical skills and
+management expertise of key employees, the disruption of each companys ongoing
+business or inconsistencies in standards, controls, procedures and policies due
+to possible cultural conflicts or differences of opinions on technical decisions
+and services. In addition, following the acquisition of Qype, we began implementation of a
+restructuring plan affecting approximately 35 Qype employees in order to
+eliminate redundancies within the combined business and improve operational
+efficiencies. Such restructuring efforts could result in reduced efficiency of
+retained employees and may result in employees, whether or not directly affected
+by the restructuring, seeking future employment with our business partners or
+competitors. Although employees are subject to confidentiality requirements, the
+confidential nature of certain proprietary information may not be maintained in
+the course of any such future employment. Further, we believe that our ability
+to realize the full benefits of the acquisition will depend upon our ability to
+retain highly skilled personnel. We may have difficulty retaining such personnel
+as a result of the restructuring. 
+ A failure to integrate Qype successfully could adversely affect our
+ability to maintain relationships with customers and employees or to achieve the
+anticipated benefits of the acquisition. In addition, we may be required to
+spend additional time or funds on integration that otherwise would be spent on
+the development and expansion of the combined business. Even if we are able to
+integrate Qype operations successfully, these integrations may not result in the
+realization of the full benefits of synergies, cost savings, innovation and
+operational efficiencies that may be possible from the integration, and these
+benefits may not be achieved within a reasonable period of time. 
+ We may also acquire other
+companies or technologies, which could divert our managements attention, result
+in additional dilution to our stockholders and otherwise disrupt our operations
+and harm our operating results. 
+ Our success will depend, in part, on our ability to expand our product
+offerings and grow our business in response to changing technologies, user and
+advertiser demands and competitive pressures. In some circumstances, we may
+determine to do so through the acquisition of complementary businesses or
+technologies rather than through internal development. We have limited
+experience as a company in the complex process of acquiring other businesses and
+technologies. The pursuit of potential future acquisitions may divert the
+attention of management and cause us to incur expenses in identifying,
+investigating and pursuing suitable acquisitions, whether or not they are
+consummated. Acquisitions could also result in dilutive issuances of equity
+securities or the incurrence of debt, which could adversely affect our results
+of operations or our ability to achieve profitability. 
+ Acquisitions also involve a number of risks to our business, including
+the difficulty of integrating operations, services, sites and technologies, and
+personnel of the acquired companies, the potential disruption of our ongoing
+business, the potential distraction of management, the possibility that our
+business culture and the business culture 
+ of the
+acquired companies will not be compatible, expenses related to the acquisition
+and to the integration of the acquired companies, the impairment of
+relationships with employees and customers as a result of any integration of new
+personnel, risks related to the businesses of acquired companies that may
+continue to impact the businesses following the acquisition and potential
+unknown liabilities associated with acquired companies. Any inability to
+integrate services, sites and technologies, operations or personnel in an
+efficient and timely manner could harm our results of operations. 
+ If we fail to manage our growth
+effectively, our brand, results of operations and business could be
+harmed. 
+ We have
+experienced rapid growth in our headcount and operations, including through our
+recent acquisition of Qype, which places substantial demands on management and
+our operational infrastructure. Most of our employees have been with us for
+fewer than two years. We intend to make substantial investments in our
+technology, sales and marketing and community management organizations. As we
+continue to grow, we must effectively integrate, develop and motivate a large
+number of new employees, including employees in international markets and from
+any acquired businesses, while maintaining the beneficial aspects of our company
+culture. If we do not manage the growth of our business and operations
+effectively, the quality of our platform and efficiency of our operations could
+suffer, which could harm our brand, results of operations and
+business. 
+ We may not timely and effectively
+scale and adapt our existing technology and network infrastructure to ensure
+that our platform is accessible. 
+ It is important to our success that users in all geographies be able to
+access our platform at all times. We have previously experienced, and may
+experience in the future, service disruptions, outages and other performance
+problems due to a variety of factors, including infrastructure changes, human or
+software errors, capacity constraints due to an overwhelming number of users
+accessing our platform simultaneously, and denial of service or fraud or
+security attacks. In some instances, we may not be able to identify the cause or
+causes of these performance problems within an acceptable period of time. It may
+become increasingly difficult to maintain and improve the availability of our
+platform, especially during peak usage times and as our solutions become more
+complex and our user traffic increases. If our platform is unavailable when
+users attempt to access it or it does not load as quickly as they expect, users
+may seek other services to obtain the information for which they are looking,
+and may not return to our platform as often in the future, or at all. This would
+negatively impact our ability to attract users and advertisers and increase the
+frequency with which they use our website and mobile app. We expect to continue
+to make significant investments to maintain and improve the availability of our
+platform and to enable rapid releases of new features and products. To the
+extent that we do not effectively address capacity constraints, upgrade our
+systems as needed and continually develop our technology and network
+architecture to accommodate actual and anticipated changes in technology, our
+business and operating results may be harmed. 
+ Our disaster recovery program contemplates transitioning our platform and
+data to a backup center in the event of a catastrophe, but we have not yet
+tested the procedure in full, and the transition procedure may take several days
+or more to complete. During this time, our platform may be unavailable in whole
+or in part to our users. 
+ We are, and may in the future be,
+subject to disputes and assertions by third parties that we violate their
+rights. These disputes may be costly to defend and could harm our business and
+operating results. 
+ We currently face, and we expect to face from time to time in the future,
+allegations that we have violated the rights of third parties, including patent,
+trademark, copyright and other intellectual property rights and the rights of
+current and former employees and business owners. For example, third parties
+have sued us for allegedly violating their patent rights (we are currently a
+defendant in numerous such suits, all of which involve plaintiffs targeting
+multiple defendants in the same or similar suits), an action was filed against
+us on behalf of current and former employees claiming that we violated labor and
+other laws (we have received final court approval to settle the suit for
+approximately $0.8 million) and various businesses have sued us alleging that we
+manipulate Yelp reviews in order to coerce them and other businesses to pay for
+Yelp advertising (one such suit was voluntarily dismissed, and two others were
+consolidated and dismissed with prejudice, although the plaintiffs are seeking
+an appeal). In addition, Deutsche Telekom AG, or Deutsche Telekom, has filed two
+suits against Qype in Germany regarding fees payable for directory data that Qype and its predecessor purchased from Deutsche Telekom; both claims have been
+rejected in full by the German court, although Deutsche Telekom has appealed the
+decisions to the Higher Regional Court of Cologne, which referred the appeals to the Higher Regional Court of Düsseldorf. The appeals are expected to be heard in the first half of 2013. 
+ Other claims
+against us can be expected to be made in the future. Even if the claims are
+without merit, the costs associated with defending these types of claims may be
+substantial, both in terms of time, money and management distraction. In
+particular, patent and other intellectual property litigation may be protracted
+and expensive, and the results are difficult to predict and may require us to
+stop offering certain features, purchase licenses or modify our products and
+features while we develop non-infringing substitutes or may result in
+significant settlement costs. We do not own any patents, and, therefore, may be
+unable to deter competitors or others from pursuing patent or other intellectual
+property infringement claims against us. 
+ The results of litigation and claims to which we may be subject cannot be
+predicted with certainty. Even if these matters do not result in litigation or
+are resolved in our favor or without significant cash settlements, these
+matters, and the time and resources necessary to litigate or resolve them, could
+harm our business, results of operations and reputation. 
+ Some of our solutions contain
+open source software, which may pose particular risks to our proprietary
+software and solutions. 
+ We use open source software in our solutions and will use open source
+software in the future. From time to time, we may face claims from third parties
+claiming ownership of, or demanding release of, the open source software and/or
+derivative works that we developed using such software (which could include our
+proprietary source code), or otherwise seeking to enforce the terms of the
+applicable open source license. These claims could result in litigation and
+could require us to purchase a costly license or cease offering the implicated
+solutions unless and until we can re-engineer them to avoid infringement. This
+re-engineering process could require significant additional research and
+development resources. In addition to risks related to license requirements, use
+of certain open source software can lead to greater risks than use of
+third-party commercial software, as open source licensors generally do not
+provide warranties or controls on the origin of software. Any of these risks
+could be difficult to eliminate or manage, and, if not addressed, could have a
+negative effect on our business and operating results. 
+ We make the consumer experience
+our highest priority. Our dedication to making decisions based primarily on the
+best interests of consumers may cause us to forgo short-term gains and
+advertising revenue. 
+ We base many of our decisions upon the best interests of the consumers
+who use our platform. We believe that this approach has been essential to our
+success in increasing our user growth rate and the frequency with which
+consumers use our platform and has served the long-term interests of our company
+and our stockholders. In the past, we have forgone, and we may in the future
+forgo, certain expansion or revenue opportunities that we do not believe are in
+the best interests of consumers, even if such decisions negatively impact our
+results of operations in the short term, and we believe that continued adherence
+to this principle will, in the long term, benefit our stockholders. In
+particular, our approach of putting our consumers first may negatively impact
+our relationships with our existing or prospective advertisers. For example,
+unless we believe that a review violates our terms of service, such as reviews
+that contain hate speech or bigotry, we allow the review to remain on the
+platform, even if the business disputes its accuracy. Certain advertisers may
+therefore perceive us as an impediment to their success as a result of negative
+reviews and ratings. This practice could result in a loss of advertisers, which
+in turn could harm our results of operations. 
+ We rely on third-party service
+providers for many aspects of our business, and any failure to maintain these
+relationships could harm our business. 
+ We rely on data about local businesses from third parties, including
+various yellow pages and other third parties that license such information to
+us. We also rely on third parties for other aspects of our business, such as
+mapping functionality and administrative software solutions. If these third
+parties experience difficulty meeting our requirements or standards, or our
+licenses are revoked or not renewed, it could make it difficult for us to
+operate some aspects of our business, which could damage our reputation. In
+addition, if such third-party service providers were to cease operations,
+temporarily or permanently, face financial distress or other business
+disruption, increase their fees or if our relationships with these providers
+deteriorate, we could suffer increased costs and delays in our ability to
+provide consumers and advertisers with content or provide similar services until
+an equivalent provider could be found or we could develop replacement technology
+or operations. In addition, if we are unsuccessful in 
+ choosing or finding high-quality partners, if we fail to negotiate
+cost-effective relationships with them, or if we ineffectively manage these
+relationships, it could have an adverse impact on our business and financial
+performance. 
+ We expect a number of factors to
+cause our operating results to fluctuate on a quarterly and annual basis, which
+may make it difficult to predict our future performance. 
+ Our operating
+results could vary significantly from quarter to quarter and year to year
+because of a variety of factors, many of which are outside of our control. As a
+result, comparing our operating results on a period-to-period basis may not be
+meaningful. In addition to other risk factors discussed in this section, factors
+that may contribute to the variability of our quarterly and annual results
+include: 
+ our
+  ability to attract new local business advertisers and retain existing
+  advertisers; 
+ our ability to accurately forecast
+  revenue and appropriately plan our expenses; 
+ the effects of changes in search
+  engine placement and prominence; 
+ the effects of increased competition
+  in our business; 
+ our ability to successfully expand in
+  existing markets, enter new markets and manage our international
+  expansion; 
+ the impact of worldwide economic
+  conditions, including the resulting effect on consumer spending at local
+  businesses and the level of advertising spending by local
+  businesses; 
+ our ability to protect and grow our
+  intellectual property; 
+ our ability to maintain an adequate
+  rate of growth and effectively manage that growth; 
+ our ability to maintain and increase
+  traffic to our website and mobile app; 
+ our ability to
+  keep pace with changes in technology; 
+ the success of our sales and
+  marketing efforts; 
+ costs associated with defending
+  intellectual property infringement and other claims and related judgments or
+  settlements; 
+ our ability to manage
+  successfully any acquisitions of businesses, solutions or technologies, including
+  Qype; 
+ changes in government regulation
+  affecting our business; 
+ interruptions in service and any
+  related impact on our reputation; 
+ the attraction and retention of
+  qualified employees and key personnel; 
+ our ability to choose and effectively
+  manage third-party service providers; 
+ the impact of fluctuations in
+  currency exchange rates; 
+ changes in consumer behavior with
+  respect to local businesses; 
+ fluctuations in spending by our advertisers due to seasonality, such as historically stronger spending in the
+fourth quarter of each year, or other factors; 
+ the effects of natural or man-made
+  catastrophic events; 
+ the effectiveness of our internal
+  controls; and 
+ changes in our tax rates or exposure
+  to additional tax liabilities. 
+ Because we recognize most of the
+revenue from our advertising products over the term of an agreement, a
+significant downturn in our business may not be immediately reflected in our
+results of operations. 
+ We recognize
+revenue from sales of our advertising products over the terms of the applicable
+agreements, which are generally three, six or 12 months. As a result, a
+significant portion of the revenue we report in each 
+ quarter is generated from agreements entered into during previous
+quarters. Consequently, a decline in new or renewed agreements in any one
+quarter may not significantly impact our revenue in that quarter but will
+negatively affect our revenue in future quarters. In addition, we may be unable
+to adjust our fixed costs in response to reduced revenue. Accordingly, the
+effect of significant declines in advertising sales may not be reflected in our
+short-term results of operations. 
+ We rely on the performance of
+highly skilled personnel, and if we are unable to attract, retain and motivate
+well-qualified employees, our business could be harmed. 
+ We believe our
+success has depended, and continues to depend, on the efforts and talents of our
+employees, including our senior management team, software engineers, marketing
+professionals and advertising sales staff. Our future success depends on our
+continuing ability to attract, develop, motivate and retain highly qualified and
+skilled employees. Qualified individuals are in high demand, and we may incur
+significant costs to attract them. In addition, the loss of any of our senior
+management or key employees could materially adversely affect our ability to
+execute our business plan, and we may not be able to find adequate replacements.
+All of our officers and other U.S. employees are at-will employees, which mean
+they may terminate their employment relationship with us at any time, and their
+knowledge of our business and industry would be extremely difficult to replace.
+We cannot ensure that we will be able to retain the services of any members of
+our senior management or other key employees. If we do not succeed in attracting
+well-qualified employees or retaining and motivating existing employees, our
+business could be harmed. 
+ Failure to protect or enforce our
+intellectual property rights could harm our business and results of
+operations. 
+ We regard the protection of our trade secrets, copyrights, trademarks and
+domain names as critical to our success. In particular, we must maintain,
+protect and enhance the Yelp brand. We pursue the registration of our domain
+names, trademarks and service marks in the United States and in certain
+jurisdictions abroad. We strive to protect our intellectual property rights by
+relying on federal, state and common law rights, as well as contractual
+restrictions. We typically enter into confidentiality and invention assignment
+agreements with our employees and contractors, and confidentiality agreements
+with parties with whom we conduct business in order to limit access to, and
+disclosure and use of, our proprietary information. However, these contractual
+arrangements and the other steps we have taken to protect our intellectual
+property may not prevent the misappropriation or disclosure of our proprietary
+information nor deter independent development of similar technologies by
+others. 
+ Effective trade secret, copyright, trademark and domain name protection
+is expensive to develop and maintain, both in terms of initial and ongoing
+registration requirements and expenses and the costs of defending our rights. We
+are seeking to protect our trademarks and domain names in an increasing number
+of jurisdictions, a process that is expensive and may not be successful or which
+we may not pursue in every location. Litigation may be necessary to enforce our
+intellectual property rights, protect our respective trade secrets or determine
+the validity and scope of proprietary rights claimed by others. Any litigation
+of this nature, regardless of outcome or merit, could result in substantial
+costs and diversion of management and technical resources, any of which could
+adversely affect our business and operating results. We may incur significant
+costs in enforcing our trademarks against those who attempt to imitate our
+Yelp brand. If we fail to maintain, protect and enhance our intellectual
+property rights, our business and operating results may be harmed. 
+ We may be unable to continue to
+use the domain names that we use in our business, or prevent third parties from
+acquiring and using domain names that infringe on, are similar to, or otherwise
+decrease the value of our brand or our trademarks or service
+marks. 
+ We have registered domain names for our website that we use in our
+business, such as Yelp.com. If we lose the ability to use a domain name, whether
+due to trademark claims, failure to renew the applicable registration, or any
+other cause, we may be forced to market our products under a new domain name,
+which could cause us substantial harm, or to incur significant expense in order
+to purchase rights to the domain name in question. In addition, our competitors
+and others could attempt to capitalize on our brand recognition by using domain
+names similar to ours. Domain names similar to ours have been registered in the
+United States and elsewhere. We may be unable to prevent third parties from
+acquiring and using domain names that infringe on, are similar to, or otherwise
+decrease 
+ the value of our brand or our trademarks
+or service marks. Protecting and enforcing our rights in our domain names may
+require litigation, which could result in substantial costs and diversion of
+managements attention. 
+ If our security measures are
+compromised, or if our platform is subject to attacks that degrade or deny the
+ability of users to access our content, users may curtail or stop use of our
+platform. 
+ Our platform
+involves the storage and transmission of user and business information, some of
+which may be private, and security breaches could expose us to a risk of loss of
+this information, which could result in potential liability and litigation. Like
+all online services, our platform is vulnerable to computer viruses, break-ins,
+phishing attacks, attempts to overload our servers with denial-of-service or
+other attacks and similar disruptions from unauthorized use of our computer
+systems, any of which could lead to interruptions, delays or website shutdowns,
+causing loss of critical data or the unauthorized disclosure or use of
+personally identifiable or other confidential information. Because the
+techniques used to obtain unauthorized access, disable or degrade service or
+sabotage systems change frequently, often are not recognized until launched
+against a target and may originate from less regulated and remote areas around
+the world, we may be unable to proactively address these techniques or to
+implement adequate preventative measures. If we experience compromises to our
+security that result in performance or availability problems, the complete
+shutdown of our website or the loss or unauthorized disclosure of confidential
+information, our users or advertisers may lose trust and confidence in us and
+decrease their use of our platform or stop using our platform entirely, and we
+would suffer reputational and financial harm. For example, we work with third
+party vendors to process credit card payments by certain of our users and local
+businesses and are subject to payment card association operating rules. If our
+security measures fail to protect this information adequately as a result of
+employee error, malfeasance or otherwise, or we fail to comply with the
+applicable operating rules, we could be liable to our users and local businesses
+for their losses, as well as the vendors under our agreements with them, we
+could be subject to fines and higher transaction fees, we could face regulatory
+action and our users, local businesses and vendors could end their
+relationships with us, any of which could harm our business and financial
+results. 
+ In addition, user and business owner accounts and profile pages could be
+hacked, hijacked, altered or otherwise claimed or controlled by unauthorized
+persons. For example, we enable businesses to create free online business
+accounts and claim the business profile pages for each of their business
+locations. We verify these claims through an automated telephone verification
+process, which is designed to confirm that the person setting up the account is
+affiliated with the business by confirming that the person has access to the
+businesss telephone. Our verification system could fail to confirm that the
+recipient of the call is an authorized representative of the business, or
+mistakenly allow an unauthorized representative to claim the businesss profile
+page. Any or all of these issues could negatively impact our ability to attract
+new users or could deter current users from returning or reduce the frequency
+with which consumers and advertisers use our solutions, cause existing or
+potential advertisers to cancel their contracts or subject us to third-party
+lawsuits, regulatory fines or other action or liability, thereby harming our
+results of operations. 
+ Our business is subject to a
+variety of U.S. and foreign laws, many of which are unsettled and still
+developing and which could subject us to claims or otherwise harm our
+business. 
+ We are subject to a variety of laws in the United States and abroad,
+including laws regarding data retention, privacy, distribution of user-generated
+content and consumer protection, that are frequently evolving and developing.
+The scope and interpretation of the laws that are or may be applicable to us are
+often uncertain and may be conflicting, particularly outside the United States.
+For example, laws relating to the liability of providers of online services for
+activities of their users and other third parties are currently being tested by
+a number of claims, including actions based on invasion of privacy and other
+torts, unfair competition, copyright and trademark infringement and other
+theories based on the nature and content of the materials searched, the ads
+posted, or the content provided by users. In addition, regulatory authorities
+around the world are considering a number of legislative and regulatory
+proposals concerning data protection and other matters that may be applicable to
+our business. It is also likely that if our business grows and evolves and our
+solutions are used in a greater number of countries, we will become subject to
+laws and regulations in additional jurisdictions. It is difficult to predict how
+existing laws will be applied to our business and the new laws to which we may
+become subject. 
+ If we are not
+able to comply with these laws or regulations or if we become liable under these
+laws or regulations, we could be directly harmed, and we may be forced to
+implement new measures to reduce our exposure to this liability. This may
+require us to expend substantial resources or to discontinue certain products or
+features, which would negatively affect our business. In addition, the increased
+attention focused upon liability issues as a result of lawsuits and legislative
+proposals could harm our reputation or otherwise impact the growth of our
+business. Any costs incurred to prevent or mitigate this potential liability
+could also harm our business and operating results. 
+ Domestic and foreign laws may be
+interpreted and enforced in ways that impose new obligations on us with respect
+to Yelp Deals, which may harm our business and results of
+operations. 
+ Our Yelp Deals
+products may be deemed gift certificates, store gift cards, general-use prepaid
+cards or other vouchers, or gift cards, subject to, among other laws, the
+federal Credit Card Accountability Responsibility and Disclosure Act of 2009, or
+the Credit CARD Act, and similar federal, state and foreign laws. Many
+of these laws include specific disclosure requirements and prohibitions or
+limitations on the use of expiration dates and the imposition of certain fees.
+For example, the Credit CARD Act requires that gift cards expire no
+earlier than five years after their issue. Yelp Deals are comprised of two
+components: (i) the purchase value, which is the amount paid by the purchaser
+and which does not expire, and (ii) the promotional value, which is the
+remaining value for which the Yelp Deal can be redeemed during a limited period,
+which typically ends one year after the date of purchase. If, contrary to our
+belief, the Credit CARD Act and similar state laws were held to apply to
+the promotional value component of Yelp Deals, consumers would be entitled to
+redeem the promotional value component of their Yelp Deals for up to five years
+after their issue, and we could face liability for redemption periods that are
+less than five years. Various companies that provide deal products similar to
+ours are currently defendants in purported class action lawsuits that have been
+filed in federal and state court claiming that their deal products are subject
+to the Credit CARD Act and various state laws governing gift cards and
+that the defendants have violated these laws as a result of expiration dates and
+other restrictions they have placed on their deals. Similar lawsuits have been
+filed in other locations in which we plan to sell our Yelp Deals, such as the
+Canadian province of Ontario, alleging similar violations of provincial
+legislation governing gift cards. 
+ The application of various other laws and regulations to our products,
+and particularly our Yelp Deals and Gift Certificates, is uncertain. These include laws and
+regulations pertaining to unclaimed and abandoned property, partial redemption,
+refunds, revenue-sharing restrictions on certain trade groups and professions,
+sales and other local taxes and the sale of alcoholic beverages. For example,
+although it is the responsibility of merchants to redeem or refund unexpired
+Yelp Deals and Gift Certificates that they offer through our platform, the law might be interpreted to
+require that we redeem or refund them. Because merchants alone, and not Yelp,
+are in a position to track the redemption of Yelp Deals and Gift Certificates, we may not be able to
+comply with such a requirement without substantial and potentially costly
+changes to our infrastructure and business practices. In addition, we may
+become, or be determined to be, subject to federal, state or foreign laws
+regulating money transmitters or aimed at preventing money laundering or
+terrorist financing, including the Bank Secrecy Act, the USA PATRIOT Act and
+other similar future laws or regulations. 
+ If we become subject to claims or are required to alter our business
+practices as a result of current or future laws and regulations, our revenue
+could decrease, our costs could increase and our business could otherwise be
+harmed. In addition, the costs and expenses associated with defending any
+actions related to such additional laws and regulations and any payments of
+related penalties, fines, judgments or settlements could harm our
+business. 
+ We may require additional capital
+to support business growth, and this capital might not be available on
+acceptable terms, if at all. 
+ We intend to continue to make investments to support our business growth
+and may require additional funds to respond to business challenges, including
+the need to develop new features and products or enhance our existing services,
+improve our operating infrastructure or acquire complementary businesses and
+technologies. Accordingly, we may need to engage in equity or debt financings to
+secure additional funds. If we raise additional funds through future issuances
+of equity or convertible debt securities, our existing stockholders could suffer
+significant dilution, and any new equity securities we issue could have rights,
+preferences and privileges superior to those of holders of our Class A common
+stock. Any debt financing we secure in the future could involve restrictive
+covenants relating to our capital raising activities and other financial and
+operational matters, which may make it more difficult for us 
+ to obtain additional capital and to pursue business
+opportunities, including potential acquisitions. We may not be able to obtain
+additional financing on terms favorable to us, if at all. If we are unable to
+obtain adequate financing or financing on terms satisfactory to us when we
+require it, our ability to continue to support our business growth and to
+respond to business challenges could be significantly impaired, and our business
+may be harmed. 
+ Our business is subject to the
+risks of earthquakes, fires, floods and other natural catastrophic events and to
+interruption by man-made problems such as computer viruses or
+terrorism. 
+ Our systems
+and operations are vulnerable to damage or interruption from earthquakes, fires,
+floods, power losses, telecommunications failures, terrorist attacks, acts of
+war, human errors, break-ins and similar events. For example, a significant
+natural disaster, such as an earthquake, fire or flood, could have a material
+adverse impact on our business, operating results and financial condition, and
+our insurance coverage may be insufficient to compensate us for losses that may
+occur. Our U.S. corporate offices and one of the facilities we lease to house
+our computer and telecommunications equipment are located in the San Francisco
+Bay Area, a region known for seismic activity. In addition, acts of terrorism,
+which may be targeted at metropolitan areas that have higher population density
+than rural areas, could cause disruptions in our or our local business
+advertisers businesses or the economy as a whole. Our servers may also be
+vulnerable to computer viruses, break-ins and similar disruptions from
+unauthorized tampering with our computer systems, which could lead to
+interruptions, delays, loss of critical data or the unauthorized disclosure of
+confidential client data. We may not have sufficient protection or recovery
+plans in certain circumstances, such as natural disasters affecting the San
+Francisco Bay Area, and our business interruption insurance may be insufficient
+to compensate us for losses that may occur. As we rely heavily on our servers,
+computer and communications systems and the Internet to conduct our business and
+provide high quality customer service, such disruptions could negatively impact
+our ability to run our business and either directly or indirectly disrupt our
+local business advertisers businesses, which could have an adverse affect on
+our business, operating results and financial condition. 
+ The intended tax benefits of our
+corporate structure and intercompany arrangements depend on the application of
+the tax laws of various jurisdictions and on how we operate our
+business. 
+ Our corporate structure and intercompany arrangements, including the
+manner in which we develop and use our intellectual property and the transfer
+pricing of our intercompany transactions, are intended to reduce our worldwide
+effective tax rate. The application of the tax laws of various jurisdictions,
+including the United States, to our international business activities is subject
+to interpretation and depends on our ability to operate our business in a manner
+consistent with our corporate structure and intercompany arrangements. The
+taxing authorities of the jurisdictions in which we operate may challenge our
+methodologies for valuing developed technology or intercompany arrangements,
+including our transfer pricing, or determine that the manner in which we operate
+our business does not achieve the intended tax consequences, which could
+increase our worldwide effective tax rate and harm our financial position and
+results of operations. 
+ Our corporate structure includes legal entities located in jurisdictions
+with income tax rates lower than the U.S. statutory tax rate. Our intercompany
+arrangements allocate income to such entities in accordance with arms-length
+principles and commensurate with functions performed, risks assumed and
+ownership of valuable corporate assets. We believe that income taxed in certain
+foreign jurisdictions at a lower rate relative to the U.S. statutory rate will
+have a beneficial impact on our worldwide effective tax rate. 
+ Significant judgment is required in evaluating our tax positions and
+determining our provision for income taxes. During the ordinary course of
+business, there are many transactions and calculations for which the ultimate
+tax determination is uncertain. For example, our effective tax rates could be
+adversely affected by earnings being lower than anticipated in countries where
+we have lower statutory rates and higher than anticipated in countries where we
+have higher statutory rates, by changes in foreign currency exchange rates or by
+changes in the relevant tax, accounting and other laws, regulations, principles
+and interpretations. As we operate in numerous taxing jurisdictions, the
+application of tax laws can be subject to diverging and sometimes conflicting
+interpretations by tax authorities of these jurisdictions. It is not uncommon
+for taxing authorities in different countries to have conflicting views, for
+instance, with respect to, among other things, the manner in which the arms
+length standard is applied for transfer pricing purposes, or with respect to the
+valuation of intellectual property. In addition, tax laws are dynamic and
+subject to change as new laws are passed and new interpretations of the law are
+issued or applied. In particular, there is uncertainty in relation to the
+U.S. tax legislation in terms of the future corporate tax rate but also in terms
+of the U.S. tax consequences of income derived from income related to
+intellectual property earned overseas in low tax jurisdictions. 
+ Our
+existing corporate structure and intercompany arrangements have been implemented
+in a manner we believe is in compliance with current prevailing tax laws.
+However, the tax benefits which we intend to eventually derive could be
+undermined if we are unable to adapt the manner in which we operate our business
+and due to changing tax laws. 
+ The enactment of legislation
+implementing changes in the U.S. taxation of international business activities
+or the adoption of other tax reform policies could materially impact our
+financial condition and results of operations. 
+ The current administration has made
+public statements indicating that it has made international tax reform a
+priority, and key members of the U.S. Congress have conducted hearings and
+proposed new legislation. Recent changes to U.S. tax laws, including limitations
+on the ability of taxpayers to claim and utilize foreign tax credits and the
+deferral of certain tax deductions until earnings outside of the United States
+are repatriated to the United States, as well as changes to U.S. tax laws that
+may be enacted in the future, could impact the tax treatment of our foreign
+earnings. Due to the expanding scale of our international business activities,
+any changes in the U.S. taxation of such activities may increase our worldwide
+effective tax rate and harm our financial condition and results of operations. 
+ If our goodwill or intangible
+assets become impaired, we may be required to record a significant charge to
+earnings. 
+ Under accounting principles
+generally accepted in the United States, or GAAP, we review our intangible assets for
+impairment when events or changes in circumstances indicate the carrying value
+may not be recoverable. Goodwill is required to be tested for impairment at
+least annually. Factors that may be considered include a change in circumstances
+indicating that the carrying value of our goodwill or other intangible assets
+may not be recoverable include declines in our stock price and market
+capitalization or future cash flows projections. We recorded a significant
+amount of goodwill related to our acquisition of Qype in the fourth quarter of
+2012. A decline in our stock price, or any other adverse change in market
+conditions, particularly if such change has the effect of changing one of our
+critical assumptions or estimates, could result in a change to the estimation of
+fair value that could result in an impairment charge to our goodwill and intangible assets. Any such material charges may have a material
+negative impact on our financial and operating results. 
+ Risks Related to Ownership of Our
+Class A Common Stock 
+ The dual class structure of our
+common stock has the effect of concentrating voting control with those
+stockholders who held our stock prior to our initial public offering, including
+our founders, directors, executive officers and employees and their affiliates,
+and limiting your ability to influence corporate matters. 
+ Our Class B common stock has 10
+votes per share, and our Class A common stock has one vote per share.
+Stockholders who hold shares of Class B common stock, including our founders,
+directors, executive officers and employees and their affiliates, together
+beneficially own shares representing approximately 94.5% of the voting power of
+our outstanding capital stock as of December 31, 2012. Consequently, the holders
+of Class B common stock collectively will continue to be able to control all
+matters submitted to our stockholders for approval even if their stock holdings
+represent less than 50% of the outstanding shares of our common stock. Because
+of the 10-to-1 voting ratio between our Class B and Class A common stock, the
+holders of our Class B common stock collectively will continue to control a
+majority of the combined voting power of our common stock even when the shares
+of Class B common stock represent a small minority of all outstanding shares of
+our Class A and Class B common stock. This concentrated control will limit your
+ability to influence corporate matters for the foreseeable future, and, as a
+result, the market price of our Class A common stock could be adversely
+affected. Future transfers by holders of Class B common stock will generally
+result in those shares converting to Class A common stock, which will have the
+effect, over time, of increasing the relative voting power of those holders of
+Class B common stock who retain their shares in the long term, which may include
+existing founders, officers and directors and their affiliates. 
+ Our share price has been and will
+likely continue to be volatile. 
+ The
+trading price of our Class A common stock has been, and is likely to continue to
+be, highly volatile and could be subject to wide fluctuations in response to
+various factors, some of which are beyond our control. Since shares of our
+common stock were sold in our initial public offering in March 2012 at a price
+of $15.00 per share through February 15, 2013, our stocks daily closing price
+has ranged from $15.22 to $28.89. In addition to the factors discussed in
+this  
+ Risk Factors 
+  section and elsewhere in this Annual Report, factors that may cause
+volatility in our share price include: 
+ actual or anticipated fluctuations in our
+  financial condition and operating results; 
+ changes in projected operating and financial
+  results; 
+ actual or anticipated changes in our growth rate
+  relative to our competitors; 
+ announcements of technological innovations or new
+  offerings by us or our competitors; 
+ announcements by us or our competitors of
+  significant acquisitions, strategic partnerships, joint ventures or
+  capital-raising activities or commitments; 
+ additions or departures of key
+  personnel; 
+ issuance of research or reports by securities
+  analysts; 
+ fluctuations in the valuation of companies
+  perceived by investors to be comparable to us; 
+ sales of our Class A or Class B common
+  stock; 
+ changes in laws or regulations applicable to our
+  solutions; 
+ share price and volume fluctuations attributable
+  to inconsistent trading volume levels of our shares; and 
+ general economic and market
+conditions. 
+ Furthermore, the stock markets
+recently have experienced extreme price and volume fluctuations that have
+affected and continue to affect the market prices of equity securities of many
+companies. These fluctuations often have been unrelated or disproportionate to
+the operating performance of those companies. These broad market and industry
+fluctuations, as well as general economic, political and market conditions such
+as recessions, interest rate changes or international currency fluctuations, may
+negatively impact the market price of our Class A common stock. In the past,
+companies that have experienced volatility in the market price of their stock
+have been subject to securities class action litigation. We may be the target of
+this type of litigation in the future. Securities litigation against us could
+result in substantial costs and divert our managements attention from other
+business concerns, which could harm our business. 
+ We do not intend to pay dividends
+for the foreseeable future, and as a result your ability to achieve a return on
+your investment will depend on appreciation in the price of our Class A common
+stock. 
+ We have never declared or paid any
+cash dividends on our common stock and do not intend to pay any cash dividends
+in the foreseeable future. We anticipate that we will retain all of our future
+earnings for use in the development of our business and for general corporate
+purposes. Any determination to pay dividends in the future will be at the
+discretion of our board of directors. Accordingly, investors must rely on sales
+of their Class A common stock after price appreciation, which may never occur,
+as the only way to realize any future gains on their investments. 
+ Anti-takeover provisions in our
+charter documents and under Delaware law could make an acquisition of us more
+difficult, limit attempts by our stockholders to replace or remove our current
+management and limit the market price of our Class A common
+stock. 
+ Provisions in our certificate of
+incorporation and bylaws may have the effect of delaying or preventing a change
+in control or changes in our management. Our amended and restated certificate of
+incorporation and amended and restated bylaws include provisions
+that: 
+ authorize our board of directors to issue, without
+  further action by the stockholders, up to 10,000,000 shares of undesignated
+  preferred stock; 
+ require that any action to be taken by our
+  stockholders be effected at a duly called annual or special meeting and not by
+  written consent; 
+ specify that special meetings of our stockholders
+  can be called only by our board of directors, the Chair of our board of
+  directors, or our Chief Executive Officer; 
+ establish an advance notice procedure for
+  stockholder proposals to be brought before an annual meeting, including
+  proposed nominations of persons for election to our board of directors; 
+ establish that our board of directors is divided
+  into three classes, with directors in each class serving three-year staggered
+  terms; 
+ prohibit cumulative voting in the election of
+  directors; 
+ provide that vacancies on our board of directors
+  may be filled only by a majority of directors then in office, even though less
+  than a quorum; 
+ require the approval of our board of directors or
+  the holders of a supermajority of our outstanding shares of capital stock to
+  amend our bylaws and certain provisions of our certificate of incorporation;
+  and 
+ reflect two classes of common stock, as discussed
+  above. 
+ These
+provisions may frustrate or prevent any attempts by our stockholders to replace
+or remove our current management by making it more difficult for stockholders to
+replace members of our board of directors, which is responsible for appointing
+the members of our management. In addition, because we are incorporated in
+Delaware, we are governed by the provisions of Section 203 of the Delaware
+General Corporation Law, which generally prohibits a Delaware corporation from
+engaging in any of a broad range of business combinations with any interested
+stockholder for a period of three years following the date on which the
+stockholder became an interested stockholder. 
+ If securities or industry
+analysts do not publish research or reports about our business, or publish
+negative reports about our business, our share price and trading volume could
+decline. 
+ The trading market for our Class A
+common stock, to some extent, depends on the research and reports that
+securities or industry analysts publish about us or our business. We do not have
+any control over these analysts. If one or more of the analysts who cover us
+downgrade our shares or change their opinion of our shares, our share price
+would likely decline. If one or more of these analysts cease coverage of our
+company or fail to regularly publish reports on us, we could lose visibility in
+the financial markets, which could cause our share price or trading volume to
+decline. 
+ Future sales of our Class A
+common stock in the public market could cause our share price to
+decline. 
+ Sales of a substantial number of
+shares of our Class A common stock in the public market, particularly sales by
+our directors, officers and employees and significant stockholders, or the
+perception that these sales might occur, could depress the market price of our
+Class A common stock and could impair our ability to raise capital through the
+sale of additional equity securities. We have a small public float relative to
+the total number of shares of our Class A and Class B common stock that are
+issued. As of December 31, 2012, we had 23,380,283 shares of Class A common
+stock and 40,124,986 shares of Class B common stock outstanding. Although a
+public market exists for our Class A common stock only, shares of Class B common
+stock are generally convertible into an equivalent number of shares of Class A
+common stock at the option of the holder or upon transfer (subject to certain
+exceptions). 
+ The requirements of being a
+public company may strain our resources, divert managements attention and
+affect our ability to attract and retain qualified board
+members. 
+ We are
+subject to the reporting requirements of the Exchange Act, the Sarbanes-Oxley
+Act, the Dodd-Frank Act, the listing requirements of the New York Stock Exchange
+and other applicable securities rules and regulations. Compliance with these
+rules and regulations has increased and will continue to increase our legal and
+financial compliance costs, make some activities more difficult, time-consuming
+or costly, and increase demand on our systems and resources. The Sarbanes-Oxley
+Act requires, among other things, that we maintain effective disclosure controls
+and procedures and internal control over financial reporting. In order to
+maintain and, if required, improve our disclosure controls and procedures and
+internal control over financial reporting to meet this standard, significant
+resources and management oversight may be required. As a result, managements
+attention may be diverted from other business concerns, which could harm our
+business and operating results. Although we have hired additional employees to
+comply with these requirements, we may need to hire more employees in the
+future, which will increase our costs and expenses. 
+ In addition, changing laws,
+regulations and standards relating to corporate governance and public disclosure
+are creating uncertainty for public companies, increasing legal and financial
+compliance costs and making some activities more time consuming. These laws,
+regulations and standards are subject to varying interpretations, in many cases
+due to their lack of specificity, and, as a result, their application in
+practice may evolve over time as new guidance is provided by regulatory and
+governing bodies. This could result in continuing uncertainty regarding
+compliance matters and higher costs necessitated by ongoing revisions to
+disclosure and governance practices. We intend to invest resources to comply
+with evolving laws, regulations and standards, and this investment may result in
+increased general and administrative expenses and a diversion of managements
+time and attention from revenue-generating activities to compliance activities.
+If our efforts to comply with new laws, regulations and standards differ from
+the activities intended by regulatory or governing bodies due to ambiguities
+related to practice, regulatory authorities may initiate legal proceedings
+against us and our business may be harmed. 
+ We also expect that being a public
+company that is subject to these new rules and regulations will make it more
+expensive for us to obtain director and officer liability insurance, and we may
+be required to accept reduced coverage or incur substantially higher costs to
+obtain coverage. These factors could also make it more difficult for us to
+attract and retain qualified members of our board of directors and qualified
+executive officers. 
+ As a result of becoming a public
+company, we will be obligated to develop and maintain proper and effective
+internal controls over financial reporting. We may not complete our analysis of
+our internal controls over financial reporting in a timely manner, or these
+internal controls may not be determined to be effective, which may adversely
+affect investor confidence in our company and, as a result, the value of our
+Class A common stock. 
+ We will be required, pursuant to
+Section 404 of the Sarbanes-Oxley Act, to furnish a report by management on,
+among other things, the effectiveness of our internal control over financial
+reporting for the fiscal year ending 2013. This assessment will need to include
+disclosure of any material weaknesses identified by our management in our
+internal control over financial reporting, as well as a statement that our
+auditors have issued an attestation report on our managements assessment of our
+internal controls. We are in the early stages of the costly and challenging
+process of compiling the system and processing documentation necessary to
+perform the evaluation needed to comply with Section 404. We may not be able to
+complete our evaluation, testing and any required remediation in a timely
+fashion. During the evaluation and testing process, if we identify one or more
+material weaknesses in our internal control over financial reporting, we will be
+unable to assert that our internal controls are effective. If we are unable to
+assert that our internal control over financial reporting is effective, or if
+our auditors are unable to express an opinion on the effectiveness of our
+internal controls, we could lose investor confidence in the accuracy and
+completeness of our financial reports, which would cause the price of our Class
+A common stock to decline.

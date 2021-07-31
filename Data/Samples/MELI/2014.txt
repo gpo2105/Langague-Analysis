@@ -1,0 +1,827 @@
+RISK FACTORS 
+ For purposes of this section, the term stockholders means
+the holders of shares of our common stock. Set forth below are the risks that we believe are material to our stockholders and prospective stockholders. You should carefully consider the following factors in evaluating our company, our properties and
+our business. The occurrence of any of the following risks might cause our stockholders to lose all or a part of their investment in our Company. The risks and uncertainties described below are not the only ones facing us. Other risks that we do not
+currently anticipate or that we currently deem immaterial also may affect our results of operations and financial condition. Some statements in this report including statements in the following risk factors section constitute forward-looking
+statements. Please refer to the section entitled Special Note Regarding Forward-Looking Statements at the beginning of this report. 
+ Risks related to our business 
+ The market for the
+sale of goods over the Internet in Latin America is developing, and our business depends on the continued growth of online commerce and the availability and suitability of the Internet in Latin America. 
+ The market for the sale of goods over the Internet is a developing market in Latin America. Our future revenues depend substantially on Latin
+American consumers widespread acceptance and use of the Internet as a way to conduct commerce. The use of and interest in the Internet (particularly as a way to conduct commerce) has grown rapidly since our inception and we cannot assure you
+that this acceptance, interest and use will continue to exist or to develop and grow at a continued rapid pace or at all. For us to grow our user base successfully, consumers who have historically used traditional means of commerce to purchase goods
+and services must accept and use new ways of conducting business and exchanging information. Furthermore, the price of personal computers and Internet access may limit our potential growth in countries with low levels of Internet penetration and/or
+high levels of poverty. 
+ In addition, the Internet may not be commercially viable in Latin America in the long term for a number of
+reasons, including potentially inadequate development of the necessary network infrastructure or delayed development of enabling technologies, performance improvements and security measures. The infrastructure for the Internet may not be able to
+support continued growth in the number of Internet users, their frequency of use or their bandwidth requirements. In addition, the Internet could lose its viability due to delays in telecommunications technological developments, or due to increased
+government regulation. If telecommunications services change or are not sufficiently available to support the Internet, response times would be slower, which would adversely affect use of the Internet and our service in particular. 
+ Our future success depends on our ability to expand and adapt our operations to meet rapidly changing industry and technology standards in a
+cost-effective and timely manner, and on the continued market acceptance of our products and services. 
+ We plan to continue to
+expand our operations by developing and promoting new and complementary services. We may not succeed at expanding our operations in a cost-effective or timely manner, and our expansion efforts may not have the same or greater overall market
+acceptance as our current services. Furthermore, any new business or service that we launch that is not favorably received by consumers could damage our reputation and diminish the value of our brands. To expand our operations we will also need to
+spend significant amounts on development, operations and other resources, and this may place a strain on our management, financial and operational resources. Similarly, a lack of market acceptance of these services or our inability to generate
+satisfactory revenues from any expanded services to offset their cost could have a material adverse effect on our business, results of operations and financial condition. 
+ Any delay or problem with upgrading our existing information technology infrastructure could cause a disruption in our business and adversely impact our
+financial results. 
+ Our ability to operate our business on a day-to-day basis largely depends on the efficient operation of our
+information technology infrastructure. We are frequently implementing hardware and software technology upgrades, which may include migrations to new technology systems, in an effort to improve our systems. Our information technology systems may
+experience errors, interruptions, delays or cessations of service. We are particularly susceptible to errors in connection with any systems upgrade or migration to a different hardware or software system and any such errors or interruptions could
+impede or delay our ability to process transactions on our site, which could reduce our revenue from activity on our site and adversely affect our reputation with, or result in the loss of users. Moreover, any errors, interruptions, delays or
+cessation of service could result in significant disruptions to our business that could ultimately be more expensive, time consuming, and resource intensive than anticipated. Defects or disruptions in our technology infrastructure could adversely
+impact our ability to process transactions, our financial results and our reputation. 
+ Internet regulation in the countries where we operate is
+scarce, and several legal issues related to the Internet are uncertain. We are subject to a number of other laws and regulations, and governments may enact laws or regulations that could adversely affect our business. 
+ Unlike the United States, most of the countries where we operate do not have specific laws governing the liability of Internet service
+providers, such as ourselves, for fraud, intellectual property infringement, other illegal activities committed by individual users or third-party infringing content hosted on a providers servers. For example, in June 2009, a judge of a
+first instance court in the State of São Paulo ruled that our Brazilian subsidiary should be held liable for fraud committed by sellers and losses incurred by buyers when purchasing items on the Brazilian version of the MercadoLibre website.
+We have appealed this ruling. In December 2009, the effect of the ruling was suspended until the appeal is decided by State Court of Appeals. In May 2014 the State Court of Appeals issued its ruling stating that MercadoLivre shall not be held
+responsible for the quality, nature or defective products or services purchased through the Brazilian website. While the decision is not clear, it could be understood that the State Court of Appeals ruled that MercadoLivre could be held joint and
+severally liable for fraud committed by sellers buyers when using the website. In June 2014, we filed a motion to clarify the decision. In October 2014 the State Court of Appeals overruled our motion to clarify its decision and the Company
+appealed the decision to the Brazilian Federal Superior Court of Justice. If the 
+ Brazilian Federal Superior Court of Justice confirms the ruling it could require us to restructure our business model in ways that would harm our business and or cause us to incur substantial
+costs. Moreover, this legal uncertainty allows for different judges or courts to decide very similar claims in different ways and establish contradictory jurisprudence. 
+ In addition, certain judges may decide that Internet service providers are liable to an intellectual property owner for a users sale of
+counterfeit items using our platform, while others may decide that the responsibility lies solely with the offending user. This legal uncertainty allows for rulings against us and could set adverse precedents, which individually or in the aggregate
+could have a material adverse effect on our business, results of operations and financial condition. In addition, legal uncertainty may negatively affect our clients perception and use of our services. 
+ We are subject to a variety of laws, decrees and regulations that affect companies conducting business on the Internet in some of the
+countries where we operate related to e-commerce, information requirements for Internet providers, data collection, data protection, privacy, anti-money laundering, taxation (including VAT or sales tax collection obligations), obligations to provide
+certain information to certain authorities about transactions which are processed through our platforms or about our users and those regulations applicable to consumer protection and businesses in general. It is not clear how existing laws governing
+issues such as general commercial activities, property ownership, copyrights and other intellectual property issues, taxation (including tax laws that require us to provide certain information about transactions consummated through our platforms or
+about our users), libel and defamation, obscenity, and personal privacy apply to online businesses. Many of these laws were adopted before the Internet was available and, as a result, do not contemplate or address the unique issues of the Internet.
+Due to these areas of legal uncertainty, and the increasing popularity and use of the Internet and other online services, it is possible that new laws and regulations will be adopted with respect to the Internet or other online services. These laws
+and regulations could cover issues such as online commerce, Internet service providers responsibility for third party content hosted in their servers, user privacy, freedom of expression, pricing, content and quality of products and services,
+taxation (including VAT or sales tax collection obligations, obligations to provide certain information about transactions occurred in our platforms or about our users), advertising, intellectual property rights, consumer protection, information
+security and electronic and mobile payments. If laws relating to these issues are enacted, they may have a material adverse effect on our business, results of operation and financial condition. 
+ As our activities and the types of goods listed on our website expand, regulatory agencies or courts may argue or rule that we or our users
+must either obtain licenses or not be allowed to conduct business in their jurisdiction, either with respect to our services in general or only relating to certain items, such as auctions, real estate and motor vehicles. For example, numerous
+jurisdictions, including Brazil and Argentina, have regulations regarding auctions and auctioneers and the handling of property by secondhand dealers or pawnbrokers. Attempted enforcement of these laws
+against us or our users and other regulatory and licensing claims could result in expensive litigation or could require us to change the way we or our users do business. Any changes in our or our users business methods could increase costs or
+reduce revenues or force us to prohibit listings of certain items for some locations. We could also be subject to fines or penalties, and any of these outcomes could harm our business. 
+ In addition, because our services are accessible worldwide and we facilitate sales of goods to users worldwide, other foreign jurisdictions
+may claim that we are required to comply with their laws. As we expand and localize our international activities, we have to comply with the laws of the countries in which we operate. Laws regulating Internet companies outside of the Latin American
+jurisdictions where we operate may be more restrictive to us than those in Latin America. In order to comply with these laws, we may have to change our business practices or restrict our services. We could be subject to penalties ranging from
+criminal prosecution, significant fines or outright bans on our services for failure to comply with foreign laws. 
+ We are subject to laws
+relating to the collection, use, storage and transfer of personally identifiable information about our users, especially financial information. Several jurisdictions have regulations in this area, and other jurisdictions are considering imposing
+additional restrictions or regulations. If we violate these laws, which in many cases apply not only to third-party transactions but also to transfers of information among ourselves, our subsidiaries, and other parties with which we have commercial
+relations, we could be subject to significant penalties and negative publicity, which would adversely affect us. 
+ We are also subject to
+regulations in Argentina that impose VAT and sales tax collection obligations and taxes on banking transactions in certain provinces in connection with users sales through our platform. It is possible that other jurisdictions will issue
+similar legislation in the future. If users were to reduce or stop using our website or services as a result, our business could be materially harmed. We are also subject to a regulation in the State of Sao Paulo, Brazil that imposes on us the
+obligation to provide the eapplicable authorities in that state with the information on certain users in connection with their sales through our platform. 
+ We are subject to regulatory activity and antitrust litigation under competition laws. 
+ We receive scrutiny from various governmental agencies under competition laws in the countries where we operate. Some jurisdictions also
+provide private rights of action for competitors or consumers to assert claims of anti-competitive conduct. Other companies or governmental agencies may allege that our actions violate antitrust or competition laws, or otherwise constitute unfair
+competition. Contractual agreements with buyers, sellers, or other companies could give rise to regulatory action or antitrust investigations or litigation. Also, our unilateral business practices could give rise to regulatory action or antitrust
+investigations or litigation. Some regulators may perceive our business to have such significant market power that otherwise uncontroversial business practices could be deemed anticompetitive. Such claims and investigations, even if without
+foundation, typically are very expensive to defend, involve negative publicity and substantial diversion of management time and effort, and could result in significant judgments against us. 
+ Our business is an Internet platform for commercial transactions in which all commercial activity depends
+on our users and is therefore largely outside of our control. 
+ Our business is dependent on Internet users listing and purchasing
+their items and services on our Internet platform. Therefore, we depend on the commercial activity, including both sales and purchases that our users generate. We do not choose which items will be listed, nor do we make pricing or other decisions
+relating to the products and services bought and sold on our platform. Therefore, the principal drivers of our business are largely outside of our control, and we depend on the continued preference for our platform by millions of individual users. 
+ We could face liability for the sale of regulated and prohibited items, unpaid items or undelivered purchases, and the sale of defective items. 
+ Laws specifying the scope of liability of providers of online services for the activities of their users through their online
+service are currently unsettled in most of the Latin American countries where we operate. We have implemented what we believe to be clear policies that are incorporated in our terms of use that prohibit the sale of certain items on our platform and
+have implemented programs to monitor and exclude unlawful goods and services. Despite these efforts, we may be unable to prevent our users from exchanging unlawful goods or services or exchanging goods in an unlawful manner, and we may be subject to
+allegations of civil or criminal liability for the unlawful activities of these users. 
+ More specifically, we are aware that certain
+goods, such as alcohol, tobacco, firearms, animals, adult material and other goods that may be subject to regulation by local or national authorities of various jurisdictions have been traded on the MercadoLibre Marketplace. As a consequence of
+these transactions, appropriate authorities may impose fines against us. We have at times been subject to fines in Brazil for certain users sales of products that have not been approved by the government. We cannot provide any assurances that
+we will successfully avoid civil or criminal liability for unlawful activities that our users carry out through our platforms in the future. If we suffer potential liability for any unlawful activities of our users, we may need to implement
+additional measures to reduce our exposure to this liability, which may require, among other things, that we spend substantial resources and/or discontinue certain service offerings. Any costs that we incur as a result of this liability or asserted
+liability could have a material adverse effect on our business, results of operations and financial condition. 
+ We believe that government
+and consumer protection agencies have received a substantial number of complaints about both the MercadoLibre Marketplace and MercadoPago. We believe that these complaints are small as a percentage of our total transactions, but they could become
+large in aggregate numbers over time. From time to time, we are involved in disputes or regulatory inquiries that arise in the ordinary course of business. The number and significance of these disputes and inquiries have increased as our business
+has expanded and our Company has grown larger. We are likely to receive new inquiries from regulatory agencies in the future, which may lead to actions against us. We have responded to inquiries from regulatory agencies and described our services
+and operating procedures and have provided requested information. If one or more of these agencies is not satisfied with our response to current or future inquiries, we could be subject to enforcement actions, injuctions, fines or penalties, or
+forced to change our operating practices in ways that could harm our business, or if during these inquiries any of our processes are found to violate laws on consumer protection, or to constitute unfair business practices, we could be subject to
+civil damages, enforcement actions, fines or penalties. Such actions or fines could require us to restructure our business processes in ways that would harm our business and cause us to incur substantial costs. 
+ In addition, our success depends largely upon sellers accurately representing and reliably delivering the listed goods and buyers paying the
+agreed purchase price. We have received in the past, and anticipate that we will receive in the future, complaints from users who did not receive the purchase price or the goods agreed to be exchanged. While we can suspend the accounts of users who
+fail to fulfill their delivery obligations to other users, we do not have the ability to require users to make payments or deliver goods sold. We also receive complaints from buyers regarding the quality of the goods purchased or the partial or
+non-delivery of purchased items. We have tried to reduce our liability to buyers for unfulfilled transactions or other claims related to the quality of the purchased goods by offering a free Buyer Protection Program to buyers who meet certain
+conditions. Although the number of claims that we have paid through this program is not currently significant, we may in the future receive additional requests from users requesting reimbursement or threatening legal action against us if we do not
+reimburse them, the result of which could materially adversely affect our business and financial condition. In addition, as discussed above, we may be liable in Brazil for fraud committed by sellers and losses incurred by buyers when purchasing
+items through our platform in Brazil. We have expanded the coverage of our Buyers Protection Program and this coverage expansion may impact the number and amount of reimbursements we are required to make. For example, in June 2009, a
+judge of a first instance court in the State of São Paulo ruled that our Brazilian subsidiary should be held liable for fraud committed by sellers and losses incurred by buyers when purchasing items on the Brazilian version of the
+MercadoLibre website. We have appealed this ruling and in May 2014 the State Court of Appeals ruled that MercadoLivre shall not be held responsible for the quality, nature or defective products or services purchased through the Brazilian website
+however the decision on our liability for fraud committed by sellers buyers when using the website is not clear. In June 2014, we filed a motion to clarify the decision however it was overruled by the State Court of Appeals. We appealed the
+decision to the Brazilian Federal Superior Court of Justice. If the Brazilian Federal Superior Court of Justice, confirms the ruling it could require us to restructure our business model in ways that would harm our business and or cause us to incur
+substantial costs. Moreover, this legal uncertainty allows for different judges or courts to decide very similar claims in different ways and establish contradictory jurisprudence. 
+ Our users have been and will continue to be targeted by parties using fraudulent spoof and phishing emails that appear
+to be legitimate emails sent by MercadoLibre or MercadoPago or by a user of one of our businesses, but direct recipients to fake websites operated by the sender of the email or misstates that certain payment was credited in MercadoPago and request
+that the recipient send the product sold or send a password or other confidential information. Despite our efforts to mitigate spoof and phishing emails, those activities could damage our reputation and diminish the value of
+our brands or discourage use of our websites and increase our costs. 
+ We have received in the past, and anticipate that we will receive in the future, claims from
+users who received spoof emails and sent the product and did not receive the purchase price. During 2013, the Superior Court of Justice of Brazil issued a negative ruling against our Brazilian subsidiary finding it responsible for a spoof email
+received by a seller that appeared to be sent by MercadoPago. In that case, the seller delivered the item to the spoof buyer but never got paid and court ordered our Brazilian subsidiary to pay damages to the seller. 
+ Any litigation related to unpaid or undelivered purchases or defective items could be expensive for us, divert managements attention and
+could result in increased costs of doing business. In addition, any negative publicity generated as a result of the fraudulent or deceptive conduct of any of our users could damage our reputation diminishes the value of our brands and negatively
+impact our results of operations. 
+ We could face legal and financial liability for the sale of items that infringe on the intellectual property and
+distribution rights of others and for information disseminated on the MercadoLibre Marketplace. 
+ Even though we monitor listings on
+our websites, we are not able to detect every item that may infringe on the intellectual property rights of third parties. As a result, we have received in the past, and anticipate that we will receive in the future, complaints alleging that certain
+items listed and/or sold through the MercadoLibre Marketplace or MercadoShops and/or using MercadoPago infringe third-party copyrights, trademarks or other intellectual property rights. Content owners and other intellectual property rights owners
+have been active in defending their rights against online companies, including us. We have taken steps to work in coordination and cooperation with the intellectual property rights owners to seek to eliminate allegedly infringing items listed in the
+MercadoLibre Marketplace. Our user policy prohibits the sale of goods which may infringe third-party intellectual property rights, and we may suspend the account of any user who infringes third-party intellectual property rights. Despite all these
+measures some rights owners have expressed that our efforts are insufficient. Content owners and other intellectual property rights owners have been active in asserting their purported rights against online companies. Allegations of infringement of
+intellectual property rights could result in threats of litigation and actual litigation against us by rights owners. 
+ Specifically,
+allegations of infringement of intellectual property rights have already resulted in claims against us from time to time, including litigation in Brazil brought (without limitation) by Cartier International B.V., Montblanc Simplo Gmbh, Richemont
+International S.A., Puma Sports Ltda., Lacoste do Brasil Indústria e Comercio Ltda., Sporloisirs S.A., Qix Skateboards Indústria e Comercio Ltda, Vintage Denim Ltda., Editora COC Empreendimentos Culturais Ltda., Barros Fischer e
+Associados Ltda., Fallms Distribuição de Fitas Ltda., 100% Nacional Distribuidora de Fitas Ltda., Xuxa Promoções e Produções Artísticas Limitada, Praetorium Instituto de Ensino, Pesquisas e Atividades
+de Extensão e Direito Ltda., Sette Informações Educacionãis Ltda., Serasa S.A., Botelho Industria e Distribuiçāo Cinematográfica Ltda., and Citizen Watch do Brasil S/A and in Argentina brought by Nike
+International Ltd., Iglesia Mesianica Mundial Sekai Kyusei Kio. 
+ While we have been largely successful to date in settling existing claims
+by agreeing to monitor the brands, the current lack of laws related to the Internet results in great uncertainty as to the outcome of any future claims. Other companies providing similar services to us have also been subject to these types of claims
+in the United States and other countries. In June 2008, the Paris Court of Commerce ruled that eBay, Inc. and eBay International AG were liable to Louis Vuitton Malletier and Christian Dior Couture for failing to prevent the sale of counterfeit
+items on its websites that traded on plaintiffs brand names and for interfering with the plaintiffs selective distribution network. The court awarded plaintiffs approximately EUR 38.6 million in damages and issued an injunction
+prohibiting all sales of perfumes and cosmetics bearing the Dior, Guerlain, Givenchy and Kenzo brands over all worldwide eBay sites to the extent they are accessible from France. We cannot assure you that MercadoLibre and MercadoPago will not be
+subject to similar suits, which could result in substantial monetary awards or penalties and costly injunctions against us. 
+ We continue
+to have outstanding litigation and, although we generally intend to defend each of these claims, we cannot assure you that we will be successful. This type of litigation is expensive for us, could result in damage awards or increased costs of doing
+business through adverse judgments or settlements, could require us to change our business practices in expensive ways, or could otherwise harm our business. Litigation against other online companies could result in interpretations of the law that
+could also require us to change our business practices or otherwise increase our costs. 
+ We are subject to risks with respect to information and
+material disseminated through our platforms. 
+ It is possible that third parties could bring claims against us for defamation,
+libel, invasion of privacy, negligence, or other theories based on the nature and content of the materials disseminated through our platforms. Other online services companies are facing several lawsuits for this type of liability. As mentioned
+previously, the liability of online services companies for content hosted and the information carried on or disseminated through their services is currently unclear in the Latin American countries where we operate. This could allow for claims being
+made against us by purportedly aggrieved third parties. For example, the MercadoLibre service contains a User Feedback feature, which includes reviews and ratings from users regarding the reliability of other users in paying or delivering goods sold
+in a transaction promptly. Although users generate all the feedback, it is possible that a party could bring a claim for defamation or other injury against us for content posted through the User Feedback feature. If we or other online services
+providers are held liable or potentially liable for information carried on or disseminated through our platforms, we may have to implement measures to reduce our exposure to this liability. Any measures we may need to implement may involve spending
+substantial resources and/or discontinuing certain services. Any costs that we incur as a result of liability or asserted liability could have a material adverse effect on our business, results of operations and financial condition. In addition,
+public attention to liability issues, lawsuits and legislative proposals could impact the growth of Internet use, and subsequently have a negative impact on our business results. 
+ The market in which we operate is rapidly evolving and we may not be able to maintain our profitability. 
+ As a result of the emerging nature and related volatility of the markets in which we compete, the increased variety of services
+offered on our website and the rapidly evolving nature of our business, it is particularly difficult for us to forecast our revenues or earnings accurately. In addition, we have no backlog and substantially all of our net revenues for each quarter
+are derived from listing fees, optional feature fees, up-front fees, final value fees, commissions on MercadoPago payments and advertising that are earned during that quarter. Our current and future expense levels are based largely on our investment
+plans and estimates of future revenues and are, to a large extent, fixed. We may not be able to adjust spending in a timely manner to compensate for any unexpected revenue shortfall. Accordingly, any significant shortfall in revenues relative to our
+planned expenditures would have an immediate adverse effect on our business, results of operations and financial condition. 
+ If we continue to grow,
+we may not be able to appropriately manage the increased size of our business. 
+ We have experienced significant expansion in recent
+years and anticipate that further expansion will be required to address potential growth in our customer base and market opportunities. This expansion has placed, and is expected to continue to place, a significant strain on management and our
+operational and financial resources. 
+ We must constantly add new hardware, update software, enhance and improve our billing and
+transaction systems, and add and train new engineering and other personnel to accommodate the increased use of our website and the new products and features we regularly introduce. This upgrade process is expensive, and the increasing complexity and
+enhancement of our website results in higher costs. Failure to upgrade our technology, features, transaction processing systems, security infrastructure, or network infrastructure to accommodate increased traffic or transaction volume or the
+increased complexity of our website could materially harm our business. Adverse consequences could include unanticipated system disruptions, slower response times, degradation in levels of customer support, impaired quality of users
+experiences with our services and delays in reporting accurate financial information. 
+ Our revenues depend on prompt and accurate billing
+processes. Our failure to grow our transaction-processing capabilities to accommodate the increasing number of transactions that must be billed on our website would materially harm our business and our ability to collect revenue. 
+ Furthermore, we may need to enter into relationships with various strategic partners, websites and other online service providers and other
+third parties necessary to our business. The increased complexity of managing multiple commercial relationships could lead to execution problems that can affect current and future revenues and operating margins. 
+ Our current and planned systems, procedures and controls, personnel and third party relationships may not be adequate to support our future
+operations. Our failure to manage growth effectively could have a material adverse effect on our business, results of operations and financial condition. 
+ Our systems may fail or suffer interruptions due to human acts, technical problems, or natural disasters. 
+ Our success, and in particular our ability to facilitate trades or payments successfully and provide high quality customer service, depends on
+the efficient and uninterrupted operation of our computer and communications hardware systems. Substantially all of our computer hardware for operating the MercadoLibre Marketplace and MercadoPago services is currently located at the facilities of
+the Savvis Datacenter in Sterling, Virginia, with a redundant database backup in Atlanta, Georgia. These systems and operations are vulnerable to damage or interruption from earthquakes, tornadoes, floods, fires and other natural disasters, power
+loss, computer viruses, telecommunication failures, physical or electronic break-ins, sabotage, intentional acts of vandalism, terrorism, and similar events. If our system suffers a major failure, it would take as much as several days to get the
+service running again because our Atlanta database is only a backup with very limited hardware. 
+ We also have no formal disaster recovery
+plan or alternative providers of hosting services and do not carry business interruption insurance to compensate us for losses that may occur. Despite any precautions we have taken or plan to take, if there is a natural disaster or major failure, a
+decision by our providers to close one of the facilities we use without adequate notice, or other unanticipated problem at the Virginia or Atlanta facilities, the services we provide could suffer interruptions. We currently have no plans to upgrade
+the Atlanta facility capabilities. Additionally, in the occurrence of such pronounced, frequent or persistent system failures, our reputation and name brand could be materially adversely affected. 
+ We are subject to security breaches or other confidential data theft from our systems, which can adversely affect our reputation and business. 
+ A significant risk associated with online commerce and communications is the secure transmission of confidential information over
+public networks. Currently, a number of MercadoLibre users authorize us to bill their credit card accounts or debit their bank accounts directly, or use MercadoPago to pay for their transactions. We rely on encryption and authentication necessary to
+provide the security and authentication technology to transmit confidential information securely, including customer credit card numbers and other account information. Advances in computer capabilities, new discoveries in the field of cryptography,
+or other events or developments may result in a compromise or breach of the technology that we use to protect customer transaction data. If our security were compromised, it could have a material adverse effect on our reputation. We cannot assure
+you that our security measures will prevent security breaches or that failure to prevent them will not have a material adverse effect on our business, results of operations and financial condition. 
+ As stated above, our users are targeted by parties using fraudulent spoof and phishing emails to misappropriate
+passwords, credit card numbers, or other personal information or to introduce viruses to our users computers. Those emails appear to be legitimate emails sent by MercadoLibre or MercadoPago or by a user of one of our businesses, but direct
+recipients to fake websites operated by the sender of the email or intentionally misstate that payment for a product was credited in MercadoPago and request that the recipient of the email send the product sold or provide a password or other
+confidential information. Despite our efforts to mitigate spoof and phishing emails, those activities could damage our reputation and diminish the value of our brands or discourage use of our websites and increase our costs. 
+ We depend on key personnel, the loss of which could have a material adverse effect on us. 
+ Our performance depends substantially on the continued services and on the performance of our senior management and other key personnel. Our
+ability to retain and motivate these and other officers and employees is fundamental to our performance. 
+ Our most senior executive
+officers have been with us since 2000 or before, providing us with a stable and experienced management team. The loss of the services of any of these executive officers or other key employees could have a material adverse effect on our business,
+results of operations and financial condition. We do not have employment agreements with any of our key technical personnel other than our senior executives (whose agreements are for an undetermined period and establish general employment terms and
+conditions) and maintain no key person life insurance policies. The option grants to most of our senior management and key employees are fully vested. Therefore, these employees may not have sufficient financial incentive to stay with
+us. Consequently we may have to incur costs to replace key employees who leave and our ability to execute our business model could be impaired if we cannot replace them in a timely manner. 
+ Our future success also depends on our ability to identify, attract, hire, train, retain and motivate other highly skilled technical,
+managerial, marketing and customer service personnel. Competition for these personnel is intense, and we cannot assure you that we will be able to successfully attract, integrate, train, retain, motivate and manage sufficiently qualified personnel. 
+ Currently our revenues depend substantially on up-front fees, final value fees and fees related to our payment solution we charge to sellers and
+such revenues may decrease if market conditions force us to lower such fees or if we fail to diversify our sources of revenue. 
+ Our
+revenues currently depend primarily on up-front fees, final value fees and fees related to our payment solution that we charge to our sellers for listing and upon selling their items and services. Our platform depends upon providing access to a
+large market at a lower cost than other comparable alternatives. If market conditions force us to substantially lower our listing or final value fees or fees related to our payment solution or if we fail to continue to attract new buyers and
+sellers, and if we are unable to effectively diversify and expand our sources of revenue, our profitability, results of operations and financial condition could be materially and adversely affected. 
+ We are subject to consumer trends and could lose revenue if certain items become less popular. 
+ We derive substantially all of our revenues from fees charged to sellers for listing products for sale on our service, fees from successfully
+completed transactions and fees for making payments through MercadoPago. Our future revenues depend on continued demand for the types of goods that users list on the MercadoLibre Marketplace or pay with MercadoPago on or off the MercadoLibre
+Marketplace. The popularity of certain categories of items, such as computer and electronic products, cellular telephones, toys, apparel and sporting goods, among consumers may vary over time due to perceived availability, subjective value, and
+trends of consumers and society in general. A decline in the demand for or popularity of certain items sold through the MercadoLibre Marketplace without an increase in demand for different items could reduce the overall volume of transactions on our
+platforms, resulting in reduced revenues. 
+ In addition, certain consumer fads may temporarily inflate the volume of certain
+types of items listed on the MercadoLibre Marketplace, placing a significant strain on our infrastructure and transaction capacity. These trends may also cause significant fluctuations in our operating results from one quarter to the next. 
+ Retailers may encourage manufacturers to limit distribution of their products to dealers who sell through us, or may encourage the government to limit
+online commerce. 
+ Manufacturers may attempt to enforce minimum resale price maintenance arrangements to prevent distributors from
+selling on our websites or on the Internet generally, or at prices that would make our site attractive relative to other alternatives. The adoption by manufacturers of policies, or the adoption of new laws or regulations or interpretations of
+existing laws or regulations by government authorities, in each case discouraging the sales of goods or services over the Internet, could force our users to stop selling certain products on our websites. Increased competition or anti-Internet
+distribution policies or regulations may result in reduced operating margins, loss of market share and diminished value of our brand. In order to respond to changes in the competitive environment, we may, from time to time, make pricing, service or
+marketing decisions or acquisitions that may be controversial with and lead to dissatisfaction among some of our sellers, which could reduce activity on our websites and harm our profitability. 
+ The success of other e-commerce companies such as eBay or Amazon is not an indication of our future financial performance. 
+ Several companies that operate e-commerce websites, such as eBay or Amazon, have been successful and profitable in the past. However, we
+operate in a business environment in Latin America that is different than the environment in which eBay, Amazon and other e-commerce companies that primarily operate outside of Latin America. These differences include the smaller size of the
+national markets, lower Internet adoption rates, lower confidence in remote payment mechanisms, less reliable postal and parcel services, and less predictable political, economic regulatory and legal environments in Latin America. Therefore, you
+should not interpret the success of any of these companies as indicative of our financial prospects. 
+ In addition, Amazon started operations in Brazil during 2012 by offering on-line content. We do
+not compete in this space; however, the consolidation and expansion of their operations in Brazil, could eventually lead to more direct competition. 
+ We could be subject to liability and forced to change our MercadoPago business practices if we were found to be subject to or in violation of any laws
+or regulations governing banking, money transmission, tax regulation, anti-money laundering regulations or electronic funds transfers in any country where we operate; or if new legislation regarding these issues were enacted in the countries where
+MercadoPago operates. 
+ A number of jurisdictions where we operate have enacted legislation regulating money transmitters. We
+believe we do not require a license under the existing statutes of Argentina, Mexico, Chile and Venezuela to operate MercadoPago in those countries with MercadoPagos current agency-based structure. If our operation of MercadoPago were found to
+be in violation of money services laws or regulations or any tax or anti-money laundering regulations, or engaged in an unauthorized banking or financial business, we could be subject to liability, forced to cease doing business with residents of
+certain countries, or forced to change our business practices or to become a financial entity. Any change to our MercadoPago business practices that makes the service less attractive to customers or prohibits its use by residents of a particular
+jurisdiction could decrease the speed of trade on the MercadoLibre Marketplace, which would further harm our business. Even if we are not forced to change our MercadoPago business practices, we could be required to obtain licenses or regulatory
+approvals that could be very expensive and time consuming, and we cannot assure you that we would be able to obtain these licenses in a timely manner or at all. 
+ In Brazil, since the approval of the Law No. 12,865 on October 9, 2013 and certain rules issued by the Brazilian Central Bank in
+November 2013, we are subject to new obligations imposed on certain payment processing functions carried out by non-financial institutions. These regulations cover a wide variety of issues, including, among other things, a requirement to obtain
+Brazilian Central Bank authorization to operate, requirements relating to the offer or provision of such services, penalties for non-compliance, the promotion of financial inclusion, the reduction of systemic, operational and credit risks, reporting
+obligations and governance. 
+ In October 2014, Colombia enacted the Law No. 1,735 which covers a wide variety of issues, including,
+among other things: rules related to the requirement to obtain authorization from the Colombian 
+ to operate, offer or provide certain payment services, penalties for non-compliance, the promotion of financial
+inclusion, reporting obligations and governance. Although the law is already effective and in force, it still needs to be regulated. 
+ Superintendencia Financiera 
+ Our
+MercadoPago business may be subject to Law No. 1,735. The law requires certain institutions to request authorization to operate. If we consider that the Colombian operation of MercadoPago is regulated by the Law and its regulations, we will
+have to request authorization, implement certain changes to our operations and systems which will require us to incur greater expenses and devote more resources to areas that require further development of updates. If we are unable to obtain the
+requisite authorization, it could cause us to (i) shut down our MercadoPago business in Colombia for an indefinite period of time, which would be costly and time consuming, (ii) pay penalties for non-compliance or face other penalties such
+as the dismantling of MercadoPago, (iii) limit the services we offer through MercadoPago in Colombia or change our business practices, any of which could materially adversely affect our business and results of operations. 
+ MercadoPago is susceptible to illegal uses, and we could potentially face liability for any illegal use of MercadoPago. 
+ MercadoPago, like the MercadoLibre platform, is also susceptible to potentially illegal or improper uses, including, fraudulent and illicit
+sales, money laundering, bank fraud, different fraud schemes and online securities fraud. In addition, MercadoPagos service could be subject to unauthorized credit card use, identity theft, break-ins to withdraw account balances, employee
+fraud or other internal security breaches, and we may be required to reimburse customers for any funds stolen as a result of such breaches. Merchants could also request reimbursement, or stop using MercadoPago, if they are affected by buyer fraud. 
+ In addition, MercadoPago is or may be subject to anti-money laundering laws and regulations that prohibit, among other things, its
+involvement in transferring the proceeds of criminal activities or impose taxes collection obligations or obligations to provide certain information about transactions that have occurred in our platforms, or about our users. Because of different
+laws and regulations in each jurisdiction where we operate, as we roll-out and adapt MercadoPago in other countries, additional verification and reporting requirements could apply. These regulations could impose significant costs on us and make it
+more difficult for new customers to join the MercadoPago network. Future regulation (under the USA Patriot Act or otherwise), may require us to learn more about the identity of our MercadoPago customers before opening an account, to obtain
+additional verification of customers and to monitor our customers activities more closely. These requirements, as well as any additional restrictions imposed by credit card associations, could raise our MercadoPago costs significantly and
+reduce the attractiveness of MercadoPago. Failure to comply with money laundering laws could result in significant criminal and civil lawsuits, penalties, and forfeiture of significant assets. 
+ We incur losses from claims that customers did not authorize a purchase, from buyer fraud and from erroneous transmissions. In addition to the
+direct costs of such losses, if they are related to credit card transactions and become excessive, they could result in MercadoPago losing the right to accept credit cards for payment. If MercadoPago is unable to accept credit cards, our business
+will be adversely affected given that credit cards are the most widely used method for funding the MercadoPago accounts. We have taken measures to detect and reduce the risk of fraud on MercadoPago, such as running card security code
+(CSC) checks in some countries, having users call us to have them answer personal questions to confirm their identity or asking users to confirm the amount of a small debit for higher risk transactions, implementing caps on overall spending per
+users and data mining to detect potentially fraudulent transactions. However, these measures may not be effective against current and new forms of fraud. If these measures do not succeed, excessive charge-backs may arise in the future and our
+business will be adversely affected. 
+ Our failure to manage MercadoPago customer funds properly would harm our business. 
+ Our ability to manage and account accurately for MercadoPago customer funds requires a high level of internal controls. We have neither an
+established operating history nor proven management experience in maintaining, over a long term, these internal controls. As MercadoPago continues to grow, we must strengthen our internal controls accordingly. MercadoPagos success requires
+significant public confidence in our ability to handle large and growing transaction volumes and amounts of customer funds. Any failure to maintain necessary controls or to properly manage customer funds could severely reduce customer use of
+MercadoPago. 
+ MercadoPago is a relatively new service that faces competition from other payment method and competitors may adversely affect the
+success of MercadoPago. 
+ MercadoPago competes with existing online and offline payment methods, including, among others, banks and
+other providers of traditional payment methods, particularly credit cards, checks, money orders, and electronic bank deposits; international online payments services such as PayPal and Google Checkout, and local online payment services such as PayU
+in Argentina, Chile, Colombia and Mexico, and Bcash, PagSeguro and MOIP in Brazil; money remitters such as Western Union; the use of cash, which is often preferred in Latin America; and offline funding alternatives such as cash deposit and money
+transmission services. Some of these services may operate at lower commission rates than MercadoPagos current rates and, accordingly, we are subject to market pressures with respect to the commissions we charge for MercadoPago services. 
+ MercadoPagos competitors may respond to new or emerging technologies and changes in customer requirements faster and more effectively
+than us. They may devote greater resources to the development, promotion, and sale of products and services than we do for MercadoPago. Competing services tied to established banks and other financial institutions may offer greater liquidity and
+create greater consumer confidence in the safety and efficacy of their services than MercadoPago. Established banks and other financial institutions currently offer online payments and those which do not yet provide such a service could quickly and
+easily develop it, including mobile phone carriers. 
+ We are currently in the process of rolling out our Payments product in some countries
+in order to provide a better experience to our users. For the same reason we are also charging a single final value fee for the right to use MercadoLibre and MercadoPago in those transactions. This change may result in our experiencing a lower
+combined take rate. We consider MercadoPagos direct payments product to be in early release and have identified several opportunities to improve upon the product. In addition, the transition to the new system may not be a smooth one. The
+occurrence of any of these events could adversely affect our business. 
+ We continue to expand MercadoPagos services internationally.
+We have no experience with the online payment solution in Costa Rica, the Dominican Republic, Ecuador, Panama, Peru, Portugal or Uruguay. The introduction of MercadoPago in certain new markets may require a close commercial relationship with one or
+more local banks. These or other factors may prevent, delay or limit our introduction of MercadoPago in other countries, or reduce its profitability. 
+ We rely on banks or payment processors to fund transactions, and changes to credit card association fees, rules or practices may adversely affect our
+business. 
+ Because MercadoPago is not a bank, we cannot belong to or directly access credit card associations, such as Visa and
+MasterCard. As a result, we must rely on banks or payment processors to process the funding of MercadoPago transactions and MercadoLibre Marketplace collections, and must pay a fee for this service. From time to time, credit card associations may
+increase the interchange fees that they charge for each transaction using one of their cards. The credit card processors of MercadoPago and the MercadoLibre Marketplace have the right to pass any increases in interchange fees on to us as well as
+increase their own fees for processing. These increased fees increase the operating costs of MercadoPago, reduce our profit margins from MercadoPago operations and, to a lesser degree, affect the operating margins of the MercadoLibre Marketplace. 
+ We are also required by MercadoPago and MercadoLibres processors to comply with credit card association operating rules. The credit
+card associations and their member banks set and interpret the credit card rules. Some of those member banks compete with MercadoPago. Visa, MasterCard, American Express or other credit card companies could adopt new operating rules or re-interpret
+existing rules that we or MercadoPagos processors might find difficult or even impossible to follow. As a result, we could lose our ability to provide MercadoPago customers the option of using credit cards to fund their payments and
+MercadoLibre users the option to pay their fees using a credit card. If MercadoPago were unable to accept credit cards, our MercadoPago business would be materially adversely affected. 
+ We could lose the right to accept credit cards or pay fines if MasterCard and/or Visa determine that users are using MercadoPago to engage in
+illegal or high risk activities or if users generate a large amount of chargebacks. Accordingly, we are working to prevent high risk merchants from using MercadoPago. Additionally, we may be unable to access financing in the
+credit and capital markets at reasonable rates to fund our MercadoPago operations and for that reason our profitability and total payments volume could materially decline. 
+ Our operating results may be impacted by an economic crisis. 
+ General adverse economic conditions, including the possibility of recessionary conditions in the countries in which we operate or Latin America
+generally or a worldwide economic slowdown, would adversely impact our operating results and business. Recently, the price of oil on global oil markets has declined dramatically and this decline, if prolonged, may have a materially adverse impact on
+economic conditions within certain countries in Latin America that rely heavily on the export of oil and gas, such as Brazil, Venezuela and Mexico, as well as their trading 
+ partners in the region. If the current weakness in the global economy persists or worsens, or the present global economic uncertainties continue to persist, many of our users, may delay or reduce
+their purchases of goods on the MercadoLibre Marketplace, which would reduce our revenues and have a material adverse impact on our business. Furthermore, future changes in trends could result in a material impact to our future consolidated
+statements of income and cash flows. 
+ The failure of the financial institutions with which we conduct business may have a material adverse effect on
+our business, operating results, and financial condition. 
+ The financial services industry experienced a period of unprecedented
+turmoil in 2008 and 2009, characterized by the bankruptcy, failure or sale of various financial institutions and an unprecedented level of intervention from the United States and other governments. If the condition of the financial services industry
+again deteriorates or becomes weakened for an extended period of time, the following factors could have a material adverse effect on our business, operating results, and financial condition: 
+ Disruptions to the capital markets or the banking system may materially adversely affect the value of investments or bank deposits we currently consider safe or liquid. We may be unable to find suitable alternative
+investments that are safe, liquid, and provide a reasonable return. This could result in lower interest income or longer investment horizons; 
+ We may be required to increase the installment and financing fees we charge to customers for purchases made in installments or cease offering installment purchases altogether, each of which may result in a lower volume
+of transactions completed; 
+ We may be unable to access financing in the credit and capital markets at reasonable rates in the event we find it desirable to do so. Due to the nature of our MercadoPago business, we generate high account receivable
+balances that we typically sell to financial institutions, and accordingly, lack of access to credit, or bank liquidations could cause us to experience severe difficulties in paying our sellers; and 
+ The failure of financial institution counterparties to honor their obligations to us under credit instruments could jeopardize our ability to rely on and benefit from those instruments. Our ability to replace those
+instruments on the same or similar terms may be limited under difficult market conditions. 
+ A rise in interest rates may negatively
+affect our MercadoPago payment volume. 
+ In each of Brazil, Argentina and Mexico, we offer users the ability to pay for goods
+purchased in installments using MercadoPago. In 2014, 2013 and 2012, installment payments represented 53.9%, 52.2% and 48.3%, respectively, of MercadoPagos total payment volume. To facilitate the offer of the installment payment feature, we
+pay interest to credit card processors and issuer banks in Mexico and Argentina and we pay interest to advance credit card coupons in Brazil. In all of these cases, if interest rates increase, we may have to raise the installment fees we charge to
+users which would likely have a negative effect on MercadoPagos total payment volume. 
+ Changes in MercadoPagos funding mix could
+adversely affect MercadoPagos results. 
+ MercadoPago pays significant transaction fees when senders fund payment transactions
+using certain credit cards, PagoMisCuentas and Pago Fácil, nominal fees when customers fund payment transactions from their bank accounts in Brazil, Argentina and Mexico, and no fees when customers fund payment transactions from an existing
+MercadoPago account balance. Senders funded approximately 79.0%, 79.5% and 76.6% of MercadoPagos payment volume using credit cards during 2014, 2013 and 2012, respectively (either in a single payment or in installments), and MercadoPagos
+financial success will remain highly sensitive to changes in the rate at which its senders fund payments using credit cards. Senders may prefer credit card funding rather than bank account transfers for a number of reasons, including the ability to
+pay in installments in Brazil, Mexico and Argentina, the ability to dispute and reverse charges if merchandise is not delivered or is not as described, the ability to earn frequent flyer miles or other incentives offered by credit cards, the ability
+to defer payment, or a reluctance to provide bank account information to us. Also, in Brazil, Mexico and Argentina, senders may prefer to pay by credit card without using installments to avoid the associated financial costs resulting in lower
+revenues to us. 
+ Changes in MercadoPago ticket mix could adversely affect MercadoPagos results. 
+ The transaction fees MercadoPago pays in connection with certain means of payment such as OXXO are fixed regardless of the ticket price, and
+certain costs incurred in connection with the processing of credit card transactions are also fixed. Currently, MercadoPago charges a fee calculated as a percentage of each transaction. If MercadoPago receives a larger percentage of low ticket
+transactions its margin may erode or we may need to raise prices by including a fixed fee per transaction which, in turn, may affect the volume of transactions. During December 2014, we submitted to the Brazilian Central Bank our application to
+become an authorized payment institution in Brazil. As of the date of this report, we have not received such authorization. 
+ Recently approved
+legislation in Brazil relating to certain payment processing functions carried out by non-financial institutions, require, among other things, our MercadoPago operations to secure authorization from the Brazilian Central Bank to continuing its
+operations and may limit our services, any of which could have a material adverse effect on our business and results of operations. 
+ On May 17, 2013, the Brazilian government issued Medida Provisoria 615/13, or the Provisional Measure, which granted to the Brazilian
+Central Bank powers of regulation and supervision of certain payment processing functions carried out by certain non-financial institutions in Brazil. This regulation covers a wide variety of issues, including, among other things, rules related to
+authorization requirements for certain 
+ payment processing functions by non-financial institutions, penalties for non-compliance, the promotion of financial inclusion, the reduction of systemic, operational and credit risks, reporting
+obligations and governance. The Provisional Measure was approved by Congress as Law No. 12,865 on October 9, 2013. On November 4, 2013 the Brazilian Central Bank published certain rules relating to this law, covering among other
+issues, its powers of supervision and oversight of certain payment institutions and processing and payment functions carried out by certain non-financial institutions in Brazil. 
+ As approved and regulated by the Brazilian Central Bank, our MercadoPago business in Brazil is subject to Law No. 12,865. The law
+requires payment institutions to request authorization until August 2014 and payment means until November 2014, therefore our MercadoPago operation has requested such authorization. The law also establishes certain requirements for our services and
+operations. To comply with this law, we implemented certain changes to our operations and systems which has required us to incur greater expenses and devote more resources to areas that require further development of updates. During December 2014,
+we submitted to the Brazilian Central Bank our application to become an authorized payment institution in Brazil. As of the date of this report, we have not received such authorization. 
+ If we are unable to obtain the requisite authorization, it could cause us to (i) shut down our MercadoPago business in Brazil for an
+indefinite period of time, which would be costly and time consuming, (ii) pay penalties for non-compliance, (iii) limit the services we offer through MercadoPago in Brazil or change our business practices, any of which could materially
+adversely affect our business and results of operations. 
+ A rise in our Shipping costs may negatively affect our MercadoEnvios Shipping transaction
+volume. 
+ In Brazil, Argentina and Mexico, we offer users our MercadoEnvios Shipping service through integration with local
+carriers. To achieve economies of scale, driving down shipping costs and eliminating friction for buyers and sellers, we pay to the local carriers the shipping costs and transfer those costs to our customers. If shipping costs increase, we may have
+to raise the shipping fees we charge to users and this would likely have a negative effect on MercadoEnvioss shipping volume. 
+ We rely on
+local carriers to develop our Shipping service and changes to our shipping fees, rules or practices may adversely affect our business. 
+ Because MercadoEnvios is not a carrier, we must rely on local carriers in Brazil, Argentina and Mexico to deliver items; we must pay a fee for
+this service and transfer those fees to our customers. From time to time, local carriers may increase their fees that they charge for each transaction. If we cannot transfer these increased fees to our customers, the increase in operating costs of
+MercadoEnvios, could generate net losses in our MercadoEnvios operations. 
+ In addition, the failure of the Shipping providers with which
+we conduct business may have a material adverse effect on our Shipping service, operating results, and financial condition. As a result, we could lose our ability to provide shipping services to our customers. 
+ We could be subject to liability and forced to change our MercadoEnvios business practices if we were found to be subject to or in violation of any laws
+or regulations governing shipping in the countries where we operate; or if new legislation regarding this service were enacted in the countries where MercadoEnvios operates. 
+ A number of jurisdictions where we operate have enacted legislation regulating shipping service. We believe we do not require a license under
+the existing statutes of Argentina, Brazil and Mexico to operate MercadoEnvios with its current agency-based structure. If our operation of MercadoEnvios were found to be in violation of shipping services laws or regulations, or engaged in an
+unauthorized shipping business, we could be subject to liability, forced to cease doing business with residents of certain countries, or forced to change our business practices or to become a postal or shipping entity. Any change to our
+MercadoEnvios business practices that makes the service less attractive to customers or prohibits its use by residents of a particular jurisdiction could decrease the speed of trade on the MercadoLibre Marketplace, which would further harm our
+business. Even if we are not forced to change our MercadoEnvios business practices, we could be required to obtain licenses or regulatory approvals that could be very expensive and time consuming, and we cannot assure you that we would be able to
+obtain these licenses in a timely manner or at all. 
+ We have no business insurance coverage, which would require us to spend significant resources
+in the event of a disruption of our services or other contingency. 
+ Insurance companies in Latin America offer limited business
+insurance products. We do not carry any business liability or disruption insurance coverage for our operations. Any business disruption, litigation, system failure or natural disaster may cause us to incur substantial costs and divert resources,
+which could have a material adverse effect on our business, results of operation and financial condition. 
+ We may not be able to adequately protect
+and enforce our intellectual property rights. We could potentially face claims alleging that our technologies infringe the property rights of others. 
+ We regard the protection of our copyrights, service marks, trademarks, domain names, trade dress and trade secrets as critical to our future
+success and rely on a combination of copyright, trademark, service mark and trade secret laws and contractual restrictions to establish and protect our proprietary rights in our products and services. We have entered into confidentiality and
+invention assignment agreements with our employees and certain contractors, and non-disclosure agreements with our employees and certain suppliers and strategic partners in order to limit access to and disclosure of our proprietary information. We
+cannot assure you that these contractual arrangements or the other steps that we have taken or will take in the future to protect our intellectual property will prove sufficient to prevent misappropriation of our technology or to deter independent
+third-parties from developing similar or competing technologies. 
+ We pursue the registration of our domain names, trademarks, logos and service marks in each
+country where we operate, in the United States and in certain other Latin American countries. Effective trademark, service mark, copyright, domain name and trade secret protection may not be available or granted to us by the appropriate regulatory
+authority in every country in which our services are made available online. For example, since 1999, we have filed several applications to register the name MercadoLivre and our logo in Brazil. We have been granted the trademarks
+Mercadolivre (name and design, without the exclusivity to the use of the words Mercado and Livre) and MercadoPago (name and design). Nonetheless, many applications are still pending and certain
+applications were denied in that country under the argument that the name was descriptive of its activities. We cannot assure you that we will succeed in obtaining these trademarks or in our challenges to existing or future applications by other
+parties or by the Instituto Nacional da Propriedade Industrial (the National Institute of Industrial Property). If we are not successful, MercadoLibres ability to protect its brand in Brazil against third-party infringers would be compromised
+and we could face claims by any future trademark owners. Any past or future claims relating to these issues, whether meritorious or not, could cause us to enter into costly royalty and/or licensing agreements. If any of these claims against us are
+successful we may also have to modify our brand name in certain countries. Any of these circumstances could adversely affect our business, results of operations and financial condition. 
+ We have licensed in the past, and expect that we may license in the future, certain of our proprietary rights, such as trademarks or
+copyrighted material, to third parties. While we attempt to ensure that our licensees maintain the quality of the MercadoLibre brand, our licensees may take actions that could materially adversely affect the value of our proprietary rights or
+reputation, which could have a material adverse effect on our business, results of operations and financial condition. 
+ To date, we have
+not been notified that our technology infringes on the proprietary rights of third parties, but third parties may claim infringement on our part with respect to past, current or future technologies or features of our services. We expect that
+participants in our markets will be increasingly subject to infringement claims as the number of services and competitors in the e-commerce segment grows. Any of these claims could be expensive and time consuming tolitigate or settle and could have
+a material adverse effect upon our business, results of operations and financial condition. 
+ From time to time, we are involved in other
+disputes or regulatory inquiries that arise in the ordinary course of business. The number and significance of these disputes and inquiries are increasing as our business expands and we grow larger. Any claims or regulatory actions against us,
+whether meritorious or not, could be time consuming, result in expensive litigation, require significant amounts of management time, and result in the diversion of significant operational resources. 
+ We may not be able to secure licenses for third-party technologies upon which we rely. 
+ We rely on certain technologies that we license from third parties, such as Oracle Corp., SAP AG, Salesforce.com Inc., Microstrategy, Radware,
+Juniper Networks, Cisco Systems Inc., F5 Networks, and Netapp, the suppliers of key database technology, operating system and specific hardware components for our services. We cannot assure you that these third-party technology licenses will
+continue to be available to us on commercially reasonable terms. If we were not able to make use of this technology, we would need to obtain substitute technology that may be of lower quality or performance standards or at greater cost, which could
+materially adversely affect our business, results of operations and financial condition. Although we generally have been able to renew or extend the terms of contractual arrangements with these third party service providers on acceptable terms, we
+cannot assure you that we will continue to be able to do so in the future. 
+ Problems that affect our third-party service providers could potentially
+adversely affect us as well. 
+ A number of third parties provide beneficial services to us or to our users. These services include
+the hosting of our servers, our shipping providers and the postal and payments infrastructures that allow users to deliver and pay for the goods and services traded amongst themselves, in addition to paying their MercadoLibre Marketplace bills.
+Financial, regulatory, or other problems that might prevent these companies from providing services to us or our users could reduce the number of listings on our websites or make completing transactions on our websites more difficult, which would
+harm our business. Any security breach at one of these companies could also affect our customers and harm our business. 
+ Complaints from customers
+or negative publicity about our services can diminish consumer confidence and adversely affect our business. 
+ Because volume and
+growth in the number of new users of our services are key factors for our profitability, customer complaints or negative publicity about our customer service could severely diminish consumer confidence in and use of our services. Measures we
+sometimes take to combat risks of fraud and breaches of privacy and security can damage relations with our customers. To maintain good customer relations, we need prompt and accurate customer service to resolve irregularities and disputes. Effective
+customer service requires significant personnel expense and investment in developing programs and technology infrastructure to help customer service representatives carry out their functions. These expenses, if not managed properly, could
+significantly impact our profitability. Failure to manage or train our customer service representatives properly could compromise our ability to handle customer complaints effectively. If we do not handle customer complaints effectively, our
+reputation may suffer and we may lose our customers confidence. 
+ As part of our program to reduce fraud losses in relation to
+MercadoPago, we make use of MercadoPago anti-fraud models and we may temporarily restrict the ability of customers to withdraw their funds if we identify those funds or the customers account activity as suspicious. To date, MercadoPago has not
+been subject to any significant negative publicity about such restrictions. However, certain users who were banned from withdrawing funds or received fake mail appearing to be sent by MercadoPago have initiated legal actions against us in the past.
+As a result 
+ of our efforts to police the use of our services, MercadoPago may receive negative publicity, our ability to attract new MercadoPago customers may be damaged, and we could become subject to
+litigation. If any of these events happen, current and future revenues could suffer, and our database technology operating margins may decrease. In addition, negative publicity about or experiences with MercadoPago customer support could cause our
+reputation to suffer or affect consumer confidence in the MercadoLibre brand. 
+ We may not realize benefits from recent or future strategic
+acquisitions of businesses, technologies, services or products despite their costs in cash and dilution to our stockholders. 
+ We
+intend to continue to acquire businesses, technologies, services or products, as we have done in the past with our acquisitions of iBazar, Lokau, DeRemate, CMG, AutoPlaza and Neosur, which we believe are strategic, if an appropriate opportunity
+presents itself. We may not, however, be able to identify, negotiate or finance such future acquisitions successfully or at favorable valuations, or to effectively integrate these acquisitions with our current business. The process of integrating an
+acquired business, technology, service or product into our business may result in unforeseen operating difficulties and expenditures. Moreover, future acquisitions may also generate unforeseen pressures and/or strains on our organizational culture. 
+ Additionally, acquisitions could result in potentially dilutive issuances of equity securities, the incurrence of debt, contingent
+liabilities and/or amortization expenses related to goodwill and other intangible assets, which could materially adversely affect our business, results of operations and financial condition. Any future acquisitions of other businesses, technologies,
+services or products might require us to obtain additional equity or debt financing, which might not be available on favorable terms, or at all. If debt financing for potential future acquisitions is unavailable, we may determine to issue shares of
+our common stock or preferred stock in connection with such an acquisition and any such issuance could result in the dilution of our common stock. 
+ We are subject to seasonal fluctuations in our results of operations. 
+ We believe that our results of operations are seasonal in nature (as is the case with traditional retailers), with relatively fewer listings
+and transactions in the first quarters of the year, and increased activity as the year-end shopping season initiates. This seasonality is the result of fewer listings after the Christmas and other holidays and summer vacation periods in our southern
+hemisphere markets. To some degree, our historical rapid growth may have overshadowed seasonal or cyclical factors that might have influenced our business to date. Seasonal or cyclical variations in our operations could become more pronounced over
+time, which could materially adversely affect our quarter to quarter results of operations in the future. 
+ We operate in a highly competitive and
+evolving market, and therefore face potential reductions in the use of our service. 
+ The market for trading over the Internet is
+relatively new in Latin America, rapidly evolving and intensely competitive, and we expect competition to become more intense in the future. Barriers to entry are relatively low and current offline and new competitors, including small businesses who
+want to create and promote their own stores or platforms, can easily launch new sites at relatively low cost using software that is commercially available. We currently or potentially compete with a number of other companies. 
+ Our direct competitors include, among others, various online sales and auction services, including MasOportunidades.com, OLX.com and
+Alamaula.com in Argentina, and a number of other small services, including those that serve specialty markets. We also compete with business-to-consumer online e-commerce services, such as pure play Internet retailer Submarino (a website of B2W
+Inc), and a growing number of bricks and mortar retailers who have launched on line offerings such as Americanas (a website of B2W Inc), Casas Bahia and Falabella, OLX, QueBarato and with shopping comparison sites located throughout Latin America
+such as Buscape and Bondfaro, located throughout Latin America. In addition, we compete with online communities that specialize in classified advertisements. Although no regional competitor exists in the classified market, local players such as
+Webmotors, VivaStreet and Zap have important positions in certain markets. 
+ We face competition from a number of large online communities
+and services that have expertise in developing online commerce and facilitating online interaction. Certain of these competitors, including Google, Amazon, Microsoft and Yahoo! currently offer a variety of business-to-consumer commerce services,
+searching services and classified advertising services, and certain of these companies may introduce broader online commerce to their large user populations. Other large companies with strong brand recognition and experience in online commerce, such
+as large newspaper or media companies also compete in the online listing market. Companies with experience in online commerce, such as Amazon, may also seek to compete in the online listing market in Latin America. We also compete with traditional
+brick-and-mortar retailers to the extent buyers choose to purchase products in a physical establishment as opposed to on our platform. In connection with our payment solution, our direct competitors include international online payments services
+such as PayPal and Google Checkout, and local online payment services such as DineroMail in Argentina, Chile, Colombia and Mexico, and Bcash, PagSeguro and MOIP in Brazil; money remitters such as Western Union. Any or all of these companies could
+create competitive pressures, which could have a material adverse effect on our business, results of operations and financial condition. 
+ In addition, if certain websites stop linking to or containing links in their properties that send us traffic across the internet in the
+future, our GMV could substantially decrease and we could suffer a material adverse effect on our business, financial condition and results of operations. 
+ We no longer have a non-competition arrangement with eBay. If eBay were to compete directly with us by launching a competing platform in Latin
+America, it would have a material adverse effect on our results of operations and prospects. Similarly, eBay or other larger, well-established and well-financed companies may acquire, invest in or enter into other commercial relationships with
+competing online commerce services. Therefore, some of our competitors and potential competitors may be able to devote greater resources to marketing and promotional campaigns, adopt more aggressive pricing policies and devote substantially more
+resources to website and systems development than us, which could adversely affect us. Paypal is already active locally in Brazil and Mexico. 
+ In many cases, companies that directly or indirectly compete with us provide Internet access.
+These competitors include incumbent telephone companies, cable companies, mobile communications companies and large Internet service providers. Some of these providers may take measures that could degrade, disrupt, or increase the cost of
+customers use of our services. For example, they could restrict or prohibit the use of their lines for our services, filter, block or delay the packets containing the data associated with our products, charge increased fees to us or our users
+for use of their lines to provide our services, or seek to charge us for our customers use of our services or receipt of our e-mails. These activities are technically feasible. Although we have not identified any providers who intend to take
+these actions, any interference with our services or higher charges for access to the Internet, could cause us to lose existing users, impair our ability to attract new users, limit our potential expansion and harm our revenue and growth. 
+ Risks related to doing business in Latin America 
+ Social, Political and economic conditions in Venezuela may have an adverse impact on our operations. 
+ We conduct significant operations in Venezuela, offering both our MercadoLibre Marketplace and MercadoPago online payments solution, through
+our Venezuelan subsidiaries. As of December 31, 2014 we had 123 employees working in that country. For the year ended December 31, 2014, 10.4% of our consolidated net revenues and 8.9% of our consolidated net assets are derived from our
+Venezuelan subsidiaries, while 3.2% of our consolidated cash and investments are held in local Venezuelan currency by our Venezuelan subsidiaries. The political and economic conditions in Venezuela are very unstable, with economy considered
+hyperinflationary under U.S. GAAP since 2010. We cannot predict the impact of any future political and economic events on our business, nor can we predict the economic and regulatory impact of the Venezuelan governments current or future
+initiatives, including whether it will extend nationalization to e-commerce or other businesses, implement further price or profit controls or further restrict our ability to obtain or distribute U.S. dollars, all of which could impact our business
+and our results of operations. Nationalization of telecommunications, electrical or other companies could reduce our or our customers access to our website or our services or increase the costs of providing or accessing our services. Certain
+political events have also resulted in significant civil unrest in the country. Continuation or worsening of the political and economic conditions in Venezuela could materially and adversely impact our future business, financial condition and
+results of operations. 
+ In recent years, Venezuela has suffered severe electricity shortages that prompted the Venezuelan government to
+declare an energy emergency. This situation could impact the operation of our automobile classifieds points of sale in Venezuela as well as our Venezuelan users ability to access the Internet, either of which could have a material adverse
+impact on our business. 
+ In addition, the Venezuelan government has imposed foreign exchange and price controls on the local currency in
+recent years. These foreign exchange controls increase our costs and significantly limit our ability to convert local currency into U.S. dollars and transfer funds out of Venezuela. In fact, since the Venezuelan government´s devaluation in
+February 2013, we have been unable to obtain U.S. dollars through the auction process established by government and we do not know when or if we will be able to obtain U.S. dollars through such a process in the future. As a result, the foreign
+exchange and price controls enacted in recent years by the Venezuelan government, and by future actions in this regard, could have a material adverse effect on our Venezuelan customers and our business, financial condition and results of operations.
+Moreover, we cannot predict the long-term effects of exchange controls on our ability to process payments from Venezuelan customers or on the Venezuelan economy in general. 
+ As of December 31, 2009, Venezuela had an official exchange rate which was 2.15 Bolivares Fuertes per U.S. dollar and a
+parallel exchange rate that was 6.05 Bolivares Fuertes per U.S. dollar. On January 8, 2010, the Venezuelan government announced that the fixed official rate of 2.15 Bolivares Fuertes per U.S. dollar would be changed to a
+dual system that included a rate of 2.6 Bolivares Fuertes per U.S. dollar for food and heavy machine importers and a rate of 4.3 Bolivares Fuertes per U.S. dollar for all others. 
+ Starting in the fourth quarter of 2009, as a result of the changes in facts and circumstances that affected our ability to convert currency
+for dividends remittances using the official exchange rate in Venezuela, our Venezuelan subsidiaries´ assets, liabilities, income and expense accounts were translated using the parallel exchange rate. 
+ Until May 13, 2010, the only way by which U.S. dollars could be purchased outside the official currency market was using an indirect
+mechanism consisting in the purchase and sale of securities, including national public debt bonds (DPNs) denominated in Bolivares Fuertes and bonds issued by the government that were denominated in U.S. dollars. This mechanism for transactions in
+certain securities created an indirect parallel foreign currency exchange market in Venezuela that enabled entities to obtain foreign currency through financial brokers without going through CADIVI. Although the parallel exchange rate
+was higher, and accordingly less beneficial than the official exchange rate, some entities used the parallel market to exchange currency due to CADIVIs frequent failure to approve exchange transactions in a timely manner. Until
+May 13, 2010, our Venezuelan subsidiaries used this mechanism to buy U.S. dollars and accordingly, we used the parallel average exchange rate to re-measure those foreign currency transactions for purposes of our financial statements. 
+ However, on May 14, 2010, the Venezuelan government enacted reforms to its exchange
+regulations and closed down the parallel market by declaring that foreign-currency-denominated securities issued by Venezuelan entities were included in the definition of foreign currency, thus making the Central Bank of Venezuela (the
+BCV) the only institution that could legally authorize the purchase or sale of foreign currency bonds, thereby excluding non-authorized brokers from the foreign exchange market. Trading of foreign currencies was re-opened as a
+regulated market on June 9, 2010 with the BCV as the only institution through which foreign currency-denominated transactions could be brokered. 
+ As a consequence of this new system and termination of the parallel exchange market commencing on June 9, 2010, we transitioned from the
+parallel exchange rate to the SITME rate and started re-measuring foreign currency transactions using the SITME rate published by BCV, which was 5.27 Bolivares Fuertes per U.S. dollar as of June 9, 2010. 
+ On February 8, 2013, the Venezuelan Government, through Foreign Exchange Agreement No. 14, devalued as from February 9, 2013,
+the official exchange rate to 6.3 Bolivares Fuertes per U.S. dollar. 
+ In addition, on February 8, 2013, the Venezuelan Government,
+through Decree No. 9381, has created the 
+ , which is a committee that would have the authority to design, plan and execute foreign exchange policies. Finally, on
+February 9, 2013, the BCV eliminated the SITME, which was the former system that allowed companies limited access to foreign currencies for payments to foreign suppliers. The elimination of the SITME and devaluation of the official exchange
+rate required re-measurement of our Venezuelan subsidiaries non-U.S. dollar denominated monetary assets and liabilities as from February 9, 2013. The effect of using the devalued official rate of 6.3 Bolivares Fuertes per U.S. dollar
+instead of the SITME rate generated a foreign currency loss that amounted to approximately $6.4 million in the first quarter of 2013. 
+ Organo Superior para la Optimización del Sistema Cambiario 
+ On
+March 19, 2013, the BCV announced the creation of SICAD 1, which acts jointly with the Commission for the Administration of Foreign Exchange Control (CADIVI). In order to operate within SICAD 1, a company should be registered at the Registro
+Automatizado (Automatized Register, or RUSAD). The acquisition of foreign currencies under this system is organized under an auction process to obtain foreign currencies for payments to foreign suppliers, where the minimum exchange rate to be
+offered was 6.3 BsF per U.S. dollar. 
+ During December 2013, the Venezuelan regulation that created SICAD 1 was amended to expand its use,
+and to require publication of the average exchange rate implied by transactions settled in SICAD 1 auctions. Additionally, on January 23, 2014, the exchange regulation was amended to include foreign currency sales for certain transactions, such
+as but not limited to: contracts for leasing and services, use and exploitation of patents, trademarks, foreign investments and payments of royalties, contracts for technology import and technical assistance. Due to the change in rules that provided
+for the creation of the SICAD 1 system, the official exchange rate remains only available to obtain foreign currency to pay for a limited list of goods considered to be of high priority by the Venezuelan government, which does not include those
+relating to our business. As a consequence, SICAD 1 became, from that moment, the primary system to which we would have to request U.S. dollars to settle our transactions. As a result, from January 24 to May 15, 2014, the exchange rate we
+used to re-measure our net monetary asset position and BsF transactions of our Venezuelan operations was the SICAD 1 exchange rate. 
+ In
+late February 2014, the Venezuelan government issued a decree to open a new exchange control mechanism (SICAD 2) that allows the purchase of foreign exchange currencies, through authorized foreign exchange operators offered by
+individuals and companies such as Petróleos de Venezuela, S.A. (PDVSA, the oil state-owned corporation of Venezuela), the BCV and other public entities authorized by the Ministry of Finance. The Venezuelan government published
+operating rules for the new exchange mechanism in Exchange Agreement N° 27 and, on March 24, 2014 SICAD 2 began operating. Since implementation of the SICAD 1 system, we had been unsuccessful in gaining access to U.S. dollars through SICAD
+1. As a result of this ongoing lack of access to the SICAD 1 auction system and the establishment of SICAD 2, on May 16, 2014, we started requesting U.S. dollars through the SICAD 2 mechanism. The SICAD 2 system has been an open mechanism that
+permitted any company to request U.S. dollars for any purpose. Consequently, we have been eligible for and have been granted U.S. dollars through the SICAD 2 mechanism (see further developments affecting the SICAD 2 mechanism below). 
+ As a consequence of our determination to obtain U.S. dollars through SICAD 2 and our continued lack of access to SICAD 1, we concluded that
+the SICAD 2 exchange rate should be used to re-measure our bolivar-denominated monetary assets and liabilities in BsF and to re-measure the results of our Venezuelan operations, effective as of May 16, 2014. In connection with this
+re-measurement, we recorded a foreign exchange loss of $16.5 million during the second quarter of 2014. 
+ Until 2010 we were able to obtain
+U.S. dollars for any purpose, including dividends distribution, using alternative mechanisms other than through the CADIVI. Those U.S. dollars, obtained at a higher exchange rate than the one offered by CADIVI and held in balance at U.S. bank
+accounts of our Venezuelan subsidiaries, were used for dividend distributions from our Venezuelan subsidiaries. Our Venezuelan subsidiaries have not requested authorization since 2012 to acquire U.S. dollars to make dividend distributions and we
+have not distributed dividends from our Venezuelan subsidiaries since 2011. 
+ In light of the economic conditions in Venezuela, and our
+determination to access SICAD 2 and re-measure the BsF denominated monetary assets and liabilities of our Venezuelan subsidiaries, and the lower U.S. dollar-equivalent cash flows now expected from our Venezuelan business, we reviewed our long-lived
+assets, goodwill and intangible assets with indefinite useful life for impairment, including considering our expected use of these assets in light of this foregoing. We own two office spaces in Venezuela that we had expected to use to support our
+main operating activities in that country. However, due to the current conditions, we now intend to rent these office spaces to third parties to generate rental income and will consider opportunities for disposal of these assets if real estate
+market conditions are favorable. Because we concluded that the carrying value of these two real estate properties will not be fully recoverable, we recorded an impairment of long-lived assets of $49.5 million during May, 2014 and, may in the future
+be required to record a further impairment of long-lived assets. 
+ In February 2015, the Venezuelan government announced the unification of the SICAD 1 and SICAD 2
+foreign exchange systems, into SICAD, with an initial public foreign exchange price of 12 BsF per U.S. dollar. Additionally, on February 10, 2015 it created the Sistema Marginal de Divisas (SIMADI), a new foreign exchange
+market, which foreign exchange rate should be published daily by the BCV. The first foreign exchange rate was published on February 12, 2015 at 170.039 BsF per U.S. dollar. We are assessing the new regulations and any additional rules that may be
+established to determine whether they will have any effect on the accounting of the financial position and results of our operations in Venezuela in 2015. 
+ Our ability to obtain U.S. dollars in Venezuela is negatively affected by the exchange restrictions in Venezuela that are described above. If
+our access to U.S. dollars becomes widely available at a more unfavorable rate than the rate used in 2014, such us the case may be the new exchange system created recently in February 2015, and we decided to use that alternative mechanism
+considering that exchange rate as the one applicable for re-measurement, our results of operations, earnings and value of our net assets in Venezuela would be negatively impacted, and we cannot assure that the impact would not be material. See Item
+7A. Quantitative and Qualitative Disclosures About Market Risk  Foreign Currency Sensitivity Analysis  Venezuelan Segment. In addition, our business and ability to obtain U.S. dollars in Venezuela would be negatively affected by any
+additional material devaluations or the imposition of significant additional and more stringent controls on foreign currency exchange by the Venezuelan government in the future. 
+ Despite the current difficult macroeconomic environment in Venezuela, we continue actively managing, through our Venezuelan subsidiaries, our
+investment in Venezuela. Regardless the current operating, political and economic conditions in Venezuela, we currently plan to continue supporting our business in Venezuela in the long run. 
+ We face the risk of political and economic crises, instability, terrorism, civil strife, expropriation and other risks of doing business in emerging
+markets. 
+ We conduct our operations in emerging market countries in Latin America. Economic and political developments in these
+countries, including future economic changes or crises (such as inflation, currency devaluation or recession), government deadlock, political instability, terrorism, civil strife, changes in laws and regulations, expropriation or nationalization of
+property, and exchange controls could impact our operations or the market value of our common stock and have a material adverse effect on our business, financial condition and results of operations. 
+ In the past, the performance of the economies of Latin American countries has been affected by each countrys political situation. For
+example, during its crisis in 2001 and 2002, Argentina experienced social and political turmoil, including civil unrest, riots, looting, protests, strikes and street demonstrations which have resulted in significant changes in its general economic
+policies and regulations. More recently, the Argentine, Venezuelan and Bolivian administrations have nationalized or announced plans to nationalize certain industries and expropriate certain companies and property, and, in Venezuela, as described
+above, the administration has imposed exchange controls. 
+ Although economic conditions in one country may differ significantly from
+another country, we cannot assure that events in one country alone will not adversely affect our business or the market value of, or market for, our common stock. 
+ Pending legislation in Venezuela that would limit the maximum sale price that a seller could receive in connection with the sale of an automobile on our
+MercadoLibre Marketplace in Venezuela, could have a material adverse impact on our Venezuelan business and results of operations. 
+ During August 2013, the Congress of Venezuela approved new legislation that imposes certain limits on the maximum sale prices that would be
+permitted for the sale of used and new vehicles in the country. Among other provisions, the legislation imposes certain obligations on our MercadoLibre Marketplace and Tucarro website in Venezuela to ensure that classified ads listed on these
+platforms comply with the maximum sales price restrictions. Automobile sales represent a meaningful part of our business in Venezuela. As of the day of this report, this legislation has not been published in the Official Gazette nor enacted by the
+executive branch of government. If this legislation is finally enacted into law, it could cause us to, among other things, remove listings by sellers that fail to comply with the maximum sales price restrictions, to pay penalties for non-compliance,
+to limit our services or to change our business practices, any of which could have a material adverse impact on our Venezuelan business and results of operations. 
+ On December 2013, the Decree N° 625 was published on the Official Gazette N° 6,117, which established a new set of rules regarding
+among others, the production and prices of motor vehicles assembled and sold in Venezuela. According to this Decree, the sale price of used cars should not exceed the sale price of new cars established by the government and the vehicles assembly
+companies. The Government and the vehicles assembly companies had to establish the prices of the new vehicles within twenty days after the publication of the Decree, however as of the date of this report, they have not been published yet. 
+ Legislation in Venezuela that limits the maximum profit percentage regarding the sale of goods and services could have an adverse impact on our
+Venezuelan business and results of operations. 
+ The Decree of Fair Prices was published in the Official Gazette N° 40,340 dated
+January 23, 2014 which establishes a maximum profit margin of 30% of the cost structure of good or service sold in each participant in the commercialization chain. The Decree expresses that its purpose is to assure the development of the
+national economy by determining fair prices of goods and services, through the analysis of cost structures, setting of the maximum profit percentage, and the effective auditing of the economic and commercial activity in Venezuela. The determination,
+modification, and control of prices will be under the scope of the National Superintendence for Defense of Socioeconomic Rights (SUNDDE). 
+ The Decree establishes different penalties ranging between 1 and 14 years of imprisonment, or
+expropriation, adoption of measures as temporary occupation and/or seizure of goods. The SUNDDE may impose fines ranging from 200 Tax Units to 50,000 Tax Units; temporarily suspend the Single Registry of Persons that Develop Economic Activities
+(RUPDAE) from 3 months to 10 years; issue measures of temporary occupation with intervention of warehouses, storehouses, industries, commercial establishments, transport of goods, for up to 180 days; temporarily shut down warehouses, storehouses or
+establishments used for commerce, preservation, storage, production, or processing of goods for up to 180 days, or close them down; confiscate goods; revoke licenses, permits, or authorizations and, specially, those related to the access to foreign
+currency. 
+ As a consequence, and depending on how the decree is finally implemented, we may experience a significant decrease in our
+Venezuelan subsidiary´s revenues, results of operations and earnings and we cannot assure you that the impact would not be material. Finally, our Venezuelan subsidiaries could generate net loss in the near future. 
+ Latin American governments have exercised and continue to exercise significant influence over the economies of the countries where we operate. This
+involvement, as well as political and economic conditions, could adversely affect our business. 
+ Governments in Latin America
+frequently intervene in the economies of their respective countries and occasionally make significant changes in policy and regulations. Governmental actions to control inflation and other policies and regulations have often involved, among other
+measures, price controls, currency devaluations, capital controls and limits on imports. Our business, financial condition, results of operations and prospects may be adversely affected by changes in government policies or regulations, including
+such factors as: exchange rates and exchange control policies; inflation rates; interest rates; tariff and inflation control policies; price control policies; import duties and restrictions; liquidity of domestic capital and lending markets;
+electricity rationing; tax policies, including royalty, tax increases and retroactive tax claims; and other political, diplomatic, social and economic developments in or affecting the countries where we operate. An eventual reduction of foreign
+investment in any of the countries where we operate may have a negative impact on such countrys economy, affecting interest rates and the ability of companies such as ours to access financial markets. In addition, our employees in Brazil and
+some of our employees in Argentina are currently represented by a labor union and employees in other Latin American countries may eventually become unionized. We may incur increased payroll costs and reduced flexibility under labor regulations if
+unionization in other countries were to occur, any of which may negatively impact our business. 
+ Latin America, including Argentina, has experienced
+adverse economic conditions. 
+ Latin American countries have historically experienced uneven periods of economic growth, as well as
+recession, periods of high inflation and economic instability. Currently, as a consequence of adverse economic conditions in global markets and diminishing commodity prices, many of the economies of Latin American countries have slowed their rates
+of growth, and some have entered mild recessions. The duration and severity of this slowdown is hard to predict and could adversely affect our business, financial condition, and results of operations. Additionally, certain countries have experienced
+or are currently experiencing severe economic crises, including Argentina, which may still have future effects. 
+ During 2001 and 2002,
+Argentina went through a period of severe political, economic and social crisis. Among other consequences, the crisis resulted in the Argentine government defaulting on its foreign debt obligations, introducing emergency measures and numerous
+changes in economic policies that affected utilities and many other sectors of the economy, and suffering a significant real devaluation of the Peso, which in turn caused numerous Argentine private sector debtors with foreign currency exposure to
+default on their outstanding debt. 
+ In the first half of 2005, Argentina restructured part of the sovereign debt on which it was in
+default; however, a number of creditors refused to approve the restructuring and litigation brought by these holdout creditors ensued. This litigation initiated by these holdout creditors has persisted to this day. On June 16, 2014, the U.S.
+Supreme Court rejected an Argentine appeal and decided to leave in place a lower court ruling in favor of the holdout creditors, which held that the Argentine government is prohibited from making payments on its restructured debt unless it also pays
+the holdout creditors, who have previously refused to accept its debt restructuring offers, the amount owed to them. 
+ In July 2014,
+Argentina and the holdout creditors failed to reach an agreement on the restructuring of this debt. As a result, the Argentine government was prohibited from making certain bond payments. The full consequences of this on Argentinas political
+and economic landscape, and on the Company, are still unclear. We cannot provide any assurance that inflation, fluctuations in the value of the peso, the implementation of additional foreign currency restrictions and/or other future economic, social
+and political developments in Argentina resulting from this current Argentine sovereign debt crisis or the difficult economic conditions that current exist in Argentina, over which we have no control, will not adversely affect our business,
+financial condition or results of operations, including our ability to pay our debts at maturity or dividends. 
+ Local currencies used in the conduct
+of our business are subject to depreciation, volatility and exchange controls. 
+ The currencies of many countries in Latin America,
+including Brazil, Argentina, Mexico and Venezuela, which together accounted for 93.4%, 94.4% and 93.6% of our net revenues for 2014, 2013 and 2012, respectively, have experienced volatility in the past, particularly against the U.S. dollar. Currency
+movements, as well as higher interest rates, have materially and adversely affected the economies of many Latin American countries, including countries which account, or are expected to account, for a significant portion of our revenues. The
+depreciation of local currencies creates inflationary pressures that may have an adverse effect on us and generally restricts access to the international capital markets. For example, the devaluation of the Argentine Peso has had a negative impact
+on the ability of Argentine businesses to honor their 
+ foreign currency denominated debt, led to high inflation, significantly reduced real wages, had a negative impact on businesses whose success is dependent on domestic market demand, and adversely
+affected the governments ability to honor its foreign debt obligations. On the other hand, the appreciation of local currencies against the U.S. dollar may lead to the deterioration of public accounts and the balance of payments of the
+countries where we operate, and may reduce export growth in those countries. 
+ We may be subject to exchange control regulations which
+might restrict our ability to convert local currencies into U.S. dollars. For example, in 2001 and 2002, Argentina imposed exchange controls and transfer restrictions substantially limiting the ability of companies to retain foreign currency or make
+payments abroad. Since 2011, the Argentine government has implemented certain measures that control and restrict the ability of companies and individuals to exchange Argentine Pesos for foreign currencies. Those measures include, among other things,
+the requirement to obtain the prior approval from the Argentine Tax Authority of the foreign currency transaction (for example and without limitation, for the payment of non-Argentine goods and services, payment of principal and interest on
+non-Argentine debt and also payment of dividends to parties outside of the country), which approval process could delay, and eventually restrict, the ability to exchange Argentine Pesos for other currencies, such as U.S. dollars. Those approvals are
+administered by the Argentine Central Bank through the Local Exchange Market (Mercado Unico Libre de Cambios or MULC), which is the only market where exchange transactions may be lawfully made. Further, restrictions also
+currently apply to the acquisition of any foreign currency for holding as cash within Argentina. In addition, Brazilian law provides that whenever there is a serious imbalance in Brazils balance of payments or reason to foresee a serious
+imbalance, the Brazilian government may impose temporary restrictions on the remittance to foreign investors of the proceeds of their investments in Brazil. Recently, Venezuela has modified its exchange control regulations. These modified
+regulations have further impaired our ability to convert local currency into U.S. dollars, see Risk related to doing business in Latin AmericaPolitical and economic conditions in Venezuela may have an adverse impact on our
+operations above. 
+ Our reporting currency is the U.S. dollar but our revenues are generated in the currencies of each country where we
+operate. Therefore, if the U.S. dollar strengthens relative to these foreign currencies (i.e. the foreign currencies devaluate against the U.S. dollar), the economic value of our revenues in U.S. dollar terms will decline. 
+ We are subject to increased risks relating to foreign currency exchange rate fluctuations. Because we conduct our business outside the United
+States and receive almost all of our revenues in currencies other than the U.S. dollar, but report our results in U.S. dollars, we face exposure to adverse movements in currency exchange rates. The currencies of certain countries where we operate,
+including most notably Brazil, Argentina, Mexico and Venezuela, have historically experienced significant devaluations. The results of operations in the countries where we operate are exposed to foreign exchange rate fluctuations as the financial
+results of the applicable subsidiaries are translated from the local currency into U.S. dollars upon consolidation. If the U.S. dollar weakens against foreign currencies, as occurred in previous years, the translation of these
+foreign-currency-denominated transactions will result in increased net revenues, operating expenses, and net income. Similarly, our net revenues, operating expenses, and net income will decrease if the U.S. dollar strengthens against the foreign
+currencies of countries in which we operate. For the year ended December 31, 2014, 49.2% of our net revenues were denominated in Brazilian Reais, 27.1% in Argentine Pesos, 10.4% in Venezuelan Bolivares Fuertes, and 6.8% in Mexican Pesos. The
+foreign currency exchange rates for the full year 2014 relative to 2013 resulted in lower net revenues of approximately $297.4 million and a decrease in aggregate cost of net revenues and operating expenses of approximately $234.5 million.
+The foreign currency exchange rates for the full year 2013 relative to 2012 resulted in higher net revenues of approximately $60.9 million and an increase in aggregate cost of net revenues and operating expenses of approximately
+$39.6 million. The abovementioned foreign currency exchange rate effect includes the Venezuelan translation effect discussed in Item 7 Managements Discussion and Analysis of Financial Condition and Results of
+OperationsCritical accounting policies and estimatesForeign Currency Translation. While we have in the past entered into transactions to hedge portions of our foreign currency translation exposure, these transactions are expensive,
+and, in addition, it is very difficult to perfectly predict or completely eliminate the effects of this exposure. Should the U.S. dollar strengthen relative to the foreign currencies in which we operate, particularly Argentina and Venezuela, our net
+revenues, operating expenses, and net income will decrease and such decrease may be significant. 
+ Exchange controls implemented by the Argentine
+Government on the acquisition of U.S. dollars and other foreign currencies could have a material adverse impact on our operations, business, financial condition and results of operations. 
+ The Argentine government has implemented certain measures that control and restrict the ability of companies and individuals to exchange
+Argentine Pesos for foreign currencies. Those measures include, among other things, the requirement to obtain the prior approval from the Argentine Tax Authority of the foreign currency transaction (for example and without limitation, for the
+payment of non-Argentine goods and services, payment of principal and interest on non-Argentine debt and also payment of dividends to parties outside of the country), which approval process could delay, and eventually restrict, the ability to
+exchange Argentine Pesos for other currencies, such as U.S. dollars. Those approvals are administered by the Argentine Central Bank through the MULC, which is the only market where exchange transactions may be lawfully made. Further, restrictions
+also currently apply to the acquisition of any foreign currency for holding as cash within Argentina. 
+ There can be no assurance that the
+Central Bank of Argentina or other government agencies will not increase such controls or restrictions or make modifications to these regulations or establish more severe restrictions on currency exchange, making payments to foreign creditors or
+providers, dividend payments to foreign shareholders or require its prior authorization for such purposes. As a result of these exchange controls and restrictions could materially adversely affect the business, financial condition and results of
+operations of our Argentine subsidiary and could significantly impact our ability to comply our foreign currency obligations, each of which could have a material adverse effect on our Company. 
+ Inflation and certain government measures to curb inflation may have adverse effects on the economies of
+the countries where we operate, our business and our operations. 
+ Most Latin American countries have historically experienced high
+rates of inflation. Inflation and some measures implemented to curb inflation have had significant negative effects on the economies of Latin American countries. Governmental actions taken in an effort to curb inflation, coupled with speculation
+about possible future actions, have contributed to economic uncertainty over the years in most Latin American countries. The Latin American countries where we operate may experience high levels of inflation in the future that could lead to further
+government intervention in the economy, including the introduction of government policies that could adversely affect our results of operations. In addition, if any of these countries experience high rates of inflation, particularly in Venezuela,
+which was determined to be highly inflationary, and in Argentina, we may not be able to adjust the price of our services sufficiently to offset the effects of inflation on our cost structures. A return to a high inflation environment would also have
+negative effects on the level of economic activity and employment and adversely affect our business and results of operations. 
+ Developments in
+other markets may affect the Latin American countries where we operate, our financial condition and results of operations. 
+ The
+market value of companies like us may be, to varying degrees, affected by economic and market conditions in other global markets. Although economic conditions vary from country to country, investors perceptions of the events occurring in one
+country may substantially affect capital flows into and securities from issuers in other countries, including Latin American countries. Various Latin American economies have been adversely impacted by the political and economic events that occurred
+in several emerging economies in recent times, including Mexico in 1994, the collapse of several Asian economies between 1997 and 1998, the economic crisis in Russia in 1998, the Brazilian devaluations in January of 1999 and in 2002, the Argentine
+crisis of 2001 and the market decline after September 11, 2001. Furthermore, Latin American economies may be affected by events in developed economies which are trading partners or that impact the global economy. 
+ Developments of a similar magnitude to the international markets in the future can be expected to adversely affect the economies of Latin
+American countries and therefore us. 
+ E-commerce transactions in Latin America may be impeded by the lack of secure payment methods. 
+ Unlike in the United States, consumers and merchants in Latin America can be held fully liable for credit card and other losses due to
+third-party fraud. As secure methods of payment for e-commerce transactions have not been widely adopted in Latin America, both consumers and merchants generally have a relatively low confidence level in the integrity of e-commerce transactions. In
+addition, many banks and other financial institutions have generally been reluctant to give merchants the right to process online transactions due to these concerns about credit card fraud. Unless consumer fraud laws in Latin American countries are
+modified to protect e-commerce merchants and consumers, and until secure, integrated online payment processing methods are fully implemented across the region, our ability to generate revenues from e-commerce may be limited, which could have a
+material adverse effect on our Company. 
+ If we fail to qualify under a new Argentine software development law that provides for a tax rate that is
+lower than the statutory rate in Argentina, our earnings may be negatively impacted. 
+ Our Argentine subsidiary was benefit from a
+tax holiday which grants such subsidiary relief from 60% of total income tax determined in each year up to September 17, 2014. Mainly for that reason, our Argentine subsidiarys effective income tax rate for the twelve-month period ended
+December 31, 2014 and 2013 was 26.9% and 17.7%, respectively, which is significantly lower than the local statutory rate of 35%. 
+ On
+August 17, 2011, the Argentine government issued a new software development law, which, among other things, would extend our tax holiday for an additional five year period to 2019 and would provide certain other benefits. Under the new software
+development law, it is likely that our Argentine operation would be taxed at a higher effective income tax rate than we were subject under the previous tax holiday regime, though still below the statutory rate. On September 9, 2013, a
+regulatory decree was issued establishing new requirements to become a beneficiary of the new software development law. The new decree established compliance requirements with annual incremental ratios related to exports of services and research and
+development expenses that must be achieved to qualify for relief under the new software development law. On February 19, 2014, the Argentine industry secretary responsible for establishing the qualifying process under the new software
+development law issued a resolution that established the mechanism to apply for relief under the new law. 
+ During May 2014, we presented
+all the required documentation in order to apply for the new software development law. At the date of this report, the Industry Secretary resolution which approves the companys application is still pending. In the event we are unable to obtain
+approval for relief under the new software development law until 2015 due to governmental delays, we may be subject to the statutory tax rate of 35% for 2015. In the event our Argentine operations are taxed at the statutory rate in 2015 or future
+years, our earnings will be negatively impacted. 
+ Risks related to our shares 
+ The price of our shares of common stock may fluctuate substantially, and our stockholders investment may decline in value. 
+ The trading price of our common stock may be highly volatile and could be subject to wide fluctuations in response to factors, many of which
+are beyond our control, including those described above under Risks related to our business. 
+ Further, the stock markets
+in general, and the Nasdaq Global Market and the market for Internet-related and technology companies in particular, have experienced extreme price and volume fluctuations that have often been unrelated or disproportionate to the operating
+performance of these companies. We cannot assure you that trading prices and valuations will be sustained. These broad market and industry factors may materially and adversely affect the market price of our common stock, regardless of our operating
+performance. Market fluctuations, 
+ as well as general political and economic conditions in the countries where we operate, such as recession or currency exchange rate fluctuations, may also adversely affect the market price of our
+common stock. In the past, following periods of volatility in the market price of a companys securities, that company is often subject to securities class-action litigation. This kind of litigation could result in substantial costs and a
+diversion of managements attention and resources, which would have a material adverse effect on our business, results of operations and financial condition. In addition, the market price of our common stock may fluctuate in connection with the
+declaration and payment of quarterly or special dividends on our common stock. 
+ We continue to be significantly influenced by a group of
+stockholders that control a significant percentage of our common stock and the value of our common stock could be negatively affected by any significant disposition of our shares by any of these stockholders. 
+ Certain stockholders own a significant percentage of our common stock. As of December 31, 2014, eBay owned approximately 8.1 million
+shares of our common stock (which represents 18.4% of our outstanding common stock as of December 31, 2014). Certain members of our management team and certain entities established by them for estate planning purposes also hold a significant
+percentage of our common stock. These stockholders retain the power to influence the outcome of important corporate decisions or matters submitted to a vote of our stockholders. The interests of these stockholders may conflict with, or differ from,
+the interests of other holders of our common stock. For example, these stockholders could cause us to make acquisitions that increase the amount of our indebtedness or outstanding shares of common stock, sell revenue-generating assets or inhibit
+change of control transactions that benefit other stockholders. They may also pursue acquisition opportunities that may be complementary to our business, and as a result, those acquisition opportunities may not be available to us. So long as these
+stockholders continue to own a substantial number of shares of our common stock, they will significantly influence all our corporate decisions and together with other stockholders may be able to effect or inhibit changes in control of our Company. 
+ Additionally, the actual sale, communication of an intention to sell or perceptions that any of the above mentioned stockholders may sell
+any significant amount of our common stock could negatively impact the market value of our common stock. 
+ Provisions of our certificate of
+incorporation and Delaware law could inhibit others from acquiring us, prevent a change of control, and may prevent efforts by our stockholders to change our management. 
+ Certain provisions of our certificate of incorporation and by-laws may inhibit a change of control that our board of directors does not approve
+or changes in the composition of our board of directors, which could result in the entrenchment of current management. 
+ These provisions
+include: 
+ advance notice requirements for stockholder proposals and director nominations; 
+ a staggered board of directors; 
+ limitations on the ability of stockholders to remove directors other than for cause; 
+ limitations on the ability of stockholders to own and/or exercise voting power over 20% of our common stock; 
+ limitations on the ability of stockholders to amend, alter or repeal our by-laws; 
+ the inability of stockholders to act by written consent; 
+ the authority of the board of directors to adopt a stockholder rights plan; 
+ the authority of the board of directors to issue, without stockholder approval, preferred stock with any terms that the board of directors determines and additional shares of our common stock; and 
+ limitations on the ability of certain stockholders to enter into certain business combinations with us, as provided under Section 203 of the Delaware General Corporation Law. 
+ These provisions of our certificate of incorporation and by-laws may delay, defer or prevent a transaction or a change in control that might
+otherwise be in the best interests of our stockholders. 
+ We may require additional capital in the future, and this additional capital may not be
+available on acceptable terms or at all. 
+ In addition to the issuance of the convertible notes, we may need to raise additional
+funds in order to fund more rapid expansion (organically or through strategic acquisitions), to develop new or enhanced services or products, to respond to competitive pressures or to acquire complementary products, businesses or technologies. If we
+raise additional funds through the issuance of equity or convertible debt securities, the percentage ownership of our stockholders will be reduced, stockholders may experience additional dilution and the securities that we issue may have rights,
+preferences and privileges senior to those of our common stock. Additional financing may not be available on terms favorable to us or at all. If adequate funds are not available or are not available on acceptable terms, we may not be able to fund
+our expansion, take advantage of unanticipated acquisition opportunities, develop or enhance services or products or respond to competitive pressures. These inabilities could have a material adverse effect on our business, results of operations and
+financial condition. 
+ Shares eligible for future sale may cause the market price of our common stock to drop significantly, even
+if our business is doing well. 
+ The market price of our common stock could decline as a result of sales of a large number of shares
+of our common stock in the market in the future or the perception that these sales could occur. These sales, or the possibility that these sales may occur, also might make it more difficult for us to sell equity securities in the future at a time
+and at a price that we deem appropriate. 
+ Certain stockholders or entities controlled by them or their permitted transferees beneficially
+own shares of our common stock that have not been registered for resale with the SEC. The holders of these restricted shares may sell their shares in the public market from time to time without registering them, subject in the case of our
+affiliates, to certain limitations on the timing, amount and method of those sales imposed by regulations promulgated by the SEC. Holders of restricted stock will also have the right to cause us to register the resale of shares of common stock
+beneficially owned by them. 
+ In the future, we may issue securities in connection with investments and acquisitions. The amount of our
+common stock issued in connection with an investment or acquisition could constitute a material portion of our then outstanding common stock. 
+ Our
+stockholders may not receive dividends or dividends may not grow over time. 
+ During 2014, the Company paid quarterly dividends on
+shares of our common stock throughout the year. Although the Company announced its intention to pay regular quarterly dividends on shares of our common stock in the future, we have not established a minimum dividend payment level and our ability to
+pay dividends in the future may be adversely affected by a number of factors, including the risk factors described herein. All dividends will be declared at the discretion of our Board of Directors and will depend on our earnings, our financial
+condition and other factors as our Board of Directors may deem relevant from time to time. Our Board of Directors is under no obligation or requirement to declare a dividend. We cannot assure you that we will achieve results that will allow us to
+pay a specified level of dividends, if any, or to grow our dividends over time. 
+ Requirements associated with being a public company require
+significant Company resources and management attention. 
+ As a consequence of being a public Company, we are subject to the periodic
+reporting requirements of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and the other rules and regulations of the SEC and the Nasdaq Global Market. We are also subject to various other regulatory requirements, including the
+Sarbanes-Oxley Act of 2002, or the Sarbanes-Oxley Act. Section 404 of the Sarbanes-Oxley Act requires that we evaluate and determine the effectiveness of our internal control over financial reporting. If we have a material weakness or
+significant deficiency in our internal control over financial reporting, we may not detect errors on a timely basis and our financial statements may be materially misstated. As a result, our stockholders could lose confidence in our financial
+reporting, which could harm the trading price of our stock. 
+ It may be difficult to enforce judgments against us in U.S. courts. 
+ Although we are a Delaware corporation, our subsidiaries and most of our assets are located outside of the U.S. Furthermore, most of our
+directors and officers and some experts named in this report reside outside the U.S. As a result, you may not be able to enforce judgments against us or our directors or officers in U.S. courts judgments based on the civil liability provisions of
+U.S. federal securities laws. It is unclear if original actions of civil liabilities based solely upon U.S. federal securities laws are enforceable in courts outside the U.S. It is equally unclear if judgments entered by U.S. courts based on the
+civil liability provisions of U.S. federal securities laws are enforceable in courts outside the U.S. Any enforcement action in a court outside the U.S. will be subject to compliance with procedural requirements under applicable local law, including
+the condition that the judgment does not violate the public policy of the applicable jurisdiction. 
+ Risks related to our convertible senior notes 
+ There is no assurance that we will be able to repay our convertible senior notes. 
+ On June 30, 2014, we issued convertible notes due 2019, or the Convertible Notes, in an aggregate principal amount of $330 million. At
+maturity, we will have to pay the holders of the Convertible Notes the full aggregate principal amount of the Convertible Notes then outstanding. 
+ There
+can be no assurance that we will be able to repay this indebtedness when due, or that we will be able to refinance this indebtedness on acceptable terms or at all. In addition, this indebtedness could, among other things: 
+ make it difficult for us to pay other obligations; 
+ make it difficult to obtain favorable terms for any necessary future financing for working capital, capital expenditures, debt service requirements or other purposes; 
+ require us to dedicate a substantial portion of our cash flow from operations to service the indebtedness, reducing the amount of cash flow available for other purposes; and 
+ limit our flexibility in planning for and reacting to changes in our business. 
+ We may not have the ability to raise the funds necessary to settle conversions of the Notes or to
+repurchase the Notes upon a fundamental change, and our future debt may contain limitations on our ability to pay cash upon conversion or repurchase of the Notes. 
+ Holders of the Notes will have the right to require us to repurchase their Notes upon the occurrence of a fundamental change at a fundamental
+change repurchase price equal to 100% of the principal amount of the Notes to be repurchased, plus accrued and unpaid interest, if any. In addition, upon conversion of the Notes, unless we elect to deliver solely shares of our common stock to settle
+such conversion (other than paying cash in lieu of delivering any fractional share), we will be required to make cash payments in respect of the notes being converted. However, we may not have enough available cash or be able to obtain financing at
+the time we are required to make repurchases of Notes surrendered therefor or Notes being converted. In addition, our ability to repurchase the Notes or to pay cash upon conversions of the Notes may be limited by law, by regulatory authority or by
+agreements governing our future indebtedness. Our failure to repurchase Notes at a time when the repurchase is required by the indenture or to pay any cash payable on future conversions of the Notes as required by the indenture would constitute a
+default under the indenture. A default under the indenture or the fundamental change itself could also lead to a default under agreements governing our future indebtedness. If the repayment of the related indebtedness were to be accelerated after
+any applicable notice or grace periods, we may not have sufficient funds to repay the indebtedness and repurchase the Notes or make cash payments upon conversions thereof. 
+ The conditional conversion feature of the Notes, if triggered, may adversely affect our financial condition and operating results. 
+ In the event the conditional conversion feature of the Notes is triggered, holders of Notes will be entitled to convert the Notes at any time
+during specified periods at their option. If one or more holders elect to convert their Notes, unless we elect to satisfy our conversion obligation by delivering solely shares of our common stock (other than paying cash in lieu of delivering any
+fractional share), we would be required to settle a portion or all of our conversion obligation through the payment of cash, which could adversely affect our liquidity. In addition, even if holders do not elect to convert their Notes, we could be
+required under applicable accounting rules to reclassify all or a portion of the outstanding principal of the Notes as a current rather than long-term liability, which would result in a material reduction of our net working capital. 
+ We have broad discretion in the use of the net proceeds from the issuance of our Notes and may not use them effectively. 
+ We have broad discretion in the application of the net proceeds that we received from the issuance of our Notes, including working capital,
+possible acquisitions, and other general corporate purposes, and we may spend or invest these proceeds in a way with which our investors disagree. The failure by our management to apply these funds effectively could adversely affect our business and
+financial condition. Pending their use, we may invest the net proceeds from our Notes in a manner that does not produce income or that loses value. These investments may not yield a favorable return to our investors, and may negatively impact the
+price of our securities. 
+ ITEM 1B. 
+ UNRESOLVED STAFF COMMENTS

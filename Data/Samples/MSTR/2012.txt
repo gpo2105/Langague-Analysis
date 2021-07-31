@@ -1,0 +1,389 @@
+You should carefully consider the risks described below before making an investment decision. The risks and uncertainties described below are not the only
+ones facing MicroStrategy. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations. 
+ If any of the following risks actually occur, our business, financial condition, or results of operations could be materially adversely affected. In such case, the market price of our class A common stock
+could decline and you may lose all or part of your investment. 
+ Our quarterly operating results, revenues, and expenses may fluctuate
+significantly, which could have an adverse effect on the market price of our stock 
+ For a number of reasons, including those described
+below, our operating results, revenues, and expenses have in the past varied and may in the future vary significantly from quarter to quarter. These fluctuations could have an adverse effect on the market price of our class A common stock. 
+ Our quarterly operating results may fluctuate, in part, as a result of: 
+ Fluctuations in Quarterly Operating Results. 
+ the size, timing, volume, and execution of significant orders and shipments; 
+ the mix of products and services ordered by customers, including product licenses and subscription offerings, which can affect the extent to which
+revenue is recognized immediately or over future quarterly periods; 
+ the timing of the release or delivery of new or enhanced offerings, which may affect the period in which we are able to recognize revenue; 
+ the timing of announcements of new offerings by us or our competitors; 
+ changes in our pricing policies or those of our competitors; 
+ market acceptance of business intelligence software generally and of new and enhanced versions of our products and services in particular; 
+ the length of our sales cycles; 
+ seasonal factors, such as our traditionally lower pace of new product licenses transactions in the summer; 
+ changes in our operating expenses; 
+ planned major maintenance activities related to our owned corporate aircraft; 
+ the timing of research and development projects and the capitalization of software development costs; 
+ personnel changes; 
+ our use of channel partners; 
+ utilization of our consulting and education services, which can be affected by delays or deferrals of customer implementation of our software products; 
+ the quarterly performance of our Angel.com business; 
+ changes in foreign currency exchange rates; 
+ our profitability and expectations for future profitability and its effect on our deferred tax assets and net income for the period in which any
+adjustment to our net deferred tax asset valuation allowance may be made; 
+ increases or decreases in our liability for unrecognized tax benefits; and 
+ changes in customer budgets. 
+ We base our operating expense budgets on expected revenue trends. Many of our expenses, such as office leases, corporate aircraft arrangements, and certain
+personnel costs, are relatively fixed. We may be unable to adjust spending quickly enough to offset any unexpected revenue shortfall. Accordingly, any shortfall in revenue may cause significant variation in operating results in any quarter. 
+ Limited Ability to Adjust Expenses. 
+ Based on the above factors, we believe that quarter-to-quarter comparisons of our operating results are not a good indication of our future
+performance. It is possible that in one or more future quarters, our operating results may be below the expectations of public market analysts and investors. In that event, the market price of our class A common stock may fall. 
+ The market price of our class A common stock has been and may continue to be volatile 
+ The market price of our class A common stock historically has been volatile and may continue to be volatile. The market price of our class A common stock may fluctuate widely in response to various
+factors, some of which are beyond our control. These factors include, but are not limited to: 
+ quarterly variations in our results of operations or those of our competitors; 
+ announcements about our earnings that are not in line with analyst expectations, the likelihood of which may be enhanced because it is our policy not
+to give guidance relating to our anticipated financial performance in future periods; 
+ announcements by us or our competitors of acquisitions, dispositions, new offerings, significant contracts, commercial relationships, or capital
+commitments; 
+ the emergence of new sales channels in which we are unable to compete effectively; 
+ our ability to develop, market, and deliver new and enhanced offerings on a timely basis; 
+ commencement of, or our involvement in, litigation; 
+ any major change in our board or management; 
+ changes in governmental regulations or in the status of our regulatory approvals; 
+ recommendations by securities analysts or changes in earnings estimates; 
+ announcements by our competitors of their earnings that are not in line with analyst expectations; 
+ the volume of shares of class A common stock available for public sale; 
+ sales or purchases of stock by us or by our stockholders; 
+ short sales, hedging, and other derivative transactions involving shares of our class A common stock; and 
+ general economic conditions and slow or negative growth of related markets. 
+ In addition, the stock market in general, and the market for technology companies in particular, have experienced extreme price and volume fluctuations that have often been unrelated or disproportionate
+to the operating performance of technology companies. These broad market and industry factors may seriously harm the market price of our class A common stock, regardless of our actual operating performance. 
+ We may not be able to sustain or increase profitability in the future 
+ We generated net income for each of the fiscal years ended December 31, 2012, 2011, and 2010; however, we may not be able to sustain or increase
+profitability on a quarterly or annual basis in the future. 
+ Over the course of 2011 and 2012, we significantly increased our headcount as
+part of our initiatives to focus specific research and development efforts on providing our customers with high levels of performance for BI applications of all sizes and introducing a number of innovative technologies designed to enable companies
+to capitalize on the big data, mobile applications, cloud-based BI, and social networking trends in the marketplace. As a result, our cost of revenues and operating expenses have significantly increased. If our revenues are not sufficient to offset
+these increased operating expenses or we are unable to timely adjust our operating expenses in response to any shortfall in anticipated revenue, our profitability may decrease or we may cease to be profitable or incur operating losses. As a result,
+our business, results of operations, and financial condition may be materially adversely affected. 
+ As of December 31, 2012, we had $30.3
+million of deferred tax assets, net of a $0.2 million valuation allowance, and if we are unable to sustain profitability, we may be required to increase the valuation allowance against these deferred tax assets, which could result in a charge that
+would materially adversely affect net income in the period in which the charge is incurred. 
+ Economic uncertainty, particularly in the
+financial services and retail industries, could materially adversely affect our business and results of operations 
+ General worldwide
+economic conditions remain uncertain. Economic uncertainty, such as uncertainty in connection with the United States debt ceiling and various European sovereign debt crises and associated macroeconomic conditions, makes it extremely difficult for
+our customers and us to accurately forecast and plan future business activities, and could cause our customers to slow spending on our products and services, which could delay and lengthen sales cycles. Furthermore, during uncertain economic times
+our customers may face issues gaining timely access to sufficient credit, which could result in an impairment of their ability to make timely payments to us. If that were to occur, we may be required to increase our allowance for doubtful accounts
+and our results would be negatively impacted. 
+ Furthermore, we have a significant number of customers in the financial services and retail
+industries. A significant downturn in these industries may cause organizations to react by reducing their capital expenditures in general or by specifically reducing their spending on information technology. In addition, customers in these
+industries may delay or cancel information technology projects or seek to lower their costs by renegotiating vendor contracts. Customers with excess information technology resources may choose to develop in-house software solutions rather than
+obtain those solutions from us. Moreover, competitors may respond to challenging market conditions by lowering prices and attempting to lure away our customers. In addition, consolidation in the financial services industry may result in reduced
+overall spending on our products and services. 
+ We cannot predict the timing, strength, or duration of any economic slowdown or any subsequent
+recovery generally, or in the financial services and retail industries in particular. If the conditions in the general economy and the markets in which we operate worsen from present levels, our business, financial condition, and results of
+operations could be materially adversely affected. 
+ We may have exposure to greater than anticipated tax liabilities 
+ We are subject to income taxes and non-income taxes in a variety of domestic and foreign jurisdictions. Our future income taxes could be materially
+adversely affected by earnings that are lower than anticipated in jurisdictions where we have lower statutory rates and earnings that are higher than anticipated in jurisdictions where we have higher statutory rates, by changes in the valuation of
+our deferred tax assets and liabilities, changes in the amount of unrecognized tax benefits, or by changes in tax laws, regulations, accounting principles, or interpretations thereof. 
+ Our determination of our tax liability is subject to review by applicable domestic and foreign tax
+authorities. For example, we are currently under tax examination in Germany. Any adverse outcome of such a review could have an adverse effect on our operating results and financial condition. The determination of our worldwide provision for income
+taxes and other tax liabilities requires significant judgment and, in the ordinary course of business, there are many transactions and calculations where the ultimate tax determination is uncertain. Moreover, as a multinational business, we have
+subsidiaries that engage in many intercompany transactions in a variety of tax jurisdictions where the ultimate tax determination is uncertain. 
+ We also have contingent tax liabilities that, in managements judgment, are not probable of assertion. If such unasserted contingent liabilities
+were to be asserted, or become probable of assertion, we may be required to record significant expenses and liabilities in the period in which these liabilities are asserted or become probable of assertion. 
+ As a result of these and other factors, the ultimate amount of tax obligations owed may differ from the amounts recorded in our financial statements and
+any such difference may materially affect our financial results in future periods in which we change our estimates of our tax obligations or in which the ultimate tax outcome is determined. 
+ If the market for business intelligence offerings fails to grow as we expect, or if businesses fail to adopt our offerings, our business, operating results, and financial condition could be materially
+adversely affected 
+ Nearly all of our revenues to date have come from sales of business intelligence offerings and related technical
+support, consulting, and education services. We expect these sales to account for a large portion of our revenues for the foreseeable future. Although demand for business intelligence offerings has grown in recent years, the market for business
+intelligence offerings continues to evolve. Resistance from consumer and privacy groups to increased commercial collection and use of data on spending patterns and other personal behavior and governmental restrictions on the collection and use of
+personal data may impair the further growth of this market, as may other developments. We cannot be sure that this market will continue to grow or, even if it does grow, that businesses will adopt our solutions. We have spent, and intend to keep
+spending, considerable resources to educate potential customers about business intelligence offerings in general and our solutions in particular. However, we cannot be sure that these expenditures will help our offerings achieve any additional
+market acceptance. If the market fails to grow or grows more slowly than we currently expect, our business, operating results, and financial condition could be materially adversely affected. 
+ Our business intelligence offerings face intense competition, which may lead to lower prices for our products and services, reduced gross margins, loss of market share, and reduced revenue 
+ The BI platform market is intensely competitive and subject to rapidly changing technology paradigms. Within the BI space, we compete
+with many different vendors, including (1) large software vendors (megavendors), such as IBM, SAP, Microsoft, and Oracle, that provide one or more products that directly compete with our offerings; (2) open source BI vendors like
+JasperSoft and Pentaho; (3) various independent BI software providers, such as QlikTech, Tableau Software, TIBCO, Actuate, Information Builders, and the SAS Institute; (4) pure-play mobile BI vendors, such as MeLLmo (Roambi), that do not
+offer a BI platform but offer a mobile user interface that can be used as an extension to existing BI platforms; (5) pure BI and information-driven apps built by other mobile app development platform (MADP) vendors, including independent MADP
+vendors, such as Antenna, Kony, and Verivo, and mobile framework vendors, such as Sencha and jQuery Mobile; and (6) other analytics SaaS vendors, such as GoodData and Birst. Our future success depends on the effectiveness with which we can
+compete across all different sizes of implementations. Failure to maintain adequate technology differentiation from these competitors could materially adversely affect our recurring software maintenance revenue, as well as new license revenue, from
+existing and prospective customers. 
+ Some of our competitors have longer operating histories and significantly greater financial, technical,
+and marketing resources than we do. As a result, they may be able to respond more quickly to new or emerging technologies and changes in customer requirements or devote greater resources to the development, promotion, sale, and marketing of their
+offerings than we can, such as offering certain BI products free of charge when bundled with other software offerings. In addition, many of our competitors have strong relationships with current and potential customers, extensive industry and
+specialized business knowledge, as well as corresponding proprietary technologies that they can leverage, such as multidimensional databases and ERP repositories. As a result, they may be able to prevent MicroStrategy from penetrating new accounts
+or expanding within existing accounts. 
+ Increased competition may lead to price cuts, reduced gross margins, and loss of market share. We may not be
+able to compete successfully against current and future competitors and the failure to meet the competitive pressures we face may have a material adverse effect on our business, operating results, and financial condition. 
+ Current and future competitors may also make strategic acquisitions or establish cooperative relationships among themselves or with
+others. By doing so, these competitors may increase their ability to meet the needs of our potential customers by virtue of their expanded offerings. Our current or prospective channel partners may establish cooperative relationships with our
+current or future competitors. These relationships may limit our ability to sell our BI offerings through specific distribution channels. Accordingly, new competitors or alliances among current and future competitors may emerge and rapidly gain
+significant market share. These developments could limit our ability to obtain revenues from new customers and to sustain software maintenance revenues from our installed customer base. In addition, basic office productivity software suites, such as
+Microsoft Office 
+ , could evolve to offer analysis and reporting capabilities that may reduce the demand for our
+BI offerings. 
+ We depend on revenue from a single suite of products and related services 
+ Our MicroStrategy BI Platform and related products and services account for a substantial portion of our revenue. Because of this revenue concentration,
+our business could be harmed by a decline in demand for, or in the prices of, our MicroStrategy BI Platform software as a result of, among other factors, any change in our pricing model, increased competition, a maturation in the markets for these
+products, or other risks described in this document. 
+ If we are unable to develop and release product enhancements and new offerings to
+respond to rapid technological change in a timely and cost-effective manner, our business, operating results, and financial condition could be materially adversely affected 
+ The market for our offerings is characterized by rapid technological change, frequent new product introductions and enhancements, changing customer demands, and evolving industry standards. The
+introduction of offerings embodying new technologies can quickly make existing offerings obsolete and unmarketable. We believe that our future success depends largely on three factors: 
+ our ability to continue to support a number of popular operating systems and databases; 
+ our ability to maintain and improve our current offerings; and 
+ our ability to rapidly develop new offerings that achieve market acceptance, maintain technological competitiveness, and meet an expanding range of
+customer requirements. 
+ Business intelligence applications are inherently complex, and it can take a long time and require
+significant research and development expenditures to develop and test new offerings and product enhancements. In addition, customers may delay their purchasing decisions because they anticipate that new or enhanced versions of our offerings will
+soon become available. We cannot be sure that we will succeed in developing, marketing, and delivering on a timely and cost-effective basis new or enhanced offerings that respond to technological change or new customer requirements, nor can we be
+sure that any new or enhanced offerings will achieve market acceptance. Moreover, even if we introduce a new offering, we may experience a decline in revenues of our existing offerings that is not fully matched by the new offerings revenue.
+For example, customers may delay making purchases of a new offering to permit them to make a more thorough evaluation of the offering, or until industry and marketplace reviews become widely available. Some customers may hesitate migrating to a new
+offering due to concerns regarding the complexity of migration and product infancy issues on performance. In addition, we may lose existing customers who choose a competitors offering rather than migrate to our new offering. This could result
+in a temporary or permanent revenue shortfall and materially affect our business. 
+ The introduction of our MicroStrategy Cloud offerings could affect the timing of revenue recognition and
+materially adversely affect our operating results 
+ While we have historically offered our BI platform principally in the form of a
+perpetual software license, we recently introduced MicroStrategy Cloud, a cloud-based BI PaaS that is available by subscription. The payment streams and revenue recognition timing for our perpetual software licenses are different from those for
+our subscription services. For perpetual software licenses, customers typically pay us a lump sum soon after entering into a software license agreement and revenue is typically recognized upon delivery of the software to the customer. For
+subscription services, customers typically make periodic payments over the subscription period and revenue is typically recognized ratably over the subscription period. As a result, if a substantial number of current or new customers shift to
+subscribing to MicroStrategy Cloud instead of purchasing perpetual software licenses for the MicroStrategy BI Platform, the resulting change in payment terms and revenue recognition may materially adversely affect our operating results for the
+reporting periods during which such a shift occurs. 
+ Our investment in new business strategies and initiatives could disrupt the operations
+of our ongoing business and present risks that we have not adequately anticipated 
+ We have invested, and in the future may invest, in new
+business strategies and initiatives. For example, in recent years we have introduced a number of innovative technologies designed to enable companies to capitalize on the big data, mobile applications, cloud-based BI, and social networking trends in
+the marketplace. These endeavors may involve significant risks and uncertainties, including distraction of management from other business operations, the dedication of significant research and development, sales and marketing, and other resources to
+these new initiatives at the expense of our other business operations, generation of insufficient revenue to offset expenses associated with new initiatives, incompatibility of our new technologies with third party platforms, inadequate return of
+capital, and other risks that we may not have adequately anticipated. Because new strategies and initiatives are inherently risky, these strategies and initiatives may not be successful and could materially adversely affect our financial condition
+and operating results. 
+ Business disruptions could materially adversely affect our operating results 
+ A significant portion of our research and development activities and certain other critical business operations are concentrated in facilities in
+Northern Virginia and two cities in China (Hangzhou and Beijing), and certain other critical business operations are concentrated in facilities in Northern Virginia and Warsaw, Poland. We are also a highly automated business and a disruption or
+failure of our systems could cause delays in completing sales and providing services. A major earthquake, fire, act of terrorism, or other catastrophic event that results in the destruction or disruption of any of our critical business operations or
+information technology systems could severely affect our ability to conduct normal business operations and as a result our future operating results could be materially adversely affected. 
+ We use channel partners and if we are unable to maintain successful relationships with them, our business, operating results, and financial condition could be materially adversely affected 
+ In addition to our direct sales force, we use channel partners such as resellers, value-added resellers, system integrators and
+consulting firms, original equipment manufacturers, and technology partners to license and support our products. For the year ended December 31, 2012, transactions by channel partners for which we recognized revenues accounted for 28.4% of our
+total product licenses revenues. Our channel partners generally offer customers the products and services of several different companies, including offerings that compete with ours. Because our channel partners generally do not have an exclusive
+relationship with us, we cannot be certain that they will prioritize or provide adequate resources to selling our products. Moreover, divergence in strategy or contract defaults by any of these channel partners may materially adversely affect our
+ability to develop, market, sell, or support our offerings. 
+ Although we believe that direct sales will continue to account for a majority of
+product licenses revenues, we seek to maintain a significant level of sales activities through our channel partners. There can be no assurance that our channel partners will continue to cooperate with us. In addition, actions taken or omitted to be
+taken by such parties may materially adversely affect us. Our ability to achieve revenue growth in the future will depend in part on our ability to maintain successful relationships with our channel partners. If we are unable to maintain our
+relationships with these channel partners, our business, operating results, and financial condition could be materially adversely affected. 
+ In addition, we rely on our channel partners to operate in accordance with the terms of their contractual agreements with us. For example, our agreements
+with our channel partners limit the terms and conditions pursuant to which they are authorized to resell or distribute our software and offer technical support and related services. We also typically require our channel partners to represent to us
+the dates and details of product licenses transactions sold through to end user customers. If our channel partners do not comply with their contractual obligations to us, our business, results of operations, and financial condition may be materially
+adversely affected. 
+ Our recognition of deferred revenue and advance payments and future customer purchase commitments is
+subject to future performance obligations and may not be representative of revenues for succeeding periods 
+ Our gross current and
+non-current deferred revenue and advance payments totaled $194.4 million as of December 31, 2012. We offset our accounts receivable and deferred revenue for any unpaid items, which totaled $83.7 million, resulting in net current and non-current
+deferred revenue and advance payments of $110.7 million as of December 31, 2012. The timing and ultimate recognition of our deferred revenue and advance payments depend on various factors, including our performance of various service
+obligations. 
+ We have entered into certain additional agreements that include future minimum commitments by our customers to purchase
+products, product support, or other services through 2017 totaling $110.4 million. These future commitments are not included in our deferred revenue balances. Because of the possibility of customer changes or delays in customer development or
+implementation schedules or budgets, and the need for us to satisfactorily perform product support and other services, deferred revenue and advance payments at any particular date may not be representative of actual revenue for any succeeding
+period. 
+ Managing our international operations is complex and our failure to do so successfully or in a cost-effective manner could have a
+material adverse effect on our business, operating results, and financial condition 
+ We receive a significant portion of our total
+revenues from international sales, and are seeking to expand our business activities in various foreign countries, including some emerging markets where we have limited experience and where the challenges of conducting our business can be
+significantly different from those we have faced in more developed markets. International revenues accounted for 40.3%, 41.4%, and 39.7% of our total revenues for the years ended December 31, 2012, 2011, and 2010, respectively. Our
+international operations require significant management attention and financial resources. 
+ There are certain risks inherent in our
+international business activities including: 
+ changes in foreign currency exchange rates; 
+ unexpected changes in regulatory requirements; 
+ tariffs, export restrictions, and other trade barriers; 
+ costs of localizing offerings; 
+ lack of acceptance of localized offerings; 
+ difficulties in and costs of staffing, managing, and operating our international operations; 
+ tax issues, including restrictions on repatriating earnings; 
+ weaker intellectual property protection; 
+ economic weakness or currency related crises; 
+ the burden of complying with a wide variety of laws, including labor laws; 
+ generally longer payment cycles and greater difficulty in collecting accounts receivable; 
+ our ability to adapt to sales practices and customer requirements in different cultures; and 
+ political instability in the countries where we are doing business. 
+ Various corporate tax reform proposals are currently under consideration by Congress. These proposals
+include corporate income tax rate cuts, elimination of certain corporate tax incentives, and a minimum tax on overseas earnings. It is not clear whether, or to what extent, these proposals may be enacted. Significant changes to the U.S.
+taxation of our international income could have a material adverse effect on our results of operations. 
+ From time to time, we may undertake
+various potential intercompany transactions and legal entity restructurings that involve our international subsidiaries. We consider various factors in evaluating these potential transactions and restructurings, including the alignment of our
+corporate structure with our organizational objectives, the operational and tax efficiency of our corporate structure, and the long-term cash flows and cash needs of our business. Such transactions and restructurings could negatively impact our
+overall tax rate and result in additional tax liabilities. 
+ In addition, compliance with foreign and U.S. laws and regulations that are
+applicable to our international operations is complex and may increase our cost of doing business in international jurisdictions, and our international operations could expose us to fines and penalties if we fail to comply with these regulations.
+These laws and regulations include import and export requirements and anti-bribery laws, such as the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act, and local laws prohibiting corrupt payments to governmental officials. Although we have
+implemented policies and procedures designed to help ensure compliance with these laws, there can be no assurance that our employees, partners, and other persons with whom we do business will not take actions in violation of our policies or
+these laws. Any violations of these laws could subject us to civil or criminal penalties, including substantial fines or prohibitions on our ability to offer our products and services to one or more countries, and could also materially damage our
+reputation, our brand, and our international expansion efforts. 
+ These factors may have a material adverse effect on our future sales and,
+consequently, on our business, operating results, and financial condition. 
+ We may lose sales, or sales may be delayed, due to the long
+sales and implementation cycles for our products, which could reduce our revenues 
+ To date, our customers have typically invested
+substantial time, money, and other resources and involved many people in the decision to license our software products and purchase our consulting and other services. As a result, we may wait nine months or more after the first contact with a
+customer for that customer to place an order while it seeks internal approval for the purchase of our products or services. During this long sales cycle, events may occur that affect the size and/or timing of the order or even cause it to be
+canceled. For example, our competitors may introduce new offerings, or the customers own budget and purchasing priorities may change. 
+ Even after an order is placed, the time it takes to deploy our products and complete consulting engagements can vary widely. Implementing our offerings
+can take several months, depending on the customers needs, and may begin only with a pilot program. It may be difficult to deploy our products if the customer has complicated deployment requirements, which typically involve integrating
+databases, hardware, and software from different vendors. If a customer hires a third party to deploy our products, we cannot be sure that our products will be deployed successfully. 
+ Our results in any particular period may depend upon the number and volume of large transactions in that period and these transactions may involve more lengthy, complex, and unpredictable sales cycles
+than other transactions 
+ As existing and potential customers seek to standardize on a single business intelligence vendor, our business
+may experience larger transactions at the enterprise level and larger transactions may account for a greater proportion of our business. The presence or absence of one or more large transactions in a particular period may have a material positive or
+negative effect on our revenue and operating results for that period. For the years ended December 31, 2012, 2011, and 2010, our top three product licenses transactions with recognized revenue totaled $13.5 million, $9.5 million, and $8.3
+million respectively, or 9.2%, 6.2%, and 6.5% of total product licenses revenues, respectively. These transactions represent significant business and financial decisions for our customers and require considerable effort on the part of customers to
+assess alternative products and require additional levels of management approval before being concluded. They are also often more complex than smaller transactions. These factors generally lengthen the typical sales cycle and increase the risk that
+customers purchasing decisions may be postponed or delayed from one period to another subsequent or later period or that customers will alter their purchasing requirements. The sales effort and service delivery scope for larger transactions
+also require additional resources to execute the transaction. These factors could result in lower than anticipated revenue and earnings for a particular period or in the reduction of estimated revenue and earnings in future periods. 
+ We face a variety of risks in doing business with the U.S. and foreign governments, various state and
+local governments, and agencies, including risks related to the procurement process, budget constraints and cycles, termination of contracts, and compliance with government contracting requirements 
+ Our customers include the U.S. government and a number of state and local governments and agencies. There are a variety of risks in doing business with
+government entities, including: 
+ Contracting with public sector customers is highly competitive and can be
+time-consuming and expensive, requiring that we incur significant up-front time and expense without any assurance that we will win a contract. 
+ Procurement. 
+ Demand and payment for our products and services are impacted by public sector budgetary cycles and funding availability, with funding reductions or delays
+adversely impacting public sector demand for our products and services. 
+ Budgetary Constraints and Cycles. 
+ Public sector
+customers often have contractual or other legal rights to terminate current contracts for convenience or due to a default. If a contract is terminated for convenience, which can occur if the customers needs change, we may only be able to
+collect fees for products or services delivered prior to termination and settlement expenses. If a contract is terminated because of default, we may not recover even those amounts, and we may be liable for excess costs incurred by the customer for
+procuring alternative products or services. 
+ Termination of Contracts. 
+ Government contractors
+are required to comply with a variety of complex laws, regulations, and contractual provisions relating to the formation, administration, or performance of government contracts that give public sector customers substantial rights and remedies, many
+of which are not typically found in commercial contracts. These may include rights with respect to price protection, the accuracy of information provided to the government, contractor compliance with socio-economic policies, and other terms that are
+particular to government contracts. U.S. government and state and local governments and agencies routinely investigate and audit contractors for compliance with these requirements. If, as a result of an audit or review, it is determined that we have
+failed to comply with these requirements, we may be subject to civil and criminal penalties and administrative sanctions, including termination of contracts, forfeiture of profits, cost associated with the triggering of price reduction clauses,
+fines, and suspensions or debarment from future government business, and we may suffer harm to our reputation. 
+ Compliance with Government Contracting Requirements. 
+ Our customers also include a
+number of foreign governments and agencies. Similar procurement, budgetary, contract, and audit risks also apply to our doing business with these entities. In addition, compliance with complex regulations and contracting provisions in a variety of
+jurisdictions can be expensive and consume significant management resources. In certain jurisdictions our ability to win business may be constrained by political and other factors unrelated to our competitive position in the market. Each of these
+difficulties could materially adversely affect our business and results of operations. 
+ We depend on technology licensed to us by third
+parties, and the loss of this technology could impair our software, delay implementation of our offerings, or force us to pay higher license fees 
+ We license third-party technologies that we incorporate into our existing offerings. There can be no assurance that the licenses for such third-party technologies will not be terminated or that we will be
+able to license third-party software for future offerings. In addition, we may be unable to renegotiate acceptable third-party license terms. Changes in or the loss of third party licenses could lead to a material increase in the costs of licensing
+or to our software offerings becoming inoperable or their performance being materially reduced, with the result that we may need to incur additional development costs to ensure continued performance of our offerings, and we may experience a
+decreased demand for our offerings. 
+ If we are unable to recruit or retain skilled personnel, or if we lose the services of any of our key
+management personnel, our business, operating results, and financial condition could be materially adversely affected 
+ Our future success
+depends on our continuing ability to attract, train, assimilate, and retain highly skilled personnel. Competition for these employees is intense. We may not be able to retain our current key employees or attract, train, assimilate, or retain other
+highly skilled personnel in the future. Our future success also depends in large part on the continued service of key management personnel, particularly Michael J. Saylor, our Chairman and Chief Executive Officer. If we lose the services of
+Mr. Saylor or other key personnel, or if we are unable to attract, train, assimilate, and retain the highly skilled personnel we need, our business, operating results, and financial condition could be materially adversely affected. 
+ The emergence of new industry standards may materially adversely affect the demand for our existing offerings 
+ The emergence of new industry standards in related fields may materially adversely affect the demand for our existing offerings.
+This could happen, for example, if new web standards and technologies emerged that were incompatible with customer deployments of our software offerings. MicroStrategy currently supports SQL and MDX standards in database access technology. If we are
+unable to adapt our software offerings on a timely basis to new standards in database access technology, the ability of MicroStrategys software offerings to access customer databases could be impaired. In addition, the emergence of new
+standards in the field of operating system support could materially adversely affect the demand for our existing software offerings. MicroStrategy technology is currently compatible with most major operating systems, including, among others, Windows
+Server, Sun Solaris, IBM AIX, HPs HP-UX, Red Hat 
+ Linux 
+ AS, SuSE 
+ Linux Enterprise
+Server, Apples iOS and OSX 
+ , RIMs Blackberry 
+ OS, and Googles
+Android 
+ . If a different operating system were to gain widespread acceptance, we may not be able to achieve
+compatibility on a timely basis, resulting in an adverse effect on the demand for our software offerings. 
+ The nature of our software
+offerings makes them particularly vulnerable to undetected errors, or bugs, which could cause problems with how the offerings perform and which could in turn reduce demand for our offerings, reduce our revenue, and lead to product liability claims
+against us 
+ Software as complex as ours may contain errors and/or defects. Although we test our software offerings extensively, we have in
+the past discovered software errors in our offerings after their introduction. Despite testing by us and by our current and potential customers, errors may be found in new offerings or releases after commercial shipments begin. This could result in
+lost revenue, damage to our reputation, or delays in market acceptance, which could have a material adverse effect upon our business, operating results, and financial condition. We may also have to expend resources and capital to correct these
+defects. 
+ Our license agreements with customers typically contain provisions designed to limit our exposure to product liability, warranty,
+and other claims. It is possible, however, that these provisions may not be effective under the laws of certain domestic or international jurisdictions and we may be exposed to product liability, warranty, and other claims. A successful product
+liability claim against us could have a material adverse effect on our business, operating results, and financial condition. 
+ Changes in
+laws or regulations relating to privacy or protection of personal data, or any failure by us to comply with such laws and regulations or our privacy policies, could materially adversely affect our business 
+ Aspects of our business, including our MicroStrategy Cloud, MicroStrategy Express, MicroStrategy Wisdom, MicroStrategy Alert, and MicroStrategy Usher
+offerings, involve processing, storing, and transmitting personal data, which is subject to our privacy policies and certain federal, state, and foreign laws and regulations relating to privacy and data protection. The amount of data that we store
+for our customers in our cloud, networks, and other systems, including personal data, is increasing. Any systems failure or security breach that results in the release of personal data, or any failure or perceived failure by us to comply with our
+privacy policies or any applicable laws or regulations relating to privacy or data protection, could result in proceedings against us by governmental entities or others. Such proceedings could result in the imposition of fines, penalties,
+liabilities, and/or governmental orders requiring that we change our data practices, any of which could have a material adverse effect on our business, operating results, and financial condition. 
+ The interpretation and application of laws and regulations relating to privacy and data protection are
+currently unsettled both in the U.S. and internationally. These laws and regulations may be interpreted and applied inconsistently from country to country, and these interpretations and applications may be inconsistent with our policies and
+practices. In addition, various federal, state, and foreign legislative or regulatory bodies may enact new or additional laws or regulations concerning privacy and data protection that could materially adversely impact our business. Complying with
+these varying requirements could cause us to incur substantial costs or require us to change our business practices, either of which could materially adversely affect our business and operating results. 
+ If we experience a security breach and unauthorized parties obtain access to our customers data, our data, or our cloud, networks, or other
+systems, our offerings may be perceived as not being secure, demand for our offerings may be reduced, we may incur significant legal liabilities, and our business could be materially adversely affected 
+ As part of our business, we process, store, and transmit our customers information and data as well as our own, including in our cloud, networks,
+and other systems. We have security measures in place to help protect our customers data, our data, and our cloud, networks, and other systems against unauthorized access. However, there can be no assurance that these security measures will be
+effective against all security threats. Our security measures may be breached as a result of third-party action, including intentional misconduct by computer hackers, fraudulent inducement of employees or customers to disclose sensitive information
+such as user names or passwords, and employee error or malfeasance. Such breach could result in someone obtaining unauthorized access to our customers data, our data, or our cloud, networks, or other systems. Because there are many different
+security breach techniques and such techniques continue to evolve, we may be unable to anticipate attempted security breaches and implement adequate preventative measures. Any security breach could result in a loss of customer confidence in the
+security of our offerings and damage to our brand, reducing the demand for our offerings and our revenue, disrupt our normal business operations, expose us to legal liability, and materially adversely affect our operating results. These risks will
+increase as we continue to grow our cloud-based offerings and process, store, and transmit increasingly large amounts of our customers information and data. 
+ Our intellectual property is valuable, and any inability to protect it could reduce the value of our products, services, and brand 
+ We rely on a combination of copyright, patent, trade secrets, confidentiality procedures, and contractual commitments to protect our intellectual property. Despite our efforts, these measures can only
+provide limited protection. Unauthorized third parties may try to copy or reverse engineer portions of our products or otherwise obtain and use our intellectual property. Any patents owned by us may be invalidated, circumvented, or challenged. Any
+of our pending or future patent applications, whether or not being currently challenged, may not be issued with the scope of the claims we seek, if at all. Moreover, recent amendments to U.S. patent law may affect our ability to protect our
+intellectual property and defend against claims of patent infringement. In addition, the laws of some countries do not provide the same level of protection of our intellectual property as do the laws of the United States. If we cannot protect our
+intellectual property against unauthorized copying or use, we may not remain competitive. 
+ Third parties may claim we infringe their
+intellectual property rights 
+ We periodically receive notices from others claiming we are infringing their intellectual property rights,
+principally patent and trademark rights. We expect the number of such claims will increase as the number of offerings and level of competition in our industry segments grow, the functionality of offerings overlap, and the volume of issued patents,
+patent applications, and trademark registrations continues to increase. Responding to any infringement claim, regardless of its validity, could: 
+ be time-consuming, costly, and/or result in litigation; 
+ divert managements time and attention from developing our business; 
+ require us to pay monetary damages or enter into royalty and licensing agreements that we would not normally find acceptable; 
+ require us to stop selling certain of our offerings; 
+ require us to redesign certain of our offerings using alternative non-infringing technology or practices, which could require significant effort and
+expense; 
+ require us to rename certain of our offerings; or 
+ require us to satisfy indemnification obligations to our customers. 
+ If a successful infringement claim is made against us and we fail to develop or license a substitute technology or brand name as applicable, our business, results of operations, financial condition, or
+cash flows could be materially adversely affected. 
+ For example, we have recently been sued by two separate parties who alleged that certain
+of our BI products infringe their respective patents. These matters are described in further detail in this Annual Report on Form 10-K under Item 3. Legal Proceedings. 
+ Pending or future litigation could have a material adverse impact on our results of operation and financial condition 
+ In addition to intellectual property litigation, from time to time, we have been subject to other litigation. Regardless of the merits of any claims that may be brought against us, pending or future
+litigation could result in a diversion of managements attention and resources and we may be required to incur significant expenses defending against these claims. If we are unable to prevail in litigation we could incur substantial
+liabilities. Where we can make a reasonable estimate of the liability relating to pending litigation and determine that it is probable, we record a related liability. As additional information becomes available, we assess the potential liability and
+revise estimates as appropriate. However, because of uncertainties relating to litigation, the amount of our estimates could be wrong. 
+ Because of the rights of our two classes of common stock, and because we are controlled by our existing holders of class B common stock, these
+stockholders could transfer control of MicroStrategy to a third party without the approval of our Board of Directors or our other stockholders, prevent a third party from acquiring MicroStrategy, or limit your ability to influence corporate matters 
+ We have two classes of common stock: class A common stock and class B common stock. Holders of our class A common stock generally have
+the same rights as holders of our class B common stock, except that holders of class A common stock have one vote per share while holders of class B common stock have ten votes per share. As of February 4, 2013, holders of our class B common
+stock owned 2,227,327 shares of class B common stock, or 71.1% of the total voting power. Michael J. Saylor, our Chairman and Chief Executive Officer, beneficially owned 0 shares of class A common stock and 2,011,668 shares of class B common stock,
+or 64.2% of the total voting power, as of February 4, 2013. Accordingly, Mr. Saylor is able to control MicroStrategy through his ability to determine the outcome of elections of our directors, amend our certificate of incorporation and
+by-laws, and take other actions requiring the vote or consent of stockholders, including mergers, going-private transactions, and other extraordinary transactions and their terms. 
+ Our certificate of incorporation allows holders of class B common stock, all of whom are current employees or directors of our company or related parties, to transfer shares of class B common stock,
+subject to the approval of stockholders possessing a majority of the outstanding class B common stock. Mr. Saylor or a group of stockholders possessing a majority of the outstanding class B common stock could, without the approval of our Board
+of Directors or our other stockholders, transfer voting control of MicroStrategy to a third party. Such a transfer of control could have a material adverse effect on our business, operating results, and financial condition. Mr. Saylor or a
+group of stockholders possessing a majority of the outstanding class B common stock will also be able to prevent a change of control of MicroStrategy, regardless of whether holders of class A common stock might otherwise receive a premium for their
+shares over the then current market price. In addition, this concentrated control limits stockholders ability to influence corporate matters and, as a result, we may take actions that our non-controlling stockholders do not view as beneficial.
+As a result, the market price of our class A common stock could be materially adversely affected. 
+ We rely on the controlled company exemption from certain corporate governance requirements
+for Nasdaq-listed companies, which could make our class A common stock less attractive to some investors or otherwise materially adversely affect our stock price 
+ Because we qualify as a controlled company under the corporate governance rules for Nasdaq-listed companies, we are not required to have a majority of our board of directors be comprised of
+independent directors. Additionally, our board of directors is not required to have an independent compensation or nominating committee, or to have the independent directors exercise the nominating function. We also are not required to have the
+compensation of our executive officers be determined by a compensation committee of independent directors or a majority of the independent members of our board of directors. 
+ In light of our status as a controlled company, our board of directors has determined not to establish an independent nominating committee or have its independent directors exercise the nominating
+function, and has elected instead to have the board of directors be directly responsible for nominating members of the board. A majority of our board of directors is currently comprised of independent directors, and our board of directors has
+established a compensation committee comprised entirely of independent directors. The compensation committee determines the compensation of our chief executive officer. However, our board of directors has authorized our chief executive officer
+to determine the compensation of executive officers other than himself, rather than having such compensation determined by the compensation committee, except that certain executive officer compensation that is intended to qualify as
+performance-based compensation for purposes of Section 162(m) of the Internal Revenue Code is determined by the compensation committee pursuant to the requirements of Section 162(m). 
+ Although currently a majority of our board of directors is comprised of independent directors and the compensation committee is comprised entirely of
+independent directors, we may elect in the future not to have independent directors constitute a majority of the board of directors or the compensation committee, have our chief executive officers compensation determined by a compensation
+committee of independent directors, or have a compensation committee of the board of directors at all. 
+ Accordingly, should the interests of
+our controlling stockholder differ from those of other stockholders, the other stockholders may not have the same protections that are afforded to stockholders of companies that are required to follow all of the corporate governance rules for
+Nasdaq-listed companies. Our status as a controlled company could make our class A common stock less attractive to some investors or otherwise materially adversely affect our stock price. 
+ Revenue recognition accounting pronouncements may materially adversely affect our reported results of operations 
+ We continuously review our compliance with all new and existing revenue recognition accounting pronouncements. Depending upon the outcome of these ongoing reviews and the potential issuance of further
+accounting pronouncements, implementation guidelines, and interpretations, we may be required to modify our reported results, revenue recognition policies, or business practices, which could have a material adverse effect on our results of
+operations. 
+ Item 1B. 
+ Unresolved Staff Comments

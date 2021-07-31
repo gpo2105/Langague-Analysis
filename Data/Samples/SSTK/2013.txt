@@ -1,0 +1,551 @@
+Investing in our common stock involves a high degree of risk. You should carefully consider the risks and
+uncertainties described below, together with the financial and other information contained in this Annual Report on Form 10-K, before deciding whether to invest in shares of our common stock.
+If any of the following risks or the risks described elsewhere in this Annual Report on Form 10-K, including in the section entitled "Management's Discussion and Analysis of Financial Condition
+and Results of Operations," actually occur, our business, financial condition, operating results, cash flow and prospects could be materially adversely affected. This could cause the trading price of
+our common stock to decline, and you may lose part or all of your investment. 
+ Risks Related to Our Business 
+ The success of our business depends on our ability to continue to attract and retain customers and contributors to our online marketplace for commercial digital imagery. 
+ The success of our business and our future growth depends significantly on our ability to continue to attract new customers and
+contributors, as well as continue to retain existing customers and contributors, to our online marketplace for commercial digital imagery. To maintain and increase our revenue, we must regularly add
+new customers and retain our existing customers. An increase in paying customers has generally attracted more images and video clips from contributors, which increases our content selection and in
+turn attracts additional paying customers. To attract new customers and contributors and retain existing customers and contributors, we rely heavily on the effectiveness of our marketing efforts, the
+size and content of our collection and the functionality and features of our marketplace. Our marketing efforts may be unsuccessful, our collection may fail to grow as anticipated and new technologies
+may render the systems and features of our marketplace obsolete, any of which would adversely affect our results of operations and future growth prospects. 
+ Our business depends in large part on repeat customer purchases from both our subscription-based and our On Demand purchase options. If customers reduce or cease their
+spending with us, or if content contributors reduce or end their participation in our marketplace, our business will be harmed. 
+ The majority of our revenue is derived from customers who have purchased with us in the past. As a result, our future performance
+largely depends on our ability to motivate our customers to continue to purchase from us. A key factor in creating such an incentive is our ability to provide customers with the images they seek and
+to refresh and grow our collection of digital imagery based on current and future trends. We seek to achieve these goals by attracting new contributors to our marketplace and by retaining our existing
+contributors. If we are unable to attract new contributors, retain existing contributors or add new imagery to our online marketplace, or if we fail to do so in a timely manner, customers requiring
+new and up-to-date content may reduce their spending with us. Another key factor in retaining our existing customers is our ability to deliver a user experience that continues to meet customers'
+needs, including the quality and accuracy of our search algorithms. If we are unable to maintain or improve upon the user experience that we deliver customers in a way that motivates our customers to
+continue to purchase from us, our business would be harmed. Furthermore, although historically the gross margins and revenue retention rates from our subscription-based and our On Demand purchase
+options have been substantially similar, there can be no assurance that this will continue in future periods. 
+ We operate in a new and rapidly changing market, which makes it difficult to evaluate our future prospects and may increase the risk that we will not be successful. 
+ The market for commercial digital imagery is a relatively new and rapidly changing market that may not develop as expected. Our
+business strategy and projections rely on a number of assumptions 
+ about
+the market for commercial digital imagery, including the size and projected growth of the market over the next several years. Some or all of these assumptions may be incorrect. The market for
+online commercial digital imagery may not develop as we expect or as third party analysts have forecasted or we may fail to address the needs of this market. 
+ The
+limited history of the market in which we operate makes it difficult to effectively assess our future prospects, and you should consider our business and prospects in light of the
+risks and difficulties we encounter in this evolving market. These risks and difficulties include our ability to: 
+ We
+may not be able to successfully address these risks and difficulties or others, including those described elsewhere in these risk factors. We cannot accurately predict whether our
+products and services will achieve significant acceptance by potential customers in significantly larger numbers than at present. You should therefore not rely on our historic growth rates as an
+indication of future growth. 
+ Our business is highly competitive. Competition presents an ongoing threat to the success of our business. 
+ The commercial digital imagery industry is intensely competitive. Competition may result in loss of market share, pricing pressures or
+reduced profit margins, any of which could substantially harm our business and results of operations. We compete with a wide array of companies, from significant media companies to individual imagery
+creators, to provide commercial digital imagery to users of such imagery. These competitors include: 
+ We
+believe that the principal competitive factors in the commercial digital imagery industry are: brand awareness; company reputation; the quality, relevance and diversity of images; the
+ability to source new imagery; the licensability of images and the degree to which image users are protected from 
+ legal
+risk; the effective use of current and emerging technology; the accessibility of imagery, distribution capability, and speed and ease of search and fulfillment; customer service; and the global
+nature of a company's interfaces and marketing efforts, including local languages, currencies, and payment methods. In addition, demand for our services is sensitive to price. Many external factors,
+including our technology and personnel costs and our competitors' pricing and marketing strategies, could significantly impact our pricing strategies. If we fail to meet our customers' price
+expectations, we could lose customers. A drop in our prices without a corresponding increase in volume would negatively impact our revenue. 
+ Some
+of our existing and potential competitors have or may obtain significantly greater financial, marketing or other resources or greater brand awareness than we have. Some of these
+competitors may be able to respond more quickly to new or expanding technology and devote more resources to product development, marketing or content acquisition than we can. If competitors offer
+higher royalties, easier contribution workflows, less selective vetting processes or convince contributors to distribute their content on an exclusive basis, contributors may choose to stop
+distributing new content with us or remove their existing content from our collection. Competitors may also seek to develop new products, technologies or capabilities that could render obsolete or
+less competitive many of the products, services and content types that we offer. If we are unable to compete successfully against our competitors, our growth prospects and results of operations may be
+adversely affected. 
+ New competitors could enter our market and we may be unsuccessful in competing with these new entrants. 
+ New competitors may enter our market, particularly if technological advances or other market dynamics make creating, sourcing,
+archiving, indexing, reviewing, searching or delivering commercial digital images easier or more affordable. While we believe that there are obstacles to creating a meaningful network effect between
+customers and contributors, the barriers to creating a website that allows for the sale of digital content are low, which could result in greater competition. Our contributors, for example, may freely
+offer the images they provide to us to our competitors and may remove their images at any time. New entrants may raise significant amounts of capital and they may choose to prioritize increasing their
+market share and brand awareness over profitability, including, for example, by offering higher royalties for exclusivity. Additionally, larger, more established and better capitalized entities may
+acquire, invest in or partner with our competitors or leverage their own image-related competencies to enter our market. If we are unable to compete successfully against new entrants, our growth
+prospects and results of operations may be adversely affected. 
+ We may not be able to prevent the misuse of our imagery and we may be subject to infringement claims. 
+ We rely on intellectual property laws and contractual restrictions to protect our rights and the imagery in our collection. Certain
+countries are very lax in enforcing intellectual property laws. Litigation in those countries will likely be costly and ineffective. Consequently, these intellectual property laws afford us only
+limited protection. Unauthorized parties have attempted, and may attempt, to improperly use our licensed digital imagery. We cannot guarantee that we will be able to prevent the unauthorized use of
+our digital imagery or that we will be successful in stopping such use once it is detected. 
+ We
+have been subject to a variety of third-party infringement claims in the past and will likely be subject to similar claims in the future. We license all of our digital imagery from
+photographers, illustrators and videographers, and, although we have staff committed to reviewing each image that we accept into our collection, we cannot guarantee that each contributor holds the
+rights or releases he or she claims or that such rights and releases are adequate. As a result, we may be subject to infringement claims or other claims by third parties. Furthermore, we offer our
+customers indemnification of up to $10,000 in aggregate for legal costs and direct damages arising from the use of an image or video footage licensed through us. We also offer some of our customers
+custom contracts that either provide 
+ for
+larger indemnification amounts or unlimited indemnification. However, our contractual maximum liability may not be enforceable in all jurisdictions. We maintain insurance policies to cover
+potential intellectual property disputes. Since 2009, we have received approximately 35 customer claims for indemnification. Following investigation of such claims, fewer than one-third resulted in
+our making a cash payment to settle such claims. Aggregate amounts paid to date to settle customer indemnification claims have not been material. Although we have insurance to cover indemnification
+claims, and although, to date, these claims have not resulted in any material liability to us, we have incurred, and will continue to incur, expenses related to such claims and related settlements,
+which may increase over time. 
+ If
+a third-party infringement claim or series of claims is brought against us for uninsured liabilities or in excess of our insurance coverage, our business could suffer. In addition, we
+may not be able to maintain insurance coverage at a reasonable cost or in sufficient amounts or scope to protect us against all losses. Any claims against us, regardless of their merit, could severely
+harm our financial condition and reputation, strain our management and financial resources, and adversely affect our business. 
+ Assertions by third parties of infringement or other violations by us of intellectual property rights could result in significant costs and substantially harm our business
+and operating results. 
+ Internet, technology and media companies are frequently subject to litigation based on allegations of infringement, misappropriation or
+other violations of intellectual property rights or rights related to their use of technology. Some internet, technology and media companies, including some of our competitors, own large numbers of
+patents, copyrights, trademarks and trade secrets, which they may use to assert claims against us. Third parties may in the future assert that we have infringed, misappropriated or otherwise violated
+their intellectual property rights, and as we face increasing competition, the possibility of intellectual property rights claims against us grows. Such litigation may involve patent holding companies
+or other adverse patent owners who have no relevant product revenue, and therefore our own issued and pending patents may provide little or no deterrence to these patent owners in bringing
+intellectual property rights claims against us. Existing laws and regulations are evolving and subject to different interpretations, and various federal and state legislative or regulatory bodies may
+expand current or enact new laws or regulations. We cannot assure you that we are not infringing or violating any third-party intellectual property rights or rights related to use of technology. 
+ We
+cannot predict whether assertions of third-party intellectual property rights or any infringement or misappropriation or other claims arising from such assertions will substantially
+harm our business and operating results. If we are forced to defend against any infringement or misappropriation claims, whether they are with or without merit, are settled out of court, or are
+determined in our favor, we may be required to expend significant time and financial resources on the defense of such claims. Furthermore, an adverse outcome of a dispute may require us to pay
+damages, potentially including treble damages and attorneys' fees, if we are found to have willfully infringed a party's intellectual property; cease making, licensing or using content that is alleged
+to infringe or misappropriate the intellectual property of others; expend additional development resources to redesign our technology; enter into potentially unfavorable royalty or license agreements
+in order to obtain the right to use necessary technologies, content, or materials; and to indemnify our partners and other third parties. Royalty or licensing agreements, if required or desirable, may
+be unavailable on terms acceptable to us, or at all, and may require significant royalty payments and other expenditures. In addition, any lawsuits regarding intellectual property rights, regardless
+of their success, could be expensive to resolve and would divert the time and attention of our management and technical personnel. 
+ Unless we increase market awareness of our company and our services, our revenue may not continue to grow. 
+ We believe that our ability to attract and retain new customers and contributors depends in large part on our ability to increase our
+brand awareness within our industry. In order to increase the number of our customers and contributors, we may be required to expend greater resources on advertising, marketing, and other
+brand-building efforts to preserve and enhance customer and contributor awareness of our brand. Currently, a significant portion of our marketing spending consists of search engine marketing, which
+exposes us to risk in the event that one or more large search engines were to reconfigure their algorithms in such a way that would result in less business for us. 
+ Our
+marketing campaigns or other efforts to increase our brand awareness may not succeed in bringing new visitors to our online marketplace or converting such visitors to paying
+customers or contributors and may not be cost-effective. Our brand may be impaired by a number of other factors, including disruptions in service due to technology issues, data privacy and security
+issues, and exploitation of our trademarks and other intellectual property by others without our permission. 
+ We have experienced rapid growth in recent periods. If we fail to effectively manage our growth, our business and operating results may suffer. 
+ We have experienced, and expect to continue to experience, significant growth, which has placed, and will continue to place,
+significant demands on our management and our operational and financial infrastructure. We expect that our growth strategy will require us to commit substantial financial, operational and technical
+resources. Continued growth could also strain our ability to maintain reliable operation of our online marketplaces for our customers and contributors, develop and improve our operational, financial
+and management controls, enhance our reporting systems and procedures and recruit, train and retain highly skilled personnel. As our operations grow in size, scope and complexity, we will need to
+improve and upgrade our systems and infrastructure, which will require significant expenditures and allocation of valuable management resources. If we fail to allocate limited resources effectively in
+our organization as it grows, our business, operating results and financial condition will suffer. 
+ One of our strategic goals is to generate a larger percentage of our revenue from larger companies, which may place greater demands on us in terms of increased service,
+indemnification or working capital requirements, any of which could increase our costs or substantially harm our business and operating results. 
+ One of our strategic goals is to increase the percentage of our revenue that come from larger companies, in addition to the small and
+medium-size companies from whom we have generated the majority of our revenue historically. In order to win the business of larger companies, we may face greater demands in terms of increased service
+requirements, greater indemnification requirements, greater pricing pressure, and greater working capital to accommodate the larger receivables and collections issues that are likely to occur as a
+result of being paid on credit terms. If we are unable to adequately address those demands, it may affect our ability to grow our business in this segment, which may adversely affect our results of
+operations and future growth. If we address those demands in a way that expands our risk of infringement claims, significantly increases our operating costs, reduces our ability to maintain or
+increase pricing, or increases our working capital requirements, our business, operating results and financial condition may suffer. 
+ Continuing expansion into international markets is important for our growth, and as we continue to expand internationally, we face additional business, political,
+regulatory, operational, financial and economic risks, any of which could increase our costs or otherwise limit our growth. 
+ Continuing to expand our business to attract customers and contributors in countries other than the United States is a critical element
+of our business strategy. In 2013, approximately 65% of our 
+ revenue
+was derived from customers located outside of North America. While a significant portion of our customers reside outside of the United States, we have a limited operating history as a company
+outside the United States. We expect to continue to devote significant resources to international expansion through establishing additional offices, hiring additional overseas personnel and exploring
+acquisition opportunities. In addition, we expect to increase marketing for our foreign language offerings and to further localize our collection and user experience for foreign markets. Our ability
+to expand our business and to attract talented employees, and customers and contributors in an increasing number of international markets requires considerable management attention and resources and
+is subject to the particular challenges of supporting a rapidly growing business in an environment of multiple languages, cultures, customs, legal systems, alternative dispute systems, regulatory
+systems and commercial infrastructures. Expanding our international focus may subject us to risks that we have not faced before or increase risks that we currently face, including risks associated
+with: 
+ These
+risks may make it impossible or prohibitively expensive to expand to new international markets, or delay entry into such markets, which may affect our ability to grow our business. 
+ As a result of the Reorganization, we are subject to entity-level taxation, which will result in significantly greater income tax expense than we have incurred historically. 
+ Prior to the Reorganization on October 5, 2012, we operated as a New York limited liability company. As a limited liability
+company, we recognized no federal and state income taxes, as the members of the LLC, and not the entity itself, were subject to income tax on their allocated share of our earnings. On
+October 5, 2012, we reorganized as a Delaware corporation. Consequently, we are currently subject to entity-level taxation even though historically Shutterstock Images LLC did not pay
+U.S. federal or state income taxes. As a result, our corporate income tax rate has increased significantly now that we are subject to federal, state and additional city income taxes. 
+ We previously had a material weakness in our internal control over financial reporting relating to compliance with certain tax regulations that has since been remediated.
+The material weakness could have impaired our ability to comply with the accounting and reporting requirements applicable to public companies. 
+ In connection with the audit of our financial statements as of and for the year ended December 31, 2011, we and our independent
+registered public accounting firm identified a material weakness in our internal control over financial reporting with respect to our tax compliance process. Specifically, it was determined that we
+did not have adequate procedures and controls to appropriately comply with, and account for, certain non-income tax regulations. These non-income tax issues related to underpayment of international
+consumption tax, sales and use tax and royalty withholdings compliance. A material weakness is defined as a significant deficiency, or a combination of significant deficiencies, that result in a
+reasonable possibility that a material misstatement of our financial statements will not be prevented by our internal control over financial reporting. A significant deficiency means a control
+deficiency, or a combination of control deficiencies, that adversely affects our ability to initiate, record, process or report financial data reliably in accordance with generally accepted accounting
+principles such that there is more than a remote likelihood that a misstatement of our financial statements that is more than inconsequential will not be prevented or detected by our internal control
+over financial reporting. 
+ During
+fiscal years 2013 and 2012, management hired additional accounting personnel with appropriate level of tax expertise. In addition, during fiscal year 2013, management updated its
+systems to collect the necessary data and taxes to comply with its required tax compliance processes, registered with required jurisdictions, and implemented controls around the identification,
+documentation and application of non-income tax regulations. These controls included the preparation of quarterly compliance returns and the development and use of checklists and research tools to
+assist in compliance with non-income tax regulations. As a result of the remediation activities and controls in place as of December 31, 2013 described above, management has remediated the
+material weakness that was disclosed and included in our previous periodic filings with the U.S. Securities and Exchange Commission. 
+ Our operations may expose us to greater than anticipated income tax liabilities, which could harm our financial condition and results of operations. 
+ We plan to structure our activities in a manner so as to minimize our tax liabilities. However, we have operations in various taxing
+jurisdictions in the United States and foreign countries, and there is a risk that our tax liabilities in one or more jurisdictions could be more than reported relative to prior taxable periods and
+more than anticipated relative to future taxable periods. 
+ In
+addition, the determination of our worldwide provision for income taxes, tax withholdings and other tax liabilities requires significant judgment and there are many transactions and
+calculations for which the ultimate tax determination is uncertain. Although we believe our estimates are reasonable, our ultimate tax liability may differ from the amounts recorded in our financial
+statements and may materially adversely affect our financial results in the period or periods for which such determination is made. We have created reserves with respect to such tax liabilities where
+we believe it to be appropriate. However, there can be no assurance that our ultimate tax liability will not exceed the reserves that we have created. 
+ Furthermore,
+the current administration of the U.S. federal government has made public statements indicating that it has made international tax reform a priority, and key members of the
+U.S. Congress have conducted hearings and proposed changes to U.S. tax laws. Recent changes to U.S. tax laws, including limitations on the ability of taxpayers to claim and utilize foreign tax credits
+and the deferral of certain tax deductions until earnings outside of the United States are repatriated to the United States, as well as other changes to U.S. tax laws that may be enacted in the
+future, could impact the tax treatment of our foreign earnings. Due to the large and expanding scale of our international 
+ business
+activities, any changes in the U.S. taxation of such activities may increase our worldwide effective tax rate and harm our financial position and results of operations. 
+ Our operations may expose us to greater than anticipated sales and transaction tax liabilities, including VAT, which could harm our financial condition and results of
+operations. 
+ We may have exposure to sales or other transaction taxes (including VAT) on our past and future transactions including such
+jurisdictions where we are required to report tax transactions. A successful assertion by any state or local jurisdiction or country that we failed to pay such sales or other transaction taxes, or the
+imposition of new laws requiring the payment of such taxes, could result in substantial tax liabilities related to past sales, create increased administrative burdens or costs, discourage customers
+from purchasing images from us, or otherwise substantially harm our business and results of operations. 
+ If we do not respond to technological changes or upgrade our website and technology systems, our growth prospects and results of operations could be adversely affected. 
+ To remain competitive, we must continue to enhance and improve the functionality and features of our websites in addition to our
+infrastructure. For example, as our proportion of our business related to video footage licensing increases, we will need to expand and enhance our technological capabilities to ingest, store and
+search video content in ways that are similar to our management of images. A video footage clip represents significantly more data as compared to a still image. As a result, we will need to continue
+to improve and expand our hosting and network infrastructure and related software capabilities. These improvements may require greater levels of spending than we have experienced in the past. Without
+such improvements, our operations might suffer from unanticipated system disruptions, slow application performance or unreliable service levels, any of which could negatively affect our reputation and
+ability to attract and retain customers and contributors. Furthermore, in order to continue to attract and retain new customers, we are likely to incur expenses in connection with continuously
+updating and improving our user interface and experience. We may face significant delays in introducing new services, products and enhancements. If competitors introduce new products and services
+using new technologies or if new industry standards and practices emerge, our existing websites and our proprietary technology and systems may become obsolete or less competitive, and our business may
+be harmed. In addition, the expansion and improvement of our systems and infrastructure may require us to commit substantial financial, operational and technical resources, with no assurance that our
+business will improve. 
+ Technological interruptions that impair access to our websites or the efficiency of our marketplace would damage our reputation and brand and adversely affect our results of
+operations. 
+ The satisfactory performance, reliability and availability of our websites and our network infrastructure are critical to our
+reputation, our ability to attract and retain both customers and contributors to our online marketplace and our ability to maintain adequate customer service levels. Any system interruptions that
+result in the unavailability of our websites could result in negative publicity, damage our reputation and brand or adversely affect our results of operations. We may experience temporary system
+interruptions for a variety of reasons, including security breaches and other security incidents, viruses, telecommunication and other network failures, power failures, software errors, data
+corruption or an overwhelming number of visitors trying to reach our websites during periods of strong demand. We rely upon third-party service providers, such as co-location and cloud service
+providers, for our data centers and application hosting, and we are dependent on these third parties to provide continuous power, cooling, internet connectivity and physical security for our servers.
+In the event that these third-party providers experience any interruption in operations or cease business for any reason, or if we are unable to agree on satisfactory terms for continued hosting
+relationships, our business could be harmed and we could be forced to enter into a relationship with other service 
+ providers
+or assume hosting responsibilities ourselves. Although we operate two data centers in an active/standby configuration for geographic redundancy and even though we maintain a third disaster
+recovery facility to back up our collection, a system disruption at the active data center could result in a noticeable disruption to our websites until all website traffic is redirected to the
+standby data center. Even a disruption as brief as a few minutes could have a negative impact on marketplace activities and could therefore result in a loss of revenue. Because some of the causes of
+system interruptions may be outside of our control, we may not be able to remedy such interruptions in a timely manner, or at all. In addition, we have entered into service level agreements with some
+of our larger customers. Technological interruptions could result in a breach of such agreements and subject us to considerable penalties. 
+ Failure to protect our intellectual property could substantially harm our business and operating results. 
+ The success of our business depends on our ability to protect and enforce our patents, trade secrets, trademarks, copyright and all of
+our other intellectual property rights, including our intellectual property rights underlying our online marketplace and search algorithms. We attempt to protect our intellectual property under trade
+secret, trademark, copyright and patent law, and through a combination of employee and third-party nondisclosure agreements, other contractual restrictions, and other methods. These afford only
+limited protection. Despite our efforts to protect our
+intellectual property rights and trade secrets, unauthorized parties may attempt to copy aspects of our intellectual property and use our trade secrets and other confidential information. Moreover,
+policing our intellectual property rights is difficult, costly and may not always be effective. To the extent these unauthorized parties, which may include our competitors, are successful in copying
+aspects of our search algorithms and our trade secrets, our business could be harmed. 
+ We
+have registered or applied to register Shutterstock, Offset, Skillfeed, Bigstock and Big Stock Photo and other marks as trademarks in the United States. Nevertheless, competitors may
+adopt service names similar to ours, or purchase our trademarks and confusingly similar terms as keywords in internet search engine advertising programs, thereby impeding our ability to build brand
+identity and possibly leading to confusion among our customers. In addition, there could be potential trade name or trademark infringement claims brought by owners of other registered trademarks or
+trademarks that incorporate variations of the term Shutterstock or our other trademarks. Any claims or customer confusion related to our trademarks could damage our reputation and brand and
+substantially harm our business and operating results. 
+ We
+currently own the www.shutterstock.com internet domain name and various other related domain names. Domain names are generally regulated by internet regulatory bodies. If we lose the
+ability to use a domain name in a particular country, we would be forced either to incur significant additional expenses to market our products within that country or to elect not to sell products in
+that country. Either result could harm our business and operating results. The regulation of domain names in the United States and in foreign countries is subject to change. Regulatory bodies could
+establish additional top-level domains, appoint additional domain name registrars or modify the requirements for holding domain names. As a result, we may not be able to acquire or maintain the domain
+names that utilize our brand names in the United States or other countries in which we conduct business or in which we may conduct business in the future. 
+ In
+order to protect our trade secrets and other confidential information, we rely in part on confidentiality agreements with our employees, consultants and third parties with whom we
+have relationships. These agreements may not effectively prevent disclosure of trade secrets and other confidential information and may not provide an adequate remedy in the event of misappropriation
+of trade secrets or any unauthorized disclosure of trade secrets and other confidential information. In addition, others may independently discover our trade secrets and confidential information, and
+in such cases we could not assert any trade secret rights against such parties. Costly and time-consuming litigation could be necessary to enforce or determine the scope of our trade secret rights and
+related 
+ confidentiality
+and nondisclosure provisions. Failure to obtain or maintain trade secret protection, or our competitors' acquisition of our trade secrets or independent development of unpatented
+technology similar to ours or competing technologies, could adversely affect our competitive business position. 
+ Litigation
+or proceedings before the U.S. Patent and Trademark Office or other governmental authorities and administrative bodies in the United States and foreign countries may be
+necessary in the future to enforce our intellectual property rights, to protect our patent rights, trademarks, trade secrets and domain names and to determine the validity and scope of the proprietary
+rights of others. Furthermore, the monitoring and protection of our intellectual property rights may become more difficult, costly and time consuming as we continue to expand internationally,
+particularly in those markets, such as China and certain other developing countries in Asia, in which legal protection of intellectual property rights is less robust than in the United States and in
+Europe. Our efforts to enforce or protect our proprietary rights may be ineffective and could result in substantial costs and diversion of resources and management time, each of which could
+substantially harm our operating results. 
+ Much of the software and technologies used to provide our services incorporate, or have been developed with, "open source" software, which may restrict how we use or
+distribute our services or require that we publicly release certain portions of our source code. 
+ Much of the software and technologies used to provide our services incorporate, or have been developed with, "open source" software.
+Such "open source" software may be subject to third party licenses that impose restrictions on our software and services. Examples of "open source" licenses include the GNU General Public License and
+GNU Lesser General Public License. Such open source licenses typically require that source code subject to the license be made available to the public and that any modifications or derivative works to
+open source software continue to be licensed under open source licenses. Few courts have interpreted open source licenses, and the manner in which these licenses may be interpreted and enforced is
+therefore subject to some uncertainty. We rely on multiple software engineers to design our proprietary technologies, and we do not exercise complete control over the development efforts of our
+engineers. In the event that portions of our proprietary technology are determined to be subject to an open source license, we could be required to publicly release portions of our source code,
+re-engineer all or a portion of our technologies, or otherwise be limited in the licensing of our technologies, each of which could reduce or eliminate the value of our services and technologies and
+materially and adversely affect our ability to sustain and grow our business. 
+ Our operating results may fluctuate, which could cause our results to fall short of expectations and our stock price to decline. 
+ Our revenue and operating results could vary significantly from quarter to quarter and year to year due to a variety of factors, many
+of which are outside our control. As a result, comparing our operating results on a period to period basis may not be meaningful. In addition to other risk factors discussed in this "Risk Factors"
+section, factors that may contribute to the variability of our quarterly and annual results include: 
+ Because
+of these risks and others, it is possible that our future results may be below our expectations and the expectations of analysts and investors. In such an event, the price of our
+common stock may decline significantly. 
+ Our failure to protect the confidential information of our customers and our networks against security breaches and the risks associated with credit card fraud could expose
+us to liability, protracted and costly litigation and damage our reputation. 
+ We collect limited confidential information in connection with registering customers and contributors and other marketplace-related
+processes on our websites and, in particular, in connection with processing and remitting payments to and from our customers and contributors. Although we maintain security features on our websites,
+our security measures may not detect or prevent all attempts to hack our systems, denial-of-service attacks, viruses, malicious software, break-ins, phishing attacks, social engineering, security
+breaches or other attacks and similar disruptions that may jeopardize the security of information stored in and transmitted by our websites. We rely on encryption and authentication technology
+licensed from third parties to provide the security and authentication to effectively secure transmission of the confidential information that we process for our
+customers, and such technology may fail to function properly or may be compromised or breached. Additionally, as described above, we use third-party payment processors and co-location and cloud
+service vendors for our data centers and application hosting, and their security measures may not prevent security breaches and other disruptions that may jeopardize the security of information stored
+in and transmitted through their systems. A party that is able to circumvent our security measures, or the security measures of our third-party payment processers or co-location and cloud service
+vendors for our data centers and application hosting, could misappropriate proprietary information, cause interruption in our operations, damage or misuse our websites, distribute or delete content
+owned by our contributors, and misuse the information that they misappropriate. Additionally, our systems may be breached by third parties without our being aware that our systems or data have been
+compromised. Given that the techniques used to obtain unauthorized access, attack, disable or degrade services, or sabotage systems, are constantly evolving in sophisticated ways to avoid detection,
+we may be unable to anticipate these techniques or to implement adequate preventative measures. 
+ We
+may also be required to expend significant capital and other resources to protect against such security breaches or to alleviate problems caused by such breaches. In addition, a
+significant cyber-security breach could result in payment networks prohibiting us from processing transactions on their networks. Security and fraud-related issues are likely to become more
+challenging as we expand our operations. 
+ Furthermore,
+some of the software and services that we use to operate our business, including our internal email and customer relationship management software, are hosted by third
+parties. If these services were to experience a security breach or be interrupted or were to cause us to lose control of confidential information, our business operations could be disrupted and we
+could be exposed to liability and costly litigation. 
+ Under
+current credit card practices, we are liable for fraudulent credit card transactions because we do not obtain a cardholder's signature. We do not currently carry insurance against
+this risk. To date, we have experienced minimal losses from credit card fraud, but we continue to face the risk of significant losses from this type of fraud. 
+ If
+any compromise of our security, or that of our third-party payment processers or co-location and cloud service vendors for our data centers and application hosting, were to occur, we
+may lose customers and our reputation, business, financial condition and operating results could be harmed. Any compromise of security may result in us being out of compliance with U.S. federal and
+state laws, and international laws and contractual commitments, and we may be subject to lawsuits, fines, criminal penalties, statutory damages, and other costs. Any failure, or perceived failure, by
+us to comply with our posted privacy policies or with any regulatory requirements or orders or other federal, state, or international privacy, security or consumer protection-related laws and
+regulations, could result in
+proceedings or actions against us by governmental entities or others, subject us to significant penalties and negative publicity, and adversely affect our results of operations. In addition, our
+failure to adequately control fraudulent credit card transactions could damage our reputation and brand and substantially harm our business and results of operations. 
+ Government regulation of the internet, both in the United States and abroad, is evolving and unfavorable changes could have a negative impact on our business. 
+ The adoption, modification or interpretation of laws or regulations relating to the internet, ecommerce or other areas of our business
+could adversely affect the manner in which we conduct our business or the overall popularity or growth in use of the internet. Such laws and regulations may cover a vast array of activities, for
+example, automatic contract or subscription renewal, credit card fraud and processing, sales, advertising and other procedures, taxation, tariffs, privacy, data management and security, pricing,
+content, copyrights, distribution, electronic contracts, consumer protection, outsourcing, broadband residential internet access, internet neutrality and the characteristics and quality of products or
+services, and intellectual property ownership and infringement. In certain countries, such as those in Europe, such laws may be more restrictive than in the United States. It is not clear how existing
+laws governing issues such as property ownership, sales and other taxes, and privacy apply to the internet and ecommerce as the vast majority of these laws were adopted prior to the advent of the
+internet and do not contemplate or address the unique issues raised by the internet or ecommerce. Those laws that relate to the internet are at various stages of being interpreted by the courts and
+agencies, and thus, the scope and reach of their applicability can be uncertain. For example, the Children's Online Privacy Protection Act in the U.S. regulates the ability of online services to
+collect or use certain information from children under the age of 13. If we are required to comply with new regulations or legislation or new interpretations of existing regulations or legislation,
+this compliance could cause us to incur additional expenses, make it more difficult to renew subscriptions automatically, make it more difficult to attract new subscribers or otherwise alter our
+business model, or cause us to divert resources and funds to address government or private investigatory or adversarial proceedings. Any of these outcomes could have a material adverse effect on our
+business, financial condition or results of operations. 
+ We
+currently provide content licensing to customers in more than 150 countries. The privacy, data security, censorship and liability standards and other potentially applicable rules or
+regulations, and intellectual property laws of those foreign countries, may be different than those in the United States. To the extent that any local laws or regulations apply to our company or
+operations and we are deemed to not be in compliance with them, our business may be harmed. 
+ Expansion of our operations into additional content categories may subject us to additional business, legal, financial and competitive risks. 
+ Currently, our operations are focused in significant part on digital still images. Further expansion of our operations and our
+marketplace into video footage or additional content categories involves numerous risks and challenges, including increased capital requirements, potential new competitors and the need to develop new
+contributor and strategic relationships. Growth into additional content areas may require changes to our existing business model and cost structure and modifications to our infrastructure and may
+expose us to new regulatory and legal risks, any of which may require expertise in which we have little or no experience. There is no guarantee that we will be able to generate sufficient revenue from
+sales of such content to offset the costs of acquiring such content. 
+ The impact of worldwide economic conditions, including effects on advertising and marketing budgets, may adversely affect our business and operating results. 
+ Our financial condition is affected by worldwide economic conditions and their impact on advertising spending. Expenditures by
+advertisers generally tend to reflect overall economic conditions, and to the extent that the economy stagnates, companies may reduce their spending on advertising and marketing, and thus the use of
+our online marketplace. This could have a serious adverse impact on our business. To the extent that overall economic conditions reduce spending on advertising and marketing activities, our ability to
+retain current and obtain new customers could be hindered, which could reduce our revenue and negatively impact our business. 
+ The loss of key personnel, an inability to attract and retain additional personnel or difficulties in the integration of new members of our management team into our company
+could affect our ability to successfully grow our business. 
+ Our future success will depend upon our ability to identify, attract, retain and motivate highly skilled technical, managerial, product
+development, marketing, content operations and customer service employees. Competition for qualified personnel is intense in our industry. We cannot guarantee that we will be successful in our efforts
+to attract such personnel. 
+ We
+are highly dependent on the continued service and performance of our senior management team, as well as key technical and marketing personnel. Our inability to find suitable
+replacements for any of the members of our senior management team and our key technical and marketing personnel, should they leave our employ, would adversely impair our ability to implement our
+business strategy and could have a material adverse effect on our business and results of operations. We believe the successful
+integration of our management team is critical to managing our operations effectively and to supporting our growth. 
+ If we cannot maintain our corporate culture as we grow, we could lose the innovation, teamwork and focus that contribute crucially to our business. 
+ We believe that a critical component of our success is our corporate culture, which we believe fosters innovation, encourages teamwork,
+cultivates creativity and promotes a focus on execution. We have invested substantial time, energy and resources in building a highly collaborative team that works together effectively in a
+non-hierarchical environment designed to promote openness, honesty, mutual respect and pursuit of common goals. As we develop the infrastructure of a public company and continue to grow, we may find
+it difficult to maintain these valuable aspects of our corporate culture. Any failure to preserve our culture could negatively impact our future success, including our ability to attract and retain
+employees, encourage innovation and teamwork and effectively focus on and pursue our corporate objectives. 
+ If we do not successfully integrate past or potential future acquisitions, our business could be adversely impacted. 
+ We have in the past pursued, and we may in the future pursue, acquisitions that are complementary to our existing business and that may
+expand our employee base and the breadth of our offerings. Future acquisitions or investments could result in potential dilutive issuances of equity securities, use of significant cash balances or the
+incurrence of debt, contingent liabilities or amortization expenses related to goodwill and other intangible assets, any of which could adversely affect our financial condition and results of
+operations. The benefits of an acquisition or investment may also take considerable time to develop, and we cannot be certain that any particular acquisition or investment will produce the intended
+benefits. 
+ Integration
+of a new company's operations, assets and personnel into ours will require significant attention from our management. The diversion of our management's attention away from
+our business and any difficulties encountered in the integration process could harm our ability to manage our business. Future acquisitions will also expose us to potential risks, including risks
+associated with any acquired liabilities, the integration of new operations, technologies and personnel, unforeseen or hidden liabilities, information security vulnerabilities, the diversion of
+resources from our existing businesses, sites and technologies, the inability to generate sufficient revenue to offset the costs and expenses of
+acquisitions, and potential loss of, or harm to, our relationships with employees, customers, contributors and other suppliers as a result of integration of new businesses. 
+ We may need to raise additional capital in the future and may be unable to do so on acceptable terms or at all. 
+ We intend to continue to make investments to support our business growth and may require additional funds to respond to business
+challenges, including the need to develop new features or functions of our online marketplace, improve our operating infrastructure or acquire complementary businesses, personnel and technologies.
+Accordingly, we may need to engage in equity or debt financings to secure additional capital. If we raise additional funds through future issuances of equity or convertible debt securities, our
+existing stockholders could suffer significant dilution, and any new equity securities we issue could have rights, preferences and privileges superior to those of holders of our common stock. Any debt
+financing we secure in the future could involve restrictive covenants relating to our capital raising activities and other financial and operational matters, which may make it more difficult for us to
+obtain additional capital and to pursue business opportunities, including potential acquisitions. We may not be able to obtain additional financing on terms favorable to us, if at all. If we are
+unable to obtain adequate financing or financing on terms satisfactory to us when we require it, our ability to continue to support our business growth and to respond to business challenges could be
+significantly impaired, and our business may be harmed. 
+ We are subject to payments-related risks that may result in higher operating costs or the inability to process payments, either of which could harm our financial condition
+and results of operations. 
+ We accept payments using a variety of methods, including credit cards and debit cards. As we offer new payment options to consumers, we
+may be subject to additional regulations, compliance requirements and fraud. For certain payment methods, including credit and debit cards, we pay interchange and other fees, which may increase over
+time and raise our operating costs and lower profitability. We rely on third parties to provide payment processing services, including the processing of credit cards and debit cards, and it could
+disrupt our business if these companies became unwilling or unable to provide these services to us. We are also subject to payment card association operating rules, certification requirements and
+rules governing electronic funds transfers, which could change or be reinterpreted to make it difficult or impossible for us to comply. If we fail to comply with these 
+ rules
+or requirements, we may be subject to fines and higher transaction fees and lose our ability to accept credit and debit card payments from consumers or facilitate other types of online payments. 
+ We
+are also subject to, or voluntarily comply with, a number of other laws and regulations relating to money laundering, international money transfers, privacy and information security
+and electronic fund transfers. If we were found to be in violation of applicable laws or regulations, we could be subject to civil and criminal penalties or forced to cease our operations. 
+ We are exposed to fluctuations in currency exchange rates, which could adversely affect our results. 
+ Because we conduct a growing portion of our business outside of the United States but report our financial results in U.S. Dollars, we
+face exposure to adverse movements in currency exchange rates. Our foreign operations are exposed to foreign exchange rate fluctuations as the financial results are translated from the local currency
+into U.S. Dollars upon consolidation. If the U.S. Dollar weakens against foreign currencies, the translation of these foreign currency denominated transactions will result in increased revenue,
+operating expenses and net income. Similarly, if the U.S. Dollar strengthens against foreign currencies, the translation of these foreign currency denominated transactions will result in decreased
+revenue, operating expenses and net income. As exchange rates vary, sales and other operating results, when translated, may differ materially from expectations. 
+ We
+have foreign currency risks related to foreign-currency denominated revenue. All amounts owed and paid to our foreign contributors are denominated and paid in U.S. Dollars. In
+general, transactions in foreign currencies are paid net of foreign-currency exchange rate charges. Accordingly, changes in exchange rates, and in particular a strengthening of the U.S. Dollar, will
+negatively affect our revenue and other operating results as expressed in U.S. Dollars. 
+ During
+the year ended December 31, 2013, the Company commenced conducting operations in various additional countries around the world and as a result the financial statements of
+its newly created foreign subsidiaries are reported in the applicable foreign currencies (functional currencies). Financial information is translated from the applicable functional currency to the
+U.S. Dollar (the reporting currency) for inclusion in the Company's consolidated financial statements. Income, expenses and cash flows are translated at average exchange rates prevailing during the
+fiscal period, and assets and liabilities are translated at fiscal period-end exchange rates. Resulting translation adjustments are included as a component of accumulated other comprehensive income
+(loss) in stockholders' equity and in the consolidated statement of comprehensive income. During the years ended December 31, 2012 and 2011, the Company determined that the U.S. Dollar is its
+functional currency worldwide and therefore did not have any foreign currency translation adjustment. During 2013, 2012 and 2011, our foreign
+currency transaction gains and losses were immaterial. At this time we do not, but we may in the future, enter into derivatives or other financial instruments in order to hedge our foreign currency
+exchange risk. It is difficult to predict the impact hedging activities would have on our results of operations. 
+ We depend on the continued growth of online commerce and the continued adoption of digital imagery. If these trends do not continue, our growth prospects and results of
+operations could be adversely impacted. 
+ The business of selling goods and services over the internet is dynamic and relatively new. Concerns about fraud, privacy and other
+problems may discourage additional consumers from adopting the internet as a medium of commerce. In countries such as the U.S. and the United Kingdom, where our services and online commerce generally
+have been available for some time and the level of market penetration of our services is higher than in other countries, acquiring new customers may be more difficult and costly than it has been in
+the past. In order to expand our customer base, we may need to appeal to and acquire customers who historically have used traditional means of commerce to purchase 
+ goods
+and services. If these target customers prove to be less active than our earlier customers our business could be adversely impacted. 
+ In
+addition, our growth is highly dependent upon the continued demand for imagery. The commercial digital imagery market is rapidly evolving, characterized by changing technologies,
+intense price competition, introduction of new competitors, evolving industry standards, frequent new service announcements and changing consumer demands and behaviors. To the extent that demand for
+imagery does not continue to grow as expected, our revenue growth will suffer. 
+ The non-payment of amounts due to us from certain of our larger customers may negatively impact our financial condition. 
+ Our revenue generated through direct sales to large organizations has grown and currently represents less than 15% of our total
+revenue. A portion of these customers typically purchase our products on credit and therefore we assume a credit risk for non-payment in the ordinary course of business. Although we evaluate the
+credit worthiness of new customers and perform
+ongoing financial condition evaluations of our existing customers, there can be no assurance that our allowances for uncollected accounts receivable balances will be sufficient. As of
+December 31, 2013, our allowance for doubtful accounts was $625,000. As our direct sales continue to grow, we expect to increase our allowance for doubtful accounts primarily as the result of
+increased sales to customers who pay on credit. 
+ Our business depends on the development and maintenance of the internet infrastructure. If the internet infrastructure experiences outages or delays our business could be
+adversely impacted. 
+ The success of our services will depend largely on the development and maintenance of the internet infrastructure. This includes
+maintenance of a reliable network backbone with the necessary speed, data capacity and security, as well as the timely development of complementary products, for providing reliable internet access and
+services. The internet has experienced, and is likely to continue to experience, significant growth in the number of users and amount of traffic. The internet infrastructure may be unable to support
+such demands. In addition, increasing numbers of users, increasing bandwidth requirements or problems caused by viruses, worms, malware and similar programs may harm the performance of the internet.
+The backbone network of the internet has been the target of such programs. The internet has experienced a variety of outages and other delays as a result of damage to portions of its infrastructure,
+and it could face outages and delays in the future. These outages and delays could reduce the level of internet usage generally as well as the level of usage of our services, which could adversely
+impact our business. 
+ Our business is subject to the risks of earthquakes, fires, floods and other natural catastrophic events and to interruption by man-made problems such as terrorism or
+computer viruses. 
+ Our systems and operations are vulnerable to damage or interruption from earthquakes, fires, floods, power losses, telecommunications
+failures, terrorist attacks, acts of war, human errors, break-ins or similar events. For example, a significant natural disaster, such as an earthquake, fire or flood, could have a material adverse
+impact on our business, operating results and financial condition, and our insurance coverage may be insufficient to compensate us for losses that may occur. In addition, acts of terrorism could cause
+disruptions in our business or the economy as a whole. Our principal executive offices are located in New York City, a region that has experienced acts of terrorism in the past. Our servers may also
+be vulnerable to computer viruses, break-ins and similar disruptions from unauthorized tampering with our computer systems, which could lead to interruptions, delays, loss of critical data or the
+unauthorized disclosure of confidential customer data. Although we have disaster recovery capabilities, there can be no assurance that we will not suffer from business interruption as a result of any
+such events. As we rely heavily on our servers, computer and communications systems and the 
+ internet
+to conduct our business and provide high-quality service to our customers and contributors, such disruptions could negatively impact our ability to run our business, result in loss of
+existing or potential customers and contributors and increased maintenance costs, which would adversely affect our operating results and financial condition. 
+ Risks Related to Ownership of Our Common Stock 
+ Our stock price has been and will likely continue to be volatile, and you could lose all or part of your investment. 
+ The trading price of our common stock has fluctuated and may continue to fluctuate substantially. Since shares of our common stock were
+sold in our initial public offering in October 2012 at a price of $17.00 per share, the reported high and low sales prices of our common stock have ranged from $21.00 to $101.98 through
+February 26, 2014. These fluctuations could cause you to lose all or part of your investment in our common stock since you may be unable to sell your shares at or above the price you paid in
+this offering. 
+ The
+trading price of our common stock depends on a number of factors, including those described in this "Risk Factors" section, many of which are beyond our control and may not be
+related to our operating performance. Factors that could cause fluctuations in the trading price of our common stock include, but are not limited to, the
+following: 
+ Furthermore,
+the stock market has experienced extreme price and volume fluctuations that have affected and continue to affect the market prices of equity securities of many companies.
+These fluctuations often have been unrelated or disproportionate to the operating performance of those companies. These broad market and industry fluctuations, as well as general economic, political
+and market conditions such as recessions, interest rate changes or international currency fluctuations, may negatively impact the market price of our common stock. If the market price of our common
+stock after this offering does not exceed the public offering price, you may not realize any return on your investment in us and may lose some or all of your investment. In the past, certain companies
+that have experienced volatility in the market price of their common stock have been subject to securities class action litigation. We may be the target of this type of litigation in the future.
+Securities litigation against us could result in substantial costs and divert our management's attention from other business concerns, which could seriously harm our business. 
+ Future sales of our common stock in the public market could cause our share price to decline. 
+ Sales of a substantial number of shares of our common stock in the public market, or the perception that such sales could occur, could
+adversely affect the market price of our common stock and may make it more difficult for you to sell your common stock at a time and price that you deem appropriate. 
+ As
+of February 26, 2014, we had 35,072,692 shares of common stock outstanding. All shares of our common stock are freely transferable without restriction or registration under the
+Securities Act of 
+ 1933,
+as amended, except for shares held by our "affiliates," which remain subject to the restrictions in Rule 144 under the Securities Act, and except for shares of restricted stock held by
+Thilo Semmelbauer, our President and Chief Operating Officer. 
+ As
+of February 26, 2014, the holders of 20,773,370 shares of common stock were entitled to rights with respect to registration of these shares under the Securities Act pursuant to
+a registration rights agreement. We filed a registration statement on Form S-8 under the Securities Act covering all of the shares of common stock issuable pursuant to options granted in
+exchange for value appreciation right, or VAR, grants outstanding as of the time of the Reorganization, as well as options and shares reserved for future issuance under our 2012 Omnibus Equity
+Incentive Plan and our 2012 Employee Stock Purchase Plan. Once we register these shares, they can be freely sold in the public market upon issuance and vesting, subject to the lock-up agreements
+contained in the terms of the award agreements delivered under such plans, or unless they are held by "affiliates," as that term is defined in Rule 144 of the Securities Act. 
+ We
+may also issue our shares of common stock or securities convertible into our common stock from time to time in connection with a financing, acquisition, investment or otherwise. Any
+such issuance could result in substantial dilution to our existing stockholders and cause the trading price of our common stock to decline. 
+ Jonathan Oringer, our founder, and other significant investors control approximately 58.2% of our outstanding shares of common stock, and this concentration of ownership may
+have an effect on transactions that are otherwise favorable to our stockholders. 
+ As of February 26, 2014, Jonathan Oringer, our founder and largest stockholder, owned approximately 45.5% of our outstanding
+shares of common stock. In addition, certain funds affiliated with Insight Venture Partners, or Insight, owned approximately 12.7% of our outstanding shares of common stock. As a result,
+Mr. Oringer and Insight collectively control the outcome of matters submitted to our stockholders for approval, including the election of directors. This concentration of ownership may also
+delay, deter or prevent a change in control, and may make some transactions more difficult or impossible to complete without the support of these stockholders, regardless of the impact of such
+transaction on our other stockholders. 
+ We have incurred and will continue to incur increased costs and our management will face increased demands as a result of operating as a public company. 
+ We have incurred and will continue to incur significant legal, accounting and other expenses as a result of becoming a public company.
+In addition, our administrative staff has performed and will continue to be required to perform additional tasks. For example, as a public company, we have adopted additional internal controls and
+disclosure controls and procedures and bear all of the internal and external costs of preparing and distributing periodic public reports in compliance with our obligations under applicable securities
+laws and New York Stock Exchange rules. 
+ In
+addition, changing laws, regulations and standards relating to corporate governance and public disclosure, including the Sarbanes-Oxley Act, the Dodd-Frank Act and related regulations
+implemented by the Securities and Exchange Commission, or the SEC, and the stock exchanges are creating uncertainty for public companies, increasing legal and financial compliance costs and making
+some activities more time-consuming. We are currently evaluating and monitoring developments with respect to new and proposed rules and cannot predict or estimate the amount of additional costs we may
+incur or the timing of such costs. These laws, regulations and standards are subject to varying interpretations, in many cases due to their lack of specificity, and, as a result, their application in
+practice may evolve over time as new guidance is provided by regulatory and governing bodies. This could result in continuing uncertainty regarding compliance matters and higher costs necessitated by
+ongoing revisions 
+ to
+disclosure and governance practices. We intend to invest resources to comply with evolving laws, regulations and standards, and this investment may result in increased general and administrative
+expenses and a diversion of management's time and attention from revenue-generating activities to compliance activities. If our efforts to comply with new laws, regulations and standards differ from
+the activities intended by regulatory or governing bodies due to ambiguities related to practice, regulatory authorities may initiate legal proceedings against us and our business may be harmed. We
+have incurred and will continue to incur substantially higher costs to obtain directors' and officers' insurance as a result of becoming a public company. These factors could also make it more
+difficult for us to attract and retain qualified members of our board of directors, particularly to serve on our audit committee and compensation committee, and attract and retain qualified executive
+officers. 
+ The
+increased costs associated with operating as a public company may decrease our net income or increase our net loss, and may cause us to reduce costs in other areas of our business or
+increase the prices of our products or services to offset the effect of such increased costs. Additionally, if these requirements divert our management's attention from other business concerns, they
+could have a material adverse effect on our business, financial condition and results of operations. 
+ The JOBS Act allows us to postpone the date by which we must comply with certain laws and regulations and to reduce the amount of information provided in reports filed with
+the SEC. We cannot be certain if the reduced disclosure requirements applicable to emerging growth companies will make our common stock less attractive to investors. 
+ We are and we will remain an "emerging growth company" until the earliest to occur of (i) the last day of the fiscal year during
+which our total annual revenue equals or exceeds $1 billion (subject to adjustment for inflation), (ii) the last day of the fiscal year following the fifth anniversary of our initial
+public offering, (iii) the date on which we have, during the previous three-year period, issued more than $1 billion in non-convertible debt, or (iv) the date on which we are
+deemed a "large accelerated filer" under the Securities and Exchange Act of 1934, as amended, or the Exchange Act. For so long as we remain an "emerging growth company" as defined in the Jumpstart Our
+Business Startups Act of 2012, or the JOBS Act, we may take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not "emerging
+growth companies" including, but not limited to, not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act, reduced disclosure obligations
+regarding executive compensation in our periodic reports and proxy statements, and exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and stockholder
+approval of any golden parachute payments not previously approved. We cannot predict if investors will find our common stock less attractive because we will rely on some or all of these exemptions. If
+some investors find our common stock less attractive as a result, there may be a less active trading market for our common stock and our stock price may be more volatile. If we avail ourselves of
+certain exemptions from various reporting requirements, our reduced disclosure may make it more difficult for investors and securities analysts to evaluate us and may result in less investor
+confidence. 
+ If we fail to maintain an effective system of internal controls, we may not be able to report our financial results accurately or in a timely fashion, and we may not be able
+to prevent fraud; in such case, our stockholders could lose confidence in our financial reporting, which would harm our business and could negatively impact the price of our stock. 
+ Effective internal controls are necessary for us to provide reliable, timely financial reports and prevent fraud. In addition,
+Section 404 of the Sarbanes-Oxley Act of 2002 required us to evaluate and report on our internal control over financial reporting beginning with this Annual Report on Form 10-K for the
+year ending December 31, 2013. The process of implementing our internal controls and complying with Section 404 has been and will continue to be expensive and time-consuming, and 
+ requires
+significant attention of management. We cannot be certain that these measures will ensure that we implement and maintain adequate controls over our financial processes and reporting in the
+future. Even if we conclude that our internal control over financial reporting provides reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles, because of its inherent limitations, internal control over financial reporting may not prevent or detect
+fraud or misstatements. Failure to implement required new or improved controls, or difficulties encountered in their implementation, could harm our results of operations or cause us to fail to meet
+our reporting obligations. If we discover a material weakness, the disclosure of that fact, even if quickly remedied, could reduce the market's confidence in our financial statements and harm our
+stock price. 
+ Our
+independent registered public accounting firm will not be required to formally attest to the effectiveness of our internal control over financial reporting until we are no longer an
+"emerging growth company," as described above. At such time that an attestation is required, our independent registered public accounting firm may issue a report that is adverse in the event that it
+is not satisfied with the level at which our controls are documented, designed or operating. Our remediation efforts may not enable us to avoid a material weakness in the future. 
+ Anti-takeover provisions in our charter documents and Delaware law could discourage, delay or prevent a change in control of our company and may affect the trading price of
+our common stock. 
+ Our amended and restated certificate of incorporation and bylaws contain provisions that could have the effect of rendering more
+difficult or discouraging an acquisition deemed undesirable by our board of directors. Our corporate governance documents include provisions that: 
+ As
+a Delaware corporation, we are also subject to provisions of Delaware law, including Section 203 of the Delaware General Corporation Law, which prevents some stockholders
+holding more than 15% of our outstanding common stock from engaging in certain business combinations without the prior approval of our board of directors or the holders of substantially all of our
+outstanding common stock. 
+ These
+provisions of our charter documents and Delaware law, alone or together, could delay or deter hostile takeovers and changes in control or changes in our management. Any provision
+of our amended and restated certificate of incorporation or bylaws or Delaware law that has the effect of delaying or deterring a change in control could limit the opportunity for our stockholders to
+receive a premium for their shares of our common stock. Even in the absence of a takeover attempt, the 
+ existence
+of these provisions may adversely affect the prevailing market price of our common stock if they are viewed as discouraging takeover attempts in the future. 
+ If securities or industry analysts do not publish or cease publishing research or reports about us, our business or our market, or if they change their recommendations
+regarding our stock adversely, our stock price and trading volume could decline. 
+ The trading market for our common stock will be influenced by the Product reports that industry or securities analysts may publish
+about us, our business, our market or our competitors. If any of the analysts who may cover us change their recommendation regarding our stock adversely, or provide more favorable relative
+recommendations about our competitors, our stock price would likely decline. If any analyst who may cover us were to cease coverage of our company or fail to regularly publish reports on us, we could
+lose visibility in the financial markets, which in turn could cause our stock price or trading volume to decline. 
+ We do not expect to declare any dividends in the foreseeable future. 
+ We do not anticipate declaring any cash dividends to holders of our common stock in the foreseeable future. Consequently, investors may
+need to rely on sales of their common stock after price appreciation, which may never occur, as the only way to realize any future gains on their investment. Investors seeking cash dividends should
+not purchase our common stock. 
+ Item 1B.    Unresolved Staff Comments.

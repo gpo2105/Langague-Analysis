@@ -1,0 +1,479 @@
+
+ Competition in the wireless industry is intense and is expected to intensify in the future due to multiple wireless industry factors such as increasing market penetration, decreasing customer churn rates, introduction of new products, new competitors and c 
+ hanging prices.  There is competition in pricing; handsets and other devices; network quality, coverage, speed and technologies; distribution; new entrants; and other categories.  In particular, wireless competition includes aggressive promotional pricing 
+ to induce customers to switch carriers, which could result in switching activity and churn; data network speed is a competitive differentiator; and there has been a resurgence of new entrants to wireless markets including prepaid brands that have been purc 
+ hased by national carriers.  TDS’ ability to compete effectively will depend, in part, on its ability to anticipate and respond to various competitive factors affecting the telecommunications industry.  TDS anticipates that competition will continue to cau 
+ se the prices for products and services to decline and the costs to compete to increase.  Most of TDS’ competitors are national or global telecommunications companies that are larger than TDS, possess greater financial and other resources, possess more ext 
+ ensive coverage areas and more spectrum within their coverage areas, and market other services with their communications services that TDS does not offer.  Further, other companies that currently are less competitive may also add more efficient low-band sp 
+ ectrum to become more competitive in TDS’ primary markets.  In particular, to the extent that existing competitors or new entrants acquire low-band (600 MHz) spectrum in FCC Auction 1002 in TDS markets, TDS could face increased competition over time from c 
+ ompetitors which hold more efficient low-band spectrum.  In addition, TDS may face competition from technologies that may be introduced in the future.  New technologies, services and products that are more commercially effective than the technologies, serv 
+ ices and products offered by TDS may be developed.  Further, new technologies may be proprietary such that TDS is not able to adopt such technologies.  There can be no assurance that TDS will be able to compete successfully in this environment. 
+ Sources o 
+ f competition to TDS’ wireless business typically include two to four competing wireless telecommunications service providers in each market, wireline telecommunications service providers, cable companies, resellers (including MVNO), and providers of other 
+ alternate telecommunications services.  Many of TDS’ wireless competitors and other competitors have substantially greater financial, technical, marketing, sales, purchasing and distribution resources than TDS. 
+ Sources of competition to TDS’ Wireline ILEC 
+ business include, but are not limited to, resellers of local exchange services, interexchange carriers, RBOCs, direct broadcast satellite providers, wireless communications providers, cable companies, access providers, CLECs, fiber overbuilders, VoIP prov 
+ iders and providers using other emerging technologies.  The Wireline CLEC business sources of competition include the sources identified above as well as the ILEC in each market, which enjoys competitive advantages, including its wireline connection to vir 
+ tually all of the customers and potential customers of Wireline’s CLEC business, its established brand name, its lower overhead costs, and its substantial financial resources.  Wireline’s CLEC business is typically required to discount services to win pote 
+ ntial customers.  Further, this business may be negatively impacted if it cannot provide levels of bandwidth prospective customers demand due in large part to lack of availability of IP-based wholesale services at competitive prices.  In the future, TDS ex 
+ pects the number of its physical access lines served to continue to be adversely affected by wireless voice and broadband substitution and by cable company competition. 
+ Some of the specific risks presented by certain Wireline competitors include: 
+ TDS’ Cable business also provides broadband, video and voice services.  Cable’s business f 
+ aces sources of competition similar to the Wireline business, but with some differences.  In particular, Cable does not typically compete against another cable company for broadband services, but competes against ILECs that primarily offer DSL-based servic 
+ es and may also offer fiber-based and other premium and enhanced data services.  Cable provides VoIP services rather than traditional wireline voice connections and faces competition from other VoIP providers, but also faces competition from ILECs providin 
+ g traditional wireline voice connections.  With respect to video, Cable also competes against broadcast television, direct broadcast satellite providers, on-line video services, and wireline providers which have begun to upgrade their networks to provide v 
+ ideo services in addition to voice and high-speed internet access services. 
+ Sources of competition for HMS’ business primarily include large technology and other companies, as well as smaller independent companies that focus on mid-market companies.  In ad 
+ dition, new entrants may emerge and grow rapidly creating additional sources of competition or companies may begin insourcing IT services.  The IT services market is large and complex, with a diverse array of segments in which performance and market dynami 
+ cs vary considerably.  As a result of these dynamics the IT services market is a highly competitive environment.  Therefore, the HMS business is increasingly required to assume greater potential contractual risk obligations, such as risks relating to the c 
+ onsequences of data breaches or unauthorized disclosure of confidential customer information, in order to win new customer engagements.  In the event of such incidents, the HMS business could be materially adversely affected. 
+ If TDS does not adapt to compe 
+ te effectively in such a highly competitive environment, such competitive factors could result in product, service, pricing or cost disadvantages and could have an adverse effect on TDS’ business, financial condition or results of operations. 
+ The successful execution of business strategies, the optimal allocation within TDS’ portfolio of assets and optimal capital allocation decisions depend on various internal and external factors, many of which are not in TDS’ control.  TDS’ ability to ac 
+ hieve projected financial results by implementing and executing its business strategies and optimally allocating its assets and capital could be affected by such factors.  Such factors include but are not limited to pricing practices by competitors, relati 
+ ve scale, purchasing power, roaming and other strategic agreements, wireless device availability, timing of introduction of wireless devices, access to spectrum, emerging technologies, programming and retransmission costs, mid-market demand for cloud and h 
+ osted services and other factors.  In addition, there is no assurance that U.S. Cellular’s or TDS Telecom’s strategies will be successful.  Even if TDS executes its business strategies as intended, such strategies may not be successful in the long term at 
+ achieving growth in customers, revenues, net income, or generating portfolio returns greater than TDS’ cost of capital.  In addition, if at some point a change in asset allocation is desired, the company may be unable to alter asset allocation to meet grow 
+ th and return goals in a timely and efficient manner.  In such case, there would be an adverse effect on TDS’ business, financial condition and results of operations.  TDS’ current forecast indicates that TDS will not achieve a return on capital that excee 
+ ds its cost of capital in the foreseeable future.  See Item 1. Business for additional information on TDS’ business strategy. 
+ U.S. Cellular is a regional wireless carrier, but competes primarily against much larger national wireless carriers with much gr 
+ eater resources.  Its business strategy in attempting to attract and retain wireless customers through a value proposition comprised of a high-quality network, outstanding customer service, and competitive devices, plans and pricing, all provided with a lo 
+ cal focus has not resulted in, and in the future may not result in, performance that achieves returns in line with or above its cost of capital.  U.S. Cellular’s current forecast indicates that U.S. Cellular will not achieve a return on capital that exceed 
+ s its cost of capital in the foreseeable future.  U.S. Cellular also might be unable to adopt technologies, products and services as fast as its larger competitors.  As a result, consumers who are eager to adopt new technologies, products and services more 
+ quickly may select U.S. Cellular’s competitors rather than U.S. Cellular as their service provider.  To the extent that U.S. Cellular does not attract or retain these types of customers, U.S. Cellular could be at a competitive disadvantage and have a cust 
+ omer base that generates lower profit margins relative to its competition. 
+ TDS Telecom operates the Wireline, Cable and HMS segments.  Wireline and Cable each provide broadband, video and voice services and, as a result, have certain risks in common, but a 
+ lso have certain risks that are specific to that segment.  HMS provides a wide range of IT services and has risks that are not shared with the other business segments. 
+ The overall strategy for both the Wireline and Cable businesses is to offer the best bro 
+ adband connection in its markets in order to capitalize on data growth and the customers’ need for higher broadband speeds.  Wireline’s DSL-based services have several limitations compared to 
+ DOCSIS technologies employed by cable companies.  In addition, t 
+ he rural nature of Wireline’s markets make it more difficult to provide high-speed products efficiently.  Wireline is also faced with other significant challenges, including customer connection and access minute declines in traditional wireline voice servi 
+ ces, competition from cable, VoIP, wireless and other wireline providers as well as decreases in intercarrier compensation received for the use of Wireline’s networks.  Wireline must continually adjust its cost structure as a result of these challenges.  A 
+ failure to develop and maintain an efficient cost structure would have an adverse effect on the Wireline business. 
+ Wireline’s IPTV product and Cable’s business have significant costs and risks relating to programming and retransmission.  Such costs have b 
+ een increasing and these costs may not be able to be fully passed on to customers. 
+ In addition, both businesses are limited in their ability to obtain programming at favorable costs and terms due to their small scale 
+ .  A wide range of regulatory or other 
+ issues also affect both businesses, 
+ including matters pertaining to set-top boxes, equipment connectivity, content regulation, closed captioning, pole attachments, privacy, copyright, technical standards, and municipal entry into video and broadband.  Furt 
+ her, changes in consumer behavior and/or new technologies are causing consumers to reduce or cancel their video services and instead seek to obtain video on demand over the internet or through new technologies. 
+ Although Cable’s business development strateg 
+ y includes evaluating opportunities for possible further acquisitions of desirable cable companies on attractive terms to increase the scale of its business, there is no assurance that this strategy will be successful 
+ HMS’ 
+ business strategy is to create, 
+ deliver and support a platform of IT products and services tailored for mid-sized business customers and grow the business organically 
+ or through acquisitions 
+ .  HMS’ service platform provides the potential for expansion of current products and services to 
+ additional markets in or near HMS’ current footprint. 
+ There is no assurance that HMS will make any 
+ acquisitions of companies 
+ strengthen its operating market areas 
+ enter additional mark 
+ ets.  Even if it does so 
+ , there is no assurance that 
+ any such acq 
+ uisitions will be successful 
+ The HMS business is faced with a number of risks in its pursuit of its strategy, including:  the rate of outsourcing IT needs and moving to the cloud by mid-sized business customers; 
+ the ability to sell recurring revenue serv 
+ ices; whether potential customers ascribe sufficient value to HMS’ more customized cloud and hosted services compared to more commodity based offerings of larger competitors; 
+ HMS’ limited scale when co 
+ mpeting with larger competitors; and the impact of IT 
+ wage inflation on the profitability of on-shore support services. 
+ A failure by TDS to execute its business strategies successfully or to allocate resources or capital optimally could have an adverse effect on TDS’ businesses, financial condition or results 
+ of operations. 
+ TDS and its subsidiaries operate capital-intensive businesses.  TDS has used internally-generated funds and also 
+ has 
+ obtained substantial funds from external sources for general corporate purposes.  In the past, TDS’ exis 
+ ting cash and investment balances, funds available under its revolving credit facilities, funds from other financing sources, including a term loan and other long-term debt, and cash flows from operating, investing and financing activities, including sales 
+ of assets or businesses, provided sufficient liquidity and financial flexibility for TDS to meet its normal day-to-day operating needs and debt service requirements, to finance the build-out and enhancement of markets and to fund acquisitions.  There is n 
+ o assurance that this will be the case in the future.  It may be necessary from time to time to increase the size of the existing revolving credit facilities, to put in place new credit facilities, or to obtain other forms of financing in order to fund pot 
+ ential expenditures.  TDS’ liquidity would be adversely affected if, among other things, TDS is unable to obtain short or long-term financing on acceptable terms, TDS makes spectrum license purchases in FCC auctions or from other parties, 
+ TDS makes busines 
+ s acquisitions, 
+ the LA Partnership 
+ discontinues or 
+ reduces distributions compared to prior historical levels and/or 
+ Eligible Telecommunications Carrier 
+ ETC 
+ and/or other regulatory support payments decline.  In addition, although sales of assets or busi 
+ nesses by TDS have been an important source of liquidity for TDS in recent periods, TDS does not expect a similar level of such sales in the future, which will reduce a source of liquidity for TDS.  In recent years, TDS’ credit rating has declined to sub-i 
+ nvestment grade.  In certain recent periods, TDS has incurred negative free cash flow 
+ (defined as Cash flows from operating activities 
+ less Cash 
+ paid 
+ for additions t 
+ o property, plant and equipment) 
+ and this will continue in the future if operating results 
+ do not improve 
+ or if capital expenditures do not decrease.  TDS currently expects to have negative 
+ free cash flow in 
+ 2017 
+ .  TDS may require substantial additional capital for, among other uses, funding day-to-day operating needs, working capital, acquisiti 
+ ons of providers of wireless or wireline telecommunications services, cable markets, IT services or other businesses, spectrum license or system acquisitions, system development and network capacity expansion, debt service requirements, the repurchase of s 
+ hares, the payment of dividends, or making additional investments.  There can be no assurance that sufficient funds will continue to be available to TDS or its subsidiaries on terms or at prices acceptable to TDS.  Insufficient cash flows from operating ac 
+ tivities, changes in its credit ratings, defaults of the terms of debt or credit agreements, uncertainty of access to capital, deterioration in the capital markets, reduced regulatory capital at banks which in turn limits their ability to borrow and lend, 
+ other changes in the performance of TDS or in market conditions or other factors could limit or restrict the availability of financing on terms and prices acceptable to TDS, which could require TDS to reduce its acquisition, capital expenditure and busines 
+ s development programs, reduce the acquisition of spectrum licenses, and/or reduce or cease share repurchases and/or the payment of dividends.  TDS cannot provide assurances that circumstances that could have a material adverse effect on its liquidity or c 
+ apital resources will not occur.  Any of the foregoing would have an adverse impact on TDS’ businesses, financial condition or results of operations. 
+ TDS has a significant amount of indebtedness and may need to incur additional indebtedness.  TDS’ 
+ level of indebtednes 
+ s could have important consequences.  For example, it 
+ (i) 
+ may limit 
+ TDS’ 
+ ability to obtain additional financing for working capital, capital expenditures or general corporate purposes, particularly if the ratings assigned to 
+ its 
+ debt securities by rating o 
+ rganizations are revised downward; 
+ (ii) 
+ will require 
+ TDS 
+ to dedicate a substantial portion of 
+ its 
+ cash flow from operations to the payment of interest and principal on 
+ its 
+ debt, reducing the funds available to 
+ TDS 
+ for other purposes including expansion thr 
+ ough acquisitions, capital expenditures, marketing spending and expansion of 
+ its 
+ business; and 
+ (iii) 
+ may limit 
+ TDS’ 
+ flexibility to adjust to changing business and market conditions and make 
+ TDS 
+ more vulnerable to a downturn in general economic conditions a 
+ s compared to 
+ TDS’ 
+ competitors. 
+ TDS’ ability to make scheduled payments on its indebtedness or to refinance it will depend on its financial and operating performance, which, in turn, is subject to prevailing economic and competitive conditions and other f 
+ actors beyond its control.  In addition, TDS’ leverage may put it at a competitive disadvantage to some of its competitors that are not as leveraged. 
+ The TDS and U.S. Cellular revolving credit facilities and the U.S. Cellular term loan facility require T 
+ DS or U.S. Cellular, as applicable, to comply with certain affirmative and negative covenants, including certain financial covenants.  Depending on actual financial performance of TDS and U.S. Cellular, there is a risk that TDS and/or U.S. Cellular could f 
+ ail to satisfy the required financial covenants.  If TDS or U.S. Cellular breach a financial or other covenant of any of these agreements, it would result in a default under that agreement, and could involve a cross-default under other debt instruments.  T 
+ his could in turn cause the affected lenders to accelerate the repayment of principal and accrued interest on any outstanding debt under such agreements and, if they choose, terminate the facility.  If appropriate, TDS and U.S. Cellular may request the app 
+ licable lender for an amendment of financial covenants in the TDS and U.S. Cellular revolving credit facility and the U.S. Cellular term loan facility, in order to provide additional financial flexibility to TDS and U.S. Cellular, and may also seek other c 
+ hanges to such facilities.  There is no assurance that the lenders will agree to any amendments.  If the lenders agree to amendments, this may result in additional payments or higher interest rates payable to the lenders and/or additional restrictions.  Re 
+ strictions in such debt instruments may limit TDS’ operating and financial flexibility. 
+ As a result, TDS’ level of indebtedness, restrictions contained in debt instruments and/or possible breaches of covenants, defaults, and acceleration of indebtedness c 
+ ould have an adverse effect on TDS’ business, financial condition, revenues, results of operations and cash flows. 
+ TDS’ revenues include roaming revenues related to the use of TDS’ network by other wireless carriers’ customers who travel within TDS’ coverage areas. 
+ Changes in the network footprints of carriers due to mergers, acquisitions or network expansions could h 
+ ave an adverse effect on TDS’ roaming revenues. 
+ For example, consolidation among other carriers which have network footprints that currently overlap TDS’ network could decrease the amount of roaming revenues for TDS. 
+ Similarly, 
+ TDS’ wireless customers c 
+ an access another carrier’s digital system automatically only if the other carrier allows TDS’ customers to roam on its network.  TDS relies on roaming agreements with other carriers to provide roaming capability to its customers in areas of the U.S. and i 
+ nternationally outside of its service areas, including Mexico and Canada, and to improve coverage within selected areas of TDS’ network footprint.  Such agreements cover traditional voice services as well as data services.  Although TDS currently has long- 
+ term roaming agreements with certain other carriers, these agreements generally are subject to renewal and termination if certain events occur.  FCC rules and orders impose certain requirements on wireless carriers to offer certain roaming arrangements to 
+ other carriers.  However, carriers frequently disagree on what is required.  Although TDS has entered into 4G LTE roaming agreements with national carriers, there is no assurance that TDS will be able to maintain these agreements and/or enter into new agre 
+ ements with other carriers to provide roaming services using 4G LTE or other 
+ technologies 
+ or that it will be able to do so on reasonable or cost effective terms. 
+ Some competitors may be able to obtain lower roaming rates than TDS is able to obtain because 
+ they have larger call volumes or may be able to reduce roaming charges by providing service principally over their own networks.  In addition, the quality of service that a wireless carrier delivers during a roaming call may be inferior to the quality of 
+ service TDS provides, the price of a roaming call may not be competitive with prices of other wireless carriers for such call, and TDS’ customers may not be able to use some of the advanced features, such as voicemail notification or data applications, tha 
+ t TDS customers enjoy when making calls on TDS’ network.  TDS’ rate of adoption of new technologies, such as those enabling high-speed data and voice services, could affect its ability to enter into or maintain roaming agreements with other carriers.  In a 
+ ddition, TDS’ wireless technology may not be compatible with technologies used by other carriers, which may limit the ability of TDS to enter into voice or data roaming agreements with such other carriers.  Carriers whose customers roam on TDS’ network cou 
+ ld switch their business to new operators or, over time, to their own networks.  Changes in roaming usage patterns, rates for roaming minutes or data usage or relationships with carriers whose customers generate roaming minutes or data use on TDS’ network 
+ could have an adverse effect on TDS’ revenues and revenue growth.  Further, other carriers could negotiate higher roaming rates for accessing their networks, resulting in increased roaming expense for TDS. 
+ To the extent that other carriers expand their 
+ networks in TDS’ service areas, the roaming arrangements between TDS and these other carriers could become less strategic for them.  That is, these other carriers will have fewer or less extensive geographic areas where roaming services are required by the 
+ ir customers and, as a result, the roaming arrangements could become less critical to serving their customer base.  This presents a risk to TDS in that, to the extent TDS is not able to enter into economically viable roaming arrangements with these other c 
+ arriers, this could impact TDS’ ability to service its customers in geographic areas where TDS does not have its own network. 
+ If TDS’ roaming revenues decline, roaming expenses increase, or if TDS is unable to obtain or maintain roaming agreements with oth 
+ er carriers that contain pricing and other terms that are competitive and acceptable to TDS, and that satisfy TDS’ quality and interoperability requirements, its business, financial condition or results of operations could be adversely affected. 
+ TDS’ wi 
+ reless business depends on the ability to use portions of the radio spectrum licensed by the FCC.  TDS could fail to obtain access to sufficient spectrum capacity in new or existing critical markets, whether through FCC auctions or other transactions, in o 
+ rder to meet the anticipated spectrum requirements associated with increased demand for existing services, especially increases in customer demand for data services, and to enable deployment of next-generation services.  TDS believes that this increased de 
+ mand for data services reflects a trend that will continue for the foreseeable future.  However, TDS could fail to accurately forecast its future spectrum requirements considering changes in customer usage patterns, technology requirements and the expanded 
+ demands of new services.  Such a failure could have an adverse impact on the quality of TDS’ services or TDS’ ability to roll out such future services in some markets, or could require that TDS curtail existing services in order to make spectrum available 
+ for next-generation services.  S 
+ pectrum constrained providers could be effectively capped in increasing market share. 
+ As spectrum constrained providers gain customers, they use up their network capacity. 
+ Since they lack spectrum, they can respond to dem 
+ and only by adding cell sites, which is capital intensive, adds fixed operating costs, is limited by zoning considerations, and ultimately may not be cost effective. 
+ TDS may acquire access to spectrum through a number of alternatives, including acquisiti 
+ ons, exchanges and participation in spectrum auctions.  TDS may participate in spectrum auctions conducted by the FCC in the future.  As required by law, the FCC has conducted auctions for licenses to use some parts of the radio spectrum.  The decision to 
+ conduct auctions, and the determination of what spectrum frequencies will be made available for auction and the determination of geographic size of licenses, are made by the FCC pursuant to laws that it administers.  The FCC may not be able to allocate spe 
+ ctrum sufficient to meet the demands of all those wishing to obtain licenses for new market entry or to expand their spectrum holdings 
+ to meet the expanding demand for data services or to address other spectrum constraints 
+ .  Due to factors such as geograph 
+ ic size of licenses and auction bidders that may raise prices beyond acceptable levels, TDS may not be successful in FCC auctions in obtaining access to the spectrum that it believes is necessary to implement its business and technology strategies. 
+ In ad 
+ dition, newly auctioned spectrum may not be compatible with existing spectrum, and vendors may not create suitable products to use such spectrum. 
+ Further, access to spectrum licenses won in FCC auctions may not be available on a timely basis.  Such access 
+ is dependent upon the FCC actually granting licenses won, which can be delayed for various reasons.  Furthermore, newly licensed spectrum may not be available for immediate use since the radio operations of incumbent users, including in some cases governm 
+ ent agencies, may need to be relocated to other portions of the radio spectrum, and/or the newly licensed spectrum may be subject to sharing and coordination obligations for a period of time. 
+ TDS also may seek to acquire radio spectrum through purchases a 
+ nd exchanges with other spectrum licensees.  However, TDS may not be able to acquire sufficient spectrum through these types of transactions, and TDS may not be able to complete any of these transactions on favorable terms. 
+ From time to time, the FCC conduc 
+ ts auctions through which additional spectrum is made available for the provision of wireless services.  TDS has participated in such auctions in the past and may participate in other auctions conducted by the FCC in the future.  FCC anti-collusion rules 
+ lace certain restrictions on business communications and disclosures by participants in an FCC auction.  These anti-collusion rules 
+ may restrict the normal conduct of TDS’ business, TDS’ acquisition, divestiture, exchange and other corporate development ac 
+ tivity and/or disclosures by TDS relating to an FCC auction.  The 
+ restrictions could have an adverse effect on TDS’ business, financial condition or results of operations. 
+ As a result of U.S. Cellular’s application to participate in 
+ the FCC’s forward aucti 
+ on of 600 MHz spectrum licenses, referred to as 
+ Auction 1002, 
+ since February 10, 2016, 
+ TDS has been subject to FCC anti-collusion rules that place certain restrictions on public disclosures and business communications with other companies relating to U.S. 
+ Cellular’s participation. 
+ As a result of the FCC’s announcement of U.S. Cellular as a qualified bidder on July 15, 2016, t 
+ hese restrictions will continue until the down payment deadline for Auction 1002, which will be ten business days after release of th 
+ e FCC’s Channel Reassignment Public Notice, following the end of the auction.  These anti-collusion rules may restrict the conduct of certain TDS activities with other auction applicants as well as with nationwide providers of wireless services which are n 
+ ot applicants.  The restrictions could have an adverse effect on TDS’ business, financial condition or results of operations. 
+ See Exhibit 13 to this Form 10-K, under “Regulatory Matters – FCC Auction 1002” for 
+ a summary of 
+ U.S. Cellular’s participation in 
+ Auction 1002. 
+ TDS’ operations are subje 
+ ct to varying degrees of regulation by the FCC, state public utility commissions and other federal, state and local regulatory agencies and legislative bodies.  Changes in the administration of the various regulatory agencies and legislative bodies could r 
+ esult in different policies with respect to many federal laws and regulations, including but not limited to changes to fiscal and tax policies, which may include comprehensive tax reform. 
+ New or amended regulatory requirements could increase TDS’ costs an 
+ d divert resources from other initiatives. 
+ Adverse decisions, increased regulation, or changes to existing regulation by regulatory bodies could negatively impact TDS’ operations by, among other things, changing the amount that can be charged for local, i 
+ ntrastate or interstate access rates, increasing TDS’ costs of doing business, permitting greater competition or limiting TDS’ ability to engage in certain sales or marketing activities.  New regulatory mandates or enforcement may require unexpected or 
+ inc 
+ reased 
+ capital 
+ expenditures 
+ , lost revenues, 
+ higher operating expenses 
+ or other changes. 
+ Court decisions and rulemakings could have a substantial impact on TDS’ operations, including rulemakings on intercarrier access compensation, state and federal univer 
+ sal service, and treatment of VoIP traffic or unbundled network elements.  Litigation and different objectives among federal and state regulators could create uncertainty and delay TDS’ ability to respond to new regulations 
+ .  Further, wireless licenses are 
+ subject to renewal by the FCC and could be revoked in the event of a violation of applicable laws or regulatory requirements.  Also, FCC rules relating to net neutrality, broadband consumer privacy and other rules may result in additional costs for compli 
+ ance and may limit opportunities to derive profits from certain business practices or resources, if not amended or rescinded. 
+ TDS attempts to timely and fully comply with all regulatory requirements.  However, TDS is unable to predict the future actions of 
+ the various legislative and regulatory bodies that govern 
+ TDS, but such actions could have adverse effects on TDS’ business.  Any failure by TDS to timely or fully comply with any regulatory requirements could adversely affect TDS’ financial condition, re 
+ sults of operations or ability to do business. 
+ For additional information about TDS’ regulatory environment, see Risk Factor Number 15 below 
+ and “Regulatory Matters” in Exhibit 13 to this Form 10-K. 
+ TDS’ businesses are high 
+ ly technical and competition for skilled talent in the telecommunications and IT services industries is aggressive.  Due to competition for qualified management, technical, sales and other personnel, there can be no assurance that TDS will be able to conti 
+ nue to attract and/or retain people of outstanding potential for the development of its business.  The loss of the services of existing key personnel as well as the failure to recruit additional qualified personnel in a timely manner could have an adverse 
+ effect on TDS’ business, financial condition or results of operations. 
+ TDS’ assets and revenue streams are concentrated primarily in the U.S. telecommunications industry.  The 
+ U.S. 
+ telecommunications industry is facing significant change and an uncertain operating environment.  TDS’ focus on the U.S. telecommunications industry, together with its positioning relative to larger competitors with greater resources within the industry, 
+ may represent increased risk for investors due to the lack of diversification.  This could have an adverse effect on TDS’ ability to attain and sustain long-term, profitable revenue growth and could have an adverse effect on its business, financial conditi 
+ on or results of operations. 
+ There has been a trend in the telecommunications, IT services and related industries in recent years towards consolidation of service providers through acquisitions, reorganizations and joint ventures.  This trend could continue, 
+ leading to larger competitors over time.  TDS has smaller scale efficiencies compared to larger competitors.  TDS may be unable to compete successfully with larger companies that have substantially greater financial, technical, marketing, sales, purchasin 
+ g and distribution resources or that offer more services than TDS, which could adversely affect TDS’ revenues and costs of doing business.  Specifically, TDS’ smaller scale relative to most of its competitors could have the following impacts, among others: 
+ TDS’ telecommunications businesses increasingly depend on access to content for data and access to new wireless devices being developed by vendors.  TDS’ ability to obtain such access depends in part on other parties.  If TDS is 
+ unable to obtain timely access to new content or wireless devices being developed by vendors, its business, financial condition or results of operations could be adversely affected. 
+ As a result of the foregoing, TDS’ smaller scale relative to larger compe 
+ titors could adversely affect TDS’ business, financial condition or results of operations. 
+ Changes in any of several factors could have an adverse effect on TDS’ business, financial condition or results of operations.  These factors incl 
+ ude, but are not limited to: 
+ The telec 
+ ommunications and IT services industries are experiencing significant changes in technologies and services expected by customers.  In the telecommunications industry, this is evidenced by evolving industry standards, ongoing improvements in the capacity an 
+ d quality of digital technology, shorter development cycles for new services and products, and enhancements and changes in end-user requirements and preferences.  Widespread deployment of new technologies could cause the technology used on TDS’ wireless ne 
+ tworks, traditional circuit-switched or IP-based networks, and cable networks to become less competitive or obsolete.  Also, high-speed wireless networks (“wireless broadband”) represent a product offering and opportunity for TDS’ wireless business, but al 
+ so represent a risk for TDS’ Wireline and Cable businesses as customers may elect to substitute their wireline broadband connection for wireless broadband.  Further, fixed-mobile convergence services that combine wireline broadband services with mobile ser 
+ vices represent a competitive threat.  If the trend toward convergence continues, TDS is at a competitive disadvantage to larger competitors, including the national wireless carriers and other potential large new entrants with much greater financial and ot 
+ her resources in adapting to such convergence.  In addition, the IT services market is characterized by rapidly changing technology and services.  Future technological changes or advancements may enable other technologies to equal or exceed TDS’ current le 
+ vels of service and render its system infrastructure obsolete.  For example, the timing, cost, and availability of CDMA enabled devices and other CDMA ecosystem support needs may inhibit TDS’ ability to maintain 3G wireless voice services until it is fully 
+ replaced by VoLTE.  TDS may not be able to respond to such changes and implement new technology on a timely or cost-effective basis, which could reduce its revenues or increase its costs of doing business.  If TDS cannot keep pace with these technological 
+ changes or other changes in the telecommunications or IT services industries over time, its financial condition, results of operations or ability to do business could be adversely affected. 
+ TDS’ wireless business 
+ has 
+ completed the transition to 4G LTE 
+ and has implemented 4G LTE roaming agreements with national carriers.  TDS’ wireless 
+ business will begin commercial deployment of VoLTE in early 2017 and has begun testing 5G technology. 
+ Transition to new technologies involves significant time and cost.  Furthermore, the wireless business experiences rapid technology changes and new servi 
+ ces and products.  If TDS fails to effectively deploy new wireless technologies, services or products on a timely basis, this could have an adverse impact on TDS’ business, financial condition and results of operations. 
+ TDS’ Wireline business is deploying 
+ technologically advanced wireline and broadband services including advanced fiber optic access and bonded/vectored Very-high-speed digital subscriber line 2 technologies (“VDSL2”).  A significant amount of the product development and integration risks are 
+ borne by TDS.  Further, the simultaneous rollout of these advanced services and technologies increases the execution risk.  If TDS fails to effectively deploy new technologies and products on a timely basis, this could have an adverse impact on TDS’ busine 
+ ss, financial condition and results of operations. 
+ Cable’s business is also subject to complexities associated with deploying new technologies, such as DOCSIS 3.1, and involves substantial risk, including rapid technology changes.  If Cable’s business does 
+ not respond appropriately to technology changes, its competitive position may be adversely affected. 
+ The HMS business is also continuously evaluating and deploying advances in technology relating to IT services.  If HMS fails to effectively deploy new tec 
+ hnologies and products on a timely basis, this could have an adverse impact on its business, financial condition and results of operations. 
+ Furthermore, it is not certain that TDS’ investments in various new, unproven technologies and service and product o 
+ fferings will be effective.  The markets for some of these services, products and solutions may still be emerging and the overall potential for these markets may be uncertain.  If customer demand for these new services, products and solutions does not deve 
+ lop as expected, TDS’ business, financial condition or results of operations could be adversely affected. 
+ Telecommunications companies may be designated by states, or in some cases by the FCC, as 
+ an ETC to receive universal service support 
+ payments if they provide specified services in “high cost” areas. 
+ U.S. Cellular has been designated as an ETC in certain states and received 
+ million in high cost support for servic 
+ e to high cost areas in 2016. 
+ TDS Telecom also received support under USF support programs.  In 2016, TDS Telecom received $ 
+ million 
+ under all federal regulatory support programs. 
+ In 2011, the FCC released an order (“Reform Order”) to: reform its univ 
+ ersal service and intercarrier compensation mechanisms; establish a new, broadband-focused support mechanism; and propose further rules to advance reform. 
+ Pursuant to the Reform Order, U.S. Cellular’s ETC support has been phased down by 40% since July 1, 
+ 2012.  As provided by the Reform Order, the phasedown is currently suspended and U.S. Cellular will continue to receive 60% of its baseline support until a new fund proposed in the Reform Order is operational. 
+ On February 23, 2017, the FCC adopted an orde 
+ r concerning the Mobility Fund II and the resumption of the phase down.  The text of the order has not been released but the press release issued by the FCC following adoption of the order indicates that the order will establish a Mobility Fund II support 
+ mechanism of $453 million annually for ten years to be distributed through a market-based, multi-round reverse auction and that the phase down of unnecessary legacy support from the Federal USF will commence on the first day of the month following the comp 
+ letion of the auction and will conclude two years later.  U.S 
+ Cellular cannot predict at this time when the Mobility Fund II auction will occur, when the phase down period for its existing legacy support from the Federal USF will commence, or whether the 
+ Mobility Fund II auction will provide opportunities to the Company to offset any loss in existing support. 
+ However, U.S. Cellular currently expects that its legacy support will continue at the existing level for 2017.  If the foregoing regulatory support 
+ is reduced from current levels, this could have an adverse effect on TDS’ business, financial condition or operating results. 
+ In January 2017, TDS Telecom accepted a Federal USF offer under the FCC’s Alternative Connect America Cost Model (“A-CAM”) program 
+ in which TDS Telecom will receive $75 million of support revenue annually for ten years in exchange for meeting defined build-out obligations to extend broadband services, including standalone broadband, in unserved and underserved rural areas.  Build-out 
+ obligations under this program will require capital expenditures over the ten-year period that may be significant.  In the event additional high-cost support becomes available in 2017, TDS Telecom could receive additional support revenue; however the addi 
+ tional revenues would also include increased speed requirements for certain build-out locations.  There is no assurance that these build-outs will be fully funded by the support revenue received under the A-CAM program. 
+ With respect to intercarrier compens 
+ ation, the Reform Order provides for a reduction in the charges that U.S. Cellular pays to wireline phone companies to transport and terminate calls that originate on their networks, which will reduce U.S. Cellular's operating expenses.  The reductions in 
+ intercarrier charges are to increase over the next five to ten years, further reducing U.S. Cellular's operating expenses.  With respect to TDS Telecom, the Reform Order provides for a reduction in the charges that TDS Telecom pays to wireline phone compan 
+ ies to transport and terminate calls that originate on TDS Telecom’s network, which will reduce TDS Telecom’s operating expenses.  However, TDS Telecom also receives revenue from other carriers to transport and terminate calls that originate on those carri 
+ ers’ networks.  As reductions in intercarrier charges are to increase over the next five to ten years, TDS Telecom’s related revenues and operating expenses are expected to decline.  The net effect of these changes is not known.  Further proceedings includ 
+ ing litigation may also be possible.  TDS cannot predict whether such changes will have a material adverse effect on TDS’ business, financial condition or results of operations. 
+ Telecommunications providers pay a variety of surcharges and fees on their gro 
+ ss revenues from interstate and intrastate services, including USF fees and common carrier regulatory fees. 
+ The division of services between interstate services and intrastate services, including the divisions associated with the Federal USF fees, is a ma 
+ tter of interpretation and may in the future be contested by the FCC or state authorities.  The FCC also may change in the future the basis on which Federal USF fees are charged.  The Federal government and many states also apply transaction-based taxes to 
+ sales of telecommunications products and services and to purchases of telecommunications services from various carriers.  In addition, state regulators and local governments have imposed and may continue to impose various surcharges, taxes and fees on tel 
+ ecommunications services.  The applicability of these surcharges and fees to its services is uncertain in many cases and jurisdictions may contest whether TDS has assessed and remitted those monies correctly.  Periodically, state and federal regulators may 
+ increase or change the surcharges and fees TDS currently pays.  In some instances, TDS passes through these charges to its customers.  However, Congress, the FCC, state regulatory agencies or state legislatures may limit the ability to pass through transa 
+ ction-based tax liabilities, regulatory surcharges and regulatory fees imposed on TDS to customers.  TDS may or may not be able to recover some or all of those taxes from its customers and the amount of taxes may deter demand for its services or increase i 
+ ts cost to provide service which could have an adverse effect on its business, financial condition or operating results. 
+ TDS has entered into purchase commitments with certain vendors and may enter into similar purchase commitments with other vendors in the future.  If TDS is unable to sell all of the devices that it is required to purchase under such agreements, 
+ or if it is unable to sell them at the prices it projects, its business, financial condition or results of operations could be adversely affected. 
+ A large portion of TDS’ assets consists of indefinite-lived intangible assets in the form of licenses, goodwill and franchise rights.  TDS also has substantial investments in long-lived assets such as property, plant and equipment.  TDS r 
+ eviews its licenses, goodwill, franchise rights and other long-lived assets for impairment annually or whenever events or circumstances indicate that the carrying amount of such assets may not be fully recoverable.  An impairment loss may need to be recogn 
+ ized to the extent the carrying value of the assets exceeds the fair value of such assets.  The amount of any such impairment loss could be significant and could have an adverse effect on TDS’ reported financial results for the period in which the loss is 
+ recognized.  The estimation of fair values requires assumptions by management about factors that are uncertain including such things as future cash flows and the appropriate discount rate.  Different assumptions for these factors could create materially di 
+ fferent results. 
+ As part of TDS’ operating strategy, TDS from time to time may be engaged in the acquisition, divestiture or exchange of companies, businesses, strategic properties, wireless spectrum or other assets.  TDS may change the markets in which i 
+ t operates and the services that it provides through such acquisitions, divestitures and/or exchanges.  In general, TDS may not disclose the negotiation of such transactions until a definitive agreement has been reached.  These transactions commonly involv 
+ e a number of risks, including: 
+ No assurance can be given that TDS will be successful with respect to its acquisition, divestiture or exchange strategies or initiatives.  If TDS is not 
+ successful with respect to its acquisitions, divestitures or exchanges, its business, financial condition or results of operations could be adversely affected. 
+ TDS sells devices to customers under installment contracts over a specified period of time.  Customers with installment contracts are not required to sign a fixed-term service contract to obtain postpaid service; rat 
+ her, their service is provided on a month to month basis with no early termination fee.  These device installment contract plans may not meet TDS’ customers’ or potential customers’ needs, expectations or demands.  In addition, customers on these device in 
+ stallment contract plans can discontinue their service at any time without penalty, other than the obligation of any residual commitment they may have for unpaid service or for amounts due under the installment contract for the device.  TDS could experienc 
+ e a higher churn rate than it expects due to the ability of customers to more easily change service providers, which could adversely affect its results of operations.  TDS’ operational and financial performance may be adversely affected if it is unable to 
+ grow its customer base and achieve the customer penetration levels that it anticipates with this business model. 
+ Customers who have financed their devices through these device installment contracts pay for their devices in installments over a specified per 
+ iod of time.  Compared to fixed-term service contracts, such plans result in lower cash flows from operating activities in the near term and could have an adverse effect on TDS’ liquidity or capital resources.  In addition, such device installment contract 
+ s subject TDS to increased risks relating to consumer credit issues, which could result in increased costs, including increases to its bad debts expense.  These device installment contracts may be particularly sensitive to changes in general economic condi 
+ tions, and any declines in the credit quality of TDS’ customer base could have a material adverse effect on TDS’ financial condition or results of operations. 
+ TDS’ business plan includes significant construction activitie 
+ s and enhancements to its network, support and other systems and infrastructure.  As TDS deploys, expands and enhances its wireless network, it may need to acquire additional spectrum.  Also, as TDS continues to build out and enhance its network, TDS must, 
+ among other things, continue to: 
+ Any difficulties encountered in completing these activities, as well as problems in vendor equipment availability, technical resources, system performance or system adequacy, could delay expansion 
+ of operations and product capabilities in new or existing markets or result in increased costs.  Failure to successfully build-out and enhance TDS’ network, support facilities and other systems and infrastructure in a cost-effective manner, and in a manne 
+ r that satisfies customer expectations, could have an adverse effect on TDS’ business, business prospects, financial condition or results of operations. 
+ TDS has relationships 
+ with independent agents and third party national retailers who market TDS’ services.  If such relationships are seriously harmed or if such parties experience financial difficulties, including bankruptcy, TDS’ business, financial condition or results of op 
+ erations could be adversely affected. 
+ TDS depends upon certain vendors to provide it with equipment (including wireless devices), services or content to continue its network construction and upgrades and to operate its business.  TDS does not have operat 
+ ional or financial control over such key suppliers and has limited influence with respect to the manner in which these key suppliers conduct their businesses.  If these key suppliers experience financial difficulties or file for bankruptcy or experience ot 
+ her operational difficulties, they may be unable to provide equipment, services or content to TDS on a timely basis, or at all, or they may otherwise fail to honor their obligations to TDS. 
+ Regulations regarding the use of “conflict minerals” mined from 
+ the Democratic Republic of Congo and adjoining countries may affect some of TDS’ suppliers.  These regulations may limit the availability of conflict free minerals and, as a result, TDS may not be able to obtain products in sufficient quantities or at comp 
+ etitive prices from its vendors who utilize such minerals in the manufacture of products.  In such cases, TDS may be unable to maintain and upgrade its network or provide products and services to its customers in a competitive manner, or could suffer other 
+ disruptions to its business.  In that event, TDS’ business, financial condition or results of operations could be adversely affected. 
+ In addition, operation of TDS’ supply chain and management of its inventory require accurate forecasting of customer gr 
+ owth and demand, which has become increasingly challenging. 
+ If overall demand for wireless devices or the mix of demand for wireless devices is significantly different than TDS’ expectations, TDS could face inadequate or excess supplies of particular mode 
+ ls of wireless devices. 
+ This could result in lost sales opportunities or an excess supply of inventory. 
+ Either of these situations could adversely affect TDS’ revenues, costs of doing business, results of operations or financial condition. 
+ Also, TDS has 
+ other arrangements with third parties, including arrangements pursuant to which TDS outsources certain support functions to third party vendors.  Operational problems associated with such functions, including any failure by the vendor to provide the requir 
+ ed level of service under the outsourcing arrangements, could have adverse effects on TDS’ business, financial condition or results of operations. 
+ TDS has significant investments in entities that it does not control, including equity investments and interests in certain variable interest entities.  TDS’ interests in 
+ such entities do not provide TDS with control over the business strategy, financial goals, network build-out plans or other operational aspects of these entities.  TDS cannot provide assurance that these entities will operate in a manner that will increase 
+ or maintain the value of TDS’ investments, that TDS’ proportionate share of income from these investments will continue at the current level in the future or that TDS will not incur losses from the holding of such investments.  Losses in the values of suc 
+ h investments or a reduction in income from these investments could adversely affect TDS’ financial condition or results of operations.  In addition, certain investments have historically contributed significant cash flows to TDS and a reduction or suspens 
+ ion of such cash flows could adversely affect TDS’ financial condition. 
+ TDS relies extensively on its telecommunication networks and information technology to operate and manage its businesses, process transactions and summarize and report results.  These networks and tec 
+ hnology become obsolete over time and must be upgraded, replaced and/or otherwise enhanced over time.  Enhancements must be more flexible and dependable than ever before.  All of this is capital intensive and challenging.  A failure by TDS to maintain flex 
+ ible and capable telecommunication networks or information technology could have an adverse effect on TDS’ business, financial condition or results of operations. 
+ The increased provision of data services including IPTV has introduced significant new demand 
+ s on TDS’ network and also has increased complexities related to network management.  As it relates to Wireline’s networks, the transition to new IP-based networks from well-established time-division multiplexing networks requires new support tools and tec 
+ hnician skills.  Further, this transition requires the use of more leased facilities and partnerships which require enhanced network monitoring and controls.  The IP-based networks also generally require more electronics on customers’ premises which introd 
+ uces more technical risks and makes diagnostics and repairs more difficult. 
+ Further, the increased provision of data services on TDS’ networks has created an increased level of risk related to quality of service.  This is due to the fact that many custome 
+ rs increasingly rely on data communications to execute and validate transactions.  As a result, redundancy and geographical diversity of TDS’ network facilities are critical to providing uninterrupted service.  Also, the speed of repair and maintenance pro 
+ cedures in the event of network interruptions is critical to maintaining customer satisfaction.  TDS’ ability to maintain high-quality, uninterrupted service to its customers is critical, particularly given the increasingly competitive environment and cust 
+ omers’ ability to choose other service providers. 
+ In addition, TDS’ networks and information technology and the networks and information technology of vendors on which TDS relies are subject to damage or interruption due to various events, including power 
+ outages, computer, network and telecommunications failures, computer viruses, security breaches, hackers and other cyber security risks, catastrophic events, natural disasters, errors or unauthorized actions by employees and vendors, flawed conversion of 
+ systems, disruptive technologies and technology changes. 
+ TDS experiences cyber-attacks of varying degrees on a regular basis.  TDS maintains administrative, technical and physical controls, as well as other preventative actions, to re 
+ duce the risk of security breaches.  Although to date TDS has not experienced a material security breach, these efforts may be insufficient to prevent a security breach stemming from future cyber-attacks.  If TDS’ or its vendors’ networks and information t 
+ echnology are not adequately adapted to changes in technology or are damaged or fail to function properly, and/or if TDS’ or its vendors’ security is breached or otherwise compromised, TDS could suffer adverse consequences, including theft, destruction or 
+ other loss of critical and private data, including customer and/or employee data, interruptions or delays in its operations, inaccurate billings, inaccurate financial reporting, and significant costs to remedy the problems.  If TDS’ or its vendors’ systems 
+ become unavailable or suffer a security breach of customer or other data, TDS may be required to expend significant resources and take various actions to address the problems, including notification under data privacy laws and regulations, may be subject 
+ to fines, sanctions and litigation, and its reputation and operating results could be adversely affected.  Such events may also cause TDS to fail to satisfy service level commitments or trigger contractual obligations to customers of its IT services.  Any 
+ material disruption in TDS’ networks or information technology, including security breaches, could have an adverse effect on TDS’ business, financial condition or results of operations. 
+ Factors that may affect the future market price of TDS’ Common Shares include: 
+ Any of these or other factors could 
+ adversely affect the future market price of TDS’ Common Shares, or could cause the future market price of TDS’ Common Shares to fluctuate from time to time. 
+ The preparation of financial statements requires TDS to make estimates and assumptions 
+ that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period.  TDS bases its estimates on historical experience and on various other assump 
+ tions and information that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities.  Actual results may differ from estimates under different assump 
+ tions or conditions.  Changes in facts or circumstances, including new or additional information, could require TDS to record charges in excess of amounts accrued in the financial statements, if any, which could have an adverse effect on TDS’ business, fin 
+ ancial condition or results of operations. 
+ Disruptions in the credit and financial markets, de 
+ clines in consumer confidence, increases in unemployment, declines in economic growth and uncertainty about corporate earnings could have a significant negative impact on the U.S. and global financial and credit markets and the overall economy.  Such event 
+ s could have an adverse impact on financial institutions resulting in limited access to capital and credit for many companies.  Furthermore, economic uncertainties make it very difficult to accurately forecast and plan future business activities.  Changes 
+ in economic conditions, changes in financial markets, deterioration in the capital markets or other factors could have an adverse effect on TDS’ business, financial condition, revenues, results of operations and cash flows. 
+ TDS is regularly involved in a number of legal 
+ and policy proceedings before the FCC and various state and federal courts.  Such legal and policy proceedings can be complex, costly, protracted and highly disruptive to business operations by diverting the attention and energies of management and other 
+ key personnel. 
+ The assessment of legal and policy proceedings is a highly subjective process that requires judgments about future events.  Additionally, amounts ultimately received or paid upon settlement or resolution of litigation and other contingencies 
+ may differ materially from amounts accrued in the financial statements.  Depending on a range of factors, these or similar proceedings could impose restraints on TDS’ current or future manner of doing business.  Such potential outcomes could have an adver 
+ se effect on TDS’ financial condition, results of operations or ability to do business. 
+ Media reports and certain professional studies have suggested that certain radio frequency emissions from wireless devices may be linked to various health problems, including cancer or tumors, and may interfere with various electronic medical devices, in 
+ cluding hearing aids and pacemakers.  U.S. Cellular is a party to and may in the future be a party to lawsuits against wireless carriers and other parties claiming damages for alleged health effects, including cancer or tumors, arising from wireless phones 
+ or radio frequency transmitters.  Concerns over radio frequency emissions may discourage use of wireless devices or expose TDS to potential litigation.  In addition, the FCC or other regulatory authorities may adopt regulations in response to concerns abo 
+ ut radio frequency emissions.  Any resulting decrease in demand for wireless services, costs of litigation and damage awards or regulation could have an adverse effect on TDS’ business, financial condition or results of operations. 
+ In addition, some 
+ studies have indicated that some aspects of using wireless devices while driving may impair drivers’ attention in certain circumstances, making accidents more likely.  These concerns could lead to potential litigation relating to accidents, deaths or serio 
+ us bodily injuries, any of which could have an adverse effect on TDS’ business, financial condition or results of operations. 
+ Numerous state and local legislative bodies have enacted or proposed legislation restricting or prohibiting the use of wireless de 
+ vices while driving motor vehicles.  These enacted or proposed laws or other similar laws, if passed, could have the effect of reducing customer usage and/or increasing costs, which could have an adverse effect on TDS’ business, financial condition, or res 
+ ults of operations. 
+ TDS faces possible effects of industry litigation relating to patents, other intellectual propert 
+ y or otherwise, that may restrict TDS’ access to devices for sale to customers.  If technology that TDS uses in products or services were determined by a court to infringe a patent or other intellectual property right held by another person, TDS could be p 
+ recluded from using that technology and could be required to pay significant monetary damages.  TDS also may be required to pay significant royalties to such person to continue to use such technology in the future.  The successful enforcement of any intell 
+ ectual property rights, or TDS’ inability to negotiate a license for such rights on acceptable terms, could force TDS to cease using the relevant technology and offering services incorporating the technology.  Any litigation to determine the validity of cl 
+ aims that TDS’ products or services infringe or may infringe intellectual property rights of another, regardless of their merit or resolution, could be costly and divert the effort and attention of TDS’ management and technical personnel.  Regardless of th 
+ e merits of any specific claim, TDS cannot give assurance that it would prevail in litigation because of the complex technical issues and inherent uncertainties in intellectual property litigation.  Although TDS generally seeks to obtain indemnification ag 
+ reements from vendors that provide it with technology, there can be no assurance that any claim of infringement will be covered by an indemnity or that TDS will be able to recover all or any of its losses and costs under any available indemnity agreements. 
+ Any claims of infringement of intellectual property and proprietary rights of others could prevent TDS from using necessary technology to provide its services or subject TDS to expensive intellectual property litigation or monetary penalties, which could 
+ have an adverse effect on TDS’ business, financial condition or results of operations. 
+ The TDS Restated Certificate of Incorporation, as amended, and the TDS bylaws contain provisions which may serve to discourage or make more difficult a change in control of TDS without the support of the TDS Voting Trust and 
+ the TDS Board of Directors or without meeting various other conditions. 
+ The TDS Restated Certificate of Incorporation, as amended, authorizes the issuance of different series of common stock, which have different voting rights.  The TDS Series 
+ A Common Sha 
+ res have the power to elect approximately 75% (less one) of the directors and have ten votes per share in matters other than the election of directors.  The TDS Common Shares (with one vote per share) vote as a separate group only with respect to the elect 
+ ion of 25% (plus one) of the directors.  In addition, the total percentage voting power in matters other than the election of directors of the Series A Common Shares and Common Shares are fixed, at 56.7% and 43.3%, respectively, subject to adjustment due t 
+ o changes in the number of outstanding Series A Common Shares. 
+ A substantial majority of the outstanding TDS Series 
+ A Common Shares are held in the TDS Voting Trust which expires on June 
+ 30, 2035.  The TDS Voting Trust was created to facilitate the long-s 
+ tanding relationships among the trustees’ certificate holders.  By virtue of the number of shares held by them, the voting trustees have the power to elect eight directors based on the current TDS Board of Directors’ size of twelve directors, and control a 
+ majority of the voting power of TDS with respect to matters other than the election of directors. 
+ The existence of the TDS Voting Trust is likely to deter any potential unsolicited or hostile takeover attempts or other efforts to obtain control of TDS and 
+ may make it more difficult for shareholders to sell shares of TDS at higher than market prices.  The trustees of the TDS Voting Trust have advised TDS that they intend to maintain the ability to keep or dispose of voting control of TDS. 
+ The TDS Restated 
+ Certificate of Incorporation, as amended, also authorizes the TDS Board of Directors to designate and issue TDS Undesignated Shares in one or more classes or series of preferred or common stock from time to time.  Generally, no further action or authorizat 
+ ion by the shareholders is necessary prior to the designation or issuance of the additional TDS Undesignated Shares authorized pursuant to the TDS Restated Certificate of Incorporation, as amended, unless applicable laws or regulations would require such a 
+ pproval in a given instance.  Such TDS Undesignated Shares could be issued in circumstances that would serve to preserve control of TDS’ then existing management. 
+ In addition, the TDS Restated Certificate of Incorporation, as amended, includes a provision 
+ which authorizes the TDS Board of Directors to consider various factors, including effects on customers, taxes, and the long-term and short-term interests of TDS, in the context of a proposal or offer to acquire or merge the corporation, or to sell its ass 
+ ets, and to reject such offer if the TDS Board of Directors determines that the proposal is not in the best interests of the corporation based on such factors. 
+ The provisions of the TDS Restated Certificate of Incorporation, as amended, and the TDS bylaws 
+ and the existence of various classes of capital stock could prevent shareholders from profiting from an increase in the market value of their shares as a result of a change in control of TDS by delaying or preventing such change in control. 
+ From time to time, TDS may disclose forward-looking in 
+ formation, including estimates of future operating revenues; various measures of income before income taxes; and/or capital expenditures.  Any such forward-looking information includes consideration of known or anticipated changes to the extent disclosed, 
+ but dynamic market conditions and/or other unknown or unanticipated events, including but not limited to the risks discussed above, could cause such estimates to differ materially from the actual amounts. 
+ Ite 
+ m 1B.  Unresolved Staff Comments

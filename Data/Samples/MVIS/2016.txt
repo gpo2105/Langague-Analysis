@@ -1,0 +1,636 @@
+You should carefully consider the risks described below together with the other information set forth in this report, which could materially affect our business, financial condition and
+future results.  The risks described below are not the only risks facing our company.  Risks and uncertainties not currently known to us or that we currently deem to be immaterial also may
+materially adversely affect our business, financial condition and operating results. 
+ Risk Factors Related to Our Business and Industry 
+ We have a history of operating losses and expect to incur significant losses in the future. 
+ We have had substantial losses since our inception.  We cannot assure you that we will ever become or remain profitable. 
+ As of December 31, 2016, we had an accumulated deficit of $499.8 million. 
+ We incurred consolidated net losses of $450.7 million from inception through 2013, $18.1 million in 2014, $14.5 million in 2015, and $16.5 million in 2016. 
+ The likelihood of our success must be considered in light of the expenses, difficulties and delays frequently encountered by companies formed to develop and commercialize new
+technologies.  In particular, our operations to date have focused primarily on research and development of our PicoP® scanning technology platform and development of demonstration units.
+We are unable to accurately estimate future revenues and operating expenses based upon historical performance. 
+ We cannot be certain that we will succeed in obtaining additional development revenue or commercializing our technology or products.  In light of these factors, we expect to continue to incur
+significant losses and negative cash flow at least through 2017 and likely thereafter.  We cannot be certain that we will achieve positive cash flow at any time in the future. 
+ We will require additional capital to fund our operations and to implement our business plan.  If we do not obtain additional capital, we may be required to curtail our operations
+substantially.  Raising additional capital may dilute the value of current shareholders' shares. 
+ Based on our current operating plan, and without additional proceeds from the sale of shares under our existing Common Stock Purchase Agreement or At-the-Market (ATM) facility
+discussed in Note 8 to our financial statements, we anticipate that we have sufficient cash and cash equivalents to fund our operations into the third quarter of 2017.  We will require additional capital to
+fund our operating plan past that time.  We plan to obtain additional capital through the issuance of equity or debt securities, product sales and/or licensing activities. 
+ Our ability to raise proceeds from the sale of shares under our Common Stock Purchase Agreement is subject to limitations and conditions, including a $1.00
+minimum stock price.  In addition, pursuant to the Common Stock Purchase Agreement, we agreed that we will not enter into any "variable rate" transactions with any third party from the date of
+the Purchase Agreement until the expiration of the twenty-four month period following the date of the Purchase Agreement, subject to certain exceptions, which could limit our ability to raise
+capital through certain sales of equity.
+In connection with our December 2016 underwritten public offering, we also agreed in the underwriting
+agreement not to issue shares pursuant to the Common Stock Purchase Agreement, or any other arrangement with Lincoln Park Capital Fund, LLC (Lincoln Park), for a period of six months from
+the date thereof without the consent of the underwriter. 
+ We are introducing new technology into an emerging market which creates significant uncertainty about our ability to accurately project revenue, costs and cash flows.  Our capital
+requirements will depend on many factors, including, but not limited to, the rate at which ODMs and OEMs introduce products incorporating our PicoP® scanning technology and the market
+acceptance and competitive position of such products.  If revenues are less than we anticipate, if the mix of revenues and the associated margins varies from anticipated amounts or if expenses
+exceed the amounts budgeted, we may require additional capital earlier than expected to fund our operations.  In addition, our operating plan provides for the development of strategic
+relationships with suppliers of components, products and systems, and equipment manufacturers that may require additional investments by us. 
+ Additional capital may not be available to us or, if available, may not be available on terms acceptable to us or on a timely basis.  Raising additional capital may involve issuing securities with
+rights and preferences that are senior to our common stock and may dilute the value of our current shareholders' shares.  If adequate capital resources are not available on a timely basis, we
+may consider limiting our operations substantially.  This limitation of operations could include reducing investments in our production capabilities or research and development projects, staff,
+operating costs, and capital expenditures.  Reducing operations may jeopardize our ability to achieve our business goals or satisfy our customer requirements. 
+ Qualifying a new or alternative contract manufacturer or foundry for our products could cause us to experience delays that result in lost revenues and damaged customer
+relationships. 
+ We rely on single or limited-source suppliers to manufacture our products, including our MEMS die in wafer form.  The lead time to establish a relationship with a new or alternative
+contract manufacturer(s) or foundry is a time-consuming process, as our unique technology may require significant manufacturing process adaptation to achieve full manufacturing capacity.
+Accordingly, we may be unable to establish a relationship with new or alternative contract manufacturers in the short-term, or at all, at prices or on other terms that are acceptable to us. 
+ Changes in our supply chain may result in increased cost and delay and may subject us to risks and uncertainties regarding, but not limited to, product warranty, product liability and quality
+control standards.  The loss of any single or limited-source supplier, the failure of any of these suppliers to perform as expected or the disruption in the supply chain of components from these
+suppliers could cause significant delays in product deliveries, which may result in lost revenues and damaged customer relationships.  To the extent that we are not able to establish a
+relationship with a new or alternative contract manufacturer(s) or foundry in a timely manner, we may be unable to meet contract or production milestones, which could have a material adverse
+effect on our financial condition, results of operations and cash flows. 
+ Our success will depend, in part, on our ability to secure significant third party manufacturing resources. 
+ Our success will depend, in part, on our ability to provide our components and future products in commercial quantities at competitive prices and on schedule.  Accordingly, we will be
+required to obtain access, through business partners or contract manufacturers, to manufacturing capacity and processes for the commercial production of our expected future products. 
+ Our foreign contract manufacturers could experience severe financial difficulties or other disruptions in their business, and such continued supply could be significantly reduced or
+terminated. 
+ In addition, we cannot be certain that we will successfully obtain access to needed manufacturing resources
+concurrent with a significant increase in our planned production levels.  Future manufacturing limitations of our suppliers could constrain the number of products that we are able to develop and
+produce. 
+ ITEM 1B.  UNRESOLVED STAFF COMMENTS 
+ None. 
+ ITEM 2.  PROPERTIES 
+ We currently lease approximately 23,900 square feet of combined use office, laboratory and manufacturing space at our corporate headquarters in Redmond, Washington.  The 65 month
+lease expires in January 2019. 
+ ITEM 3.  LEGAL PROCEEDINGS 
+ On March 31, 2014, Asia Optical Co., Inc., a supplier pursuant to an agreement entered into in 2008, filed a complaint for arbitration with the American Arbitration Association claiming that
+we ordered products from them and failed to take delivery of and pay for such products.  The relief sought in the complaint is $3.6 million plus attorneys' fees, interest and arbitration costs.  We
+contest the claim and are defending against it.  An adverse outcome of these proceedings could materially and adversely affect our financial condition.  At this stage, we cannot predict the
+likelihood of an unfavorable outcome or the range of potential loss. 
+ We are also subject to various claims and pending or threatened lawsuits in the normal course of business.  We are not currently party to any other legal proceedings that we believe are
+reasonably possible to have a material adverse effect on our financial position, results of operations or cash flows. 
+ ITEM 4.  MINE SAFETY DISCLOSURES 
+ Not applicable. 
+ ITEM 4A.  EXECUTIVE OFFICERS OF THE REGISTRANT 
+ Executive officers are appointed by our Board of Directors and hold office until their successors are elected and duly qualified.  The following persons serve as executive officers of
+MicroVision, Inc.: 
+ Alexander Y. Tokman, age 55, has served as President, Chief Executive Officer and Director of MicroVision since January 2006.  Mr.
+Tokman served as MicroVision's President and Chief Operating Officer from July 2005 to January 2006.   Mr. Tokman joined MicroVision after a ten-year tenure at GE Healthcare, a subsidiary of
+General Electric, where he led several global businesses, most recently as General Manager of its Global Molecular Imaging and Radiopharmacy multi-technology business unit from 2003 to
+2005.  Prior to that, between 1995 and 2003, Mr. Tokman served in various cross-functional and cross-business leadership roles at GE where he led the definition and commercialization of
+several medical modalities product segments including PET/CT, which added over $500 million of revenue growth to the company within the first three years of its commercial introduction.  Mr.
+Tokman is a certified Six Sigma and Design for Six Sigma (DFSS) Black Belt and Master Black Belt and as one of GE's Six Sigma pioneers, he drove the quality culture change across GE
+Healthcare in the late 1990s.  From November 1989 to March 1995, Mr. Tokman served as new technologies programs lead and the head of the I&RD office at Tracor Applied Sciences, a
+subsidiary of then Tracor, Inc.  Mr. Tokman holds a B.S. and an M.S. in electrical engineering from the University of Massachusetts, Dartmouth. 
+ Stephen P. Holt, age 54, joined MicroVision in April 2013 as Chief Financial Officer.  Prior to MicroVision, from May 2007 to May 2012, he served as Chief Financial Officer of PixelOptics,
+where he played a lead role in bringing the company's first electronic focusing eyewear product to market.  At this venture capital-backed start-up, Mr. Holt raised capital and negotiated strategic
+partner agreements to license technology in addition to implementing policies and procedures to create an infrastructure capable of supporting rapid growth while maintaining a strong internal
+control environment.  From March 2006 to April 2007, he was the Chief Financial Officer of Interstate Distributors, a trucking and transportation services company. 
+ From December 2003 to
+March 2006, he was the Chief Financial Officer of a group of companies consisting of Activelight, Boxlight, Cinelight and Projector Wholesale Supply.  These companies were value-added
+resellers and distributors of audio-visual and projection equipment.  Mr. Holt, a Certified Management Accountant, holds a B.S. from California State University, Chico and an M.B.A. from Santa
+Clara University. 
+ David J. Westgor, age 63, was appointed Vice President, General Counsel and Secretary in November 2013, after serving as General Counsel since December 2012 and Deputy General
+Counsel since June 2007.  In his current role, Mr. Westgor oversees the legal department, advises the Board of Directors and executive team on corporate governance matters, and provides
+support for the company's business activities.  Before joining MicroVision, Mr. Westgor was Senior Counsel at Medtronic Physio-Control, where he had primary responsibility for the legal affairs
+of its medical and informatics business units.  Mr. Westgor graduated from Loyola Law School and practiced in the Los Angeles office of Pillsbury Winthrop.  He moved to the Seattle area to
+become in-house counsel at Advanced Radio Telecom, a broadband telecommunications company.  Mr. Westgor holds a B.A. from St. Olaf College and an M.F.A. degree from the Art Institute of
+Chicago. 
+ Dale E. Zimmerman, age 57, has served as Vice President of Research and Development since June 2012 and as Director of Systems Engineering from June 2011 to May 2012.  Prior to
+MicroVision, from February 2006 to December 2008, he served as Vice President of Product Strategy of Silicon Image, a company specializing in high speed serial interface solutions for HDTV,
+PC and storage products.  From 1996 to 2006, he served as General Manager of DLP TV for Texas Instruments, where he played an important role in launching the first conference room
+projectors, home theater projectors, and HDTVs.  His teams have received many awards, including three Emmys and CES Innovation Best of Show.  He holds both a B.S. and an M.S. degree in
+electrical and electronics engineering from Massachusetts Institute of Technology (MIT) and a second M.S. in electrical engineering from Stanford University. 
+ PART II. 
+ ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS
+AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ Our common stock began trading publicly on August 27, 1996.  Our common stock trades on The NASDAQ Global Market under the ticker symbol "MVIS."  We have never
+declared or paid cash dividends on our common stock.  We currently anticipate that we will retain all future earnings to fund the operations of our business and do not anticipate paying dividends
+on the common stock in the foreseeable future. 
+ As of February 27, 2017, there were approximately 112 holders of record of 68,122,000 shares of common stock outstanding.  As many of our shares of common stock are held by brokerages and
+institutions on behalf of shareholders, we are unable to estimate the total number of beneficial holders of our common stock represented by these record holders. 
+ Quarter Ended 
+ Common Stock 
+ 2015 
+ HIGH 
+ LOW 
+ March 31, 2015 
+ 4.23 
+ 1.72 
+ June 30, 2015 
+ 3.88 
+ 2.86 
+ September 30, 2015 
+ 3.54 
+ 2.56 
+ December 31, 2015 
+ 3.47 
+ 2.20 
+ 2016 
+ March 31, 2016 
+ 3.08 
+ 1.65 
+ June 30, 2016 
+ 2.21 
+ 1.64 
+ September 30, 2016 
+ 2.07 
+ 1.30 
+ December 31, 2016 
+ 1.85 
+ 0.89 
+ January 1, 2017 to February 27, 2017 
+ 1.94 
+ 1.15 
+ ITEM 6.  SELECTED FINANCIAL DATA 
+ A summary of selected financial data as of and for the five years ended December 31, 2016 is set forth below.  It should be read in conjunction with our consolidated financial statements and
+related notes appearing elsewhere in this Annual Report on Form 10-K. 
+ (In thousands, except per share data) 
+ Year Ended December 31, 
+ Statement of Operations Data 
+ 2016 
+ 2015 
+ 2014 
+ 2013 
+ 2012 
+ Revenue 
+ 14,761 
+ 9,188 
+ 3,485 
+ 5,852 
+ 8,365 
+ Net loss available for common shareholders 
+ (16,472) 
+ (14,542) 
+ (18,120) 
+ (13,178) 
+ (22,693) 
+ Basic and diluted net loss per share 
+ (0.32) 
+ (0.31) 
+ (0.44) 
+ (0.47) 
+ (1.05) 
+ Weighted-average shares outstanding basic and diluted 
+ 51,958 
+ 46,540 
+ 41,599 
+ 28,025 
+ 21,595 
+ Balance Sheet Data 
+ Cash and cash equivalents 
+ 15,139 
+ 7,888 
+ 8,349 
+ 5,375 
+ 6,850 
+ Working capital (deficit) 
+ 10,104 
+ 3,371 
+ 5,040 
+ (3,878) 
+ 1,831 
+ Total assets 
+ 20,106 
+ 14,042 
+ 11,945 
+ 8,447 
+ 12,938 
+ Long-term liabilities 
+ 5,388 
+ 6,491 
+ 488 
+ 481 
+ Total shareholders' equity (deficit) 
+ 7,474 
+ (153) 
+ 6,872 
+ (1,696) 
+ 5,054 
+ ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS 
+ Overview 
+ Our business strategy is to commercialize our PicoP® scanning technology by enabling ODMs and OEMs to produce end-user products via three go-to-market paths: 
+ Design and sell LBS engines directly to ODMs and OEMs to incorporate inside their products; 
+ License our LBS technology and sell key components to ODMs and OEMs to create their own scanning engines; and 
+ License LBS technology to ODMs and OEMs who developed their own key components. 
+ In 2014, our revenue was primarily derived from engineering services from collaborative research and development and contract agreements.  In 2015 and 2016, our revenue was primarily
+generated from product sales and royalty revenue, and engineering services has become a smaller part of our business.  We expect product sales to be a significant portion of our total revenue
+in the future. 
+ In 2016, 87% of our revenue was generated from product sales, less than 1% was generated from performance on contracts for prototype units, 7% was generated
+from a prorated portion of the $8.0 million upfront payment, and 5% was generated from ongoing per unit royalties.  Sony Corporation (Sony) accounted for 91% of our total revenue in 2016. 
+ In 2015, 70% of our revenue was generated from product sales, 17% was generated from performance on support services contracts, 10% was generated from a prorated portion of the $8.0
+million upfront payment, and 3% was generated from ongoing per unit royalties.  Sony accounted for 98% of our total revenue in 2015. 
+ In 2014, 49% of our revenue was generated from performance on collaborative research and development
+agreements, 40% was generated from performance on contracts to deliver customized prototype units, 10% was generated from product sales, and 1% was generated from ongoing per unit
+royalties.  Sony accounted for 58% of our total revenue and a worldwide logistics company accounted for 17% of our total revenue in 2014. 
+ We have incurred substantial losses since inception and expect to incur a significant loss during the fiscal year ending December 31, 2017.  We have funded operations to date primarily
+through the sale of common stock, convertible preferred stock, warrants, the issuance of convertible debt and, to a lesser extent, from development contract revenues, product sales and
+licensing activities.  There can be no assurance that additional capital will be available or that, if available, it will be available on terms acceptable to us on a timely basis.  We cannot be
+certain that we will succeed in commercializing our technology or products.  These factors raise substantial doubt regarding our ability to continue as a going concern. 
+ These financial statements were prepared assuming we will continue as a going concern and do not include any adjustments that might be necessary should we be unable to continue as a going concern. 
+ Key accounting policies and estimates 
+ Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with
+accounting principles generally accepted in the United States.  The preparation of these financial statements requires us to make estimates and judgments that materially affect the reported
+amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent liabilities.  We evaluate our estimates on a continuous basis.  We base our estimates on historical
+data, terms of existing contracts, our evaluation of trends in the information display and 3D sensing industries, information provided by our current and prospective customers and strategic
+partners, information available from other outside sources and on various other assumptions we believe to be reasonable under the circumstances.  The results form the basis for making
+judgments regarding the carrying values of assets and liabilities that are not readily apparent from other sources.  Actual results may differ from these estimates under different assumptions or
+conditions. 
+ We believe the following key accounting policies require significant judgments and estimates used in the preparation of our consolidated financial statements. 
+ Revenue recognition 
+ We recognize revenue when: (i) persuasive evidence of an arrangement exists, (ii) delivery has occurred and there are no uncertainties regarding customer acceptance,
+(iii) fees are fixed or determinable, and (iv) collection is reasonably assured. 
+ We generate revenue from many sources and activities.  We enter into arrangements that can include various combinations of product sales, services, and licensing activities.  For multiple-
+element arrangements, we use a hierarchy to determine the contract consideration to be used for allocating revenue to deliverables: (i) vendor-specific objective evidence of fair value (VSOE),
+(ii) third party evidence of selling price (TPE), and (iii) best estimate of selling price.  To date, our revenue sources can be classified as: product revenue, royalty revenue, contract revenue, or
+development revenue. 
+ Product revenue 
+ Our product sales generally include acceptance provisions.  We recognize product revenue upon acceptance of the product by the customer or expiration of the contractual acceptance
+period, after which there are no rights of return.   No estimates are made for product returns because revenue is recognized upon expiration of the contractual acceptance period. 
+ Royalty revenue 
+ We recognize revenue on upfront license fees over the expected time frame that we provide services or have ongoing obligations under the agreement.  Ongoing per unit royalties are
+recognized when reported by our customer to us on a quarterly basis.  Currently, we recognize revenue for ongoing per unit royalties one quarter in arrears when reported by our customer,
+representing when such amounts are fixed and determinable, and all other revenue recognition criteria are met. 
+ Contract revenue 
+ Our contract revenue in a particular period is dependent upon when we enter into a contract, the value of the contracts we have entered into, and the availability of technical resources to
+perform work on the contracts. 
+ We recognize contract revenue related to the sale of prototype units and evaluation kits upon acceptance of the deliverables by the customer or expiration of the contractual acceptance
+period, after which there are no rights of return. 
+ We recognize contract revenue on long-term, cost plus fixed fee, and fixed price contracts using the percentage-of-completion method.  Under the percentage-of-completion method, revenue
+is recognized as work progresses on the contract.  The percentage-of-completion method relies on estimates of total expected contract revenue and costs.  At the end of each period, we
+estimate the labor, material and other costs required to complete the contract using data provided by our technical team, project managers, vendors, outside consultants and others and compare
+these to costs incurred to date. 
+ Recognized revenues are subject to amendments for actual costs incurred.  Amendments to revenue and costs to complete estimates are recognized in the period in which the facts become
+known.  In the future, amendments to estimates could significantly impact recognized revenue in any one reporting period.  If we are unable to estimate costs on a contract, revenue is
+recognized using the completed-contract method.  Under the completed-contract method, revenue and contract costs are deferred and both are recognized when all deliverables are completed. 
+ Development revenue 
+ We evaluate the performance criteria and terms of our collaborative research and development agreements to determine whether revenue should be recognized under a performance-based
+method or milestone method.  Significant items covered in our evaluation include the following: 
+ The nature of our obligation under the agreement; 
+ Whether provisions leading to variable revenues exist; 
+ Whether any payments are refundable; 
+ Whether the deliverables should be treated as a single unit of accounting or separated into multiple units; 
+ Whether substantive milestones exist; 
+ Whether milestone payments are commensurate with either our level of effort or the increase in value of the customer's rights; and 
+ Whether a licensing agreement exists. 
+ At the end of each period, we evaluate total estimated costs for each agreement.  Amendments to the estimated costs are recognized in the period in which the facts become known.  Any
+related costs for work performed under collaborative research and development agreements are expensed in the periods incurred and included in the Statement of Operations in research and
+development expense. 
+ License agreements 
+ In March 2015, we signed a license agreement as part of a multiple-element arrangement with Sony for our PicoP® scanning technology.  The license agreement granted Sony a
+non-exclusive license to manufacture and sell scanning engines that use our PicoP® scanning technology. 
+ For multiple-element arrangements, we use a hierarchy to determine the contract consideration to be used for allocating revenue to deliverables: (i) vendor-specific objective evidence of fair
+value (VSOE), (ii) third party evidence of selling price (TPE) and (iii) best estimate of selling price.  Because VSOE and TPE do not exist for the March 2015 agreement, we have allocated the
+contract consideration based on our best estimate. 
+ Under the terms of this multiple-element arrangement, we received an $8.0 million upfront payment in March 2015 and we will receive a per unit royalty for each display module sold by Sony
+containing our PicoP® scanning technology.  We recognize revenue on the initial $8.0 million payment on a straight-line basis within royalty revenues on the statement of operations, over a
+period of eight years which is the expected time frame that we will provide services under the agreement.  Ongoing per unit royalties are reported by Sony to us on a quarterly basis.  Currently,
+we recognize revenue for ongoing per unit royalties one quarter in arrears when reported by Sony, representing when such amounts are fixed and determinable, and all other revenue recognition
+criteria are met.  Products delivered under multiple-element arrangements will be recognized upon acceptance of the deliverables by the customer or the expiration of the contractual acceptance
+period, after which there are no rights of return. 
+ Intangible assets 
+ Our intangible assets consist exclusively of purchased patents.  The patents are amortized using the straight-line method over their estimated period of benefit, ranging from one to
+seventeen years.  We evaluate the recoverability of intangible assets periodically by taking into account events or circumstances that may warrant revised estimates of useful lives or that indicate
+the asset may be impaired.  We compare the projected undiscounted net cash flows associated with the related intangible assets or group of assets over their remaining lives against their
+respective carrying amounts.  Measurement of an impairment loss for our intangible assets is based on the difference between the fair value of the asset and its carrying value. 
+ Inventory valuation 
+ Inventory is computed using the first-in, first-out (FIFO) method and is stated at the lower of cost and net realizable value.  We make judgments and estimates to value our inventory and
+make adjustments to its carrying value.  We review several factors in determining the market value of our inventory including: evaluating the replacement cost of the raw materials, the net
+realizable value of the finished goods, and the likelihood of obsolescence.  If we do not achieve our targeted sales prices, if market conditions for our components or products were to decline, or
+if we do not achieve our sales forecast, additional reductions in the carrying value of the inventory would be required. 
+ Warranty 
+ We provide a warranty on scanning engines and components incorporating our PicoP® scanning technology, and we accrue warranty reserves at the time revenue is recognized.
+Warranty reserves include management's best estimate of the projected costs to repair or to replace any items under warranty based upon the actual units of revenue recognized in the period.
+We review our reserves each period to ensure that our accruals are adequate in meeting expected future warranty obligations, and we will adjust our estimates as needed.  These estimates are
+inherently uncertain and changes to our historical or projected experience may cause material changes to our warranty reserves in the future. 
+ Share-based compensation 
+ We issue share-based compensation to employees in the form of stock options and restricted stock units (RSUs).  We account for the share-based awards by recognizing the fair value of
+share-based compensation expense on a straight-line basis over the service period of the award, net of estimated forfeitures.  The fair value of stock options is estimated on the grant date using
+the Black-Scholes option pricing model.  The fair value of RSUs is determined by the closing price of our common stock on the grant date.  Changes in estimated inputs or using other option
+valuation methods may result in materially different option values and share-based compensation expense. 
+ Income taxes 
+ Significant judgment is required in evaluating our tax position and in determining our provision for income taxes, our deferred tax assets and liabilities and any valuation allowance recorded
+against our net deferred tax assets.  We record a valuation allowance when necessary to reduce deferred tax assets to the amount expected to be realized.  Based on our history of losses since
+inception, the available objective evidence creates sufficient uncertainty regarding the realizability of the deferred tax assets.  Our actual tax exposure may differ from our estimates and any such
+differences may impact income our tax expense in the period in which such determination is made. 
+ The key accounting policies described above are not intended to be a comprehensive list of all of our accounting policies.  In many cases, the accounting treatment of a particular transaction
+is specifically dictated by generally accepted accounting principles, with no need for us to apply judgment or make estimates.  There are also areas in which our judgment in selecting any
+available alternative would not produce a materially different result to our consolidated financial statements.  Additional information about our accounting policies, and other disclosures required
+by generally accepted accounting principles, are set forth in the notes to our consolidated financial statements. 
+ Inflation has not had a material impact on our revenues or income from continuing operations over the three most recent fiscal years. 
+ Results of Operations 
+ YEAR ENDED DECEMBER 31, 2016 COMPARED TO YEAR ENDED DECEMBER 31, 2015. 
+ Product revenue 
+ % of 
+ % of 
+ total 
+ total 
+ 2016 
+ revenue 
+ 2015 
+ revenue 
+ $ change 
+ % change 
+ (In thousands) 
+ Product revenue 
+ 12,849 
+ 87.0 
+ 6,452 
+ 70.2 
+ 6,397 
+ 99.1 
+ Product revenue is revenue from sales of our products, which are MEMS and ASICS.  Product revenue was higher during the year ended December 31, 2016, compared to the same period
+in 2015, due to higher product sales to Sony as part of continued shipments of orders we received during 2015 and 2014 totaling $14.6 million and $3.8 million, respectively, for key components
+to be integrated into display modules it manufactures and sells.  During 2016, we completed delivery of all outstanding orders from Sony and the backlog of product orders at December 31, 2016
+was zero compared to $11.0 million at December 31, 2015. 
+ Royalty revenue 
+ % of 
+ % of 
+ total 
+ total 
+ 2016 
+ revenue 
+ 2015 
+ revenue 
+ $ change 
+ % change 
+ (In thousands) 
+ Royalty revenue 
+ 1,803 
+ 12.2 
+ 1,165 
+ 12.7 
+ 638 
+ 54.8 
+ Royalty revenue is revenue derived from license agreements to our PicoP® scanning technology.  Royalty revenue was higher during the year ended December 31, 2016, compared to
+the same period in 2015, as a result of higher royalty payments we received from Sony for display modules it sold. 
+ During the year ended December 31, 2016, we recognized $801,000 from ongoing per unit royalties, and $1.0 million from a prorated portion of the $8.0 million upfront payment.  During the
+year ended December 31, 2015, we recognized $316,000 from ongoing per unit royalties, and $849,000 from a prorated portion of the $8.0 million upfront payment.  At December 31, 2016,
+remaining unrecognized upfront license fees are included in current and long-term deferred revenues, amounting to $999,000 and $5.1 million, respectively.  At December 31, 2015,
+unrecognized upfront license fees are included in current and long-term deferred revenues, amounting to $1.0 million and $6.1 million, respectively. 
+ Contract revenue 
+ % of 
+ % of 
+ total 
+ total 
+ 2016 
+ revenue 
+ 2015 
+ revenue 
+ $ change 
+ % change 
+ (In thousands) 
+ Contract revenue 
+ 109 
+ 0.8 
+ 1,571 
+ 17.1 
+ (1,462) 
+ (93.1) 
+ Contract revenue includes revenue from support service contracts and the sale of prototype units and evaluation kits based on our PicoP® scanning engine.  In June 2015, we
+recognized the full contract value of $1.5 million in revenue having completed all deliverables and obligations under an agreement to provide support services to Sony for the production
+readiness, initial production and market launch for display modules incorporating our PicoP® scanning technology. 
+ The contract backlog, including orders for prototype units and evaluation kits, at December 31, 2016 was $942,000 compared to $45,000 at December 31, 2015, and is scheduled for
+completion during the next twelve months. 
+ Cost of product revenue 
+ % of 
+ % of 
+ product 
+ product 
+ 2016 
+ revenue 
+ 2015 
+ revenue 
+ $ change 
+ % change 
+ (In thousands) 
+ Cost of product revenue 
+ 10,320 
+ 80.3 
+ 6,384 
+ 98.9 
+ 3,936 
+ 61.7 
+ Cost of product revenue includes the direct and allocated indirect costs of products sold to customers.  Cost of product revenue can fluctuate significantly from period to period, depending on
+the volume and product mix and the level of manufacturing overhead expense.  Cost of product revenue as a percentage of net product revenue decreased during the year ended December 31,
+2016, compared to 2015, driven primarily by a significant increase in product deliveries to Sony. 
+ During the year ended December 31, 2016, we expensed approximately $1.1 million of manufacturing overhead associated with production capacity in excess of production requirements,
+compared to $873,000 in 2015.  Additionally, during the year ended December 31, 2016, we recorded a provision for scrap of $187,000 compared to $287,000 in 2015. 
+ Cost of contract revenue 
+ % of 
+ % of 
+ contract 
+ contract 
+ 2016 
+ revenue 
+ 2015 
+ revenue 
+ $ change 
+ % change 
+ (In thousands) 
+ Cost of contract revenue 
+ 49.5 
+ 796 
+ 50.7 
+ (742) 
+ (93.2) 
+ Cost of contract revenue includes both the direct and allocated indirect costs of performing on contracts and producing prototype units and evaluation kits based on our PicoP® scanning
+engines.  The decrease in cost of contract revenue for the year ended December 31, 2016, compared to 2015, was primarily attributed to reduced contract activity compared to the prior year. 
+ Research and development expense 
+ 2016 
+ 2015 
+ $ change 
+ % change 
+ (In thousands) 
+ Research and development expense 
+ 12,134 
+ 8,680 
+ 3,454 
+ 39.8 
+ Research and development expense consists of compensation related costs of employees and contractors engaged in internal research and product development activities, direct material to
+support development programs, laboratory operations, outsourced development and processing work, and other operating expenses.  We assign our research and development resources based
+on the business opportunity of the available projects, the skill mix of the resources available and the contractual commitments we have made to our customers. 
+ The increase in research and development expense during the year ended December 31, 2016, compared to 2015, was attributable to the allocation of resources to internal research and
+development activities that were previously designated to a commercial contract in prior periods in addition to higher costs related to subcontractors and increased personnel-related
+compensation and benefits expenses. 
+ We believe that a substantial level of continuing research and development expense will be required to further develop our PicoP® scanning technology. 
+ Sales, marketing, general and administrative expense 
+ 2016 
+ 2015 
+ $ change 
+ % change 
+ (In thousands) 
+ Sales, marketing, general and administrative expense 
+ 8,743 
+ 7,879 
+ 864 
+ 11.0 
+ Sales, marketing, general and administrative expense includes compensation and support costs for marketing, sales, management and administrative staff, and for other general and
+administrative costs, including legal and accounting services, consultants and other operating expenses. 
+ The increase in sales, marketing, general and administrative expense during the year ended December 31, 2016, compared to 2015, 
+ We are dependent on third parties in order to develop, manufacture, sell and market products incorporating our PicoP® 
+ scanning technology, scanning engines, and the
+scanning engine components. 
+ Our business strategy for commercializing our technology in products incorporating PicoP® scanning technology includes entering into development, manufacturing, sales and
+marketing arrangements with ODMs, OEMs and other third parties.  These arrangements reduce our level of control over production and distribution and may subject us to risks and uncertainties
+regarding, but not limited to, product warranty, product liability and quality control standards. 
+ We cannot be certain that we will be able to negotiate arrangements on acceptable terms, if at all, or
+that these arrangements will be successful in yielding commercially viable products.  If we cannot establish these arrangements, we would require additional capital to undertake such activities
+on our own and would require extensive manufacturing, sales and marketing expertise that we do not currently possess and that may be difficult to obtain. 
+ In addition, we could encounter significant delays in introducing our PicoP® scanning technology or find that the development, manufacture or sale of products incorporating our
+technology would not be feasible.  To the extent that we enter into development, manufacturing, sales and marketing or other arrangements, our revenues will depend upon the performance of
+third parties.  We cannot be certain that any such arrangements will be successful. 
+ We cannot be certain that our technology platform or products incorporating our PicoP® 
+ scanning technology will achieve market acceptance.  If our technology platform or
+products incorporating our technology do not achieve market acceptance, our revenues may not grow. 
+ Our success will depend in part on customer acceptance of our PicoP® scanning technology.  Our technology may not be accepted by manufacturers who use display and 3D
+sensing technologies in their products, by systems integrators, ODMs, and OEMs who incorporate the scanning engine components into their products or by end users of these products.  To be
+accepted, our PicoP® scanning technology must meet the expectations of our current and potential customers in the consumer electronics, automotive, and other markets.  If our technology
+platform or products incorporating 
+ our 
+ PicoP® scanning technology do not achieve market acceptance, we may not be able to continue to develop our technology. 
+ Future products incorporating our PicoP® 
+ scanning technology and scanning engines are dependent on advances in technology by other companies. 
+ Our PicoP® scanning technology will continue to rely on technologies, such as laser diode light sources and other components that are developed and produced by other
+companies.  The commercial success of certain future products incorporating our PicoP® scanning technology will depend, in part, on advances in these and other technologies by other
+companies.  We may, from time to time, contract with and support companies developing key technologies in order to accelerate the development of them for our or our customers' specific uses.
+There are no guarantees that such activities will result in useful technologies or products that will be profitable. 
+ We are dependent on a small number of customers for our revenue.  Our quarterly performance may vary substantially and this variance, as well as general market conditions, may
+cause our stock price to fluctuate greatly and potentially expose us to litigation. 
+ In 2016, one commercial customer accounted for $13.5 million in revenue, representing 91% of our total revenue.  In 2015, the same commercial customer accounted for $9.0 million in
+revenue, representing 98% of our total revenue.  In 2014, the same single commercial customer accounted for $2.0 million in revenue, representing 58% of our total revenue.  A second
+commercial customer in 2014 accounted for $577,000 in revenue, representing 17% of our total revenue.  Our customers take time to obtain, and the loss of a significant customer could
+negatively affect our revenue.  Our quarterly operating results may vary significantly based upon: 
+ Market acceptance of products incorporating our PicoP® scanning technology; 
+ Changes in evaluations and recommendations by any securities analysts following our stock or our industry generally; 
+ Announcements by other companies in our industry; 
+ Changes in business or regulatory conditions; 
+ Announcements or implementation by our competitors of technological innovations or new products; 
+ The status of particular development programs and the timing of performance under specific development agreements; 
+ Economic and stock market conditions; or 
+ Other factors unrelated to our company or industry. 
+ In one or more future quarters, our results of operations may fall below the expectations of securities analysts and investors and the trading price of our common stock may decline as a
+consequence.  In addition, following periods of volatility in the market price of a company's securities, shareholders often have instituted securities class action litigation against that company. 
+ If we become involved in a class action suit, it could divert the attention of management and, if adversely determined, could require us to pay substantial damages. 
+ We or our customers may fail to perform under open orders or agreements, which could adversely affect our operating results and cash flows. 
+ Our backlog of open orders totaled $942,000 as of December 31, 2016.  We or our customers may be unable to meet the performance requirements and obligations under open orders
+or agreements, including performance specifications or delivery dates, required by such purchase orders or agreements.  Furthermore, our customers may be unable or unwilling
+to perform their obligations thereunder on a timely basis, or at all if, among other reasons, our products and technologies do not achieve market acceptance, our customers' products and
+technologies do not achieve market acceptance or our customers otherwise fail to achieve their operating goals.  To the extent we are unable to perform under such purchase orders
+or agreements or to the extent customers are unable or unwilling to perform, our operating results and cash flows could be adversely affected. 
+ It may become more difficult to sell our stock in the public market or maintain our listing on the NASDAQ Global Market. 
+ Our common stock is listed on The NASDAQ Global Market.  To maintain our listing on this market, we must meet NASDAQ's listing maintenance standards.  If we are unable to
+continue to meet NASDAQ's listing maintenance standards for any reason, our common stock could be delisted from The NASDAQ Global Market.  If our common stock were delisted, we likely
+would seek to list our common stock on The NASDAQ Capital Market, the American Stock Exchange or on a regional stock exchange.  Listing on such other market or exchange could reduce
+the liquidity of our common stock.  If our common stock were not listed on The NASDAQ Capital Market or an exchange, trading of our common stock would be conducted in the Over-the-
+Counter (OTC) market on an electronic bulletin board established for unlisted securities or directly through market makers in our common stock.  If our common stock were to trade in the OTC
+market, an investor would find it more difficult to dispose of, or to obtain accurate quotations for the price of, the common stock. 
+ A delisting from The NASDAQ Global Market and failure to obtain listing on another market or exchange would subject our common stock to so-called penny stock rules that impose
+additional sales practice and market-making requirements on broker-dealers who sell or make a market in such securities.  Consequently, removal from The NASDAQ Global Market and failure
+to obtain listing on another market or exchange could affect the ability or willingness of broker-dealers to sell or make a market in our common stock and the ability of purchasers of our common
+stock to sell their securities in the secondary market. 
+ On February 27, 2017, the closing price of our common stock was $1.71 per share. 
+ Our lack of financial and technical resources relative to our competitors may limit our revenues, potential profits, overall market share or value. 
+ Our products and potential products incorporating our PicoP® scanning technology will compete with established manufacturers of existing products and companies developing new
+technologies.  Many of our competitors have substantially greater financial, technical and other resources than we have.  Because of their greater resources, our competitors may develop
+products or technologies that may be superior to our own.  The introduction of superior competing products or technologies could result in reduced revenues, lower margins or loss of market
+share, any of which could reduce the value of our business. 
+ We may not be able to keep up with rapid technological change and our financial results may suffer. 
+ The information display and 3D sensing industries have been characterized by rapidly changing technology, accelerated product obsolescence and continuously evolving industry
+standards.  Our success will depend upon our ability to further develop our PicoP® scanning technology platform and to cost effectively introduce new products and features in a timely
+manner to meet evolving customer requirements and compete with competitors' product advances.  We may not succeed in these efforts due to: 
+ Delays in product development; 
+ Lack of market acceptance for our technology or products incorporating our PicoP® scanning technology; or 
+ Lack of funds to invest in product research, development and marketing. 
+ The occurrence of any of the above factors could result in decreased revenues, market share and value of our business. 
+ We could face lawsuits related to our use of PicoP® scanning technology or other technologies.  Defending these suits would be costly and time-consuming.  An adverse outcome, in
+any such matter, could limit our ability to commercialize our technology or products incorporating our PicoP® scanning technology, reduce our revenues and increase our operating
+expenses. 
+ We are aware of several patents held by third parties that relate to certain aspects of light scanning displays and 3D sensing products.  These patents could be used as a basis to
+challenge the validity, limit the scope or limit our ability to obtain additional or broader patent rights of our patents or patents we have licensed.  A successful challenge to the validity of our
+patents or patents we have licensed could limit our ability to commercialize our technology or products incorporating our PicoP® scanning technology and, consequently, materially reduce
+our revenues.  Moreover, we cannot be certain that patent holders or other third parties will not claim infringement by us with respect to current and future technology.  Because U.S. patent
+applications are held and examined in secrecy, it is also possible that presently pending U.S. applications will eventually be issued with claims that will be infringed by our products or our
+technology. 
+ The defense and prosecution of a patent suit would be costly and time-consuming, even if the outcome were ultimately favorable to us.  An adverse outcome in the defense of a patent suit
+could subject us to significant costs, require others and us to cease selling products incorporating our technology, require us to cease licensing our technology or require disputed rights to be
+licensed from third parties.  Such licenses, if available, would increase our operating expenses.  Moreover, if claims of infringement are asserted against our future co-development partners or
+customers, those partners or customers may seek indemnification from us for any damages or expenses they incur. 
+ If we fail to manage expansion effectively, our revenue and expenses could be adversely affected. 
+ Our ability to successfully offer products incorporating PicoP® scanning technology and implement our business plan in a rapidly evolving market requires an effective planning and
+management process.  The growth in business and relationships with customers and other third parties has placed, and will continue to place, a significant strain on our management systems
+and resources.  We will need to continue to improve our financial and managerial controls, reporting systems and procedures, and will need to continue to train and manage our work force. 
+ If we fail to adequately reduce and control our manufacturing, supply chain and operating costs, our business, financial condition, and operating results could be adversely affected. 
+ We incur significant costs related to procuring components and increasing our production capabilities to manufacture our products.  We may experience delays, cost overruns or other
+unexpected costs associated with an increase in production.  If we are unsuccessful in our efforts to reduce and control our manufacturing, supply chain and operating costs and keep costs
+aligned with the levels of revenues we generate, our business and financial condition could suffer. 
+ Our technology and products incorporating our PicoP® 
+ scanning technology may be subject to future environmental, health and safety regulations that could increase our
+development and production costs. 
+ Our technology and products incorporating our PicoP® scanning technology could become subject to future environmental, health and safety regulations or amendments that could
+negatively impact our ability to commercialize our technology and products incorporating our PicoP® scanning technology.  Compliance with any such new regulations would likely increase
+the cost to develop and produce products incorporating our PicoP® scanning technology, and violations may result in fines, penalties or suspension of production.  If we become subject to
+any environmental, health, or safety laws or regulations that require us to cease or significantly change our operations to comply, our business, financial condition and operating results could be
+adversely affected. 
+ Our operating results may be adversely impacted by worldwide political and economic uncertainties and specific conditions in the markets we address. 
+ In the recent past, general worldwide economic conditions have experienced a downturn due to slower economic activity, concerns about inflation, increased energy costs, decreased
+consumer confidence, reduced corporate profits and capital spending, and adverse business conditions.  Any continuation or worsening of the current global economic and financial conditions
+could materially adversely affect: (i) our ability to raise, or the cost of, needed capital, (ii) demand for our current and future products, and (iii) our ability to commercialize products.  We cannot
+predict the timing, strength, or duration of any economic slowdown or subsequent economic recovery, worldwide, regionally or in the display industry. 
+ Because we plan to continue using foreign contract manufacturers, our operating results could be harmed by economic, political, regulatory and other factors in foreign countries. 
+ We currently use foreign contract manufacturers and plan to continue to use foreign contract manufacturers to manufacture current and future products, where appropriate.  These
+international operations are subject to inherent risks, which may adversely affect us, including, but not limited to: 
+ Political and economic instability; 
+ High levels of inflation, historically the case in a number of countries in Asia; 
+ Burdens and costs of compliance with a variety of foreign laws, regulations and sanctions; 
+ Foreign taxes and duties; 
+ Changes in tariff rates or other trade, tax or monetary policies; and 
+ Changes or volatility in currency exchange rates and interest rates. 
+ Our contract manufacturers' facilities could be damaged or disrupted by a natural disaster or labor strike, either of which would materially affect our financial position, results of operations
+and cash flows. 
+ A major catastrophe, such as an earthquake, monsoon, flood or other natural disaster, labor strike, or work stoppage at our contract manufacturers' facilities, our suppliers, or our
+customers, could result in a prolonged interruption of our business.  A disruption resulting from any one of these events could cause significant delays in product shipments and the loss of sales
+and customers, which could have a material adverse effect on our financial condition, results of operations, and cash flows. 
+ If our licensors and we are unable to obtain effective intellectual property protection for our products, processes and technology, we may be unable to compete with other
+companies. 
+ Intellectual property protection for our products, processes and technology is important and uncertain.  If we do not obtain effective intellectual property protection for our products,
+processes and technology, we may be subject to increased competition.  Our commercial success will depend, in part, on our ability and the ability of our licensors, to maintain the proprietary
+nature of our PicoP® scanning technology and other key technologies by securing valid and enforceable patents and effectively maintaining unpatented technology as trade secrets. 
+ We protect our proprietary PicoP® scanning technology by seeking to obtain United States and foreign patents in our name, or licenses to third party patents, related to proprietary
+technology, inventions, and improvements that may be important to the development of our business.  However, our patent position and the patent position of our licensors involve complex legal
+and factual questions.  The standards that the United States Patent and Trademark Office and its foreign counterparts use to grant patents are not always applied predictably or uniformly and
+can change. 
+ Additionally, the scope of patents are subject to interpretation by courts and their validity can be subject to challenges and defenses, including challenges and defenses based on the
+existence of prior art.  Consequently, we cannot be certain as to the extent to which we will be able to obtain patents for our new products and technology or the extent to which the patents that
+we already own or license from others, protect our products and technology.  Reduction in scope of protection or invalidation of our licensed or owned patents, or our inability to obtain new
+patents, may enable other companies to develop products that compete directly with ours on the basis of the same or similar technology. 
+ We also rely on the law of trade secrets to protect unpatented know-how and technology to maintain our competitive position.  We try to protect this know-how and technology by limiting
+access to the trade secrets to those of our employees, contractors and partners, with a need-to-know such information and by entering into confidentiality agreements with parties that have
+access to it, such as our employees, consultants and business partners.  Any of these parties could breach the agreements and disclose our trade secrets or confidential information, or our
+competitors might learn of the information in some other way.  If any trade secret not protected by a patent were to be disclosed to or independently developed by a competitor, our competitive
+position could be negatively affected. 
+ We could be subject to significant product liability claims that could be time-consuming and costly, divert management attention and adversely affect our ability to obtain and maintain
+insurance coverage. 
+ We could be subject to product liability claims if any of the product applications are alleged to be defective or cause harmful effects.  For example, because some of the scanning
+engines incorporating our PicoP® scanning technology could scan a low power beam of colored light into the user's eye, the testing, manufacture, marketing and sale of these products
+involve an inherent risk that product liability claims will be asserted against us. 
+ Additionally, any misuse of our technology or products incorporating our PicoP® scanning technology by end users or third parties that obtain access to our technology, could result in
+negative publicity and could harm our brand and reputation.  Product liability claims or other claims related to our products or our technology, regardless of their outcome, could require us to
+spend significant time and money in litigation, divert management time and attention, require us to pay significant damages, harm our reputation or hinder acceptance of our products.  Any
+successful product liability claim may prevent us from obtaining adequate product liability insurance in the future on commercially desirable or reasonable terms.  An inability to obtain sufficient
+insurance coverage at an acceptable cost or otherwise to protect against potential product liability claims could prevent or inhibit the commercialization of our products and our PicoP®
+scanning technology. 
+ Our contracts and collaborative research and development agreements have long sales cycles, which makes it difficult to plan our expenses and forecast our revenues. 
+ Our contracts and collaborative research and development agreements have long sales cycles that involve numerous steps including determining the product application, exploring the
+technical feasibility of a proposed product, evaluating the costs of manufacturing a product or qualifying a new or alternative contract manufacturer for production.  Our long sales cycle, which
+can last several years, makes it difficult to predict the quarter in which revenue recognition will occur.  Delays in entering into contracts and collaborative research and development agreements
+could cause significant variability in our revenues and operating results for any particular period. 
+ Our contracts and collaborative research and development agreements may not lead to any product or any products that will be profitable. 
+ Our contracts and collaborative research and development agreements, including without limitation, those discussed in this document, are exploratory in nature and are intended to
+develop new types of products for new applications.  Our efforts may prove unsuccessful and these relationships may not result in the development of any product or any products that will be
+profitable. 
+ Our operations could be adversely impacted by information technology system failures, network disruptions, or cyber security breaches. 
+ We rely on information technology systems to process, transmit, store, and protect electronic data between our employees, our customers and our suppliers.  Our systems are
+vulnerable to damage or interruptions due to events beyond our control, including, but are not limited to, natural disasters, power loss, telecommunications failures, computer viruses, hacking, or
+other cyber security issues.  Our system redundancy may be inadequate and our disaster recovery planning may be ineffective or insufficient to account for all eventualities.  Additionally, we
+maintain insurance coverage to address certain aspects of cyber risks.  Such insurance coverage may be insufficient to cover all losses or all claims that may arise, should such an event
+occur. 
+ Loss of any of our key personnel could have a negative effect on the operation of our business. 
+ Our success depends on our executive officers and other key personnel and on the ability to attract and retain qualified new personnel.  Achievement of our business objectives will
+require substantial additional expertise in the areas of sales and marketing, research and product development and manufacturing.  Competition for qualified personnel in these fields is intense,
+and the inability to attract and retain additional highly skilled personnel, or the loss of key personnel, could hinder our ability to compete effectively in the information display and 3D sensing
+markets and adversely affect our business strategy execution and results of operations.

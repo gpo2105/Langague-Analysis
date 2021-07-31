@@ -1,0 +1,214 @@
+You should carefully consider the risks described below together with the other information set forth in this report, which could materially affect our business, financial condition
+and future results.  The risks described below are not the only risks facing our company.  Risks and uncertainties not currently known to us or that we currently deem to be immaterial also
+may materially adversely affect our business, financial condition and operating results. 
+ Risk Factors Related to Our Business and Industry 
+ We have a history of operating losses and expect to incur significant losses in the future. 
+ We have had substantial losses since our inception.  We cannot assure you that we will ever become or remain profitable. 
+ As of December 31, 2017, we had an accumulated deficit of $524.1 million. 
+ We incurred consolidated net losses of $468.8 million from inception through 2014, $14.5 million in 2015, $16.5 million in 2016, and $24.2 million in 2017. 
+ The likelihood of our success must be considered in light of the expenses, difficulties and delays frequently encountered by companies formed to develop and commercialize new
+technologies.  In particular, our operations to date have focused primarily on research and development of our PicoP® scanning technology platform and development of demonstration
+units.  We are unable to accurately estimate future revenues and operating expenses based upon historical performance. 
+ We cannot be certain that we will succeed in obtaining additional development revenue or commercializing our technology or products.  In light of these factors, we expect to continue to
+incur significant losses and negative cash flow at least through 2018 and likely thereafter.  We cannot be certain that we will achieve positive cash flow at any time in the future. 
+ We will require additional capital to fund our operations and to implement our business plan.  If we do not obtain additional capital, we may be required to curtail our operations
+substantially.  Raising additional capital may dilute the value of current shareholders' shares. 
+ Based on our current operating plan that includes expected proceeds from a development contract signed in April 2017 with a major technology company, we anticipate that we have
+sufficient cash and cash equivalents to fund our operations into the third quarter of 2018.  Our receipt of proceeds under our April 2017 development contract is subject to our
+completion of certain milestones, and we can provide no assurance that such milestones will be completed.  We will require additional capital to fund our operating plan past that time.  We
+plan to obtain additional capital through the issuance of equity or debt securities, product sales and/or licensing activities. 
+ We are introducing new technology and products into an emerging market which creates significant uncertainty about our ability to accurately project revenue, costs and cash flows.  Our
+capital requirements will depend on many factors, including, but not limited to, the commercial success of our LBS engines, the rate at which ODMs and OEMs introduce products
+incorporating our PicoP® scanning technology and the market acceptance and competitive position of such products.  If revenues are less than we anticipate, if we fail to meet milestones
+for future payments or have to repay amounts already received under our April 2017 development contract, if the mix of revenues and the associated margins varies from anticipated amounts
+or if expenses exceed the amounts budgeted, we may require additional capital earlier than expected to fund our operations.  In addition, our operating plan provides for the development of
+strategic relationships with suppliers of components, products and systems, and equipment manufacturers that may require additional investments by us. 
+ Additional capital may not be available to us or, if available, may not be available on terms acceptable to us or on a timely basis.  Raising additional capital may involve issuing securities
+with rights and preferences that are senior to our common stock and may dilute the value of our current shareholders' shares.  If adequate capital resources are not available on a timely
+basis, we may consider limiting our operations substantially and we may be unable to continue as a going concern.
+This limitation of operations could include reducing investments in our production capacities or research and development
+projects, staff, operating costs, and capital expenditures which could jeopardize our ability to achieve our business goals or satisfy our customer requirements. 
+ Qualifying a new or alternative contract manufacturer or foundry for our products could cause us to experience delays that result in lost revenues and damaged customer
+relationships. 
+ We rely on single or limited-source suppliers to manufacture our products.  Establishing a relationship with a new or alternative contract manufacturer(s) or foundry is a time-consuming
+process, as our unique technology may require significant manufacturing process adaptation to achieve full manufacturing capacity.  Accordingly, we may be unable to establish a relationship
+with new or alternative contract manufacturers in the short-term, or at all, at prices or on other terms that are acceptable to us. 
+ Changes in our supply chain may result in increased cost and delay and may subject us to risks and uncertainties regarding, but not limited to, product warranty, product liability and
+quality control standards.  The loss of any single or limited-source supplier, the failure of any of these suppliers to perform as expected or the disruption in the supply chain of components
+from these suppliers could cause significant delays in product deliveries, which may result in lost revenues and damaged customer relationships.  To the extent that we are not able to
+establish a relationship with a new or alternative contract manufacturer(s) or foundry in a timely manner, we may be unable to meet contract or production milestones, which could have a
+material adverse effect on our financial condition, results of operations and cash flows. 
+ Our success will depend, in part, on our ability to secure significant third party manufacturing resources. 
+ Our success will depend, in part, on our ability to provide our components and future products in commercial quantities at competitive prices and on schedule.  Accordingly, we will be
+required to obtain access, through business partners or contract manufacturers, to manufacturing capacity and processes for the commercial production of our expected future products. 
+ Our foreign contract manufacturers could experience severe financial difficulties or other disruptions in their business, and such continued supply could be significantly reduced or
+terminated.  In addition, we cannot be certain that we will successfully obtain access to needed manufacturing resources concurrent with a significant increase in our planned production
+levels.  Future manufacturing limitations of our suppliers could constrain the number of products that we are able to develop and produce. 
+ We are dependent on third parties in order to develop, manufacture, sell and market products incorporating our PicoP® scanning technology, scanning engines, and the scanning
+engine components. 
+ Our business strategy for commercializing our technology in products incorporating PicoP® scanning technology includes entering into development, manufacturing, sales and
+marketing arrangements with ODMs, OEMs and other third parties.  These arrangements reduce our level of control over production and distribution and may subject us to risks and
+uncertainties regarding, but not limited to, product warranty, product liability and quality control standards. 
+ We cannot be certain that we will be able to negotiate arrangements on acceptable terms, if at all, or that these arrangements will be successful in yielding commercially viable products.
+If we cannot establish these arrangements, we would require additional capital to undertake such activities on our own and would require extensive manufacturing, sales and marketing
+expertise that we do not currently possess and that may be difficult to obtain. 
+ In addition, we could encounter significant delays in introducing our PicoP® scanning technology or find that the development, manufacture or sale of products incorporating our
+technology would not be feasible.  To the extent that we enter into development, manufacturing, sales and marketing or other arrangements, our revenues will depend upon the performance
+of third parties.  We cannot be certain that any such arrangements will be successful. 
+ We cannot be certain that our technology platform or products incorporating our PicoP® scanning technology will achieve market acceptance.  If our technology platform or
+products incorporating our technology do not achieve market acceptance, our revenues may not grow. 
+ Our success will depend in part on customer acceptance of our PicoP® scanning technology.  Our technology may not be accepted by manufacturers who use display and 3D sensing
+technologies in their products, by systems integrators, ODMs, and OEMs who incorporate the scanning engine components into their products or by end users of these products.  To be
+accepted, our PicoP® scanning technology must meet the expectations of our current and potential customers in the consumer electronics, automotive, and other markets.  If our
+technology platform or products incorporating our PicoP® scanning technology do not achieve market acceptance, we may not be able to continue to develop our technology. 
+ Future products incorporating our PicoP® scanning technology and scanning engines are dependent on advances in technology by other companies. 
+ Our PicoP® scanning technology will continue to rely on technologies, such as laser diode light sources and other components that are developed and produced by other companies.
+The commercial success of certain future products incorporating our PicoP® scanning technology will depend, in part, on advances in these and other technologies by other companies.
+We may, from time to time, contract with and support companies developing key technologies in order to accelerate the development of them for our or our customers' specific uses.  There
+are no guarantees that such activities will result in useful technologies or products that will be profitable. 
+ We are dependent on a small number of customers for our revenue.  Our quarterly performance may vary substantially and this variance, as well as general market conditions, may
+cause our stock price to fluctuate greatly and potentially expose us to litigation. 
+ In 2017, one commercial customer accounted for $5.8 million in revenue, representing 53% of our total revenue, a second commercial customer accounted for $2.3 million in revenue,
+representing 21% of our total revenue, and a third commercial customer accounted for $1.6 million in revenue, representing 14% of our total revenue.  In 2016, one commercial customer
+accounted for $13.5 million in revenue, representing 91% of our total revenue.  In 2015, the same commercial customer accounted for $9.0 million in revenue, representing 98% of our total
+revenue.  Our customers take time to obtain, and the loss of a significant customer could negatively affect our revenue.  Our quarterly operating results may vary significantly based
+upon: 
+ Market acceptance of products incorporating our PicoP® scanning technology; 
+ Changes in evaluations and recommendations by any securities analysts following our stock or our industry generally; 
+ Announcements by other companies in our industry; 
+ Changes in business or regulatory conditions; 
+ Announcements or implementation by our competitors of technological innovations or new products; 
+ The status of particular development programs and the timing of performance under specific development agreements; 
+ Economic and stock market conditions; or 
+ Other factors unrelated to our company or industry. 
+ In one or more future quarters, our results of operations may fall below the expectations of securities analysts and investors and the trading price of our common stock may decline as a
+consequence.  In addition, following periods of volatility in the market price of a company's securities, shareholders often have instituted securities class action litigation against that
+company. 
+ If we become involved in a class action suit, it could divert the attention of management and, if adversely determined, could require us to pay substantial damages. 
+ We or our customers may fail to perform under open orders or agreements, which could adversely affect our operating results and cash flows. 
+ Our backlog under open orders and agreements totaled $13.6 million as of December 31, 2017.  We or our customers may be unable to meet the performance requirements and
+obligations under open orders or agreements, including performance specifications, milestones or delivery dates, required by such purchase orders or agreements.  Furthermore, our
+customers may be unable or unwilling to perform their obligations thereunder on a timely basis, or at all if, among other reasons, our products and technologies do not achieve market
+acceptance, our customers' products and technologies do not achieve market acceptance or our customers otherwise fail to achieve their operating goals.  To the extent we are unable to
+perform under such purchase orders or agreements or to the extent customers are unable or unwilling to perform, our operating results and cash flows could be adversely affected. 
+ It may become more difficult to sell our stock in the public market or maintain our listing on the NASDAQ Global Market. 
+ Our common stock is listed on The NASDAQ Global Market.  To maintain our listing on this market, we must meet NASDAQ's listing maintenance standards.  If we are unable to continue
+to meet NASDAQ's listing maintenance standards for any reason, our common stock could be delisted from The NASDAQ Global Market.  If our common stock were delisted, we likely would
+seek to list our common stock on The NASDAQ Capital Market, the American Stock Exchange or on a regional stock exchange.  Listing on such other market or exchange could reduce the
+liquidity of our common stock.  If our common stock were not listed on The NASDAQ Capital Market or an exchange, trading of our common stock would be conducted in the Over-the-
+Counter (OTC) market on an electronic bulletin board established for unlisted securities or directly through market makers in our common stock.  If our common stock were to trade in the
+OTC market, an investor would find it more difficult to dispose of, or to obtain accurate quotations for the price of, the common stock. 
+ A delisting from The NASDAQ Global Market and failure to obtain listing on another market or exchange would subject our common stock to so-called penny stock rules that impose
+additional sales practice and market-making requirements on broker-dealers who sell or make a market in such securities.  Consequently, removal from The NASDAQ Global Market and
+failure to obtain listing on another market or exchange could affect the ability or willingness of broker-dealers to sell or make a market in our common stock and the ability of purchasers of our
+common stock to sell their securities in the secondary market. 
+ On February 20, 2018, the closing price of our common stock was $1.23 per share. 
+ Our lack of financial and technical resources relative to our competitors may limit our revenues, potential profits, overall market share or value. 
+ Our products and potential products incorporating our PicoP® scanning technology will compete with established manufacturers of existing products and companies developing new
+technologies.  Many of our competitors have substantially greater financial, technical and other resources than we have.  Because of their greater resources, our competitors may develop
+products or technologies that may be superior to our own.  The introduction of superior competing products or technologies could result in reduced revenues, lower margins or loss of market
+share, any of which could reduce the value of our business. 
+ We may not be able to keep up with rapid technological change and our financial results may suffer. 
+ The information display and 3D sensing industries have been characterized by rapidly changing technology, accelerated product obsolescence and continuously evolving industry
+standards.  Our success will depend upon our ability to further develop our PicoP® scanning technology platform and to cost effectively introduce new products and features in a timely
+manner to meet evolving customer requirements and compete with competitors' product advances.  We may not succeed in these efforts due to: 
+ Delays in product development; 
+ Lack of market acceptance for our technology or products incorporating our PicoP® scanning technology; or 
+ Lack of funds to invest in product research, development and marketing. 
+ The occurrence of any of the above factors could result in decreased revenues, market share and value of our business. 
+ We could face lawsuits related to our use of PicoP® scanning technology or other technologies.  Defending these suits would be costly and time-consuming.  An adverse
+outcome, in any such matter, could limit our ability to commercialize our technology or products incorporating our PicoP® scanning technology, reduce our revenues and increase our
+operating expenses. 
+ We are aware of several patents held by third parties that relate to certain aspects of light scanning displays and 3D sensing products.  These patents could be used as a basis to
+challenge the validity, limit the scope or limit our ability to obtain additional or broader patent rights of our patents or patents we have licensed.  A successful challenge to the validity of our
+patents or patents we have licensed could limit our ability to commercialize our technology or products incorporating our PicoP® scanning technology and, consequently, materially reduce
+our revenues.  Moreover, we cannot be certain that patent holders or other third parties will not claim infringement by us with respect to current and future technology.  Because U.S. patent
+applications are held and examined in secrecy, it is also possible that presently pending U.S. applications will eventually be issued with claims that will be infringed by our products or our
+technology. 
+ The defense and prosecution of a patent suit would be costly and time-consuming, even if the outcome were ultimately favorable to us.  An adverse outcome in the defense of a patent
+suit could subject us to significant costs, require others and us to cease selling products incorporating our technology, require us to cease licensing our technology or require disputed rights to
+be licensed from third parties.  Such licenses, if available, would increase our operating expenses.  Moreover, if claims of infringement are asserted against our future co-development
+partners or customers, those partners or customers may seek indemnification from us for any damages or expenses they incur. 
+ If we fail to manage expansion effectively, our revenue and expenses could be adversely affected. 
+ Our ability to successfully offer products incorporating PicoP® scanning technology and implement our business plan in a rapidly evolving market requires an effective planning and
+management process.  The growth in business and relationships with customers and other third parties has placed, and will continue to place, a significant strain on our management systems
+and resources.  We will need to continue to improve our financial and managerial controls, reporting systems and procedures, and will need to continue to train and manage our work
+force. 
+ If we fail to adequately reduce and control our manufacturing, supply chain and operating costs, our business, financial condition, and operating results could be adversely
+affected. 
+ We incur significant costs related to procuring components and increasing our production capabilities to manufacture our products.  We may experience delays, cost overruns or other
+unexpected costs associated with an increase in production.  If we are unsuccessful in our efforts to reduce and control our manufacturing, supply chain and operating costs and keep costs
+aligned with the levels of revenues we generate, our business and financial condition could suffer. 
+ Our technology and products incorporating our PicoP® scanning technology may be subject to future environmental, health and safety regulations that could increase our
+development and production costs. 
+ Our technology and products incorporating our PicoP® scanning technology could become subject to future environmental, health and safety regulations or amendments that could
+negatively impact our ability to commercialize our technology and products incorporating our PicoP® scanning technology.  Compliance with any such new regulations would likely
+increase the cost to develop and produce products incorporating our PicoP® scanning technology, and violations may result in fines, penalties or suspension of production.  If we become
+subject to any environmental, health, or safety laws or regulations that require us to cease or significantly change our operations to comply, our business, financial condition and operating
+results could be adversely affected. 
+ Our operating results may be adversely impacted by worldwide political and economic uncertainties and specific conditions in the markets we address. 
+ In the recent past, general worldwide economic conditions have experienced a downturn due to slower economic activity, concerns about inflation, increased energy costs, decreased
+consumer confidence, reduced corporate profits and capital spending, and adverse business conditions.  Any continuation or worsening of the current global economic and financial
+conditions could materially adversely affect: (i) our ability to raise, or the cost of, needed capital, (ii) demand for our current and future products, and (iii) our ability to commercialize products.
+We cannot predict the timing, strength, or duration of any economic slowdown or subsequent economic recovery, worldwide, regionally or in the display industry. 
+ Because we plan to continue using foreign contract manufacturers, our operating results could be harmed by economic, political, regulatory and other factors in foreign countries. 
+ We currently use foreign contract manufacturers and plan to continue to use foreign contract manufacturers to manufacture current and future products, where appropriate.  These
+international operations are subject to inherent risks, which may adversely affect us, including, but not limited to: 
+ Political and economic instability; 
+ High levels of inflation, historically the case in a number of countries in Asia; 
+ Burdens and costs of compliance with a variety of foreign laws, regulations and sanctions; 
+ Foreign taxes and duties; 
+ Changes in tariff rates or other trade, tax or monetary policies; and 
+ Changes or volatility in currency exchange rates and interest rates. 
+ Our contract manufacturers' facilities could be damaged or disrupted by a natural disaster or labor strike, either of which would materially affect our financial position, results of
+operations and cash flows. 
+ A major catastrophe, such as an earthquake, monsoon, flood or other natural disaster, labor strike, or work stoppage at our contract manufacturers' facilities, our suppliers, or our
+customers, could result in a prolonged interruption of our business.  A disruption resulting from any one of these events could cause significant delays in product shipments and the loss of
+sales and customers, which could have a material adverse effect on our financial condition, results of operations, and cash flows. 
+ If we are unable to obtain effective intellectual property protection for our products, processes and technology, we may be unable to compete with other companies. 
+ Intellectual property protection for our products, processes and technology is important and uncertain.  If we do not obtain effective intellectual property protection for our products,
+processes and technology, we may be subject to increased competition.  Our commercial success will depend, in part, on our ability, to maintain the proprietary nature of our PicoP®
+scanning technology and other key technologies by securing valid and enforceable patents and effectively maintaining unpatented technology as trade secrets. 
+ We protect our proprietary PicoP® scanning technology by seeking to obtain United States and foreign patents in our name, or licenses to third party patents, related to proprietary
+technology, inventions, and improvements that may be important to the development of our business.  However, our patent position involves complex legal and factual questions.  The
+standards that the United States Patent and Trademark Office and its foreign counterparts use to grant patents are not always applied predictably or uniformly and can change. 
+ Additionally, the scope of patents is subject to interpretation by courts and their validity can be subject to challenges and defenses, including challenges and defenses based on the
+existence of prior art.  Consequently, we cannot be certain as to the extent to which we will be able to obtain patents for our new products and technology or the extent to which the patents
+that we already own, protect our products and technology.  Reduction in scope of protection or invalidation of our licensed or owned patents, or our inability to obtain new patents, may enable
+other companies to develop products that compete directly with ours on the basis of the same or similar technology. 
+ We also rely on the law of trade secrets to protect unpatented know-how and technology to maintain our competitive position.  We try to protect this know-how and technology by limiting
+access to the trade secrets to those of our employees, contractors and partners, with a need-to-know such information and by entering into confidentiality agreements with parties that have
+access to it, such as our employees, consultants and business partners.  Any of these parties could breach the agreements and disclose our trade secrets or confidential information, or our
+competitors might learn of the information in some other way.  If any trade secret not protected by a patent were to be disclosed to or independently developed by a competitor, our
+competitive position could be negatively affected. 
+ We could be subject to significant product liability claims that could be time-consuming and costly, divert management attention and adversely affect our ability to obtain and maintain
+insurance coverage. 
+ We could be subject to product liability claims if any of the product applications are alleged to be defective or cause harmful effects.  For example, because some of the scanning engines
+incorporating our PicoP® scanning technology could scan a low power beam of colored light into the user's eye, the testing, manufacture, marketing and sale of these products involve an
+inherent risk that product liability claims will be asserted against us. 
+ Additionally, any misuse of our technology or products incorporating our PicoP® scanning technology by end users or third parties that obtain access to our technology, could result in
+negative publicity and could harm our brand and reputation.   Product liability claims or other claims related to our products or our technology, regardless of their outcome, could require us to
+spend significant time and money in litigation, divert management time and attention, require us to pay significant damages, harm our reputation or hinder acceptance of our products.  Any
+successful product liability claim may prevent us from obtaining adequate product liability insurance in the future on commercially desirable or reasonable terms.  An inability to obtain
+sufficient insurance coverage at an acceptable cost or otherwise to protect against potential product liability claims could prevent or inhibit the commercialization of our products and our
+PicoP® scanning technology. 
+ Our contracts and collaborative research and development agreements have long sales cycles, which makes it difficult to plan our expenses and forecast our revenues. 
+ Our contracts and collaborative research and development agreements have long sales cycles that involve numerous steps including determining the product application, exploring the
+technical feasibility of a proposed product, evaluating the costs of manufacturing a product or qualifying a new or alternative contract manufacturer for production.  Our long sales cycle, which
+can last several years, makes it difficult to predict the quarter in which revenue recognition will occur.  Delays in entering into contracts and collaborative research and development
+agreements could cause significant variability in our revenues and operating results for any particular period. 
+ Our contracts and collaborative research and development agreements may not lead to any product or any products that will be profitable. 
+ Our contracts and collaborative research and development agreements, including without limitation, those discussed in this document, are exploratory in nature and are intended to
+develop new types of products for new applications.  Our efforts may prove unsuccessful and these relationships may not result in the development of any product or any products that will be
+profitable. 
+ Our operations could be adversely impacted by information technology system failures, network disruptions, or cyber security breaches. 
+ We rely on information technology systems to process, transmit, store, and protect electronic data between our employees, our customers and our suppliers.  Our systems are vulnerable
+to damage or interruptions due to events beyond our control, including, but are not limited to, natural disasters, power loss, telecommunications failures, computer viruses, hacking, or other
+cyber security issues.  Our system redundancy may be inadequate and our disaster recovery planning may be ineffective or insufficient to account for all eventualities.  Additionally, we
+maintain insurance coverage to address certain aspects of cyber risks.  Such insurance coverage may be insufficient to cover all losses or all claims that may arise, should such an event
+occur. 
+ Loss of any of our key personnel could have a negative effect on the operation of our business. 
+ Our success depends on our executive officers and other key personnel and on the ability to attract and retain qualified new personnel.  Achievement of our business objectives will
+require substantial additional expertise in the areas of sales and marketing, research and product development and manufacturing.  Competition for qualified personnel in these fields is
+intense, and the inability to attract and retain additional highly skilled personnel, or the loss of key personnel, could hinder our ability to compete effectively in the LBS markets and adversely
+affect our business strategy execution and results of operations.

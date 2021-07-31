@@ -1,0 +1,576 @@
+An investment in our common stock involves
+a high degree of risk. You should carefully consider the risks and uncertainties described below, together with all of the other information
+contained in this Annual Report on Form 10-K, including our financial statements and the related notes thereto. The risks and uncertainties
+described below are not the only ones we face. Additional risks and uncertainties not presently known to us, or that we currently believe
+are not material, also may become important factors that affect us and impair our business operations. The occurrence of any of the events
+or developments discussed in the risk factors below could have a material and adverse impact on our business, results of operations, financial
+condition and cash flows, and in such case, our future prospects would likely be materially and adversely affected. If any of such events
+or developments were to happen, the trading price of our common stock could decline. \n Summary \n Our business is subject to numerous risks and uncertainties, as described
+below, that may prevent us from achieving our business objectives or may adversely affect our business, financial condition, results of
+operations, cash flows, and prospects. The principal factors and uncertainties that make investing in our common stock risky include,
+among others: \n ● the ongoing impact of COVID-19 on our business, sales, results
+of operations and financial condition; \n ● our ability to achieve or sustain profitability, and raise capital; \n ● our ability to accurately forecast our operating results and growth
+rate or manage our growth effectively; \n ● our ability to maintain our brand image, engage new and existing
+customers and gain market share; \n ● our ability to compete successfully; \n ● our ability to effectively market and launch our products and
+increase customer traffic; \n ● our ability to attract, develop, motivate and maintain well-qualified associates; \n ● systems interruptions that impair customer access to our sites
+or other performance failures in our technology infrastructure, including significant disruptions of or breach in security of information
+technology systems and violation of data privacy laws; \n ● any decline in consumer spending including due to negative impact
+from economic conditions; \n ● our dependence on a small number of suppliers, including international
+suppliers and those in developing countries, foreign manufacturing and imports; \n ● the impact of increases in demand for, or the price of, raw materials used to manufacture our products; \n ● our inability to manage our inventory levels and products, including the complexities created by our omni-channel operations, and sustain our Internet sales levels; \n ● our ability to successfully open and operate new showrooms and
+continue to achieve showroom growth rates that we have achieved in the past; \n ● our ability to successfully adapt to consumer shopping preferences; \n ● unfavorable changes to government regulation of the Internet and
+ecommerce; and \n ● our ability to protect our trademarks, brand image, or other intellectual
+property rights. \n COVID-19 Risks \n The impact of COVID-19 continues to create
+uncertainty for our business and may have a significant negative impact on our business, sales, results of operations and financial condition. \n The global outbreak of COVID-19 has led to severe
+disruptions in general economic activities, particularly retail operations, as businesses and federal, state, and local governments take
+increasingly broad actions to mitigate this public health crisis. We have experienced significant disruption to our business, both in
+terms of disruption of our operations and the adverse effect on overall economic conditions. On March 18, 2020, the Company closed all
+showroom locations. All of our showrooms have since fully reopened to the walk-in phase; however, there is no guarantee that there will
+not be additional closures. We have seen and may continue to see changes in consumer demand as a result of COVID-19, including the inability
+of consumers to purchase our products due to factors such as quarantine or other restrictions, store closures, or financial hardship.
+We also continue to see shifts in product and channel preferences and an increase in demand in ecommerce. To help mitigate the impact
+of the pandemic on showroom and in-person sales, we have increased marketing of our website and ecommerce platform as we believe that
+the pandemic has contributed to an acceleration in the shift of commerce to online sales. However, it is possible that this increased
+ecommerce demand may not continue in future periods and may even recede as the effects of the pandemic subside, which could adversely
+affect our revenue growth. Our business is also dependent on the continued health and productivity of our associates, including store,
+region and corporate management teams, throughout this crisis. Individually and collectively, the consequences of the COVID-19 outbreak
+could have a material adverse effect on our business, sales, results of operations and financial condition. \n Additionally, our liquidity could be negatively
+impacted if these conditions continue for a significant period of time and we may be required to pursue additional sources of financing
+to obtain working capital, maintain appropriate inventory levels, and meet our financial obligations. The capital and credit markets have
+been disrupted by the crisis and our ability to obtain any required financing is not guaranteed and largely dependent upon evolving market
+conditions and other factors. Depending on the continued impact of the crisis, further actions may be required. \n The extent to which COVID-19 ultimately impacts
+our business, sales, results of operations and financial condition will depend on future developments, which are highly uncertain and
+cannot be predicted, including, but not limited to, the duration and spread of the outbreak, its severity, the development and availability
+of effective treatments and vaccines, the actions to contain the virus or treat its impact, and how quickly and to what extent normal
+economic and operating conditions can resume. Even after the COVID-19 outbreak has subsided, we may continue to experience significant
+impacts to our business as a result of its global economic impact, including any economic downturn or recession that has occurred or may
+occur in the future. For example, significant shifts in consumer spending behavior resulting from the outbreak, especially around key
+purchase triggers like moving into new dwellings, remodeling spaces, or replacing or upgrading home furnishings, which we believe increased
+sales may decline after the pandemic has abated and cause a significant impact on our business and operations. \n Business Risks \n We have historically operated at a loss,
+and we may never achieve or sustain profitability. \n While we have experienced recent growth, maintaining
+that growth is dependent on a number of factors, including increased traffic to our website and showrooms, our sales conversion rate,
+and our ability to open new showrooms. We also rely on shop-in-shops and pop-up-shops, and there can be no assurance the current retailer
+with whom we partner will continue to house them or that we will be able to enter into similar arrangements with other retailers, which
+could hinder our anticipated sales growth. Our business is highly competitive, and there can be no assurance that we will be able to sustain
+or improve our recent growth rates. \n Our inability to maintain our brand image,
+engage new and existing customers and gain market share could have a material adverse effect on our growth strategy and our business,
+financial condition, operating results and prospects. \n Our ability to maintain our brand image and reputation
+is integral to our business and implementation of our growth strategy. Maintaining, promoting and growing our brand will depend largely
+on the success of our design, merchandising and marketing efforts and our ability to provide a consistent, high-quality product and customer
+experience. Our reputation could be jeopardized if we fail to maintain high standards for product quality and integrity and any negative
+publicity about these types of concerns may reduce demand for our products. While we believe our brand enjoys a loyal customer base, the
+success of our growth strategy depends, in part, on our ability to keep existing customers engaged and attract new customers to our brand.
+If we experience damage to our reputation or loss of consumer confidence, we may not be able to retain existing customers or acquire new
+customers, which could have a material adverse effect on our business, financial condition, operating results and prospects. \n If we fail to acquire new customers, or
+fail to do so in a cost-effective manner, we may not be able to achieve revenue growth or profitability. \n To acquire new customers, we must appeal to prospects
+who have historically used other means of commerce to purchase furniture, such as traditional furniture retailers. To date, we have reached
+new customers primarily through our showroom presence in various markets, and through social media, digital content, third-party advocates
+for our brand and products and by word of mouth, and now through national television advertisements. Until now, these efforts have allowed
+us to acquire new customers at what we believe is a reasonable cost and rate. However, there is no guarantee that these methods will continue
+to be successful or will drive customer acquisition rates necessary for us to achieve revenue growth or profitability. \n Our business is highly competitive. Competition
+presents an ongoing threat to the success of our business. \n Our business is rapidly evolving and intensely
+competitive, and we have many competitors in different industries. We compete with furniture stores, big box retailers, department stores,
+specialty retailers and online furniture retailers and marketplaces. \n We expect competition in both retail stores and
+ecommerce to continue to increase. Our ability to compete successfully depends on many factors both within and beyond our control, including: \n ● the size and composition of our customer base; \n ● our selling and marketing efforts; \n ● the quality, price, reliability and uniqueness of products we offer; \n ● the convenience of the shopping experience that we provide; \n ● our ability to distribute our products and manage our operations; and \n ● our reputation and brand strength. \n Many of our current and potential competitors
+have longer operating histories, greater brand recognition, larger fulfillment infrastructures, greater technological capabilities, faster
+and less costly shipping, significantly greater financial, marketing and other resources and larger customer bases than we do. These factors
+may allow our competitors to, among other things, derive greater sales from their existing customer base, acquire customers at lower costs
+and respond more quickly than we can to new or emerging technologies and changes in consumer habits. These competitors may engage in more
+extensive research and development efforts, undertake more far-reaching marketing campaigns and adopt more aggressive pricing policies.
+If we are unable to successfully compete, our business, financial condition, operating results and prospects could be materially adversely
+affected. \n Our business depends on effective marketing
+and increased customer traffic. \n We rely on a variety of marketing strategies to
+compete for customers and increase sales. If our competitors increase their spending on marketing, if our marketing is less effective
+than that of our competitors, or if we do not adequately leverage the technology and data analytics needed to generate concise competitive
+insight, our business, financial condition, operating results and prospects could be adversely affected. \n Our increased use of social media poses
+reputational risks. \n As use of social media becomes more prevalent,
+our susceptibility to risks related to social media increases. The immediacy of social media precludes us from having real-time control
+over postings made regarding us via social media, whether matters of fact or opinion. Information distributed via social media could result
+in immediate unfavorable publicity we may not be able to reverse. This unfavorable publicity could result in damage to our reputation
+and therefore have a material adverse effect on our business, financial condition, operating results and prospects. \n Our efforts to launch new products may not
+be successful. \n We plan to expand our product line in the future.
+We may not be able to develop products which are attractive to our customers, and our costs to develop new products may be significant.
+It may take longer than we might expect for a product, even if ultimately successful, to achieve attractive sales results. Failure to
+successfully develop or market new products or delays in the development of new products could have a material adverse effect on our financial
+condition, results of operations and business. \n We rely on the performance of members of
+management and highly skilled personnel. If we are unable to attract, develop, motivate and retain well-qualified associates, our business
+could be harmed. \n We believe our success has depended, and continues
+to depend, on the efforts and talents of Shawn Nelson, our founder, member of the Board of Directors and Chief Executive Officer, Andrew
+Heyer, our Chairman of the Board, Jack Krause, our President and Chief Operating Officer, Donna Dellomo, our Executive Vice President,
+Chief Financial Officer, Treasurer and Secretary and other members of our management team. Our future success depends on our continuing
+ability to attract, develop, motivate and retain highly qualified and skilled associates. The market for such associates in the cities
+in which we operate is competitive. Qualified individuals are in high demand, and we may incur significant costs to attract and retain
+them. The loss of any of our key associates, including members of our senior management team, could materially adversely affect our ability
+to execute our business plan, and we may not be able to find adequate replacements. Our inability to recruit and develop mid-level managers
+could have similar adverse effects on our ability to execute our business plan. \n Some of our officers and other key associates
+are employed at-will, meaning that they may terminate their employment relationship with us at any time, and their knowledge of our business
+and industry would be extremely difficult to replace. While others have employment agreements with stated terms, they could still leave
+our employ. If we do not succeed in retaining and motivating existing associates or attracting well-qualified associates, our business,
+financial condition, operating results and prospects may be materially adversely affected. \n System interruptions that impair customer
+access to our sites or other performance failures in our technology infrastructure could damage our business, reputation and brand, and
+substantially harm our business and results of operations. \n The satisfactory performance, reliability and
+availability of our website, transaction processing systems and technology infrastructure are critical to our reputation, and our ability
+to acquire and retain customers and maintain adequate customer service levels. We currently rely on a variety of third party service providers
+to support mission critical systems and the efficient flow of merchandise from and between warehouses and showrooms to customers. For
+example, we rely on common carriers for the delivery of merchandise purchased by customers through our website and in our showrooms, and
+the systems we employ to communicate delivery schedules and update customers about order tracking interface with the information systems
+of these common carriers. Our own systems, which are customized versions of ecommerce, customer relationship management, payment processing,
+and inventory management software technologies deployed by numerous retailers and wholesalers in a variety of industries, must work seamlessly
+in order for information to flow correctly and update accurately across these systems. Any failure in this regard could result in negative
+customer experiences, putting our brand and growth at risk. \n Through third parties that underwrite customer
+risk, we offer financing options in order to increase the market demand for our products among customers who may not be able to buy them
+using cash. The systems of these third parties must work efficiently in order to give customers real-time credit availability. Changes
+in the risk underwriting or technologies of these third parties may result in lower credit availability to our potential customers and
+therefore reduced sales. The occurrence of any of the foregoing could substantially harm our business and results of operations. \n Unauthorized disclosure of sensitive or
+confidential information, whether through a breach of our computer system or otherwise, could severely hurt our business. \n Certain aspects of our business involve the receipt,
+storage and transmission of customers’ personal information and consumer preferences, as well as confidential information about
+our associates, our suppliers and our Company, some of which is entrusted to third-party service providers and vendors. Despite the security
+measures we have in place, our facilities and systems, and those of third parties with which we do business, may be vulnerable to security
+breaches, acts of vandalism and theft, computer viruses, misplaced or lost data, programming and/or human errors, or other similar events. \n An electronic security breach in our systems (or
+in the systems of third parties with which we do business) that results in the unauthorized release of individually identifiable information
+about customers or other sensitive data could occur and have a material adverse effect on our reputation, lead to substantial financial
+losses from remedial actions, and lead to a substantial loss of business and other liabilities, including possible punitive damages. In
+addition, as the regulatory environment relating to retailers and other companies’ obligation to protect such sensitive data becomes
+increasingly rigorous, with new and constantly changing requirements applicable to our business, compliance with those requirements could
+result in additional costs, and a material failure on our part to comply could subject us to fines, other regulatory sanctions and lawsuits. \n Our business is sensitive to economic conditions
+and consumer spending. \n We face numerous business risks relating to macroeconomic
+factors. Consumer purchases of discretionary items, including our products, generally decline during recessionary periods and other times
+when disposable income is lower. Factors impacting discretionary consumer spending include general economic conditions, wages and employment,
+consumer debt, reductions in net worth based on severe market declines, residential real estate and mortgage markets, taxation, volatility
+of fuel and energy prices, interest rates, consumer confidence, political and economic uncertainty and other macroeconomic factors, including
+the COVID-19 pandemic. Deterioration in economic conditions or increasing unemployment levels may reduce the level of consumer spending
+and inhibit consumers’ use of credit, which may adversely affect our sales. In recessionary periods and other periods where disposable
+income is adversely affected, we may have to increase the number of promotional sales or otherwise dispose of inventory for which we have
+previously paid to manufacture, which could further adversely affect our financial performance. It is difficult to predict when or for
+how long any of these conditions could affect our business and a prolonged economic downturn could have a material adverse effect on our
+business, financial condition, operating results and prospects. \n A substantial portion of our business is
+dependent on a small number of suppliers. A material disruption at any of our suppliers’ manufacturing facilities could prevent
+us from meeting customer demand, reduce our sales, and/or negatively affect our financial results. \n We do not own or operate any manufacturing facilities
+and therefore depend on third-party suppliers for the manufacturing of all of our products. Moreover, a substantial portion of our business
+is dependent on a small number of suppliers. Sacs, which represented approximately 14% of our revenues in fiscal 2021 and 17% of our revenues
+in fiscal 2020, are currently manufactured by a single manufacturer in Texas. Sactionals, which represented approximately 85% of our revenues
+in fiscal 2021 and 81% of our revenues in fiscal 2020, are manufactured by suppliers in the United States, China, Vietnam, Malaysia, Taiwan,
+Indonesia, and India \n Any of our suppliers’ manufacturing facilities,
+or any of the machines within an otherwise operational facility, could cease operations unexpectedly due to a number of events, which
+could materially and adversely impact our business, operations and financial condition. These events include but are not limited to: \n ● equipment failure; \n ● public health crises, such as the COVID-19 pandemic; \n ● fires, floods, earthquakes, hurricanes, or other catastrophes; \n ● unscheduled maintenance outages; \n ● utility and transportation infrastructure disruptions; \n ● labor difficulties; \n ● other operational problems; \n ● war or terrorism; \n ● political, social or economic instability; or \n ● financial instability or bankruptcy of any such supplier. \n Our reliance on international suppliers
+increases our risk of supply chain disruption, which could materially increase the cost and reduce or delay the supply of our products,
+which could adversely affect our business, financial condition, operating results and prospects. \n Our current suppliers are located in China, Vietnam,
+Taiwan, India, Indonesia, Malaysia and the United States. Our reliance on international suppliers increases our risk of supply chain disruption.
+Events that could cause disruptions to our supply chain include but are not limited to: \n ● the imposition of additional trade laws or regulations; \n ● public health crises, such as the COVID-19 pandemic; \n ● the imposition of additional duties, tariffs and other charges on imports and exports; \n ● foreign currency fluctuations; \n ● theft; and \n ● restrictions on the transfer of funds. \n The occurrence of any of the foregoing could materially
+increase the cost and reduce or delay the supply of our products, which could adversely affect our business, financial condition, operating
+results and prospects. \n We are subject to risks associated with
+our dependence on foreign manufacturing and imports for our products. \n Our business highly depends on global trade, as
+well as trade and other factors that impact the specific countries where our vendors’ production facilities are located. Our future
+success will depend in large part upon our ability to maintain our existing foreign vendor relationships and to develop new ones based
+on the requirements of our business and any changes in trade dynamics that might dictate changes in the locations for sourcing of products.
+While we rely on long-term relationships with many of our vendors, we have no long-term contracts with them and generally transact business
+with them on an order-by-order basis. \n Many of our imported products are subject to existing
+duties, tariffs, anti-dumping duties and quotas that may limit the quantity or affect the price of some types of goods that we import
+into the United States. In addition, substantial regulatory uncertainty exists regarding international trade and trade policy, both in
+the United States and abroad. \n All of our goods imported from China are subject
+to additional tariffs. In September 2018, the Office of the U.S. Trade Representative began imposing a 10 percent ad valorem duty on a
+subset of products imported from China, inclusive of various furniture product categories. In addition, effective May 10, 2019, the Office
+of the U.S. Trade Representative began imposing an additional 15 percent ad valorem duty on a subset of products imported from China,
+inclusive of various furniture product categories. We believe that nearly all of our products sourced from China are, and will continue
+to be, affected by the tariffs. While we are continuing to assess these proposed tariffs on Chinese imports and are evaluating strategies
+to mitigate the effects of the tariffs, there can be no assurance that we will not experience disruption in our business. \n Further, these changes to tariffs or other rules
+related to cross border trade, could materially increase our cost of goods sold with respect to products that we purchase from vendors
+who manufacture products in China, which could in turn require us to increase our prices and, in the event consumer demand declines as
+a result, negatively impact our financial performance. Certain of our competitors may be better positioned than us to withstand or react
+to these kinds of changes including border taxes, tariffs or other restrictions on global trade and as a result we may lose market share
+to such competitors. Due to broad uncertainty regarding the timing, content and extent of any regulatory changes in the United States
+or abroad, we cannot predict the impact, if any, that these changes could have to our business, financial condition and results of operations. \n Our reliance on suppliers in developing
+countries increases our risk with respect to available manufacturing infrastructure, labor and employee relations, political and economic
+stability, corruption, and regulatory, environmental, health and safety compliance. \n Our reliance on suppliers in developing countries
+increases our risk with respect to infrastructure available to support manufacturing, labor and employee relations, political and economic
+stability, corruption, and regulatory, environmental, health and safety compliance. Any failure of our suppliers to comply with ethical
+sourcing standards or labor or other local laws in the country of manufacture, or the divergence of a supplier’s labor practices
+from those generally accepted as ethical in the United States, could disrupt the shipment of products, force us to locate alternative
+manufacturing sources, reduce demand for our products, damage our reputation and/or expose us to potential liability for their wrongdoings.
+Any of these events could have a material adverse effect on our reputation, business, financial condition, operating results and prospects. \n Most of our products are shipped from our
+suppliers by ocean vessel. If a disruption occurs in the operation of ports through which our products are imported, we may incur increased
+costs and suffer delays, which could have a material adverse effect on our business, financial condition, operating results and prospects. \n Most of our products are shipped from our suppliers
+by ocean vessel. If a disruption occurs in the operation of ports through which our products are imported, we may incur increased costs
+related to air freight or use of alternative ports. Shipping by air is significantly more expensive than shipping by ocean and our margins
+could be reduced. Shipping to alternative ports could also lead to delays in receipt of our products. We rely on third-party shipping
+companies to deliver our products to us. Failures by these shipping companies to deliver our products to us or lack of capacity in the
+shipping industry could lead to delays in receipt of our products or increased expense in the delivery of our products. Any of these developments
+could have a material adverse effect on our business, financial condition, operating results and prospects. \n Increases in the demand for, or the price
+of, raw materials used to manufacture our products or other fluctuations in sourcing or distribution costs could increase our costs and
+negatively impact our gross margin. \n We believe that we have strong supplier relationships,
+and we work with our suppliers to manage cost increases. Our gross margin depends, in part, on our ability to mitigate rising costs or
+shortages of raw materials used to manufacture our products. Raw materials used to manufacture our products are subject to availability
+constraints and price volatility impacted by a number of factors, including supply and demand for fabrics, weather, government regulations,
+economic conditions and other unpredictable factors. In addition, our sourcing costs may fluctuate due to labor conditions, transportation
+or freight costs, energy prices, currency fluctuations, public health crises, such as the COVID-19 pandemic, or other unpredictable factors.
+The occurrence of any of the foregoing could increase our costs, delay or reduce the availability of our products and negatively impact
+our gross margin. \n Our inability to manage our inventory levels
+and products, including with respect to our omni-channel operations, could have a material adverse effect on our business, financial condition,
+operating results and prospects. \n Inventory levels in excess of customer demand
+may result in lower than planned financial performance. Alternatively, if we underestimate demand for our products, we may experience
+inventory shortages resulting in missed sales and lost revenues. Either of these events could significantly affect our operating results
+and brand image and loyalty. Our financial performance may also be impacted by changes in our products and pricing. These changes could
+have a material adverse effect on our business, financial condition, operating results and prospects. \n Our inability to manage the complexities
+created by our omni-channel operations may have a material adverse effect on our business, financial condition, operating results and
+prospects. \n Our omni-channel operations create additional
+complexities in our ability to manage inventory levels, as well as certain operational issues, including timely shipping and returns.
+Accordingly, our success depends to a large degree on continually evolving the processes and technology that enable us to plan and manage
+inventory levels and fulfill orders, address any related operational issues and further align channels to optimize our omni-channel operations.
+If we are unable to successfully manage these complexities, it may have a material adverse effect on our business, financial condition,
+operating results and prospects. \n Our ability to attract customers to our
+showrooms depends heavily on successfully locating our showrooms in suitable locations. Any impairment of a showroom location, including
+any decrease in customer traffic, could cause our sales to be lower than expected. \n We plan to open new showrooms in high traffic
+street and urban locations and historically we have favored top tier mall locations near luxury and contemporary retailers that we believe
+are consistent with our key customers’ demographics and shopping preferences. Sales at these showrooms are derived, in part, from
+the volume of foot traffic in these locations. Showroom locations may become unsuitable due to, and our sales volume and customer traffic
+generally may be harmed by, among other things: \n ● economic downturns in a particular area; \n ● competition from nearby retailers selling similar products; \n ● changing consumer demographics in a particular market; \n ● changing preferences of consumers in a particular market; \n ● the closing or decline in popularity of other businesses located near our store; \n ● reduced customer foot traffic outside a showroom location; and \n ● store impairments due to acts of God, pandemic, terrorism, protest or periods or civil unrest. \n Even if a showroom location becomes unsuitable,
+we will generally be unable to cancel the long-term lease associated with such showroom. \n We may be unable to successfully open and
+operate new showrooms, which could have a material adverse effect on our business, financial condition, operating results and prospects. \n As of January 31, 2021, we had 108 showrooms,
+but our growth strategy requires us to increase our showroom base. There can be no assurance that we will succeed in opening additional
+showrooms. If we are unable to successfully open and operate new showrooms, it could have a material adverse effect on our business, financial
+condition, operating results and prospects. \n Our ability to successfully open and operate new
+showrooms depends on many factors, including, among other things, our ability to: \n ● identify new markets where our products and brand image will be accepted or the performance of our showrooms will be successful; \n ● find available and suitable showroom locations that align with our consumer location strategy; \n ● obtain desired locations, including showroom size and adjacencies, in targeted high traffic street and urban locations and top tier malls; \n ● adapt our showrooms to address public health crises, such as the COVID-19 pandemic; \n ● negotiate acceptable lease terms, including desired rent and tenant improvement allowances; \n ● achieve brand awareness, affinity and purchaser intent in new markets; \n ● hire, train and retain showroom associates and field management; \n ● assimilate new showroom associates and field management into our corporate culture; \n ● source and supply sufficient inventory levels; \n ● employ the technologies needed to service a customer and complete a transaction; \n ● successfully integrate new showrooms into our existing operations and information technology systems; and \n ● have the capital necessary to fund new showrooms. \n In addition, our new showrooms may not be immediately
+profitable, and we may incur significant losses until these showrooms become profitable. Unavailability of desired showroom locations,
+delays in the acquisition or opening of new showrooms, delays or costs resulting from a decrease in commercial development due to capital
+restraints, difficulties in staffing and operating new showroom locations or a lack of customer acceptance of showrooms in new market
+areas may negatively impact our new showroom growth and the costs or the profitability associated with new showrooms. While we are seeking
+to mitigate some of the risks related to our mall-based showrooms by opening high traffic street and lifestyle center-based showrooms
+and continuing to build our online sales, there can be no assurance that this strategy will be successful or lead to greater sales. \n As we expand our showroom base, we may not
+be able to achieve the showroom sales growth rates that we have achieved in the past, which could cause our share price to decline. \n As we expand our showroom base, we may not be
+able to achieve the showroom sales growth rates that we have achieved historically. If our showroom sales growth rates decline or fail
+to meet market expectations, the value of our common stock could decline. While our focus is to continue the expansion of our showrooms,
+this may result in the closure of underperforming showroom locations or locations with declining profitability in order to pursue more
+productive opportunities that are in line with our real estate strategy. The closure of these showrooms and transition to new showroom
+locations as part of our strategy may impact our sales and productivity. \n In addition, the results of operations of our
+showroom locations have fluctuated in the past and can be expected to continue to fluctuate in the future. A variety of factors affect
+showroom sales, including, among others, consumer spending patterns, fashion trends, competition, current economic conditions, pricing,
+inflation, the timing of the release of new merchandise and promotional events, changes in our product assortment, the success of marketing
+programs, weather conditions and public health crises, such as the COVID-19 pandemic. If we misjudge the market for our products, we may
+have excess inventory of some of our products and miss opportunities for other products. These factors may cause our showroom sales results
+in the future to be materially lower than recent periods or our expectations, which could harm our results of operations and result in
+a decline in the price of our common stock. \n We have and will continue to expend capital
+remodeling our existing showrooms, and there is no guarantee that this will result in incremental showroom traffic or sales. \n We intend to continue remodeling our existing
+showroom base to reflect our new showroom design, and we intend to expend capital doing so. While preliminary results appear promising,
+there is no guarantee that the capital spent on these remodeled showrooms will result in increased showroom traffic or increased sales. \n Our lease obligations are substantial and
+expose us to increased risks. \n We do not own any of our showrooms. Instead, we
+rent all of our showroom spaces pursuant to leases. Nearly all of our leases require a fixed annual rent, and many of them require the
+payment of additional rent if showroom sales exceed a negotiated amount. Most of our leases are “net” leases that require
+us to pay all costs of insurance, maintenance and utilities, as well as applicable taxes. \n Our required payments under these leases are substantial
+and account for a significant portion of our selling, general and administrative expenses. We expect that any new showrooms we open will
+also be leased, which will further increase our lease expenses and require significant capital expenditures. Our substantial lease obligations
+could have significant negative consequences, including, among others: \n ● increasing our vulnerability to general adverse economic and industry conditions; \n ● limiting our ability to obtain additional financing; \n ● requiring a substantial portion of our available cash to pay our rental obligations, reducing cash available for other purposes; \n ● limiting our flexibility in planning for or reacting to changes in our business or in the industry in which we compete; and \n ● placing us at a disadvantage with respect to some of our competitors who sell their products exclusively online. \n Many of our leases contain relocation clauses
+that allow the landlord to move the location of our showrooms. Moreover, as our leases expire, we may be unable to negotiate acceptable
+renewals. If either of these events occur, our business, sales and results of operations may be harmed. \n Many of our leases include relocation clauses
+that allow the landlord to move the location of our showrooms. If any of our showrooms are relocated, there can be no assurance that the
+new location will experience the same levels of customer traffic or success that the prior location experienced. In addition, as our leases
+expire, we may fail to negotiate renewals, either on commercially acceptable terms or at all, which could cause us to close showrooms
+in desirable locations. We may also be unable to enter into new leases on terms acceptable to us or in desirable locations. If any of
+the foregoing occur, our business, sales and results of operations may be harmed. \n We are required to make substantial lease
+payments under our leases, and any failure to make these lease payments when due would likely harm our business. \n We depend on cash flow from operations to pay
+our lease expenses and to fulfill our other cash needs. If our business does not generate sufficient cash flow from operating activities,
+and sufficient funds are not otherwise available to us from other sources, we may not be able to service our substantial lease expenses,
+which would harm our business. \n Moreover, our showroom leases are generally long
+term and non-cancelable, and we generally expect future showrooms to be subject to similar long term, non-cancelable leases. If an existing
+or future showroom is not profitable, and we decide to close it, we may nonetheless be required to perform our obligations under the applicable
+lease including, among other things, paying the base rent for the balance of the lease term if we cannot negotiate a mutually acceptable
+termination payment. \n Our inability to successfully optimize our
+omni-channel operations and maintain a relevant and reliable omni-channel experience for our customers could have a material adverse effect
+on our growth strategy and our business, financial condition, operating results and prospects. \n Growing our business through our omni-channel
+operations is key to our growth strategy. Our goal is to offer our customers seamless access to our products across our channels, and
+our success depends on our ability to anticipate and implement innovations in sales and marketing strategies to appeal to existing and
+potential customers who increasingly rely on multiple channels, such as ecommerce, to meet their shopping needs. Failure to enhance our
+technology and marketing efforts to align with our customers’ developing shopping preferences could significantly impair our ability
+to meet our strategic business and financial goals. If we do not successfully optimize our omni-channel operations, or if they do not
+achieve their intended objectives, it could have a material adverse effect on our business, financial condition, operating results and
+prospects. \n If we are unable to successfully adapt to
+consumer shopping preferences or develop and maintain a relevant and reliable omni-channel experience for our customers, our financial
+performance and brand image could be adversely affected. \n We are continuing to grow our omni-channel business
+model. While we interact with many of our customers through our showrooms, our customers are increasingly using computers, tablets and
+smartphones to make purchases online and to help them make purchasing decisions when in our showrooms. Our customers also engage with
+us online through our social media channels, including Facebook and Instagram, by providing feedback and public commentary about aspects
+of our business. Omni-channel retailing is rapidly evolving. Our success depends, in part, on our ability to anticipate and implement
+innovations in customer experience and logistics in order to appeal to customers who increasingly rely on multiple channels to meet their
+shopping needs. If for any reason we are unable to continue to implement our omni-channel initiatives or provide a convenient and consistent
+experience for our customers across all channels that delivers the products they want, when and where they want them, our financial performance
+and brand image could be adversely affected. \n Purchasers of furniture may choose not to
+shop online, which could affect the growth of our business. \n The online market for furniture is less developed
+than the online market for apparel, consumer electronics and other consumer products in the United States. While we believe this market
+is growing, it still accounts for a small percentage of the market as a whole. We are relying on online sales for our continued success
+and growth. If the online market for furniture does not gain wider acceptance, our growth and business may suffer. \n In addition, our success in the online market
+will depend, in part, on our ability to attract consumers who have historically purchased furniture through traditional retailers. We
+may have to incur significantly higher and more sustained advertising and promotional expenditures in order to attract additional online
+consumers to our website and convert them into purchasing customers. Specific factors that could impact consumers’ willingness to
+purchase furniture from us online include: \n ● concerns about buying products, and in particular larger products, with a limited physical storefront, face-to-face interaction with sales personnel and the ability to physically examine products; \n ● actual or perceived lack of security of online transactions and concerns regarding the privacy of personal information; \n ● inconvenience associated with returning or exchanging items purchased online; and \n ● usability, functionality and features of our website. \n If the online shopping experience we provide does
+not appeal to consumers or meet the expectations of existing customers, we may not acquire new customers at rates consistent with historical
+periods, and existing customers’ buying patterns may not be consistent with historical buying patterns. If either of these events
+occur, our business, sales and results of operations may be harmed. \n We depend on our ecommerce business and
+failure to successfully manage this business and deliver a seamless omni-channel shopping experience to our customers could have an adverse
+effect on our growth strategy, business, financial condition, operating results and prospects. \n Sales through our ecommerce channel account for
+a significant portion of our revenues. Our business, financial condition, operating results and prospects are dependent on maintaining
+our ecommerce business. Dependence on our ecommerce business and the continued growth of our direct and retail channels subjects us to
+certain risks, including: \n ● the failure to successfully implement new systems, system enhancements and Internet platforms; \n ● the failure of our technology infrastructure or the computer systems that operate our website and their related support systems, causing, among other things, website downtimes, telecommunications issues or other technical failures; \n ● the reliance on third-party computer hardware/software providers; \n ● rapid technological change; \n ● liability for online content; \n ● violations of federal, state, foreign or other applicable laws, including those relating to data protection; \n ● credit card fraud; \n ● cyber security and vulnerability to electronic break-ins and other similar disruptions; and \n ● diversion of traffic and sales from our stores. \n Our failure to successfully address and respond
+to these risks and uncertainties could negatively impact sales, increase costs, diminish our growth prospects and damage the reputation
+of our brand, each of which could have a material adverse effect on our business, financial condition, operating results and prospects. \n Significant merchandise returns could harm
+our business. \n We allow our customers to return products, subject
+to our return policy. While we have experienced relatively few product returns, this could change, and, if customer returns are significant,
+our business, financial condition, operating results and prospects could be harmed. Further, we modify our policies relating to returns
+from time to time, which may result in customer dissatisfaction or an increase in the number of product returns. \n We are subject to risks related to online
+payment methods. \n We accept payment using a variety of methods,
+including credit card, debit card, PayPal and gift cards. As we offer new payment options to consumers, we may become subject to additional
+regulations, compliance requirements and fraud. For certain payment methods, including credit and debit cards, we pay interchange and
+other fees, which may increase over time and increase our operating costs. We are also subject to payment card association operating rules
+and certification requirements, including the Payment Card Industry Data Security Standard and rules governing electronic funds transfers,
+which could change or be reinterpreted to make it difficult or impossible for us to comply. \n As our business changes, we may also be subject
+to different rules under existing standards, which may require new assessments that involve costs above what we currently pay for compliance.
+If we fail to comply with the rules or requirements of any provider of a payment method we accept, if the volume of fraud in our transactions
+limits or terminates our rights to use payment methods we currently accept, or if a data breach occurs relating to our payment systems,
+we may, among other things, be subject to fines or higher transaction fees and may lose, or have restrictions placed upon, our ability
+to accept credit card and debit card payments from consumers or our ability to facilitate other types of online payments. If any of these
+events were to occur, our business, financial condition and operating results could be materially adversely affected. \n In addition, we occasionally receive orders placed
+with fraudulent credit card data. We may suffer losses as a result of orders placed with fraudulent credit card data even if the associated
+financial institution approved payment of the orders. Under current credit card practices, we may be liable for fraudulent credit card
+transactions. If we are unable to detect or control credit card fraud, our liability for these transactions could harm our business, financial
+condition, operating results and prospects. \n Finance Risks \n Our ability to raise capital in the future
+may be limited. Our inability to raise capital when needed could prevent us from growing and could have a material adverse effect on our
+business, financial condition, operating results and prospects. \n If we continue to experience insufficient cash
+flow from operations to support our operating and capital needs, we will be required to raise additional capital through public or private
+financing or other arrangements. Such financing may not be available on acceptable terms, or at all. We may sell common stock, preferred
+stock, convertible securities and other equity securities in one or more transactions at prices and in such a manner as we may determine
+from time to time. If we sell any such equity securities in subsequent transactions, investors may be materially diluted. Debt financing,
+if available, may involve restrictive covenants and could reduce, among other things, our operational flexibility. If we cannot raise
+funds on acceptable terms, we may not be able to grow our business or respond to competitive pressures. In addition, debt financings may
+be blocked by our senior lender that provides an asset-backed revolving credit facility to fund our inventory purchases in advance of
+customer sales. Our lender has, and any subsequent senior lender likely will have, the right to consent to any new debt financing. There
+can be no assurance that our lender will provide such consent. Our inability to raise capital when needed could prevent us from growing
+and have a material adverse effect on our business, financial condition, operating results and prospects. \n If we are unable to implement and maintain
+effective internal control over financial reporting in the future, investors may lose confidence in the accuracy and completeness of our
+financial reports and the market price of our common stock may be adversely affected. \n As a public company, we are required to maintain
+internal control over financial reporting and to report any material weaknesses in such internal control. Section 404 of SOX requires
+that we furnish a report by management on, among other things, the effectiveness of our internal control over financial reporting. This
+assessment requires disclosure of any material weaknesses identified by our management in our internal control over financial reporting.
+Our independent registered public accounting firm will not be required to attest to the effectiveness of our internal control over financial
+reporting until our first annual report required to be filed with the SEC following the later of the date we are deemed to be an “accelerated
+filer” or a “large accelerated filer,” each as defined in the Exchange Act, or the date we are no longer an “emerging
+growth company,” as defined in the JOBS Act. If we have a material weakness in our internal control over financial reporting, we
+may not detect errors on a timely basis and our financial statements may be materially misstated. If we identify material weaknesses in
+our internal control over financial reporting, are unable to comply with the requirements of Section 404 of SOX in a timely manner, are
+unable to assert that our internal control over financial reporting is effective, or if our independent registered public accounting firm
+is unable to express an opinion as to the effectiveness of our internal control over financial reporting, investors may lose confidence
+in the accuracy and completeness of our financial reports, and the market price of our common stock could be adversely affected. In addition,
+we could become subject to investigations by the stock exchange on which our common stock is listed, the SEC or other regulatory authorities,
+which could require additional financial and management resources. \n If our internal control over financial reporting
+or our disclosure controls and procedures are not effective, we may not be able to accurately report our financial results, prevent fraud
+or file our periodic reports in a timely manner, which may cause investors to lose confidence in our reported financial information and
+may lead to a decline in our stock price. \n We rely on financial reporting and data analytics
+that must be accurate in order to make real-time management decisions, accurately manage our cash position, and maintain adequate inventory
+levels while conserving adequate cash to fund operations. In the event of a systems failure, a process breakdown, the departure of key
+management, or fraud, we would be unable to efficiently manage these items and may experience liquidity shortfalls that our cash position
+or revolving credit facility may not be able to accommodate. In such a situation, we also may not be able to accurately report our financial
+results, prevent fraud or file our periodic reports in a timely manner, which may cause investors to lose confidence in our reported financial
+information and may lead to a decline in our stock price. \n We may be unable to accurately forecast
+our operating results and growth rate, which may adversely affect our reported results and stock price. \n We may not be able to accurately forecast our
+operating results and growth rate. We use a variety of factors in our forecasting and planning processes, including historical results,
+recent history and assessments of economic and market conditions. Our growth rates may not be sustainable, and our growth depends on the
+continued growth of demand for the products we offer. Lower demand caused by changes in customer preferences, a weakening of the economy
+or other factors may result in decreased revenues or growth. Furthermore, many of our expenses and investments are fixed, and we may not
+be able to adjust our spending in a timely manner to compensate for any unexpected shortfall in our operating results. Failure to accurately
+forecast our operating results and growth rate could cause our actual results to be materially lower than anticipated. If our growth rate
+declines as a result, investors’ perceptions of our business may be adversely affected, and the market price of our common stock
+could decline. \n If we fail to manage our growth effectively,
+our business, financial condition, operating results and prospects could be harmed. \n To manage our anticipated growth effectively,
+we must continue to implement our operational plans and strategies, improve and expand our corporate infrastructure, information systems,
+and executive management and expand, train and manage our associate base. As we grow, we will need to find, train, and monitor additional
+associates and continue to invest in information systems that support key functions such as accounting, human resources, sales analytics,
+and marketing, all of which strain the time of our executive management team and our resources. If we fail to manage our growth effectively,
+our business, financial condition, operating results and prospects could be harmed. \n Changes in lease accounting standards may
+materially and adversely affect us. \n The Financial Accounting Standards Board (“FASB”)
+issued 2016-02, Leases (Topic 842) . As an “emerging growth company,” we have elected to defer compliance with new or
+revised financial accounting standards and, as a result we will adopt this standard beginning in fiscal 2022. When the rules are effective,
+we will be required to capitalize all leases on our balance sheet and account for our showroom leases as assets and liabilities, where
+we previously accounted for such leases on an “off balance sheet” basis. As a result, a significant amount of lease-related
+assets and liabilities will be recorded on our balance sheet, and we may be required to make other changes to the recording and classification
+of our lease-related expenses. These changes will not directly impact our overall financial condition. However, they could cause investors
+or others to believe that we are highly leveraged and could change the calculations of financial metrics and covenants under our debt
+facilities and third-party financial models regarding our financial condition. \n Legal, Tax and Regulatory Risks \n We may be subject to product liability claims
+if people or property are harmed by the products we sell. \n We have not had any significant product liability
+claims to date. We place a high priority on designing our products to be safe for consumers and safety test our products in third-party
+laboratories. Still, the products we sell or have manufactured may expose us to product liability claims, litigation and regulatory action
+relating to personal injury, death and environmental or property damage. Some of our agreements with our suppliers and international manufacturers
+may not indemnify us from product liability for a particular supplier’s or international manufacturer’s products, or our suppliers
+or international manufacturers may not have sufficient resources or insurance to satisfy their indemnity and defense obligations. Although
+we maintain liability insurance, we cannot be certain that our coverage will be adequate for liabilities actually incurred or that insurance
+will continue to be available to us on economically reasonable terms, or at all. Any product liability claims asserted against us could,
+among other things, harm our reputation, damage our brand, cause us to incur significant costs, and have a material adverse effect on
+our business, results of operations and financial condition. \n Product warranty claims could have a material
+adverse effect on our business. \n We provide a lifetime warranty on most components
+of our products, which, if deficient, could lead to warranty claims. The Company maintains a reserve for warranty claims. However, there
+can be no assurance that our reserve for warranty claims will be adequate and additional or reduced warranty reserves may be required.
+Material warranty claims could, among other things, harm our reputation and damage our brand, cause us to incur significant repair and/or
+replacement costs, and have a material adverse affect our business, financial condition, operating results and prospects. \n A significant disruption in, or breach in
+security of, our information technology systems or violations of data protection laws could have a material adverse affect on our business
+and reputation. \n In the ordinary course of business, we collect
+and store confidential information, including proprietary business information belonging to us, our customers, suppliers, business partners
+and other third parties and personally identifiable information of our associates. We rely on information technology systems to protect
+this information and to keep financial records, process orders, manage inventory, coordinate shipments to customers, and operate other
+critical functions. Our information technology systems may be susceptible to damage, disruptions or shutdowns due to power outages, hardware
+failures, telecommunication failures and user errors. If we experience a disruption in our information technology systems, it could result
+in the loss of sales and customers and significant incremental costs, which could materially adversely affect our business. We may also
+be subject to security breaches caused by computer viruses, illegal break-ins or hacking, sabotage, or acts of vandalism by disgruntled
+associates or third parties. The risk of a security breach or disruption, particularly through cyberattack or cyber intrusion, including
+by computer hackers, foreign governments and cyber terrorists, has increased as the number, intensity and sophistication of attempted
+attacks and intrusions from around the world have increased. Our information technology network and systems have been and, we believe,
+continue to be under constant attack. Accordingly, despite our security measures or those of our third-party service providers, a security
+breach may occur, including breaches that we may not be able to detect. Security breaches of our information technology systems could
+result in the misappropriation or unauthorized disclosure of confidential information which could have a material adverse on our business,
+financial condition, operating results or prospects. \n Government regulation of the Internet and
+ecommerce is evolving, and unfavorable changes or failure by us to comply with these regulations could substantially harm our business
+and results of operations. \n We are subject to general business regulations
+and laws as well as regulations and laws specifically governing the Internet and ecommerce. Existing and future regulations and laws could
+impede the growth of the Internet, ecommerce or mobile commerce. These regulations and laws may involve taxes, tariffs, privacy and data
+security, anti-spam, content protection, electronic contracts and communications, consumer protection, Internet neutrality and gift cards.
+It is not clear how existing laws governing issues such as property ownership, sales and other taxes and consumer privacy apply to the
+Internet as the vast majority of these laws were adopted prior to the advent of the Internet and do not contemplate or address the unique
+issues raised by the Internet or ecommerce. It is possible that general business regulations and laws, or those specifically governing
+the Internet or ecommerce, may be interpreted and applied in a manner that is inconsistent from one jurisdiction to another and may conflict
+with other rules or our practices. \n Though we seek at all times to be in full compliance
+with all such laws, we cannot be sure that our practices have complied, comply or will comply fully with all such laws and regulations.
+Any failure, or perceived failure, by us to comply with any of these laws or regulations could result in damage to our reputation, a loss
+in business and proceedings or actions against us by governmental entities or others. Any such proceeding or action could damage our reputation
+and brand, force us to spend significant amounts in defense of these proceedings, distract our management, increase our costs of doing
+business, decrease the use of our website by consumers and result in the imposition of monetary liability. We may also be contractually
+liable to indemnify and hold harmless third parties from the costs or consequences of non-compliance with any such laws or regulations. \n We may be unable to protect our trademarks
+or brand image, which could harm our business. \n We rely on trademark registrations and common
+law trademark rights to protect the distinctiveness of our brand. However, there can be no assurance that the actions we have taken to
+establish and protect our trademarks will be adequate to prevent counterfeiting or infringement of our trademarks by others. We may not
+be able to claim or assert trademark or unfair competition claims against third parties for any number of reasons, and our trademarks
+may be found invalid or unenforceable. A judge, jury or other adjudicative body may find that the conduct of competitors does not infringe
+or violate our trademark rights. Third parties may claim that the use of our trademarks and branding infringe, dilute or otherwise violate
+the common law or registered marks of that party, or that our sales and marketing efforts constitute unfair competition. Such claims could
+result in injunctive relief prohibiting the use of our marks, branding and marketing activities, and significant damages, treble damages
+and attorneys’ fees and costs could be awarded as a result of such claims. Moreover, United States and foreign trademark offices
+may refuse to grant existing and future trademark applications and may cancel or partially cancel trademark registrations. \n The laws of certain foreign countries may not
+protect the use of unregistered trademarks to the same extent as do the laws of the United States. As a result, international protection
+of our brand image may be limited, and our right to use our trademarks outside the United States could be impaired. Other persons or entities
+may have rights to trademarks that contain portions of our marks or may have registered similar or competing marks for furniture and/or
+accessories in foreign countries where our products are manufactured. There may also be other prior registrations of trademarks identical
+or similar to our trademarks in other foreign countries of which we are not aware. Accordingly, it may be possible for others to prevent
+the manufacture of our branded merchandise in certain foreign countries or the sale or exportation of our branded merchandise from certain
+foreign countries to the United States. If we were unable to reach a licensing arrangement with these parties, we might be unable to manufacture
+our products in those countries. Our inability to register our trademarks or purchase or license the right to use the relevant trademarks
+or logos in these jurisdictions could limit our ability to manufacture our products in less costly markets or penetrate new markets in
+jurisdictions outside the United States. The occurrence of any of the foregoing could harm our business. \n We may not be able to adequately protect
+our intellectual property rights. \n We regard our customer and prospect lists, trademarks,
+domain names, copyrights, patents and similar intellectual property as critical to our success, and we rely on trademark, copyright and
+patent law, trade secret protection, agreements and other methods with our associates and others to protect our proprietary rights. We
+have 19 issued U.S. utility patents and 26 issued foreign utility patents, that are scheduled to expire between 2022 and 2037. We have
+12 pending U.S. utility patent applications, 36 pending foreign utility patent applications and 2 pending international patent applications.
+We expect to file U.S. and international patent applications for future innovations. We might not be able to obtain protection in the
+United States or internationally for our intellectual property, and we might not be able to obtain effective intellectual property protection
+in countries in which we may in the future sell products. If we are unable to obtain such protection, our business, financial condition,
+operating results and prospects may be harmed. Additionally, associates, contractors or consultants may misappropriate or disclose our
+confidential information or intellectual property and agreements with those persons may not exist, may not cover the information or intellectual
+property in question, or may not be enforceable, all of which could have an adverse impact on our business, financial condition, operating
+results and prospects for the future. \n The protection of our intellectual property rights
+may require the expenditure of significant financial, managerial and operational resources. Notwithstanding such expenditures, the steps
+we take to protect our intellectual property may not adequately protect our rights or prevent third parties from infringing, misappropriating
+or disclosing confidential information or intellectual property. The validity, enforceability and infringement of our patents, trademarks,
+trade secrets and other intellectual property rights may be challenged by others in litigation or through administrative process, and
+we may not prevail in such disputes. Additionally, because the process of obtaining patent and trademark protection is expensive and time-consuming,
+we may not be able to prosecute all necessary or desirable patent and trademark applications at a reasonable cost or in a timely manner,
+and such applications may never be granted. Even if such applications issue as patents and trademarks, there can be no assurance that
+these patents and trademarks will adequately protect our intellectual property, as the legal standards relating to the validity, enforceability
+and scope of protection of patents, trademarks and other intellectual property rights are uncertain. If we are unable to adequately protect
+our intellectual property rights, our business, financial condition, operating results and prospects may be harmed. \n We also might be required to spend significant
+resources to monitor and protect our intellectual property rights. We may not be able to discover or determine the extent of any infringement,
+misappropriation, disclosure or other violation of our intellectual property rights, confidential information or other proprietary rights.
+We may initiate claims or litigation against others for infringement, misappropriation or violation of our intellectual property rights,
+confidential information or other proprietary rights or to establish the validity of such rights. Despite our efforts, we may be unable
+to prevent third parties, former associates, consultants or independent contractors from infringing upon, misappropriating, disclosing
+or otherwise violating our intellectual property rights, confidential information and other proprietary rights. In addition, initiating
+claims or litigation against others for infringement, misappropriation, disclosure or violation of our intellectual property rights, confidential
+information or proprietary rights will be expensive, and may be prohibitively expensive. Any litigation or other dispute resolution mechanism,
+whether or not it is resolved in our favor, could result in significant expense to us and divert the efforts of our technical and management
+personnel, which may materially adversely affect our business, financial condition, operating results and prospects. \n Our products or marketing activities may
+be found to infringe or violate the intellectual property rights of others. \n Third parties may assert claims or initiate litigation
+asserting that our products or our marketing activities infringe or violate such third parties’ patent, copyright, trademark, trade
+secret or other intellectual property rights. The asserted claims and/or litigation could include claims against us or our suppliers alleging
+infringement of intellectual property rights with respect to our products or components of such products. \n Regardless of the merit of the claims, if our
+products are alleged to infringe or violate the intellectual property rights of other parties, we could incur substantial costs and we
+may have to, among other things: \n ● obtain licenses to use such intellectual property rights, which may not be available on commercially reasonable terms, or at all; \n ● redesign our products or change our marketing activities to avoid infringement or other violations of the intellectual property rights of others; \n ● stop using the subject matter protected by the intellectual property held by others; \n ● pay significant compensatory and/or enhanced damages, attorneys’ fees and costs; and/or \n ● defend litigation or administrative proceedings which may be costly whether we win or lose, and which could result in a substantial diversion of our time, financial and management resources. \n If any of the foregoing occur, our business, financial
+condition, operating results and prospects could be materially adversely affected. \n Risks Related to Ownership of Our Common Stock \n The trading price of the shares of our common
+stock has been and is likely to continue to be highly volatile, and purchasers of our common stock could incur substantial losses. \n The stock market in general has experienced volatility
+that has often been unrelated to the operating performance of particular companies. As a result of this volatility, investors may not
+be able to sell their common stock at or above the price they paid. The market price for our common stock may be influenced by many factors,
+including: \n ● actual
+or anticipated fluctuations in our customer growth, sales, or other operating results; \n ● variations
+between our actual operating results and the expectations of securities analysts, investors, and the financial community; \n ● any
+forward-looking financial or operating information we may provide to the public or securities analysts, any changes in this information,
+or our failure to meet expectations based on this information; \n ● actions
+of securities analysts who initiate or maintain coverage of us, changes in financial estimates by any securities analysts who follow
+our Company, or our failure to meet these estimates or the expectations of investors; \n ● additional
+shares of our common stock being sold into the market by us or our existing stockholders, or the anticipation of such sales, including
+if existing stockholders sell shares into the market when applicable “lock-up” periods end; \n ● price
+and volume fluctuations in the overall stock market, including as a result of trends in the economy as a whole; \n ● announcements
+by us or our competitors of significant products, acquisitions, strategic partnerships, joint ventures, or capital commitments; \n ● lawsuits
+threatened or filed against us; \n ● developments in new legislation or rulings by judicial or regulatory bodies; \n ● other
+events or factors, including those resulting from war or incidents of terrorism, or responses to these events; and \n ● the
+societal and economic impact of public health crises, such as the ongoing COVID-19 pandemic. \n We may be subject to securities litigation,
+which is expensive and could divert management attention. \n The market price of our common stock may be volatile,
+and in the past, companies that have experienced volatility in the market price of their stock have been subject to securities class
+action litigation. We may be the target of this type of litigation in the future. Securities litigation against us could result in substantial
+costs and divert our management’s attention from other business concerns, which could have a material adverse effect on our business,
+financial condition, and results of operations. \n If securities or industry analysts do not
+publish research or publish inaccurate or unfavorable research about our business, our stock price and trading volume could decline. \n The trading market for our common stock will be
+influenced by the research and reports that securities or industry analysts publish about us or our business. If one or more of these
+securities or industry analysts ceases coverage of us, we could lose visibility in the financial markets, which in turn could cause our
+stock price or trading volume to decline. If one or more of the analysts who cover us downgrades our common stock, publishes inaccurate
+or unfavorable research about our business or if our operating results do not meet their expectations, our stock price could decline. \n Future sales and issuances of our common
+stock or rights to purchase common stock could result in additional dilution of the percentage ownership of our stockholders and could
+cause our stock price to decline. \n In order to raise additional capital, we may in
+the future offer additional shares of our common stock or other securities convertible into or exchangeable for our common stock. Future
+sales and issuances of our common stock or rights to purchase our common stock could result in substantial dilution to our existing stockholders.
+We may sell shares or other securities in the future that could have rights superior to existing stockholders. The price per share at
+which we sell additional shares of our common stock, or securities convertible or exchangeable into common stock, in future transactions
+may be higher or lower than the current price per share of our common stock. \n We are an “emerging growth company,”
+and any decision on our part to comply only with certain reduced reporting and disclosure requirements applicable to emerging growth companies
+could make our common stock less attractive to investors. \n We are an “emerging growth company”
+as defined in the JOBS Act, and we could be an emerging growth company for up to five years following the completion of our IPO. For as
+long as we continue to be an emerging growth company, we may choose to take advantage of exemptions from various reporting requirements
+applicable to other public companies but not to emerging growth companies, including: \n ● not
+being required to have our independent registered public accounting firm audit our internal control over financial reporting under Section
+404 of SOX; \n ● reduced
+disclosure obligations regarding executive compensation in our periodic reports and proxy statements; and \n ● exemptions
+from the requirements of holding a nonbinding advisory vote on executive compensation and stockholder approval of any golden parachute
+payments not previously approved. \n Under the JOBS Act, emerging growth companies
+can also delay adopting new or revised accounting standards until such time as those standards apply to private companies. Investors may
+find our common stock less attractive if we choose to rely on any of the exemptions or accommodations afforded to emerging growth companies.
+If investors find our common stock less attractive because we rely on any of these exemptions or accommodations, there may be a less active
+trading market for our common stock and the market price of our common stock may be more volatile. We have irrevocably elected to take
+advantage of the extended transition period for new or revised accounting standards. \n Anti-takeover provisions in our charter
+documents and under Delaware law could make an acquisition of our Company more difficult, and limit attempts by our stockholders to replace
+or remove our current management. \n Provisions in our Amended and Restated Certificate
+of Incorporation and our Amended and Restated Bylaws may have the effect of delaying or preventing a change of control or changes in our
+management. Our Amended and Restated Certificate of Incorporation and Amended and Restated Bylaws include provisions that: \n ● permit the board of directors to establish the number of directors and fill any vacancies and newly created directorships by the affirmative vote of a majority of the directors or stockholders holding at least 25% of our issued and outstanding shares of common stock; \n ● provide that directors may only be removed by the majority of the shares of voting stock then outstanding entitled to vote generally in election of directors; \n ● require a majority of all directors who constitute the board of directors or holders at least 25% of the issued and outstanding shares our common stock to adopt, amend or repeal provisions of our Amended and Restated Bylaws; \n ● require 50% of the voting power of all then outstanding shares of our capital stock entitled to vote generally in election of directors to amend, alter or repeal, or adopt any provision inconsistent with certain sections of our Amended and Restated Certificate of Incorporation; \n ● except as otherwise provided by the terms of any series of preferred stock, special meetings of our stockholders may be called only by the board of directors, the chairperson of the board of directors, the chief executive officer, the president (in the absence of a chief executive officer) or at least 25% of all then outstanding shares of our capital stock entitled to vote generally in the election of directors, voting together as a single class; and \n ● establish advance notice requirements for nominations for election to our board of directors or for proposing matters that can be acted upon by stockholders at annual stockholder meetings. \n These provisions may frustrate or prevent any
+attempts by our stockholders to replace or remove our current management by making it more difficult for stockholders to replace members
+of our board of directors, which is responsible for appointing the members of our management. In addition, because we are incorporated
+in Delaware, we are governed by the provisions of Section 203 of the Delaware General Corporation Law, which generally prohibits a Delaware
+corporation from engaging in any of a broad range of business combinations with any holder of at least 15% of our capital stock for a
+period of three years following the date on which the stockholder became a 15% stockholder. \n We do not expect to declare any dividends
+in the foreseeable future. \n The continued operation and growth of our business
+will require substantial cash. Accordingly, we do not anticipate paying any cash dividends to holders of our common stock at any time
+in the foreseeable future. Any determination to pay future dividends will be at the discretion of our board of directors and will depend
+upon our results of operations, financial condition, contractual restrictions, indebtedness, restrictions imposed by applicable law and
+other factors our board of directors deems relevant. Consequently, the only way investors may be able to realize future gain on their
+investment is to sell their shares of common stock after the price of such shares has appreciated. However, there is no guarantee that
+investors’ shares of common stock will appreciate in value or even maintain the price at which our investors purchased their shares
+of common stock. \n Sales of a substantial number of shares
+of our common stock into the public market by certain of our stockholders could depress our stock price. \n Sales of substantial amounts of our common stock
+in the public market could reduce the prevailing market prices for our common stock. Substantially all of our outstanding common stock
+is eligible for sale as are shares of common stock issuable under vested and exercisable stock options. If our existing stockholders sell
+a large number of shares of our common stock, or the public market perceives that existing stockholders might sell shares of common stock,
+the market price of our common stock could decline significantly. Existing stockholder sales might also make it more difficult for us
+to sell additional equity securities at a time and price that we deem appropriate. \n Certain holders of our outstanding common stock
+have rights to require us to file registration statements for the public sale of their shares or to include their shares in registration
+statements that we may file for ourselves or other stockholders. Registration of these shares under the Securities Act of 1933, as amended,
+or the Securities Act, would result in the holder being able to sell the shares without restriction under the Securities Act, except for
+shares held by our affiliates as defined in Rule 144 under the Securities Act. Any significant sales of securities by these stockholders
+could have a material adverse effect on the trading price of our common stock.
