@@ -1,0 +1,672 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import numpy as np\n",
+    "import pandas as pd\n",
+    "import matplotlib.pyplot as plt"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 97,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import nltk\n",
+    "import string\n",
+    "import re\n",
+    "from nltk import word_tokenize, FreqDist,regexp_tokenize\n",
+    "from nltk.corpus import stopwords\n",
+    "from nltk.stem import WordNetLemmatizer, SnowballStemmer,PorterStemmer\n",
+    "from sklearn.feature_extraction.text import TfidfVectorizer"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 64,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from sklearn.cluster import AgglomerativeClustering, KMeans, AffinityPropagation\n",
+    "from sklearn.cluster import DBSCAN, OPTICS,MeanShift\n",
+    "from scipy.cluster.hierarchy import dendrogram,linkage"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 50,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "%run Functionality.py\n",
+    "%run Update.py\n",
+    "%run Textual.py"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 104,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "stemmer=SnowballStemmer('english')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 116,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "common_vocab=['result','company','may','could','risk','financial','common','issue','class',\n",
+    "              'stock','ability','significant','future',\n",
+    "              'adversly','affect','effect','impact','subject','change','continue',\n",
+    "              'quarter','annual','year','affect','effect','would','could','may','adverse',\n",
+    "              'existing','number','we','us','our',\n",
+    "              'including','certain','related','significant','year','ended'\n",
+    "             ]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 128,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "stop_words=stopwords.words('english')\n",
+    "punctuations=list(string.punctuation)+[\"'\",'\\\\n','``',\"''\"]\n",
+    "stops=stop_words+punctuations+common_vocab\n",
+    "def process_text(text):\n",
+    "    lemma=WordNetLemmatizer()\n",
+    "    tokens=word_tokenize(text)\n",
+    "    tokens=[t.lower() for t in tokens if t.lower() not in stops]\n",
+    "    tokens=[lemma.lemmatize(t) for t in tokens if t not in stops]\n",
+    "    tokens=[t for t in tokens if t not in stops]\n",
+    "    return ' '.join(tokens)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 138,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "args={\n",
+    "    'max_df':0.99,\n",
+    "    'min_df':0.01,\n",
+    "    'max_features':100,\n",
+    "    'norm':'l2',\n",
+    "    'vocabulary':None,\n",
+    "    'sublinear_tf':False,\n",
+    "    'stop_words':stops,\n",
+    "    'preprocessor':process_text\n",
+    "}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 139,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tf=TfidfVectorizer(**args)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 140,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "TfidfVectorizer(max_df=0.99, max_features=100, min_df=0.01,\n",
+       "                preprocessor=<function process_text at 0x7fa9482fb790>,\n",
+       "                stop_words=['i', 'me', 'my', 'myself', 'we', 'our', 'ours',\n",
+       "                            'ourselves', 'you', \"you're\", \"you've\", \"you'll\",\n",
+       "                            \"you'd\", 'your', 'yours', 'yourself', 'yourselves',\n",
+       "                            'he', 'him', 'his', 'himself', 'she', \"she's\",\n",
+       "                            'her', 'hers', 'herself', 'it', \"it's\", 'its',\n",
+       "                            'itself', ...])"
+      ]
+     },
+     "execution_count": 140,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "tf"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 129,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "samples=collect_texts(three_year.index,['2020','2019','2018'])\n",
+    "for key,text in samples.items():\n",
+    "    samples[key]=process_text(text)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 130,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "TfidfVectorizer(max_df=0.99, max_features=50)"
+      ]
+     },
+     "execution_count": 130,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "tf=TfidfVectorizer(max_df=.99,max_features=50)\n",
+    "tf.fit(samples.values())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 131,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "{'product': 28,\n",
+       " 'new': 22,\n",
+       " 'operating': 24,\n",
+       " 'number': 23,\n",
+       " 'customer': 9,\n",
+       " 'payment': 26,\n",
+       " 'term': 43,\n",
+       " 'adverse': 3,\n",
+       " 'technology': 42,\n",
+       " 'third': 44,\n",
+       " 'party': 25,\n",
+       " 'service': 36,\n",
+       " 'liability': 17,\n",
+       " 'software': 38,\n",
+       " 'use': 47,\n",
+       " 'system': 40,\n",
+       " 'information': 14,\n",
+       " 'acquisition': 1,\n",
+       " 'intellectual': 15,\n",
+       " 'property': 29,\n",
+       " 'law': 16,\n",
+       " 'regulation': 31,\n",
+       " 'right': 33,\n",
+       " 'data': 10,\n",
+       " 'security': 35,\n",
+       " 'sale': 34,\n",
+       " 'control': 8,\n",
+       " 'loss': 18,\n",
+       " 'tax': 41,\n",
+       " 'management': 20,\n",
+       " 'state': 39,\n",
+       " 'rate': 30,\n",
+       " 'additional': 2,\n",
+       " 'price': 27,\n",
+       " 'time': 45,\n",
+       " 'user': 48,\n",
+       " 'able': 0,\n",
+       " 'requirement': 32,\n",
+       " 'share': 37,\n",
+       " 'employee': 11,\n",
+       " 'agreement': 5,\n",
+       " 'failure': 13,\n",
+       " 'make': 19,\n",
+       " 'material': 21,\n",
+       " 'would': 49,\n",
+       " 'existing': 12,\n",
+       " 'affected': 4,\n",
+       " 'cash': 6,\n",
+       " 'transaction': 46,\n",
+       " 'consumer': 7}"
+      ]
+     },
+     "execution_count": 131,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "tf.vocabulary_"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "samples=dict.fromkeys(examples.index)\n",
+    "coverage=['2020','2019','2018','2017','2016']\n",
+    "for year in coverage:\n",
+    "    for s in samples.keys():\n",
+    "        with open(samples_path+s+'/'+year+'.txt','r') as f:\n",
+    "            samples[s]=f.read()#' '.join([l.decode(encoding=\"cp1252\") for l in f.readlines()])\n",
+    "    tf=TfidfVectorizer(max_df=.99,max_features=50,stop_words=stops)\n",
+    "    X=tf.fit_transform(samples.values())\n",
+    "    X_vect=pd.DataFrame.sparse.from_spmatrix(X)\n",
+    "    fig,ax=plt.subplots(figsize=(25,10))\n",
+    "    ax.set_title(year)\n",
+    "    dendrogram(\n",
+    "            linkage(X_vect),\n",
+    "            leaf_rotation=45.,\n",
+    "            leaf_font_size=20.,\n",
+    "            labels=examples.index,\n",
+    "            p=25,\n",
+    "            truncate_mode='level'\n",
+    "            );\n",
+    "    plt.savefig(image_path+'Dendograms/'+coverage[0]+'_'+coverage[-1]+'/'+year+'.pdf',\n",
+    "                orientation='landscape',\n",
+    "                pad_inches=0.0,\n",
+    "                bbox_inches='tight',\n",
+    "                format='pdf'\n",
+    "               )\n",
+    "    Agg=AgglomerativeClustering(n_clusters=10)\n",
+    "    Agg.fit(X.toarray())\n",
+    "    groupings_by_year[year]=Agg.labels_"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "companies.loc[examples.index].to_csv(image_path+'Dendograms/2020_2016/Dataset.csv')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "groupings_by_year[groupings_by_year.SIC.apply(lambda s:all([s=='7372',s[1]=='3']))]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "distr=pd.DataFrame(index=[i for i in range(0,8)])\n",
+    "for y in coverage:\n",
+    "    distr[y]=groupings_by_year[y].value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "distr"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "groupings_by_year.to_clipboard()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "year='2016'\n",
+    "examples=companies[filers[year]]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "samples=dict.fromkeys(examples.index)\n",
+    "for s in samples.keys():\n",
+    "    with open(samples_path+s+'/'+year+'.txt','r') as f:\n",
+    "        samples[s]=f.read()#' '.join([l.decode(encoding=\"cp1252\") for l in f.readlines()])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "len(samples)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 60,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tf=TfidfVectorizer(max_df=.99,max_features=50,stop_words=stops)\n",
+    "X=tf.fit_transform(samples.values())\n",
+    "X_vect=pd.DataFrame.sparse.from_spmatrix(X)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "fig,ax=plt.subplots(figsize=(25,25))\n",
+    "ax.set_title(year+'--'+str(len(samples))+' Samples')\n",
+    "dendrogram(\n",
+    "    linkage(X_vect),\n",
+    "    leaf_rotation=90.,\n",
+    "    leaf_font_size=10.\n",
+    "    );\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 80,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tf=TfidfVectorizer(max_df=.99,stop_words=stops)\n",
+    "X=tf.fit_transform(samples.values())\n",
+    "X_vect=pd.DataFrame.sparse.from_spmatrix(X)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 81,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Agg=AgglomerativeClustering(n_clusters=10)\n",
+    "Aff=AffinityPropagation()\n",
+    "K5=KMeans(n_clusters=5)\n",
+    "K3=KMeans(n_clusters=3)\n",
+    "K8=KMeans(n_clusters=8)\n",
+    "Mean=MeanShift()\n",
+    "#clusterers={'Agg':Ag}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 82,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "/Users/george/opt/anaconda3/lib/python3.8/site-packages/sklearn/cluster/_affinity_propagation.py:146: FutureWarning: 'random_state' has been introduced in 0.23. It will be set to None starting from 0.25 which means that results will differ at every function call. Set 'random_state' to None to silence this warning, or to 0 to keep the behavior of versions <0.23.\n",
+      "  warnings.warn((\"'random_state' has been introduced in 0.23. \"\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "MeanShift()"
+      ]
+     },
+     "execution_count": 82,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "XX=X.toarray()\n",
+    "Agg.fit(XX)\n",
+    "Aff.fit(XX)\n",
+    "K8.fit(XX)\n",
+    "K5.fit(XX)\n",
+    "K3.fit(XX)\n",
+    "Mean.fit(XX)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 86,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Agg_lbl=Agg.labels_\n",
+    "Aff_lbl=Aff.labels_\n",
+    "M_lbl=Mean.labels_\n",
+    "K8_lbl=K8.labels_\n",
+    "K5_lbl=K5.labels_\n",
+    "K3_lbl=K3.labels_"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 87,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "clusterings=pd.DataFrame(\n",
+    "    list(zip(samples.keys(),Agg_lbl,K8_lbl,K5_lbl,K3_lbl,M_lbl,Aff_lbl)),\n",
+    "    columns=['Ticker','Agg','K8','K5','K3','Mean_Shift','Affinity'])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 88,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "4    104\n",
+       "0     81\n",
+       "1     52\n",
+       "7     38\n",
+       "5     32\n",
+       "3     29\n",
+       "9     24\n",
+       "8     18\n",
+       "2     15\n",
+       "6      9\n",
+       "Name: Agg, dtype: int64"
+      ]
+     },
+     "execution_count": 88,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "clusterings.Agg.value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 91,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "4    104\n",
+       "0     81\n",
+       "1     52\n",
+       "7     38\n",
+       "5     32\n",
+       "3     29\n",
+       "9     24\n",
+       "8     18\n",
+       "2     15\n",
+       "6      9\n",
+       "Name: Agg, dtype: int64"
+      ]
+     },
+     "execution_count": 91,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "clusterings.Agg.value_counts()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "companies.loc[samples.keys()]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "samples={}\n",
+    "for yr in ['2020','2019','2018','2017','2016']:\n",
+    "    for s in examples.index:\n",
+    "        with open(samples_path+s+'/'+year+'.txt','r') as f:\n",
+    "            samples[(s,yr)]=f.read()\n",
+    "    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tf=TfidfVectorizer(max_df=.99,max_features=50,stop_words=stops)\n",
+    "X=tf.fit_transform(samples.values())\n",
+    "X_vect=pd.DataFrame.sparse.from_spmatrix(X)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "K3=KMeans(n_clusters=3)\n",
+    "K5=KMeans(n_clusters=5)\n",
+    "K8=KMeans(n_clusters=8)\n",
+    "K10=KMeans(n_clusters=10)\n",
+    "Agg=AgglomerativeClustering(n_clusters=10)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Agg.fit(X.toarray());\n",
+    "K3.fit(X.toarray());\n",
+    "K5.fit(X.toarray());\n",
+    "K8.fit(X.toarray());"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Agg_lbl=Agg.labels_\n",
+    "K8_lbl=K8.labels_\n",
+    "K5_lbl=K5.labels_\n",
+    "K3_lbl=K3.labels_"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "clusterings=pd.DataFrame(\n",
+    "    list(zip(samples.keys(),Agg_lbl,K8_lbl,K5_lbl,K3_lbl)),\n",
+    "    columns=['Ticker','Agg','K8','K5','K3'])\n",
+    "clusterings['Tick']=clusterings.Ticker.apply(lambda t:t[0])\n",
+    "clusterings['Year']=clusterings.Ticker.apply(lambda t:t[1])\n",
+    "clusterings.set_index(['Year','Tick'],inplace=True)\n",
+    "clusterings.drop(['Ticker'],inplace=True,axis='columns')\n",
+    "#clusterings.index=clusterings.Ticker.to_list()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "clusterings.to_excel('Clusterings_AllYears.xlsx')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}

@@ -430,7 +430,7 @@ def update():
 
 
 #######
-with open(parent_path+'Common_Vocab.txt','r') as f:
+with open(data_path+'Common_Vocab.txt','r') as f:
     common_vocab=f.read().splitlines()
              
 stop_words=stopwords.words('english')
@@ -482,7 +482,7 @@ def collect_texts_stocks(tickers):
 def collect_texts_years(years):
     corpus={}
     for yr in years:
-        Y=Paths[Yr]
+        Y=Paths[yr]
         for tick,path in Y.iteritems():
             if(path):
                 corpus[tick+'_'+yr]=collect_text(tick,yr)
@@ -616,7 +616,13 @@ def entire_year(year):
     fig=plt.subplot()
     fig.set_xticklabels([])
     fig.set_yticklabels([])
-    fig.set_title('Risk Disclosures for Year of '+year)
+    title=('Risk Disclosures for Year of '+
+           year+
+           '  ('+
+           str(len(RDs))+
+           ' Observations)'
+          )
+    fig.set_title(title)
     fig.imshow(wc.to_array());
 
     plt.savefig(path+year+'.pdf',
@@ -629,7 +635,24 @@ def entire_year(year):
 
 #####
 
-def create_extractor(texts,vector_args):
-    tf=TFidVectorizer(stop_words=stops,*vector_args)
-    tf.fit(texts)
+def create_extractor(corpus,vector_args):
+    tf=TfidfVectorizer(stop_words=stops,**vector_args)
+    tf.fit(corpus)
     return tf
+
+def groups_to_similarity(groupings,weights):
+    S=pd.DataFrame(columns=groupings.index,
+                   index=groupings.index
+                  )
+    for x in groupings.index:
+        for y in groupings.index:
+            rowX=groupings.loc[x]
+            rowY=groupings.loc[y]
+            S.loc[x][y]=sim_metric(rowX,rowY,weights)
+    return S
+def sim_metric(row_x,row_y,weights):
+    score=1
+    for k,w in weights.items():
+        sub_score=w*(row_x[k]!=row_y[k])
+        score-=sub_score
+    return round(score,2)
