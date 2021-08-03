@@ -430,13 +430,8 @@ def update():
 
 
 #######
-common_vocab=['result','company','may','could','risk','financial','common','issue','class',
-              'stock','ability','significant','future',
-              'adversly','affect','effect','impact','subject','change','continue',
-              'quarter','annual','year','affect','effect','would','could','may','adverse',
-              'existing','number','we','us','our',
-              'including','certain','related','significant','year','ended'
-             ]
+with open(parent_path+'Common_Vocab.txt','r') as f:
+    common_vocab=f.read().splitlines()
              
 stop_words=stopwords.words('english')
 punctuations=list(string.punctuation)+["'",'\\n','``',"''"]
@@ -542,25 +537,29 @@ def visualize_stock(ticker):
     return None
 
 def stock_all(ticker):
-    path=image_path+'Wordclouds/Companies/'+ticker+'/'
+    path=image_path+'Wordclouds/Combined/'
     RDs=collect_texts_stock(ticker)
     text=' '.join(RDs.values())
     wc=wordcloud.WordCloud()
     wc.min_word_length=3
     wc.generate_from_text(text.lower())
     fig=plt.subplot()
+    fig.set_xticklabels([])
+    fig.set_yticklabels([])
     fig.set_title(ticker+':  All Risk Disclosures')
     fig.imshow(wc.to_array());
-    plt.savefig(path+'Combined.pdf',
+
+    plt.savefig(path+ticker+'.pdf',
                 orientation='landscape',
                 pad_inches=0.0,
                 bbox_inches='tight',
                 format='pdf'
                )
+    plt.close()
     return None
 
 def stock_timeline(ticker):
-    path=image_path+'Wordclouds/Companies/'+ticker+'/'
+    path=image_path+'Wordclouds/Timeline/'
     RDs=collect_texts_stock(ticker)
     years=list(RDs.keys())
     years.sort()
@@ -589,18 +588,44 @@ def stock_timeline(ticker):
             a.set_title(str(yr),fontsize='large')
             a.imshow(wc.to_array());
             i+=1
-        plt.savefig(path+'Timeline.pdf',
+        plt.savefig(path+ticker+'.pdf',
                     orientation='landscape',
                     pad_inches=0.0,
                     bbox_inches='tight',
                     format='pdf'
                    )
+        plt.close()
         pass
     else:
         pass
     return None
+def visualize_sic_group(category):
+    tickers=Universe[Universe.SIC==category].index
+    pass
+def sic_combined(tickers):
+    pass
+def sic_timeline(tickers):
+    pass
+def entire_year(year):
+    path=image_path+'Wordclouds/Combined/'
+    RDs=collect_texts_year(year)
+    text=' '.join(RDs.values())
+    wc=wordcloud.WordCloud()
+    wc.min_word_length=3
+    wc.generate_from_text(text.lower())
+    fig=plt.subplot()
+    fig.set_xticklabels([])
+    fig.set_yticklabels([])
+    fig.set_title('Risk Disclosures for Year of '+year)
+    fig.imshow(wc.to_array());
 
-
+    plt.savefig(path+year+'.pdf',
+                orientation='landscape',
+                pad_inches=0.0,
+                bbox_inches='tight',
+                format='pdf'
+               )
+    plt.close()
 
 #####
 
