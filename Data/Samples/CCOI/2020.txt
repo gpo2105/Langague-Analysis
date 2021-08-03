@@ -1,0 +1,338 @@
+If our operations do not consistently produce positive cash flow to pay for our growth or meet our operating and financing obligations, and we are unable to otherwise raise
+additional capital to meet these needs, our ability to implement our business plan will be materially and adversely affected. 
+ We currently generate positive cash flow from our operations. We are not consistently cash flow positive overall and we have limited
+funds available to us. If we do not become consistently cash flow positive or if we acquire or invest in additional businesses, assets, services or technologies we may need to raise additional capital
+beyond that available from our operating cash flow. We may also face unforeseen capital requirements for new technology required to remain competitive or to comply with new regulatory requirements,
+for unforeseen maintenance of our network and facilities, and for other unanticipated expenses associated with running our business. In addition, if we do not retain existing customers or add new
+customers, our cash flow may be impaired and we may be required to raise additional funds through the issuance of debt or equity. We cannot assure you that we will have access to necessary capital,
+nor can we assure you that any such financing will be available on terms that are acceptable to our stockholders or us. If issuing equity securities raises additional funds, substantial dilution to
+existing stockholders may result. 
+ We need to retain existing customers and continue to add new customers in order to become consistently profitable and cash flow positive. 
+ In order to become consistently profitable and consistently cash flow positive, we need to both retain existing customers and continue
+to add a large number of new customers. The precise number of additional customers required is dependent on a number of factors, including the turnover of existing customers, the pricing of our
+product offerings and the revenue mix among our customers. We may not succeed in adding customers if our sales and marketing plans are unsuccessful. In addition, many of our target customers are
+existing businesses that are already purchasing Internet access services from one or more providers, often under a contractual commitment. It has been our experience that such target customers are
+often reluctant to switch providers due to costs and effort associated with switching providers. Further, as some of our customers grow larger they may decide to build their own Internet networks.
+While no single customer accounted for more than 5.5% of our 2011 revenues, a migration of a few very large Internet users to their own networks or the loss or reduced purchases from several
+significant customers could impair our growth, cash flow and profitability. 
+ Our growth and financial health are subject to a number of economic risks. 
+ Negative developments in the credit and financial markets in the United States and worldwide have resulted in extreme disruption,
+including, among other things, extreme volatility in security prices, including our own, severely diminished liquidity and credit availability, rating downgrades of certain 
+ investments
+and declining valuations of others. While conditions in the capital and credit markets have improved, if the capital and credit markets continue to experience volatility and the
+availability of funds remains limited, it is possible that our ability to access the capital and credit markets for significant purchases or operations may be limited by these conditions or other
+factors at a time when we would like, or need, to do so. A prolonged downturn in the capital or credit markets may cause us to seek alternative sources of potentially less attractive financing. This
+could have an impact on our ability to react to changing economic and business conditions. 
+ The
+economic downturn has significantly affected the financial services industry, which includes many of our customers. In addition, the tightening of credit in financial markets
+potentially adversely affects the ability of certain of our customers to obtain financing for their operations, and could result in a decrease in sales to new customers or an increase in existing
+customers canceling our services as well as impact the ability of our customers to make payments, which would negatively impact our cash flow. We are unable to predict the likely duration and severity
+of any disruption in financial markets and adverse economic conditions in the U.S. and other countries. 
+ Our business and operations are growing rapidly and we may not be able to efficiently manage our growth. 
+ We have rapidly grown our company through network expansion and the acquisition of new customers through our sales efforts. Our
+expansion places significant strains on our management, operational and financial infrastructure. Our ability to manage our growth will be particularly dependent upon our ability
+to: 
+ expand, develop and retain an effective sales force and qualified personnel; 
+ maintain the quality of our operations and our service offerings; 
+ maintain and enhance our system of internal controls to ensure timely and accurate compliance with our regulatory
+reporting requirements; and 
+ expand our accounting and operational information systems in order to support our growth. 
+ If
+we fail to implement these measures successfully, our ability to manage our growth will be impaired. 
+ We may experience difficulties in implementing our expansion in Eastern Europe, Mexico and Japan and may incur related unexpected costs and regulatory issues. 
+ We began to expand our network into Eastern Europe in 2007, into Mexico in 2009 and into Japan in late 2011. We have experienced
+difficulty in acquiring dark fiber and other difficulties in making our network operational in Eastern European and Mexican markets. Our expansion may cost more than we have planned. We also may
+experience regulatory issues. Finally, we may be unsuccessful in selling our services in these markets. If we are not successful in developing our market presence in Eastern Europe, Mexico and Japan
+our operating results and growth could be adversely impacted. 
+ We may experience delays and additional costs in expanding our on-net buildings. 
+ Currently, we plan on continuing to increase the number of carrier-neutral facilities and multi-tenant office buildings that are
+connected to our network. We may be unsuccessful at identifying appropriate buildings or negotiating favorable terms for acquiring access to such
+buildings, and consequently, we may experience difficulty in adding customers to our network and fully using our network's available capacity. 
+ Our connections to the Internet require us to establish and maintain relationships with other providers, which we may not be able to maintain. 
+ The Internet is composed of various network providers who operate their own networks that interconnect at public and private
+interconnection points. Our network is one such network. In order to obtain Internet connectivity for our network, we must establish and maintain relationships with other providers and incur the
+necessary capital costs to locate our equipment and connect our network at these various interconnection points. 
+ By
+entering into what are known as settlement-free peering arrangements, providers agree to exchange traffic between their respective networks without charging each other.
+Our ability to avoid the higher costs of acquiring paid dedicated network capacity and to maintain high network performance is dependent upon our ability to establish and maintain peering
+relationships. The terms and conditions of our peering relationships may also be subject to adverse changes, which we may not be able to control. For example, several network operators with large
+numbers of individual users are arguing that they should be able to charge or charge more to network operators and businesses that exchange traffic to those users. If we are not able to maintain or
+increase our peering relationships in all of our markets on favorable terms, we may not be able to provide our customers with high performance or affordable or reliable services, which could cause us
+to lose existing and potential customers, damage our reputation and have a material adverse effect on our business. We have in the past had disputes with other network providers that resulted in a
+temporary disruption of the exchange of traffic between our network and the network of the other carrier. We have resolved the majority of such disputes through negotiations. We continue to experience
+resistance from certain incumbent telephone companies, especially in Europe, to upgrade the settlement-free peering connections necessary to accommodate the growth of the traffic that we
+exchange with such carriers. We cannot assure you that we will be able to continue to establish and maintain relationships with providers or favorably resolve disputes with providers. 
+ We may be required to censor content on the Internet, which we may find difficult to do and which may impact our ability to provide service in some countries as well as
+impact the growth of Internet usage, upon which we depend. 
+ Some governments attempt to limit access to certain content on the Internet. It is impossible for us (and other providers as far as we
+know) to filter all content that flows across the Internet connections we provide. For example, some content is encrypted when a secure web site is accessed. It is difficult to limit access to web
+sites that engage in practices that make it difficult to block them by blocking a fixed set of Internet addresses. Should a government require us to perform these types of blocking procedures we could
+experience difficulties ranging from incurring additional expenses to ceasing to provide service in that country. We could also be subject to penalties if we fail to implement the censorship. 
+ We may not successfully make or integrate acquisitions or enter into strategic alliances. 
+ As part of our growth strategy, we intend to pursue selected acquisitions and strategic alliances. To date, we have completed 13
+significant acquisitions. We compete with other companies for acquisition opportunities and we cannot assure you that we will be able to execute future acquisitions or strategic alliances on
+commercially reasonable terms, or at all. Even if we enter into these transactions, we may experience: 
+ delays in realizing or a failure to realize the benefits we anticipate; 
+ difficulties or higher-than-anticipated costs associated with integrating any acquired companies,
+products or services into our existing business; 
+ attrition of key personnel from acquired businesses; 
+ unexpected costs or charges; or 
+ unforeseen operating difficulties that require significant financial and managerial resources that would otherwise be
+available for the ongoing development or expansion of our existing operations. 
+ In
+the past, our acquisitions have often included assets, service offerings and financial obligations that are not compatible with our core business strategy. We have expended management
+attention and other resources to the divestiture of assets, modification of products and systems as well as restructuring financial obligations of acquired operations. In most acquisitions, we have
+been successful in renegotiating the long-term agreements that we have acquired. If we are unable to satisfactorily renegotiate such agreements in the future or with respect to future
+acquisitions, we may be exposed to large claims for payment for services and facilities we do not need. 
+ Consummating
+these transactions could also result in the incurrence of additional debt and related interest expense, as well as unforeseen contingent liabilities, all of which could have
+a material adverse effect on our business, financial condition and results of operations. Because we have purchased financially distressed companies or their assets, and may continue to do so in the
+future, we have not had, and may not have, the opportunity to perform extensive due diligence or obtain contractual protections and indemnifications that are customarily provided in corporate
+acquisitions. As a result, we may face unexpected contingent liabilities arising from these acquisitions. We may also issue additional equity in connection with these transactions, which would dilute
+our existing shareholders. 
+ Following
+an acquisition, we have experienced a decline in revenue attributable to acquired customers as these customers' contracts have expired and they have entered into standard
+Cogent customer contracts at generally lower rates or have chosen not to renew service with us. We anticipate that we will experience similar declines with respect to customers we may acquire in the
+future. 
+ We depend upon our key employees and may be unable to attract or retain sufficient qualified personnel. 
+ Our future performance depends upon the continued contribution of our executive management team and other key employees, in particular,
+our Chairman and Chief Executive Officer, Dave Schaeffer. As founder of our company, Mr. Schaeffer's knowledge of our business and our industry combined with his deep involvement in every
+aspect of our operations and planning make him particularly well-suited to lead our company and difficult to replace. 
+ Our business could suffer because telephone companies and cable companies may provide better delivery of Internet content originating on their own networks. 
+ Broadband connections provided by cable TV and telephone companies have become the predominant means by which consumers connect to the
+Internet. The providers of these broadband connections may treat Internet content delivered from different sources differently. The possibility of this has been characterized as an issue of "net
+neutrality." As many of our customers operate websites and services that deliver content to consumers our ability to sell our services would be negatively impacted if Internet content delivered by us
+was less easily received by consumers than Internet content delivered by others. The U.S. Federal Communications Commission ("FCC") has recently adopted rules addressing net neutrality that it deems
+necessary to ensure continuation of an "open" Internet. We cannot predict whether or how the FCC's new rules or subsequent additions or changes to those rules will affect our business and operations. 
+ Our operations outside of the United States expose us to economic, regulatory and other risks. 
+ The nature of our European, Canadian, and Mexican businesses involve a number of risks,
+including: 
+ fluctuations in currency exchange rates; 
+ exposure to additional regulatory and legal requirements, including import restrictions and controls, exchange controls,
+tariffs and other trade barriers; 
+ difficulties in staffing and managing our foreign operations; 
+ changes in political and economic conditions; and 
+ exposure to additional and potentially adverse tax regimes. 
+ As
+we continue to expand into other countries, such as Japan and others, our success will depend, in part, on our ability to anticipate and effectively manage these and other risks. Our
+failure to manage these risks and grow our operations outside the U.S. may have a material adverse effect on our business and results of operations. 
+ Fluctuations in foreign exchange rates may adversely affect our financial position and results of operations. 
+ Our operations outside the U.S. expose us to currency fluctuations and exchange rate risk. For example, while we record revenues and
+the financial results of our European operations in Euros, these results are reflected in our consolidated financial statements in U.S. dollars. Therefore, our reported results are exposed to
+fluctuations in the exchange rates between the U.S. dollar and the Euro. We fund certain of our cash flow requirements of our European, Canadian and Mexican operations in U.S. dollars. Accordingly, in
+the event that their currencies strengthen against the dollar to a greater extent than we anticipate, the cash flow requirements associated with these operations may be significantly greater in
+U.S.-dollar terms than planned. 
+ Our business could suffer delays and problems due to the actions of network providers on whom we are partially dependent. 
+ Our off-net customers are connected to our network by means of communications lines that are provided as services by local
+telephone companies and others. We may experience problems with the installation, maintenance and pricing of these lines and other communications links, which could adversely affect our results of
+operations and our plans to add additional customers to our network using such services. We have historically experienced installation and maintenance delays when the network provider is devoting
+resources to other services, such as traditional telephony. We have also experienced pricing problems when a lack of alternatives allows a provider to charge high prices for services in an area. We
+attempt to reduce this problem by using many different providers so that we have alternatives for linking a customer to our network. Competition among the providers tends to improve installation,
+maintenance and pricing. 
+ Our network may be the target of potential cyber attacks and other security breaches that could have significant negative consequences. 
+ Our business depends on our ability to limit and mitigate interruptions or degradation to our network availability. Our network,
+including our routers, may be vulnerable to unauthorized access, computer viruses, cyber attacks, and other security breaches. An attack on or security breach of our network could result in
+interruption or cessation of services, our inability to meet our service level commitments, and potentially compromise customer data transmitted over our network. We cannot guarantee that our security
+measures will not be circumvented, thereby resulting in network failures or interruptions that could impact our network availability and have a material adverse effect on our 
+ business,
+financial condition and operational results. We may be required to expend significant resources to protect against such threats, and may experience a reduction in revenues, litigation, and
+diminution in goodwill, caused by a breach. Although our customer contracts limit our liability, affected customers and third parties may seek to recover damages from us under various legal theories. 
+ Our network could suffer serious disruption if certain locations experience serious damage. 
+ There are certain locations through which a large amount of our Internet traffic passes. Examples are facilities in which we exchange
+traffic with other carriers, the facilities through which our transatlantic traffic passes, and certain of our network hub sites. If any of these facilities were destroyed or seriously damaged a
+significant amount of our network traffic could be disrupted. Because of the large volume of traffic passing through these facilities our ability (and the ability of carriers with whom we exchange
+traffic) to quickly restore service would be challenged. There could be parts of our network or the networks of other carriers that could not be quickly restored or that would experience substantially
+reduced service for a significant time. If such a disruption occurs, our reputation could be negatively impacted which may cause us to lose customers and adversely affect our ability to attract new
+customers, resulting in an adverse effect on our business and operating results. 
+ If the information systems that we depend on to support our customers, network operations, sales, billing and financial reporting do not perform as expected, our operations
+and our financial results may be adversely affected. 
+ We rely on complex information systems to operate our network and support our other business functions. Our ability to track sales
+leads, close sales opportunities, provision services, bill our customers for those services and prepare our financial statements depends upon the effective integration of our various information
+systems. If our information systems, individually or collectively, fail or do not perform as expected, our ability to process and provision orders, to make timely payments to vendors, to ensure that
+we collect amounts owed to us and prepare our financial statements would be adversely affected. Such failures or delays could result in increased capital expenditures, customer and vendor
+dissatisfaction, loss of business or the inability to add new customers or additional services, and prepare accurate and timely financial statements all of which would adversely affect our business
+and results of operations. 
+ We have historically incurred operating losses. 
+ For much of our history since we initiated operations in 2000, we have generated operating losses. Continued operating losses may
+prevent us from pursuing our strategies for growth or may require us to seek unplanned additional capital and could cause us to be unable to meet our debt service obligations, capital expenditure
+requirements or working capital needs. 
+ The utilization of certain of our net operating loss carryforwards are limited and depending upon the amount of our taxable income we may be subject to paying income taxes
+earlier than planned. 
+ Due to the uncertainty surrounding the realization of our net deferred tax asset, we have recorded a valuation allowance for the
+substantial majority of our net deferred tax asset. Section 382 of the Internal Revenue Code in the United States limits the utilization of net operating losses when ownership changes, as
+defined by that section, occur. We have performed an analysis of our Section 382 ownership changes and have determined that the utilization of certain of our net operating loss carryforwards in
+the United States is limited. 
+ We may have difficulty intercepting communications as required by the U.S. Communications Assistance for Law Enforcement Act and similar laws of other countries. 
+ The U.S. Communications Assistance for Law Enforcement Act and the laws of other countries require that we be able to intercept
+communications when required to do so by law enforcement agencies. We may experience difficulties and incur significant costs in complying with these laws. If we are unable to comply with the laws we
+could be subject to fines in the United States of up to $1.0 million per event and equal or greater fines in other countries. 
+ Our business could suffer from an interruption of service from our fiber providers. 
+ The carriers from whom we have obtained our inter-city and intra-city dark fiber maintain that dark fiber. We
+are contractually obligated under the agreements with these carriers to pay maintenance fees, and if we are unable to continue to pay such fees we would be in default under these agreements. If these
+carriers fail to maintain the fiber or disrupt our fiber connections due to our default or for other reasons, such as business disputes with us and governmental takings, our ability to provide service
+in the affected markets or parts of markets would be impaired unless we have or can obtain alternative fiber routes. The companies that maintain our inter-city dark fiber and many of the
+companies that maintain our intra-city dark fiber are also competitors of ours. Consequently, they may have incentives to act in ways unfavorable to us. While we have successfully
+mitigated the effects of prior service interruptions and business disputes in the past, we may incur significant delays and costs in
+restoring service to our customers in connection with future service interruptions, and as a result we may lose customers. 
+ Our business depends on agreements with carrier neutral data center operators, which we could fail to obtain or maintain. 
+ Our business depends upon access to customers in carrier neutral data centers, which are facilities in which many large users of the
+Internet house the computer servers that deliver content and applications to users by means of the Internet and provide access to multiple Internet access networks. Most carrier neutral data centers
+allow any carrier to operate within the facility (for a standard fee). We expect to enter into additional agreements with carrier neutral data center operators as part of our growth plan. Current
+government regulations do not require carrier neutral data center operators to allow all carriers access on terms that are reasonable or nondiscriminatory. We have been successful in obtaining
+agreements with these operators in the past and have generally found that the operators want to have us located in their facilities because we offer low-cost, high-capacity
+Internet service to their customers. Any deterioration in our existing relationships with these operators could harm our sales and marketing efforts and could substantially reduce our potential
+customer base. Increasing concentration in this industry, such as the mergers between Switch & Data Facilities Company, Inc. and Equinix, Inc., and Verizon
+Communications, Inc. and Terremark Worldwide, Inc. could negatively impact us if any such combined entities decide to discontinue operation of their facilities in a carrier neutral
+fashion. 
+ Our ability to serve customers in multi-tenant office buildings depends on license agreements with building owners and managers, which we could fail to obtain or maintain. 
+ Our on-net business depends upon our in-building networks. Our in-building networks depend on
+access agreements with building owners or managers allowing us to install our in-building networks and provide our services in these buildings. These agreements typically have terms of
+five to ten years, with one or more renewal options. Any deterioration in our existing relationships with building owners or managers could harm our sales and marketing efforts and could substantially
+reduce our potential customer base. We expect to enter into additional access agreements as part of our growth plan. Current federal and state regulations do not require building owners to make space
+available to us or 
+ to
+do so on terms that are reasonable or nondiscriminatory. While the FCC has adopted regulations that prohibit common carriers under its jurisdiction from entering into exclusive arrangements with
+owners of multi-tenant commercial office buildings, these regulations do not require building owners to offer us access to their buildings. Building owners or managers may decide not to permit us to
+install our networks in their buildings or they may elect not to renew or amend our access agreements. The initial term of most of our access agreements will conclude in the next several years. Most
+of these agreements have one or more automatic renewal periods and others may be renewed at the option of the landlord. While we have historically been successful in renewing these agreements and no
+single building access agreement is material to our success, the failure to obtain or maintain a number of these agreements would reduce our revenue, and we might not recover our costs of procuring
+building access and installing our in-building networks in those locations. 
+ We may not be able to obtain or construct additional building laterals to connect new buildings to our network. 
+ In order to connect a new building to our network we need to obtain or construct a lateral from our metropolitan network to the
+building. We may not be able to obtain fiber in an existing lateral at an attractive price from a provider and may not be able to construct our own lateral due to the cost of construction or municipal
+regulatory restrictions. Failure to obtain fiber in an existing lateral or to construct a new lateral could keep us from adding new buildings to our network and negatively impact our growth
+opportunities. 
+ Impairment of our intellectual property rights and our alleged infringement on other companies' intellectual property rights could harm our business. 
+ We are aware of several other companies in our and other industries that use the word "Cogent" in their corporate names. One company
+has informed us that it believes our use of the name "Cogent" infringes on their intellectual property rights in that name. If such a challenge is successful, we could be required to change our name
+and lose the goodwill associated with the Cogent name in our markets. 
+ Furthermore,
+we cannot assure you that the steps taken by us to protect our intellectual property rights will be adequate to deter misappropriation of proprietary information or that we
+will be able to detect unauthorized use and take appropriate steps to enforce our intellectual property rights. We also are subject to the risk of litigation alleging infringement of third party
+intellectual property rights. Any such claims could require us to spend significant sums in litigation, pay damages, develop
+non-infringing intellectual property or acquire licenses to the intellectual property that is the subject of the alleged infringement. 
+ The sector in which we operate is highly competitive, and we may not be able to compete effectively. 
+ We face significant competition from incumbent carriers, Internet service providers and facilities-based network operators. Relative to
+us, many of these providers have significantly greater financial resources, more well-established brand names, larger customer bases, and more diverse strategic plans and service
+offerings. 
+ Intense
+competition from these traditional and new communications companies has led to declining prices and margins for many communications services, and we expect this trend to continue
+as competition intensifies in the future. Decreasing prices for high-speed Internet services have somewhat diminished the competitive advantage that we have enjoyed as a result of our
+service pricing. 
+ Our
+competitors may also introduce new technologies or services that could make our services less attractive to potential customers. 
+ We issue projected results and estimates for future periods from time to time, and such projections and estimates are subject to inherent uncertainties and may prove to be
+inaccurate. 
+ Financial information, results of operations and other projections that we may issue from time to time are based upon our assumptions
+and estimates. While we believe these assumptions and estimates to be reasonable when they are developed, they are inherently subject to significant business, economic and competitive uncertainties
+and contingencies, many of which are beyond our control. You should understand that certain unpredictable factors could cause our actual results to differ from our expectations and those differences
+may be material. No independent expert participates in the preparation of these estimates. These estimates should not be regarded as a representation by us as to our results of operations during such
+periods as there can be no assurance that any of these estimates will be realized. In light of the foregoing, we caution you not to place undue reliance on these estimates. These estimates constitute
+forward-looking statements. 
+ Network failure or delays and errors in transmissions expose us to potential liability. 
+ Our network is part of the Internet which is a network of networks. Our network uses a collection of communications equipment,
+software, operating protocols and proprietary applications for the high-speed transportation of large quantities of data among multiple locations. Given the complexity of our network, it
+is possible that data will be lost or distorted. Delays in data delivery may cause significant losses to one or more customers using our network. Our network may also contain undetected design faults
+and software bugs that, despite our testing, may not be discovered in time to prevent harm to our network or to the data transmitted over it. The failure of any equipment or facility on our network
+could result in the interruption of customer service until we affect the necessary repairs or install replacement equipment. Network failures, delays and errors could also result from natural
+disasters, power losses, security breaches, computer viruses, denial of service attacks and other natural or man-made events. Our off-net services are dependent on the network
+facilities of other providers or on local telephone companies. Network failures, faults or errors could cause delays or service interruptions, expose us to customer liability or require expensive
+modifications that could have a material adverse effect on our business. 
+ As an Internet access provider, we may incur liabilities for information disseminated through our network. 
+ The law relating to the liabilities of Internet access providers and on-line services companies for information carried on
+or disseminated through their networks is unsettled. As the law in this area develops and as we expand our international operations, the potential imposition of liabilities upon us for information
+carried on and disseminated through our network could require us to implement measures to reduce our exposure to such liabilities, which may require the expenditure of substantial resources or the
+discontinuation of certain products or service offerings. Any costs that are incurred as a result of such measures or the imposition of liabilities could harm our business. 
+ The holders of our senior convertible notes have the right to convert their notes to common stock. 
+ The holders of our senior convertible notes are under certain circumstances able to convert their notes into common stock at a
+conversion price of $49.18 per share of common stock and to obtain additional shares of common stock. If our share price exceeds $49.18 and the conversion rights are exercised by the holders of the
+convertible notes the number of our shares of common stock outstanding will increase which could reduce further appreciation in our stock price and impact our per share earnings. Rather than issue the
+stock we are permitted to pay the cash equivalent in value to the stock to be issued. We might not have sufficient funds to do this or doing so might have other detrimental impacts on us. 
+ Changes in laws, rules, and enforcement could adversely affect us. 
+ As an Internet service provider, we are not subject to substantial regulation by the FCC or the state public utilities commissions in
+the United States. However, the FCC has recently promulgated limited rules applicable to Internet service providers and proposed changes to the contribution mechanism for the U.S. universal service
+fund that might require contributions from Internet service providers. Internet service is also subject to minimal regulation in Western Europe and in Canada. In Eastern Europe and Mexico the
+regulation is greater, though not as extensive as the regulation for providers of voice services. If we decide to offer traditional voice services or otherwise expand our service offerings to include
+services that would cause us to be deemed a common carrier, we will become subject to additional regulation. Additionally, if we offer voice service using IP (voice over IP) or offer certain other
+types of data services using IP we may become subject to additional regulation. This regulation could impact our business because of the costs and time required to obtain necessary authorizations, the
+additional taxes that we may become subject to or may have to collect from our customers, and the additional administrative costs of providing these services, and other costs. Even if we do not decide
+to offer additional services, governmental authorities may decide to impose additional regulation and taxes upon providers of Internet service. All of these could inhibit our ability to remain a
+low-cost carrier and could have a material adverse effect on our business, financial condition or results of operations. 
+ Much
+of the law related to the liability of Internet service providers remains unsettled. Some jurisdictions have laws, regulations, or court decisions that impose obligations upon
+Internet access providers to restrict access to certain content. Other legal issues, such as the sharing of copyrighted information, transborder data flow, unsolicited commercial email ("spam"),
+universal service, and liability for software viruses could become subjects of additional legislation and legal development and changes in enforcement policies. We cannot predict the impact of these
+changes on us. They could have a material adverse effect on our business, financial condition or results of operations. 
+ Terrorist activity throughout the world, military action to counter terrorism and natural disasters could adversely impact our business. 
+ The continued threat of terrorist activity and other acts of war or hostility have had, and may continue to have, an adverse effect on
+business, financial and general economic conditions internationally. Effects from these events and any future terrorist activity, including cyber terrorism, may, in turn, increase our costs due to the
+need to provide enhanced security, which would
+adversely affect our business and results of operations. These circumstances may also damage or destroy the Internet infrastructure and may adversely affect our ability to attract and retain
+customers, our ability to raise capital and the operation and maintenance of our network access points. We are particularly vulnerable to acts of terrorism because our largest customer concentration
+is located in New York, our headquarters is in Washington, D.C., and we have significant operations in Paris, Madrid and London, cities that have historically been targets for terrorist attacks. We
+are also susceptible to other catastrophic events such as major natural disasters, extreme weather, fire or similar events that could affect our headquarters, other offices, our network,
+infrastructure or equipment, which could adversely affect our business. 
+ If we do not comply with laws regarding corruption and bribery, we may become subject to monetary or criminal penalties. 
+ The U.S. Foreign Corrupt Practices Act generally prohibits companies and their intermediaries from bribing foreign officials for the
+purpose of obtaining or keeping business. Other countries have similar laws to which we are subject. We currently take precautions to comply with these laws. However, these precautions may not protect
+us against liability, particularly as a result of actions that may be taken in the future by agents and other intermediaries through whom we have exposure under 
+ these
+laws even though we may have limited or no ability to control such persons. Our competitors include foreign entities that are not subject to the U.S. Foreign Corrupt Practices Act or laws of
+similar stringency, and hence we may be at a competitive disadvantage. 
+ Risk Factors Related to Our Indebtedness 
+ We have substantial debt which we may not be able to repay when due. 
+ Our total indebtedness, net of discount, at December 31, 2011 was $386.3 million. As of December 31, 2011, we have
+$92.0 million of face value of senior convertible notes outstanding. The holders of the convertible notes have the right to compel us to repurchase for cash on June 15, 2014,
+June 15, 2017 and June 15, 2022, all or some of their convertible notes. They also have the right to be paid the principal upon default and upon certain designated events, such as
+certain changes of control. In January 2011 we issued $175.0 million in senior secured notes due that are due in 2018. We may not have sufficient funds to pay the principal of these obligations
+at the time we are obligated to do so, which could result in bankruptcy, or we may only be able to raise the necessary funds on unfavorable terms. 
+ Our
+total indebtedness at December 31, 2011 includes $134.7 million of capital lease obligations for dark fiber primarily under
+15 - 20 year IRUs. The amount of our IRU capital lease obligations may be impacted due to our expansion activities and fluctuations in foreign currency rates. 
+ Our substantial level of indebtedness could adversely affect our financial condition and prevent us from fulfilling our obligations under our notes and our other
+indebtedness. 
+ We have substantial indebtedness. Our substantial debt may have important consequences. For instance, it
+could: 
+ make it more difficult for us to satisfy our financial obligations, including those relating to our debt; 
+ require us to dedicate a substantial portion of any cash flow from operations to the payment of interest and principal due
+under our debt, which will reduce funds available for other business purposes, including the growth of our operations, capital expenditures and acquisitions; 
+ place us at a competitive disadvantage compared with some of our competitors that may have less debt and better access to
+capital resources; and 
+ limit our ability to obtain additional financing required to fund working capital and capital expenditures, for strategic
+acquisitions and for other general corporate purposes. 
+ Our
+ability to satisfy our obligations and to reduce our total debt depends on our future operating performance and on economic, financial, competitive and other factors, many of which
+are beyond our control. Our business may not generate sufficient cash flow, and future financings may not be available to provide sufficient net proceeds, to meet these obligations or to successfully
+execute our business strategy. 
+ Despite our leverage we may still be able to incur more debt. This could further exacerbate the risks that we and our subsidiaries face. 
+ We and our subsidiaries may incur additional indebtedness, including additional secured indebtedness, in the future. The terms of our
+debt indentures restrict, but do not completely prohibit, us from doing so. In addition, the indentures allow us to issue additional notes and other indebtedness secured by the collateral under
+certain circumstances. Moreover, we are not prevented from incurring other liabilities that do not constitute indebtedness, including additional capital lease obligations in the form of IRUs. These
+liabilities may represent claims that are effectively prior to the claims of our note 
+ holders.
+If new debt or other liabilities are added to our debt levels the related risks that we and our subsidiaries now face could intensify. 
+ The agreements governing our various debt obligations impose restrictions on our business and could adversely affect our ability to undertake certain corporate actions. 
+ The agreements governing our various debt obligations, include covenants imposing significant restrictions on our business. These
+restrictions may affect our ability to operate our
+business and may limit our ability to take advantage of potential business opportunities as they arise. These covenants place restrictions on our ability to, among other
+things: 
+ incur additional debt; 
+ create liens; 
+ make certain investments; 
+ enter into certain transactions with affiliates; 
+ declare or pay dividends, redeem stock or make other distributions to stockholders; and 
+ consolidate, merge or transfer or sell all or substantially all of our assets. 
+ Our
+ability to comply with these agreements may be affected by events beyond our control, including prevailing economic, financial and industry conditions. These covenants could have an
+adverse effect on our business by limiting our ability to take advantage of financing, merger and acquisition or other corporate opportunities. The breach of any of these covenants or restrictions
+could result in a default under the agreements governing our debt obligations. 
+ To service our indebtedness, we will require a significant amount of cash. However, our ability to generate cash depends on many factors beyond our control. 
+ Our ability to make payments on and to refinance our indebtedness and to fund planned capital expenditures will depend on our ability
+to generate cash in the future, which, in turn, is subject to general economic, financial, competitive, regulatory and other factors, many of which are beyond our control. 
+ Our
+business may not generate sufficient cash flow from operations and we may not have available to us future borrowings in an amount sufficient to enable us to pay our indebtedness or
+to fund our other liquidity needs. In these circumstances, we may need to refinance all or a portion of our indebtedness on or before maturity. We may not be able to refinance any of our indebtedness
+on commercially reasonable terms or at all. Without this financing, we could be forced to sell assets or secure additional financing to make up for any shortfall in our payment obligations under
+unfavorable circumstances. However, we may not be able to secure additional financing on terms favorable to us or at all and, in addition, the terms of the indentures governing our notes limit our
+ability to sell assets and also restrict the use of proceeds from such a sale. We may not be able to sell assets quickly enough or for sufficient amounts to enable us to meet our obligations,
+including our obligations under our notes. 
