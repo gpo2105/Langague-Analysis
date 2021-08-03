@@ -5,6 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import networkx as graphx
+import wordcloud
 ####
 import nltk
 import string
@@ -542,7 +543,7 @@ def visualize_stock(ticker):
 
 def stock_all(ticker):
     path=image_path+'Wordclouds/Companies/'+ticker+'/'
-    RDs=Txt.collect_texts_stock(ticker)
+    RDs=collect_texts_stock(ticker)
     text=' '.join(RDs.values())
     wc=wordcloud.WordCloud()
     wc.min_word_length=3
