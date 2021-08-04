@@ -9,9 +9,11 @@
 
 ## Scrapping 10Ks Methodology & Review
 
-## Other Notes on Data
+## Notes on Data
 The following stocks were  
 
+
+## Extensions of Project
 
 ## Resources
 ### Academic Research
