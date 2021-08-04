@@ -1,0 +1,10 @@
+operation
+market
+product
+new
+customer
+service
+law
+data
+cost
+tax

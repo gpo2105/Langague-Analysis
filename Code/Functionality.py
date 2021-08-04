@@ -28,7 +28,6 @@ import json
 ######
 headers=requests.utils.default_headers()
 headers.update({'user-agent':'george.p.ogden@gmail.com'})
-coverage=[str(yr) for yr in range(2011,2021,1)]
 
 #######
 parent_path='/Users/george/Desktop/Projects/Capstone/Langague-Analysis/'
@@ -60,10 +59,16 @@ log_paths={'Text':(Text_File_1,Text_File_2),
 
 
 #######
+STATE=1988
+coverage=[str(yr) for yr in range(2011,2021,1)]
 Universe=pd.read_excel(data_path+'TMT Universe Data.xlsx',
                        index_col='Ticker',
                        usecols=['Ticker','CIK','SIC'],
-                       converters={'CIK':str}
+                       converters={'CIK':str,'SIC':str}
+                      )
+Ks=pd.read_excel(data_path+'TMT Universe Data.xlsx',
+                 index_col='Ticker',
+                 usecols=['Ticker']+coverage,
                       )
 
 Filed=pd.read_excel(logs_path+'Collected.xlsx',
@@ -71,9 +76,19 @@ Filed=pd.read_excel(logs_path+'Collected.xlsx',
                     converters={'CIK':str}
                    )
 
+
 Paths=pd.read_excel(logs_path+'Pathways.xlsx',
                     index_col='Ticker'
                    )
+Missing=pd.read_excel(logs_path+'Missing.xlsx',
+                    index_col='Ticker'
+                   )
+
+sic_7372=pd.read_excel(data_path+'Collections/sic_7372.xlsx')
+sic_ex7=pd.read_excel(data_path+'Collections/sic_ex7.xlsx')
+sic_4=pd.read_excel(data_path+'Collections/sic_4.xlsx')
+sic_3=pd.read_excel(data_path+'Collections/sic_3.xlsx')
+sic_56=pd.read_excel(data_path+'Collections/sic_56.xlsx')
 ######
 def collect_market_data(tickers):
     START='2010-12-31'
@@ -106,6 +121,26 @@ def filter_decile(df,limit=0.9):
     means=df.abs().mean()
     idx=means[means>means.quantile(limit)].index
     return df.loc[idx,idx]
+
+def get_sic_des(label):
+    link='https://www.osha.gov/sic-manual/{section}'
+    r=requests.get(link.format(section=label))
+    soup=bs(r.content,'lxml')
+    content=soup.find('div',attrs={'id':'main-content'}).find_next('div')
+    des='  '.join(content.stripped_strings)
+    return des
+
+def get_co_desc(ticker):
+    path=desc_path+'Cos/'+ticker+'.txt'
+    l='https://finance.yahoo.com/quote/'+ticker+'/profile'
+    soup=bs(requests.get(l,headers=headers).content,'lxml')
+    sector=soup.find('span',text=re.compile('Sector')).find_next('span').text
+    industry=soup.find('span',text=re.compile('Industry')).find_next('span').text
+    des=soup.find('h2',text='Description').find_next('p').text
+    with open(path,'w') as f:
+        f.writelines([sector,'\n',industry,'\n',des])
+    return None
+
 ######
 def collect_company_RDs_(ticker,cik,methods=False,override=False):
     print(ticker,end=': ')
@@ -159,8 +194,8 @@ def get_filer_info(cik):
 def get_10Ks_names(cik):
     cik_check=Universe.CIK.isin([cik])
     if(any(cik_check)):
-        info=Universe[cik_check]
-        file_yrs=info[coverage].dropna(axis='columns')
+        info=Ks[cik_check]
+        file_yrs=info.dropna(axis='columns')
         return file_yrs.values.tolist()[0]
     else:
         return get_new_10Ks_names(cik)
@@ -340,26 +375,6 @@ def iterate_tags(start,stop):
     return r' \n '.join(cleaned)
 
 
-
-def get_sic_des(label):
-    link='https://www.osha.gov/sic-manual/{section}'
-    r=requests.get(link.format(section=label))
-    soup=bs(r.content,'lxml')
-    content=soup.find('div',attrs={'id':'main-content'}).find_next('div')
-    des='  '.join(content.stripped_strings)
-    return des
-
-def get_co_desc(ticker):
-    path=desc_path+'Cos/'+ticker+'.txt'
-    l='https://finance.yahoo.com/quote/'+ticker+'/profile'
-    soup=bs(requests.get(l,headers=headers).content,'lxml')
-    sector=soup.find('span',text=re.compile('Sector')).find_next('span').text
-    industry=soup.find('span',text=re.compile('Industry')).find_next('span').text
-    des=soup.find('h2',text='Description').find_next('p').text
-    with open(path,'w') as f:
-        f.writelines([sector,'\n',industry,'\n',des])
-    return None
-
 def mannual_extract(ticker,yr):
     base='/Users/george/Desktop/Projects/Capstone/Langague-Analysis/Data/'
     man_path=base+'Logs/Manual.txt'
@@ -379,11 +394,17 @@ def mannual_extract(ticker,yr):
 def collected_flag(ticker,yr):
     path=samples_path+ticker+'/'+str(yr)+'.txt'
     return os.path.exists(path)
-
-def update():
+def update_all():
+    update_universe()
+    update_meta()
+    update_filings()
+    return None
+def update_universe():
+    TMTs=pd.read_excel(data_path+'TMT List.xlsx')
     TMTs.CIK=TMTs.apply(lambda c:c.CIK if pd.notna(c.CIK) else get_CIK(c.Ticker),axis=1)
     TMTs.to_excel(data_path+'TMT List.xlsx')
-
+def update_meta():
+    TMTs=pd.read_excel(data_path+'TMT List.xlsx')
     Meta=TMTs.CIK.apply(get_filer_info)
     Meta=pd.DataFrame(Meta.to_list(),columns=['SIC','FY'])
     Meta=pd.concat([TMTs,Meta],axis=1)
@@ -403,14 +424,18 @@ def update():
         txt=get_sic_des(sic_code)
         with open(desc_path+'SICs/'+str(sic_code)+'.txt','w') as f:
             f.write(txt)
-
+    return None
+def update_filings():
+    Meta=pd.read_excel(data_path+'TMT Universe Data.xlsx',
+                       converters={'SIC':str,'CIK':str},
+                       index_col='Ticker'
+                      )
     Filed=pd.DataFrame(columns=coverage,index=Meta.index)
-
     Filed['Filed']=Filed.index.map(lambda t:os.path.exists(samples_path+'/'+t))
     Filed['CIK']=Meta['CIK']
 
     for tick in Filed.index:
-        for yr in years:
+        for yr in coverage:
             Filed[str(yr)][tick]=collected_flag(tick,str(yr))
     Filed.to_excel(logs_path+'Collected.xlsx')
 
@@ -426,7 +451,40 @@ def update():
             pass
         pass
     Paths.to_excel(logs_path+'Pathways.xlsx')
+    Ks=pd.read_excel(data_path+'TMT Universe Data.xlsx',
+                     index_col='Ticker',
+                     usecols=['Ticker']+coverage,
+                    )
+    Missing=pd.DataFrame(index=Meta.index,columns=coverage)
+    for tick in Universe.index:
+        for yr in coverage:
+            if(Filed.loc[tick][yr]):
+                Missing.loc[tick][yr]=False
+            else:
+                Missing.loc[tick][yr]=bool(type(Ks.loc[tick][yr]) is str)
+            pass
+    Missing.to_excel(logs_path+'Missing.xlsx')
+    return None
+def update_groupings():
+    Universe=pd.read_excel(data_path+'TMT Universe Data.xlsx',
+                           converters={'SIC':str,'CIK':str},
+                           index_col='Ticker')
+    sic_7372=Universe[Universe.SIC=='7372']
+    sic_7=Universe[Universe.SIC.apply(lambda s:s[0])=='7']
+    sic_ex7=sic_7[sic_7.SIC!='7372']
+    sic_4=Universe[Universe.SIC.apply(lambda s:s[0])=='4']
+    sic_3=Universe[Universe.SIC.apply(lambda s:s[0])=='3']
+    sic_5=Universe[Universe.SIC.apply(lambda s:s[0])=='5']
+    sic_6=Universe[Universe.SIC.apply(lambda s:s[0])=='6']
+    sic_56=sic_5+sic_6
+    sic_56=sic_56
 
+    sic_7372.to_excel(data_path+'Collections/sic_7372.xlsx')
+    sic_ex7.to_excel(data_path+'Collections/sic_ex7.xlsx')
+    sic_4.to_excel(data_path+'Collections/sic_4.xlsx')
+    sic_3.to_excel(data_path+'Collections/sic_3.xlsx')
+    sic_56.to_excel(data_path+'Collections/sic_56.xlsx')
+    return None
 
 
 #######
@@ -599,13 +657,69 @@ def stock_timeline(ticker):
     else:
         pass
     return None
-def visualize_sic_group(category):
-    tickers=Universe[Universe.SIC==category].index
-    pass
-def sic_combined(tickers):
-    pass
-def sic_timeline(tickers):
-    pass
+def visualize_group(ticks,name):
+    group_combined(ticks,name)
+    group_timeline(ticks,name)
+    return None
+def group_combined(tickers,name):
+    path=image_path+'Wordclouds/Combined/'
+    corpus=collect_texts_stocks(tickers)
+    text=' '.join(corpus.values())
+    wc=wordcloud.WordCloud()
+    wc.min_word_length=3
+    wc.generate_from_text(text.lower())
+    fig=plt.subplot()
+    fig.set_xticklabels([])
+    fig.set_yticklabels([])
+    title=('Risk Disclosures for '+
+           name+
+           '  ('+
+           str(len(corpus))+
+           ' Observations)'
+          )
+    fig.set_title(title)
+    fig.imshow(wc.to_array());
+
+    plt.savefig(path+name+'.pdf',
+                orientation='landscape',
+                pad_inches=0.0,
+                bbox_inches='tight',
+                format='pdf'
+               )
+    plt.close()
+    return None
+def group_timeline(tickers,name):
+    path=image_path+'Wordclouds/Timeline/'
+    wc=wordcloud.WordCloud()
+    wc.min_word_length=3
+    fig,axes=plt.subplots(ncols=5,
+                          nrows=2,
+                          figsize=(27,9),
+                          tight_layout=True,
+                          sharex=True,
+                          sharey=True
+                          )
+    axes=axes.reshape(-1)
+    i=0
+    for yr in coverage:
+        a=axes[i]
+        a.frameon=False
+        a.set_xticklabels([])
+        a.set_yticklabels([])
+        a.set_title(str(yr),fontsize='large')
+        RDs=collect_texts(tickers,[yr])
+        text=' '.join(RDs.values())
+        wc.generate_from_text(text.lower())
+        a.imshow(wc.to_array());
+        i+=1
+    plt.savefig(path+name+'.pdf',
+                orientation='landscape',
+                pad_inches=0.0,
+                bbox_inches='tight',
+                format='pdf'
+                )
+    plt.close()
+    return None
 def entire_year(year):
     path=image_path+'Wordclouds/Combined/'
     RDs=collect_texts_year(year)
@@ -632,12 +746,15 @@ def entire_year(year):
                 format='pdf'
                )
     plt.close()
-
+    return None
 #####
 
-def create_extractor(corpus,vector_args):
+def create_extractor(corpus,vector_args,name=None):
     tf=TfidfVectorizer(stop_words=stops,**vector_args)
     tf.fit(corpus)
+    if(name):
+        with open(parent_path+'Models/Vectorizers/'+name+'.txt','w') as f:
+            f.write('\n'.join(tf.vocabulary_.keys()))
     return tf
 
 def groups_to_similarity(groupings,weights):

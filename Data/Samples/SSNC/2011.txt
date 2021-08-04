@@ -1,0 +1,321 @@
+
+You should carefully consider the following risk factors, in addition to other information included in this annual report on Form 10-K and the other reports we file with the Securities and Exchange
+Commission. If any of the following risks occur, our business, financial condition and operating results could be materially adversely affected. 
+ Risks Relating to Our Business 
+ Our business is greatly affected by
+changes in the state of the general economy and the financial markets, and a prolonged downturn in the general economy or the financial services industry could disproportionately affect the demand for our products and services. 
+ As widely reported, global credit and financial markets have experienced extreme disruptions over the past several years, including
+severely diminished liquidity and credit availability, declines in consumer confidence, declines in economic growth, increases in unemployment rates, and uncertainty about economic stability. These factors have caused and could continue to cause our
+clients or prospective clients to delay or reduce purchases of our products, and our revenues could be adversely affected. Fluctuations in the value of assets under our clients management could also adversely affect our revenues. Unfavorable
+economic conditions or continuing economic uncertainty could make it difficult for our clients to obtain credit on reasonable terms or at all, preventing them from making desired purchases of our products and services, and may impair the ability of
+our clients to pay for products they have purchased. We cannot predict the timing or duration of any economic downturn, generally, or in the markets in which our businesses operate. Continued turbulence in the U.S. and international markets,
+renewed concern about the strength and sustainability of a recovery, particularly given the risk of 
+ sovereign debt defaults by European Union
+member countries, and prolonged declines in business consumer spending could materially adversely affect our liquidity and financial condition, and the liquidity and financial condition of our clients. 
+ Our clients include a range of organizations in the financial services industry whose success is linked to the health of the economy
+generally and of the financial markets specifically. As a result, we believe that fluctuations, disruptions, instability or prolonged downturns in the general economy and the financial services industry could adversely affect demand for our products
+and services. For example, such fluctuations, disruptions, instability or downturns may cause our clients to do the following: 
+ cancel or reduce planned expenditures for our products and services; 
+ process fewer transactions through our software-enabled services; 
+ seek to lower their costs by renegotiating their contracts with us; 
+ move their IT solutions in-house; 
+ switch to lower-priced solutions provided by our competitors; or 
+ exit the industry. 
+ If such conditions occur and persist, our business and financial results, including our liquidity and our ability to fulfill our obligations under of our senior credit facility and to our other lenders,
+could be materially adversely affected. 
+ Further or accelerated consolidations and failures in the financial services industry
+could adversely affect our results of operations due to a resulting decline in demand for our products and services. 
+ If banks and financial services firms fail or continue to consolidate, there could be a decline in demand for our products and services.
+Failures, mergers and consolidations of banks and financial institutions reduce the number of our clients and potential clients, which could adversely affect our revenues even if these events do not reduce the aggregate activities of the
+consolidated entities. Further, if our clients fail and/or merge with or are acquired by other entities that are not our clients, or that use fewer of our products and services, they may discontinue or reduce their use of our products and services.
+It is also possible that the larger financial institutions resulting from mergers or consolidations would have greater leverage in negotiating terms with us. In addition, these larger financial institutions could decide to perform in-house some or
+all of the services that we currently provide or could provide or to consolidate their processing on a non-SS&C system. The resulting decline in demand for our products and services could have a material adverse effect on our revenues. 
+ If we are unable to retain and attract clients, our revenues and net income would remain stagnant or decline. 
+ If we are unable to keep existing clients satisfied, sell additional products and services to existing clients or
+attract new clients, then our revenues and net income would remain stagnant or decline. A variety of factors could affect our ability to successfully retain and attract clients, including: 
+ the level of demand for our products and services; 
+ the level of client spending for information technology; 
+ the level of competition from internal client solutions and from other vendors; 
+ the quality of our client service; 
+ our ability to update our products and services and develop new products and services needed by clients; 
+ our ability to understand the organization and processes of our clients; and 
+ our ability to integrate and manage acquired businesses. 
+ We face significant competition with respect to our products and services, which may result in price reductions, reduced gross margins or loss of market share. 
+ The market for financial services software and services is competitive, rapidly evolving and highly sensitive to new product and service
+introductions and marketing efforts by industry participants. The market is also highly fragmented and served by numerous firms that target only local markets or specific client types. We also face competition from information systems developed and
+serviced internally by the IT departments of financial services firms. 
+ Some of our current and potential competitors have
+significantly greater financial, technical, distribution and marketing resources, generate higher revenues and have greater name recognition. Our current or potential competitors may develop products comparable or superior to those developed by us,
+or adapt more quickly to new technologies, evolving industry trends or changing client or regulatory requirements. It is also possible that alliances among competitors may emerge and rapidly acquire significant market share. Increased competition
+may result in price reductions, reduced gross margins and loss of market share. Accordingly, our business may not grow as expected and may decline. 
+ Catastrophic events may adversely affect our ability to provide, our clients ability to use, and the demand for, our products and services, which may disrupt our business and cause a decline
+in revenues. 
+ A war, terrorist attack, natural disaster or other catastrophe may adversely affect our business. A
+catastrophic event could have a direct negative impact on us or an indirect impact on us by, for example, 
+ affecting our clients, the financial markets or the overall economy and reducing our ability to provide, our clients ability to use, and the demand for, our products and services. The
+potential for a direct impact is due primarily to our significant investment in infrastructure. Although we maintain redundant facilities and have contingency plans in place to protect against both man-made and natural threats, it is impossible to
+fully anticipate and protect against all potential catastrophes. A computer virus, security breach, criminal act, military action, power or communication failure, flood, severe storm or the like could lead to service interruptions and data losses
+for clients, disruptions to our operations, or damage to important facilities. In addition, such an event may cause clients to cancel their agreements with us for our products or services. Any of these events could cause a decline in our revenues. 
+ Our software-enabled services may be subject to disruptions that could adversely affect our reputation and our
+business. 
+ Our software-enabled services maintain and process confidential data on behalf of our clients, some of which
+is critical to their business operations. For example, our trading systems maintain account and trading information for our clients and their customers. There is no guarantee that the systems and procedures that we maintain to protect against
+unauthorized access to such information are adequate to protect against all security breaches. If our software-enabled services are disrupted or fail for any reason, or if our systems or facilities are infiltrated or damaged by unauthorized persons,
+our clients could experience data loss, financial loss, harm to their reputation and significant business interruption. If that happens, we may be exposed to unexpected liability, our reputation may be tarnished, and client dissatisfaction and lost
+business may result. 
+ We may not achieve the anticipated benefits from our acquisitions and may face difficulties in
+integrating our acquisitions, which could adversely affect our revenues, subject us to unknown liabilities, increase costs and place a significant strain on our management. 
+ We have acquired and intend in the future to acquire companies, products or technologies that we believe could complement or expand our
+business, augment our market coverage, enhance our technical capabilities or otherwise offer growth opportunities. However, acquisitions could subject us to contingent or unknown liabilities, and we may have to incur debt or severance liabilities or
+write off investments, infrastructure costs or other assets. 
+ Our success is also dependent on our ability to complete the
+integration of the operations of acquired businesses in an efficient and effective manner. Successful integration in the rapidly changing financial services software and services industry may be more difficult to accomplish than in other industries.
+We may not realize the benefits we anticipate from acquisitions, such as lower costs or increased revenues. We may also realize such benefits more slowly than anticipated, due to our inability to: 
+ combine operations, facilities and differing firm cultures; 
+ retain the clients or employees of acquired entities; 
+ generate market demand for new products and services; 
+ coordinate geographically dispersed operations and successfully adapt to the complexities of international operations; 
+ integrate the technical teams of acquired companies with our engineering organization; 
+ incorporate acquired technologies and products into our current and future product lines; or 
+ integrate the products and services of acquired companies with our business, where we do not have distribution, marketing or support experience for
+these products and services. 
+ Integration may not be smooth or successful. The inability of management to
+successfully integrate the operations of acquired companies could disrupt our ongoing operations, divert management from day-to-day 
+ responsibilities, increase our expenses and harm our operating results or financial condition. Such acquisitions may also place a significant strain on our administrative, operational, financial
+and other resources. To manage growth effectively, we must continue to improve our management and operational controls, enhance our reporting systems and procedures, integrate new personnel and manage expanded operations. If we are unable to manage
+our growth and the related expansion in our operations from recent and future acquisitions, our business may be harmed through a decreased ability to monitor and control effectively our operations and a decrease in the quality of work and innovation
+of our employees. Certain of our acquisitions have generated disputes with stockholders or management of acquired companies that have required the expenditure of our resources to address or have led to litigation; any such disputes may reduce the
+value we hope to realize from our acquisitions, either by increasing our costs of the acquisition, reducing our opportunities to realize revenues from the acquisition or imposing litigation costs or adverse judgments on us. 
+ We expect that our operating results, including our profit margins and profitability, may fluctuate over time. 
+ Historically, our revenues, profit margins and other operating results have fluctuated from period to period and over time primarily due
+to the timing, size and nature of our license and service transactions. Additional factors that may lead to such fluctuation include: 
+ the timing of the introduction and the market acceptance of new products, product enhancements or services by us or our competitors; 
+ the lengthy and often unpredictable sales cycles of large client engagements; 
+ the amount and timing of our operating costs and other expenses; 
+ the financial health of our clients; 
+ changes in the volume of assets under our clients management; 
+ cancellations of maintenance and/or software-enabled services arrangements by our clients; 
+ changes in local, national and international regulatory requirements; 
+ changes in our personnel; 
+ implementation of our licensing contracts and software-enabled services arrangements; 
+ changes in economic and financial market conditions; and 
+ changes in the mix in the types of products and services we provide. 
+ If we cannot attract, train and retain qualified managerial, technical and sales personnel, we may not be able to provide adequate
+technical expertise and customer service to our clients or maintain focus on our business strategy. 
+ We believe that
+our success is due in part to our experienced management team. We depend in large part upon the continued contribution of our senior management and, in particular, William C. Stone, our Chief Executive Officer and Chairman of our Board of Directors.
+Losing the services of one or more members of our senior management could significantly delay or prevent the achievement of our business objectives. Mr. Stone has been instrumental in developing our business strategy and forging our business
+relationships since he founded the company in 1986. We maintain no key man life insurance policies for Mr. Stone or any other senior officer or manager. 
+ Our success is also dependent upon our ability to attract, train and retain highly skilled technical and sales personnel. Loss of the services of these employees could materially affect our operations.
+Competition for qualified technical personnel in the software industry is intense, and we have, at times, found it difficult to attract and retain skilled personnel for our operations. 
+ Locating candidates with the appropriate qualifications, particularly in the desired
+geographic location and with the necessary subject matter expertise, is difficult. Our failure to attract and retain a sufficient number of highly skilled employees could prevent us from developing and servicing our products at the same levels as
+our competitors and we may, therefore, lose potential clients and suffer a decline in revenues. 
+ If we are unable to
+protect our proprietary technology, our success and our ability to compete will be subject to various risks, such as third-party infringement claims, unauthorized use of our technology, disclosure of our proprietary information or inability to
+license technology from third parties. 
+ Our success and ability to compete depends in part upon our ability to protect
+our proprietary technology. We rely on a combination of trade secret, copyright and trademark law, nondisclosure agreements and technical measures to protect our proprietary technology. We have registered trademarks for some of our products and will
+continue to evaluate the registration of additional trademarks as appropriate. We generally enter into confidentiality and/or license agreements with our employees, distributors, clients and potential clients. We seek to protect our software,
+documentation and other written materials under trade secret and copyright laws, which afford only limited protection. These efforts may be insufficient to prevent third parties from asserting intellectual property rights in our technology.
+Furthermore, it may be possible for unauthorized third parties to copy portions of our products or to reverse engineer or otherwise obtain and use our proprietary information, and third parties may assert ownership rights in our proprietary
+technology. 
+ Existing patent and copyright laws afford only limited protection. Third parties may develop substantially
+equivalent or superseding proprietary technology, or competitors may offer equivalent products in competition with our products, thereby substantially reducing the value of our proprietary rights. There are many patents in the financial services
+field. As a result, we are subject to the risk that others will claim that the important technology we have developed, acquired or incorporated into our products will infringe the rights, including the patent rights, such persons may hold. These
+claims, if successful, could result in a material loss of our intellectual property rights. Expensive and time-consuming litigation may be necessary to protect our proprietary rights. 
+ We incorporate open source software into a limited number of our software solutions. We monitor our use of open source software to avoid
+subjecting our products to conditions we do not intend. Although we believe that we have complied with our obligations under the applicable licenses for open source software that we use, there is little or no legal precedent governing the
+interpretation of many of the terms of certain of these licenses. Therefore, the potential impact of these terms is uncertain and may result in unanticipated obligations or restrictions regarding those of our products, technologies or solutions
+affected. 
+ We have acquired and may acquire important technology rights through our acquisitions and have often incorporated
+and may incorporate features of this technology across many products and services. As a result, we are subject to the above risks and the additional risk that the seller of the technology rights may not have appropriately protected the intellectual
+property rights we acquired. Indemnification and other rights under applicable acquisition documents are limited in term and scope and therefore provide us with only limited protection. 
+ In addition, we currently use certain third-party software in providing some of our products and services, such as industry standard
+databases and report writers. If we lost our licenses to use such software or if such licenses were found to infringe upon the rights of others, we would need to seek alternative means of obtaining the licensed software to continue to provide our
+products or services. Our inability to replace such software, or to replace such software in a timely manner, could have a negative impact on our operations and financial results. 
+ We could become subject to litigation regarding intellectual property rights, which could seriously harm our business and require
+us to incur significant costs, which, in turn, could reduce or eliminate profits. 
+ In recent years, there has been
+significant litigation in the United States involving patents and other intellectual property rights. We are from time to time a party to litigation to enforce our intellectual property 
+ rights or as a result of an allegation that we infringe others intellectual property rights, including patents, trademarks and copyrights. From time to time, we have received notices
+claiming our technology may infringe third-party intellectual property rights or otherwise threatening to assert intellectual property rights. Any parties asserting that our products or services infringe their proprietary rights could force us to
+defend ourselves and possibly our clients against the alleged infringement. These claims and any resulting lawsuit, if successful, could subject us to significant liability for damages and invalidation of our proprietary rights. These lawsuits,
+regardless of their success, could be time-consuming and expensive to resolve, adversely affect our revenues, profitability and prospects and divert management time and attention away from our operations. We may be required to re-engineer our
+products or services or obtain a license of third-party technologies on unfavorable terms. 
+ Our failure to continue to
+derive substantial revenues from the licensing of, or the provision of software-enabled services related to, our CAMRA, TradeThru, Pacer, AdvisorWare and Total Return software, and the provision of maintenance and professional services in support of
+such licensed software, could adversely affect our ability to sustain or grow our revenues and harm our business, financial condition and results of operations. 
+ The licensing of, and the provision of software-enabled services, maintenance and professional services relating to, our CAMRA, TradeThru, Pacer, AdvisorWare and Total Return software accounted for
+approximately 50% of our revenues for the year ended December 31, 2011. We expect that the revenues from these software products and services will continue to account for a significant portion of our total revenues for the foreseeable future.
+As a result, factors adversely affecting the pricing of or demand for such products and services, such as competition or technological change, could have a material adverse effect on our ability to sustain or grow our revenues and harm our business,
+financial condition and results of operations. 
+ We may be unable to adapt to rapidly changing technology and evolving
+industry standards and regulatory requirements, and our inability to introduce new products and services could result in a loss of market share. 
+ Rapidly changing technology, evolving industry standards and regulatory requirements and new product and service introductions characterize the market for our products and services. Our future success
+will depend in part upon our ability to enhance our existing products and services and to develop and introduce new products and services to keep pace with such changes and developments and to meet changing client needs. The process of developing
+our software products is extremely complex and is expected to become increasingly complex and expensive in the future due to the introduction of new platforms, operating systems and technologies. Our ability to keep up with technology and business
+and regulatory changes is subject to a number of risks, including that: 
+ we may find it difficult or costly to update our services and software and to develop new products and services quickly enough to meet our
+clients needs; 
+ we may find it difficult or costly to make some features of our software work effectively and securely over the Internet or with new or changed
+operating systems; 
+ we may find it difficult or costly to update our software and services to keep pace with business, evolving industry standards, regulatory and other
+developments in the industries in which our clients operate; and 
+ we may be exposed to liability for security breaches that allow unauthorized persons to gain access to confidential information stored on our computers
+or transmitted over our network. 
+ Our failure to enhance our existing products and services and to develop
+and introduce new products and services to promptly address the needs of the financial markets could adversely affect our business and results of operations. 
+ Undetected software design defects, errors or failures may result in loss of our
+clients data, litigation against us and harm to our reputation and business. 
+ Our software products are highly
+complex and sophisticated and could contain design defects or software errors that are difficult to detect and correct. Errors or bugs may result in loss of client data or require design modifications. We cannot be certain that, despite testing by
+us and our clients, errors will not be found in new products, which errors could result in data unavailability, loss or corruption of client assets, litigation and other claims for damages against us. The cost of defending such a lawsuit, regardless
+of its merit, could be substantial and could divert managements attention from our ongoing operations. In addition, if our business liability insurance coverage proves inadequate with respect to a claim or future coverage is unavailable on
+acceptable terms or at all, we may be liable for payment of substantial damages. Any or all of these potential consequences could have an adverse impact on our operating results and financial condition. 
+ Challenges in maintaining and expanding our international operations can result in increased costs, delayed sales efforts and
+uncertainty with respect to our intellectual property rights and results of operations. 
+ For the years ended
+December 31, 2009, 2010 and 2011, international revenues accounted for 36%, 32% and 30%, respectively, of our total revenues. We sell certain of our products, such as Altair and Pacer, primarily outside the United States. Our international
+business may be subject to a variety of risks, including: 
+ changes in a specific countrys or regions political or economic condition; 
+ difficulties in obtaining U.S. export licenses; 
+ potentially longer payment cycles; 
+ increased costs associated with maintaining international marketing efforts; 
+ foreign currency fluctuations; 
+ the introduction of non-tariff barriers and higher duty rates; 
+ foreign regulatory compliance; and 
+ difficulties in enforcement of third-party contractual obligations and intellectual property rights. 
+ Such factors could have a material adverse effect on our ability to meet our growth and revenue projections and negatively affect our
+results of operations. 
+ Risks Relating to Our Indebtedness 
+ Our substantial indebtedness could adversely affect our financial health and prevent us from fulfilling our obligations under our senior credit facility. 
+ We have incurred a significant amount of indebtedness. As of December 31, 2011, we had total indebtedness of $100 million and
+additional available borrowings of $25 million under our senior credit facility on a revolving basis. 
+ Our substantial
+indebtedness could have important consequences. For example, it could: 
+ make it more difficult for us to satisfy our obligations with respect to our senior credit facility; 
+ require us to dedicate a substantial portion of our cash flow from operations to payments on our indebtedness, thereby reducing the availability of our
+cash flow to fund acquisitions, working capital, capital expenditures, research and development efforts and other general corporate purposes; 
+ increase our vulnerability to and limit our flexibility in planning for, or reacting to, changes in our business and the industry in which we operate; 
+ expose us to the risk of increased interest rates as borrowings under our senior credit facility are subject to variable rates of interest; 
+ place us at a competitive disadvantage compared to our competitors that have less debt; and 
+ limit our ability to borrow additional funds. 
+ In addition, the agreement governing our senior credit facility contains financial and other restrictive covenants that limit our ability to engage in activities that may be in our long-term best
+interests. Our failure to comply with those covenants could result in an event of default which, if not cured or waived, could result in the acceleration of all of our debts. 
+ To service our indebtedness, we require a significant amount of cash. Our ability to generate cash depends on many factors beyond our control. 
+ We are currently obligated to make periodic interest payments on our senior debt of approximately $3.0 million annually. Our ability
+to make payments on and to refinance our indebtedness and to fund planned capital expenditures will depend on our ability to generate cash in the future. This, to a certain extent, is subject to general economic, financial, competitive, legislative,
+regulatory and other factors that are beyond our control. 
+ We cannot assure you that our business will generate sufficient
+cash flow from operations or that future borrowings will be available to us under our senior credit facility in an amount sufficient to enable us to pay our indebtedness or to fund our other liquidity needs. We may need to refinance all or a portion
+of our indebtedness on or before maturity. We cannot assure you that we will be able to refinance any of our indebtedness on commercially reasonable terms or at all. If we cannot service our indebtedness, we may have to take actions such as selling
+assets, seeking additional equity or reducing or delaying capital expenditures, strategic acquisitions, investments and alliances. We cannot assure you that any such actions, if necessary, could be effected on commercially reasonable terms or at
+all. 
+ Despite current indebtedness levels, we and our subsidiaries may still be able to incur substantially more debt.
+This could further exacerbate the risks associated with our substantial financial leverage. 
+ We may be able to incur
+substantial additional indebtedness in the future because the terms of our senior credit facility do not fully prohibit us or our subsidiaries from doing so. Subject to covenant compliance and certain conditions, our senior credit facility permits
+additional borrowing, including borrowing up to $125.0 million on a revolving basis. If new debt is added to our and our subsidiaries current debt levels, the related risks that we and they now face could intensify. 
+ Restrictive covenants in the agreement governing our senior credit facility may restrict our ability to pursue our business
+strategies. 
+ The agreement governing our senior credit facility limits SS&Cs ability, among other things, to: 
+ incur additional indebtedness; 
+ sell assets, including capital stock of restricted subsidiaries; 
+ agree to payment restrictions affecting SS&Cs restricted subsidiaries; 
+ pay dividends; 
+ consolidate, merge, sell or otherwise dispose of all or substantially all of SS&Cs assets; 
+ make strategic acquisitions; 
+ enter into transactions with SS&Cs affiliates; 
+ incur liens; and 
+ designate any of SS&Cs subsidiaries as unrestricted subsidiaries. 
+ In addition, our senior credit facility includes other covenants which, subject to permitted
+exceptions, prohibit us from making capital expenditures in excess of certain thresholds, making investments, loans and other advances, entering into speculative hedging agreements, and prepaying our other indebtedness while indebtedness under our
+senior credit facility is outstanding. The agreement governing our senior credit facility also requires us to maintain compliance with specified financial ratios, particularly a leverage ratio and a fixed charge coverage ratio. Our ability to comply
+with these ratios may be affected by events beyond our control. See Note 6 to our consolidated financial statements for additional information. 
+ The restrictions contained in the agreement governing our senior credit facility could limit our ability to plan for or react to market conditions, meet capital needs or acquire companies, products or
+technologies or otherwise restrict our activities or business plans. 
+ A breach of any of these restrictive covenants or our
+inability to comply with the required financial ratios could result in a default under the agreement governing our senior credit facility. If such a default occurs, the lenders under our senior credit facility may elect to declare all borrowings
+outstanding, together with accrued interest and other fees, to be immediately due and payable. The lenders also have the right in these circumstances to terminate any commitments they have to provide further borrowings. If we are unable to repay
+outstanding borrowings when due, the lenders under our senior credit facility also have the right to proceed against the collateral, including our available cash, granted to them to secure the indebtedness. If the indebtedness under our senior
+credit facility, we cannot assure you that our assets would be sufficient to repay in full that indebtedness and our other indebtedness. 
+ SS&C Holdings is a holding company with no operations or assets of its own and its ability to pay dividends is limited or otherwise restricted. 
+ SS&C Holdings has no direct operations and no significant assets other than the stock of SS&C. Our ability to pay dividends is
+limited by our status as a holding company and by the terms of the agreement governing our senior credit facility, which significantly restricts the ability of our subsidiaries to pay dividends or otherwise transfer assets to SS&C Holdings. See
+Risk factors  Risks relating to our indebtedness  Restrictive covenants in the agreement governing our senior credit facility may restrict our ability to pursue our business strategies. Moreover, even in the absence
+of any such restrictions, none of the subsidiaries of SS&C Holdings is obligated to make funds available to SS&C Holdings for the payment of dividends or otherwise. In addition, Delaware law imposes requirements that may restrict the ability
+of our subsidiaries, including SS&C, to pay dividends to SS&C Holdings. Also, SS&C Holdings has no ability to acquire businesses or property or conduct other business activities directly. These limitations could reduce our attractiveness
+to investors. 
+ Risks relating to ownership of our common stock 
+ If equity research analysts do not publish or cease publishing research or reports about our business or if they issue unfavorable commentary or downgrade our common stock, the price and trading
+volume of our common stock could decline. 
+ The trading market for our common stock is influenced by the research and
+reports that equity research analysts publish about us and our business. We do not control these analysts. The price of our stock could decline if one or more equity analysts downgrade our stock or if those analysts issue other unfavorable
+commentary or cease publishing reports about us or our business. If any equity research analyst who covers us or may cover us in the future were to cease coverage of our company or fail to regularly publish reports on us, we could lose visibility in
+the financial markets, which in turn could cause our stock price or trading volume to decline. 
+ The market price of our
+common stock may be volatile, which could result in substantial losses for investors in our common stock. 
+ Shares of
+our common stock were sold in our initial public offering, or IPO, at a price of $15.00 per share on March 31, 2010, and our common stock has subsequently traded as high as $21.95 and as low as $13.27. An 
+ active, liquid and orderly market for our common stock may not be sustained, which could depress the trading price of our common stock. In addition, the market price of our common stock may
+fluctuate significantly. Some of the factors that may cause the market price of our common stock to fluctuate include: 
+ fluctuations in our quarterly financial results or the quarterly financial results of companies perceived to be similar to us; 
+ changes in estimates of our financial results or recommendations by securities analysts; 
+ failure of any of our products to achieve or maintain market acceptance; 
+ changes in market valuations of similar companies; 
+ success of competitive products; 
+ changes in our capital structure, such as future issuances of securities or the incurrence of additional debt; 
+ announcements by us or our competitors of significant products, contracts, acquisitions or strategic alliances; 
+ regulatory developments in the United States, foreign countries or both; 
+ litigation involving our company, our general industry or both; 
+ additions or departures of key personnel; 
+ investors general perception of us; and 
+ changes in general economic, industry and market conditions. 
+ In addition, if the market for technology stocks or the stock market in general experiences a loss of investor confidence, the trading
+price of our common stock could decline for reasons unrelated to our business, financial condition or results of operations. If any of the foregoing occurs, it could cause our stock price to fall and may expose us to class action lawsuits that, even
+if unsuccessful, could be costly to defend and a distraction to management. 
+ A few significant stockholders control the
+direction of our business. If the ownership of our common stock continues to be highly concentrated, it will prevent other stockholders from influencing significant corporate decisions. 
+ As of March 8, 2012, investment funds affiliated with Carlyle beneficially owned approximately 36.6% of our common stock, and William
+C. Stone, our Chairman of the Board and Chief Executive Officer, beneficially owned approximately 22.9% of our common stock. We are also party to a stockholders agreement with Carlyle and Mr. Stone, pursuant to which Carlyle and
+Mr. Stone have agreed to vote in favor of nominees to our board of directors nominated by each other. As a result, Carlyle and Mr. Stone exercise control over matters requiring stockholder approval and our policy and affairs. 
+ The presence of Carlyles nominees on our board of directors may result in a delay or the deterrence of possible changes in control
+of our company, which may reduce the market price of our common stock. The interests of our existing stockholders may conflict with the interests of our other stockholders. Additionally, Carlyle and its affiliates are in the business of making
+investments in companies, and from time to time acquire interests in businesses that directly or indirectly compete with certain portions of our business or are suppliers or clients of ours. 
+ Our management has broad discretion in the use of our existing cash resources and may not use such funds effectively. 
+ Our management has broad discretion in the application of our cash resources. Accordingly, our stockholders will have
+to rely upon the judgment of our management with respect to our existing cash resources, 
+ with only limited information concerning managements specific intentions. Our management may spend our cash resources in ways that our stockholders may not desire or that may not yield a
+favorable return. The failure by our management to apply these funds effectively could harm our business. 
+ Provisions in
+our certificate of incorporation and bylaws might discourage, delay or prevent a change of control of our company or changes in our management and, therefore, depress the trading price of our common stock. 
+ Provisions of our certificate of incorporation and bylaws and Delaware law may discourage, delay or prevent a merger, acquisition or other
+change in control that stockholders may consider favorable, including transactions in which stockholders might otherwise receive a premium for their shares of our common stock. These provisions may also prevent or frustrate attempts by our
+stockholders to replace or remove our management. These provisions include: 
+ limitations on the removal of directors; 
+ a classified board of directors so that not all members of our board are elected at one time; 
+ advance notice requirements for stockholder proposals and nominations; 
+ the inability of stockholders to call special meetings; 
+ the ability of our board of directors to make, alter or repeal our bylaws; 
+ the ability of our board of directors to designate the terms of and issue new series of preferred stock without stockholder approval, which could be
+used to institute a rights plan, or a poison pill, that would work to dilute the stock ownership of a potential hostile acquirer, likely preventing acquisitions that have not been approved by our board of directors; and 
+ a prohibition on stockholders from acting by written consent if William C. Stone, investment funds affiliated with Carlyle, and certain transferees of
+Carlyle cease to collectively hold a majority of our outstanding common stock. 
+ The existence of the
+foregoing provisions and anti-takeover measures could limit the price that investors might be willing to pay in the future for shares of our common stock. They could also deter potential acquirers of our company, thereby reducing the likelihood that
+you could receive a premium for your common stock in an acquisition. 
+ Our management is required to devote significant
+time to public company compliance requirements. This may divert managements attention from the growth and operation of the business. 
+ The Sarbanes-Oxley Act of 2002, and rules subsequently implemented by the Securities and Exchange Commission and The NASDAQ Global Select Market, impose a number of requirements on public companies,
+including provisions regarding corporate governance practices. Our management and other personnel devote a significant amount of time to compliance with these requirements. Moreover, these rules and regulations may make some activities
+time-consuming and costly. For example, these rules and regulations may make it more difficult and more expensive for us to obtain director and officer liability insurance, and we may be required to accept reduced policy limits and coverage or incur
+substantial additional costs to maintain the same or similar coverage. These rules and regulations may also make it more difficult for us to attract and retain qualified persons to serve on our board of directors, our board committees or as
+executive officers. 
+ In addition, the Sarbanes-Oxley Act requires, among other things, that we maintain effective internal
+control over financial reporting and disclosure controls and procedures. In particular, we perform system and process evaluation and testing of our internal control over financial reporting to allow management to report on the effectiveness of our
+internal control over financial reporting, as required by Section 404 of the Sarbanes-Oxley 
+ Act. Our testing, or the subsequent testing by our independent registered public accounting firm, may reveal deficiencies in our internal control over financial reporting that are deemed to be
+material weaknesses. Our compliance with Section 404 requires that we expend significant management time on compliance-related issues. Moreover if we or our independent registered public accounting firm identify deficiencies in our internal
+control over financial reporting that are deemed to be material weaknesses, the market price of our common stock could decline and we could be subject to sanctions or investigations by The NASDAQ Global Select Market, the Securities and Exchange
+Commission or other regulatory authorities, which would require additional financial and management resources. 
