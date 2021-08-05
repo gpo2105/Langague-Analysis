@@ -119,9 +119,12 @@ def vs_benchmark(daily_changes,bmrk_id,start_date,end_date):
 
 def filter_decile(df,limit=0.9):
     means=df.abs().mean()
-    idx=means[means>means.quantile(limit)].index
+    idx=means[means>=means.quantile(limit)].index
     return df.loc[idx,idx]
-
+def filter_rank(df,top=25):
+    means=df.abs().mean()
+    idx=means.nlargest(top).index
+    return df.loc[idx,idx]
 def get_sic_des(label):
     link='https://www.osha.gov/sic-manual/{section}'
     r=requests.get(link.format(section=label))
@@ -579,6 +582,12 @@ def collect_text(company,year):
 
 def processing_text(text):
     lemma=WordNetLemmatizer()
+    text=text.lower()
+    new_old=[('third party','third-party'),
+             ('intellectual property','intellectual property')
+            ]
+    for pair in new_old:
+        text=text.replace(pair[0],pair[1])
     tokens=word_tokenize(text)
     tokens=[t for t in tokens if t not in stops]
     tokens=[t.lower() for t in tokens if t.lower() not in stops]
@@ -608,7 +617,7 @@ def stock_all(ticker):
     path=image_path+'Wordclouds/Combined/'
     RDs=collect_texts_stock(ticker)
     text=' '.join(RDs.values())
-    wc=wordcloud.WordCloud()
+    wc=wordcloud.WordCloud(stopwords=stops,random_state=STATE)
     wc.min_word_length=3
     wc.generate_from_text(text.lower())
     fig=plt.subplot()
@@ -634,7 +643,7 @@ def stock_timeline(ticker):
     l=len(RDs)
     if l>1:
         rows,cols=rc_map[l]
-        wc=wordcloud.WordCloud()
+        wc=wordcloud.WordCloud(stopwords=stops,random_state=STATE)
         wc.min_word_length=3
         fig,axes=plt.subplots(ncols=cols,
                               nrows=rows,
@@ -675,7 +684,7 @@ def group_combined(tickers,name):
     path=image_path+'Wordclouds/Combined/'
     corpus=collect_texts_stocks(tickers)
     text=' '.join(corpus.values())
-    wc=wordcloud.WordCloud()
+    wc=wordcloud.WordCloud(stopwords=stops,random_state=STATE)
     wc.min_word_length=3
     wc.generate_from_text(text.lower())
     fig=plt.subplot()
@@ -700,7 +709,7 @@ def group_combined(tickers,name):
     return None
 def group_timeline(tickers,name):
     path=image_path+'Wordclouds/Timeline/'
-    wc=wordcloud.WordCloud()
+    wc=wordcloud.WordCloud(stopwords=stops,random_state=STATE)
     wc.min_word_length=3
     fig,axes=plt.subplots(ncols=5,
                           nrows=2,
@@ -734,7 +743,7 @@ def entire_year(year):
     path=image_path+'Wordclouds/Combined/'
     RDs=collect_texts_year(year)
     text=' '.join(RDs.values())
-    wc=wordcloud.WordCloud()
+    wc=wordcloud.WordCloud(stopwords=stops,random_state=STATE)
     wc.min_word_length=3
     wc.generate_from_text(text.lower())
     fig=plt.subplot()
