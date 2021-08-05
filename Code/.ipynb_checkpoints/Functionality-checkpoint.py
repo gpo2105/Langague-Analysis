@@ -140,7 +140,16 @@ def get_co_desc(ticker):
     with open(path,'w') as f:
         f.writelines([sector,'\n',industry,'\n',des])
     return None
-
+def retrieve_co_info(ticker):
+    path=desc_path+'Cos/'+ticker+'.txt'
+    with open(path,'r') as f:
+        info=f.readlines()
+    return info
+def retrieve_sic_desc(label):
+    path=desc_path+'SICs/'+label+'.txt'
+    with open(path,'r') as f:
+        info=f.readlines()
+    return info
 ######
 def collect_company_RDs_(ticker,cik,methods=False,override=False):
     print(ticker,end=': ')
@@ -571,6 +580,7 @@ def collect_text(company,year):
 def processing_text(text):
     lemma=WordNetLemmatizer()
     tokens=word_tokenize(text)
+    tokens=[t for t in tokens if t not in stops]
     tokens=[t.lower() for t in tokens if t.lower() not in stops]
     tokens=[lemma.lemmatize(t) for t in tokens if t not in stops]
     tokens=[t for t in tokens if t not in stops]
