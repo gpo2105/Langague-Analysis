@@ -500,7 +500,7 @@ def update_groupings():
 
 
 #######
-with open(data_path+'Common_Vocab.txt','r') as f:
+with open(data_path+'/Collections/Common_Vocab.txt','r') as f:
     common_vocab=f.read().splitlines()
              
 stop_words=stopwords.words('english')
